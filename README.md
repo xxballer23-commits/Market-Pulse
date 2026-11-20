@@ -41,6 +41,13 @@ GitHub cron runs on UTC, so during daylight saving time everything lands one hou
 6. **Run it once now.** Go to the Actions tab → Sweep → Run workflow. When that's done, go to Digest → Run workflow → kind `monday` to fill the living pages and write the first edition.
 7. **Share it.** Send your manager the Pages link. To let him request Diligence briefs, add him as a collaborator (Settings → Collaborators).
 
+## Sourcing rules
+
+- Every feed item links to the original publisher, plus any other outlets that covered the same story.
+- Every link Claude writes in a digest or brief is checked against the articles and web search results it actually received. A link that can't be matched is removed and marked "source not verified", and each digest ends with a numbered source list.
+- Watchlist, Benefits, Booking, Dashboard and Calendar entries are only saved when they carry a verified source link.
+- Each digest page lists every item behind it, and the Dashboard links each reading and FRED series to its source.
+
 ## Diligence Desk
 
 Open an issue titled `Vet: Company Name` (the Diligence page has a button that pre-fills it). Within a few minutes the brief appears on the site, the issue gets a link, and it closes. Only the repo owner and collaborators can trigger it, so strangers can't spend your credit on a public repo.
