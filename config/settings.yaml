@@ -34,6 +34,9 @@ collect:
 
 enrich:
   batch_size: 25
+  # Batches tagged at once, and the most items tagged per sweep (the rest wait for the next sweep).
+  parallel: 4
+  max_per_run: 400
   # Items scoring below this are kept in the archive but hidden from the main feed by default.
   min_feed_relevance: 2
 

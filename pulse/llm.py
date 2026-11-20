@@ -17,6 +17,9 @@ MOCK = os.environ.get("PULSE_MOCK") == "1"
 
 _client = None
 
+import threading
+_lock = threading.Lock()
+
 
 def _get_client():
     global _client
@@ -28,6 +31,11 @@ def _get_client():
 
 
 def _log_usage(model: str, usage: Any, searches: int, task: str) -> None:
+    with _lock:
+        _log_usage_unlocked(model, usage, searches, task)
+
+
+def _log_usage_unlocked(model: str, usage: Any, searches: int, task: str) -> None:
     day = config.now_local().strftime("%Y-%m-%d")
     log = store.read_json("usage.json", {"days": {}})
     d = log["days"].setdefault(day, {"input_tokens": 0, "output_tokens": 0,

@@ -61,8 +61,8 @@ def _apply(it: dict, tag: dict, valid: set[str]) -> None:
 def run(limit: int | None = None) -> int:
     pending = [i for i in store.load_recent(8) if not i.get("enriched")]
     pending.sort(key=lambda x: x["published"], reverse=True)
-    if limit:
-        pending = pending[:limit]
+    limit = limit or config.settings()["enrich"].get("max_per_run", 400)
+    pending = pending[:limit]
     if not pending:
         print("[enrich] nothing to tag")
         return 0
@@ -72,9 +72,9 @@ def run(limit: int | None = None) -> int:
               .replace("{companies}", _company_block()))
     valid = set(config.section_ids())
     size = s["enrich"]["batch_size"]
-    done = 0
-    for start in range(0, len(pending), size):
-        batch = pending[start : start + size]
+    batches = [pending[i : i + size] for i in range(0, len(pending), size)]
+
+    def tag(batch: list[dict]) -> int:
         payload = [{"id": i["id"], "title": i["title"], "source": i["source"],
                     "summary": i.get("summary", "")[:300], "hint": i.get("hint")} for i in batch]
         try:
@@ -84,12 +84,18 @@ def run(limit: int | None = None) -> int:
                 task="enrich", max_tokens=6000, mock=lambda b=batch: _mock_tags(b))
         except Exception as e:
             print(f"[enrich] batch failed, will retry next sweep: {e}")
-            continue
+            return 0
         by_id = {t.get("id"): t for t in tags if isinstance(t, dict)}
+        n = 0
         for it in batch:
             if it["id"] in by_id:
                 _apply(it, by_id[it["id"]], valid)
-                done += 1
-        store.save_items(batch)
+                n += 1
+        return n
+
+    from concurrent.futures import ThreadPoolExecutor
+    with ThreadPoolExecutor(max_workers=s["enrich"].get("parallel", 4)) as ex:
+        done = sum(ex.map(tag, batches))
+    store.save_items([i for b in batches for i in b])
     print(f"[enrich] tagged {done}/{len(pending)}")
     return done
