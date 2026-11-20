@@ -1,0 +1,54 @@
+name: Digest
+# Mon 6:40am ET: Monday weekly edition (+ living pages). Tue-Fri 6:40am ET: daily brief.
+# Fri 5:50pm ET: Week in Review.
+on:
+  schedule:
+    - cron: "40 11 * * 1-5"
+    - cron: "50 22 * * 5"
+  workflow_dispatch:
+    inputs:
+      kind:
+        description: "auto, daily, monday or friday"
+        default: auto
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pulse-data
+  cancel-in-progress: false
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Pick digest
+        id: pick
+        env:
+          SCHED: ${{ github.event.schedule }}
+          INPUT_KIND: ${{ github.event.inputs.kind }}
+        run: |
+          kind="${INPUT_KIND:-auto}"
+          if [ "$SCHED" = "50 22 * * 5" ]; then kind=friday; fi
+          case "$kind" in auto|daily|monday|friday) ;; *) echo "bad kind"; exit 1;; esac
+          echo "kind=$kind" >> "$GITHUB_OUTPUT"
+      - name: Write digest
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m pulse digest ${{ steps.pick.outputs.kind }}
+      - name: Commit data
+        run: |
+          git config user.name "market-pulse-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add docs/data
+          git diff --cached --quiet && exit 0
+          git commit -m "data: ${{ steps.pick.outputs.kind }} digest $(date -u +%Y-%m-%d)"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
+          exit 1

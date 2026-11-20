@@ -1,0 +1,88 @@
+# Every source the 3x-daily sweep pulls. All of these are free.
+# A feed that breaks shows up under "Source health" on the site, so it is safe
+# to add feeds you are unsure about and prune the ones that never work.
+#
+# hint: optional section id that nudges tagging (the model still decides).
+
+rss:
+  # Major business news (headlines and summaries only, each item links out)
+  - {name: "WSJ Markets", url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"}
+  - {name: "WSJ US Business", url: "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"}
+  - {name: "WSJ Lifestyle", url: "https://feeds.a.dj.com/rss/RSSLifestyle.xml", hint: luxury}
+  - {name: "CNBC Finance", url: "https://www.cnbc.com/id/10000664/device/rss/rss.html"}
+  - {name: "CNBC Retail", url: "https://www.cnbc.com/id/10000116/device/rss/rss.html"}
+
+  # Payments, banking and fintech trade press
+  - {name: "Payments Dive", url: "https://www.paymentsdive.com/feeds/news/"}
+  - {name: "Banking Dive", url: "https://www.bankingdive.com/feeds/news/"}
+  - {name: "PYMNTS", url: "https://www.pymnts.com/feed/"}
+  - {name: "Finextra", url: "https://www.finextra.com/rss/headlines.aspx"}
+  - {name: "The Financial Brand", url: "https://thefinancialbrand.com/feed/"}
+
+  # Retail and luxury
+  - {name: "Retail Dive", url: "https://www.retaildive.com/feeds/news/"}
+  - {name: "Modern Retail", url: "https://www.modernretail.co/feed/"}
+  - {name: "Robb Report", url: "https://robbreport.com/feed/", hint: luxury}
+  - {name: "Skift", url: "https://skift.com/feed/", hint: luxury}
+  - {name: "Jing Daily", url: "https://jingdaily.com/feed/", hint: luxury}
+
+  # NYC dining
+  - {name: "Eater NY", url: "https://ny.eater.com/rss/index.xml", hint: nyc_dining}
+
+  # Card community (often days ahead of mainstream press on benefit changes)
+  - {name: "Doctor of Credit", url: "https://www.doctorofcredit.com/feed/", hint: community}
+  - {name: "Frequent Miler", url: "https://frequentmiler.com/feed/", hint: community}
+  - {name: "The Points Guy", url: "https://thepointsguy.com/feed/", hint: community}
+  - {name: "One Mile at a Time", url: "https://onemileatatime.com/feed/", hint: community}
+  - {name: "r/CreditCards", url: "https://www.reddit.com/r/CreditCards/top/.rss?t=day", hint: community}
+
+  # Newsletters: subscribe at https://kill-the-newsletter.com to turn an email
+  # newsletter into a feed URL, then add it here, for example:
+  # - {name: "Some Newsletter", url: "https://kill-the-newsletter.com/feeds/xxxx.xml"}
+
+# Google News search feeds. This is the catch-all layer that covers outlets
+# without public feeds (Bloomberg, FT, Business of Fashion, Vogue Business, Reuters...).
+# Each query is limited to the last 2 days automatically.
+google_news:
+  - {q: '"credit card" (Amex OR "American Express") (Platinum OR Centurion OR benefits)', hint: premium_cards}
+  - {q: '"Sapphire Reserve" OR "Chase Sapphire" benefits', hint: premium_cards}
+  - {q: '"Venture X" OR "Capital One" premium card lounge', hint: premium_cards}
+  - {q: 'Citi Strata OR "Citi card" premium benefits', hint: premium_cards}
+  - {q: 'Bilt card OR "Bilt Rewards"', hint: premium_cards}
+  - {q: '"co-brand" credit card partnership', hint: partnerships}
+  - {q: '"invite-only" credit card OR "ultra-premium" card', hint: premium_cards}
+  - {q: 'credit card "annual fee" increase OR refresh', hint: premium_cards}
+  - {q: 'airport lounge credit card new opening', hint: premium_cards}
+  - {q: 'loyalty program "transfer partner"', hint: partnerships}
+  - {q: '"card-linked offers" OR "rewards platform" funding', hint: partnerships}
+  - {q: 'concierge OR "travel booking" startup raises funding', hint: partnerships}
+  - {q: 'luxury spending affluent consumers', hint: luxury}
+  - {q: 'LVMH OR Hermes OR Kering OR Richemont sales', hint: luxury}
+  - {q: 'site:businessoffashion.com luxury', hint: luxury}
+  - {q: 'site:voguebusiness.com', hint: luxury}
+  - {q: 'luxury hotel opening 2026 OR 2027', hint: luxury}
+  - {q: 'Sotheby''s OR Christie''s auction results', hint: spending_data}
+  - {q: 'NYC restaurant reservations hardest table', hint: nyc_dining}
+  - {q: 'New York restaurant opening chef', hint: nyc_dining}
+  - {q: 'credit card delinquencies OR charge-offs consumer credit', hint: spending_data}
+  - {q: 'Citi luxury spending data OR "luxury card spending"', hint: spending_data}
+  - {q: 'Olshan luxury contracts Manhattan', hint: spending_data}
+  - {q: 'personal loans lender partnership OR launch', hint: lending}
+  - {q: 'Affirm OR Klarna OR Afterpay partnership', hint: lending}
+  - {q: '"buy now pay later" card OR bank', hint: lending}
+  - {q: 'CFPB credit card OR "Credit Card Competition Act" OR interchange', hint: regulatory}
+  - {q: '"Wells Fargo" credit card', hint: wells}
+  - {q: '"Wells Fargo" Autograph OR "Active Cash" OR "Wells Fargo Rewards"', hint: wells}
+  - {q: '"Wells Fargo" partnership OR "personal loan"', hint: wells}
+  - {q: 'site:wsj.com credit card OR luxury OR affluent', hint: null}
+  - {q: 'site:bloomberg.com luxury OR "credit card"', hint: null}
+
+# FRED series for the Spending & Credit dashboard (public CSV, no key needed).
+fred:
+  - {id: REVOLSL, label: "Revolving consumer credit", unit: "$B, SA"}
+  - {id: DRCCLACBS, label: "Credit card delinquency rate", unit: "%, SA"}
+  - {id: CORCCACBS, label: "Credit card charge-off rate", unit: "%, SA"}
+  - {id: TERMCBCCALLNS, label: "Avg credit card APR (all accounts)", unit: "%"}
+  - {id: RSXFS, label: "Retail sales ex food service", unit: "$M, SA"}
+  - {id: UMCSENT, label: "Consumer sentiment (U. Michigan)", unit: "index"}
+  - {id: PSAVERT, label: "Personal saving rate", unit: "%"}

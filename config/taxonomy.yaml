@@ -1,0 +1,72 @@
+# Sections drive the tabs on the site and the tags Claude assigns to each article.
+# The description is what the tagging model reads, so be specific.
+
+sections:
+  - id: premium_cards
+    label: "Premium Card Intel"
+    description: >
+      High-fee and invite-only credit cards from Amex, Chase, Capital One, Citi,
+      Bank of America, Bilt, US Bank, Wells Fargo and others: launches, refreshes,
+      annual fee changes, lifestyle and travel benefits, lounges, concierge,
+      issuer-hosted events, co-brand deals and acquisitions in the premium card space.
+  - id: luxury
+    label: "Luxury Trends"
+    description: >
+      What affluent, HNW and UHNW consumers are spending on, booking, buying and
+      talking about: luxury goods and retail, fine dining, entertainment, sporting
+      experiences, lifestyle, luxury travel and hotels, brand moves, collabs, openings.
+  - id: nyc_dining
+    label: "NYC Dining"
+    description: >
+      New York City restaurant openings and closings, chef moves, hard-to-book tables,
+      reservation release windows, walk-in strategy and dining events.
+  - id: partnerships
+    label: "Partnership Radar"
+    description: >
+      Potential card-benefit or loyalty partners: fintechs launching perks, rewards or
+      card-linked offers; merchants, travel or lifestyle brands expanding loyalty;
+      loyalty programs adding transfer partners; notable funding rounds for travel,
+      concierge, subscription bundling or experiences; issuer x brand partnership deals.
+  - id: lending
+    label: "Personal Loans & BNPL"
+    description: >
+      Personal loans, BNPL and pay-over-time, installment features on cards, embedded
+      lending partnerships, lenders like SoFi, Upstart, LendingClub, Affirm, Klarna,
+      and point-of-sale financing.
+  - id: spending_data
+    label: "Spending & Credit Data"
+    description: >
+      Hard numbers on consumer and luxury spending and credit health: card spend data,
+      delinquencies and charge-offs, revolving credit, retail sales, luxury earnings
+      results, auction results, luxury real estate contract data.
+  - id: community
+    label: "Card Community"
+    description: >
+      Reactions and analysis from the points, miles and card enthusiast community:
+      benefit devaluations, new offers, reviews and sentiment on specific cards.
+  - id: regulatory
+    label: "Regulatory"
+    description: >
+      Rules and policy affecting card and lending economics: CFPB, interchange,
+      Credit Card Competition Act, late fee rules, rate caps, BNPL regulation.
+  - id: wells
+    label: "Wells Fargo"
+    description: >
+      Anything about Wells Fargo cards, personal loans, partnerships or the bank's
+      consumer business, including outside coverage and reviews of Wells products.
+
+# Companies we always want recognized and given a company page.
+# Claude also adds new companies it finds; these just make naming consistent.
+watch_companies:
+  issuers: [American Express, Chase, JPMorgan Chase, Capital One, Citi, Bank of America,
+            Bilt, US Bank, Wells Fargo, Discover, Synchrony, Barclays, Goldman Sachs,
+            Robinhood, Apple Card, Cardless, Imprint]
+  networks: [Visa, Mastercard]
+  luxury: [LVMH, Hermes, Kering, Richemont, Chanel, Prada, Tapestry, Capri Holdings,
+           Moncler, Burberry, Ferrari, Sotheby's, Christie's, Phillips]
+  travel_hospitality: [Marriott, Hilton, Hyatt, IHG, Four Seasons, Aman, Rosewood,
+                       Delta, United, American Airlines, Priority Pass, Plaza Premium]
+  dining_experiences: [Resy, OpenTable, Tock, SevenRooms, Dorsia, Blackbird, Live Nation,
+                       Ticketmaster, AXS]
+  lending_bnpl: [Affirm, Klarna, Afterpay, SoFi, Upstart, LendingClub, PayPal]
+  rewards_fintech: [Cardlytics, Rakuten, Bread Financial, Plaid, Stripe, Marqeta]

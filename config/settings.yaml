@@ -1,0 +1,42 @@
+# Market Pulse settings. Edit freely; every run reads this file.
+
+site:
+  title: "Market Pulse"
+  subtitle: "Premium cards, luxury, partnerships and consumer credit"
+  timezone: "America/New_York"
+
+models:
+  # Cheap, fast model for tagging every article.
+  enrich: "claude-haiku-5-5"
+  # Stronger model for written digests, living pages and diligence briefs.
+  writer: "claude-sonnet-5-5"
+
+web_search:
+  # Claude's server-side web search tool. Billed per search, so it is only
+  # used in the Monday edition, the Monday living-page refresh and Vet briefs.
+  tool_type: "web_search_20250305"
+  max_uses:
+    monday_digest: 6
+    living_booking: 5
+    living_dashboard: 5
+    living_calendar: 4
+    vet: 8
+
+collect:
+  # Items older than this (by published date) are ignored on a sweep.
+  max_age_hours: 72
+  # How many days of items the site loads on first paint (older months load on demand).
+  feed_days: 45
+  # Titles this similar (0-1, token overlap) within 7 days are treated as the same story.
+  dedupe_threshold: 0.72
+  request_timeout_seconds: 20
+  user_agent: "MarketPulse/1.0 (+personal research dashboard)"
+
+enrich:
+  batch_size: 25
+  # Items scoring below this are kept in the archive but hidden from the main feed by default.
+  min_feed_relevance: 2
+
+digests:
+  daily_top_n: 8
+  weekly_radar_cap: 8

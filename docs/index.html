@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Market Pulse</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
+<script src="vendor/marked.min.js" defer></script>
+<script src="vendor/purify.min.js" defer></script>
+<script src="app.js" defer></script>
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <a href="#/" class="logo"><span class="pulse-dot" aria-hidden="true"></span>Market Pulse</a>
+    <span class="updated" id="updated"></span>
+  </div>
+  <div class="top-actions">
+    <button class="icon-btn" id="theme" title="Toggle theme" aria-label="Toggle theme">◐</button>
+  </div>
+  <nav class="nav" id="nav">
+    <a href="#/">Today</a>
+    <a href="#/feed">Feed</a>
+    <a href="#/digests">Digests</a>
+    <a href="#/watchlist">Watchlist</a>
+    <a href="#/benefits">Benefits</a>
+    <a href="#/booking">Booking</a>
+    <a href="#/dashboard">Dashboard</a>
+    <a href="#/calendar">Calendar</a>
+    <a href="#/companies">Companies</a>
+    <a href="#/diligence">Diligence</a>
+  </nav>
+</header>
+<main id="app" tabindex="-1"><p class="muted pad">Loading…</p></main>
+<footer class="foot">
+  <a href="#/sources">Sources &amp; usage</a>
+  <span>Headlines link to the original publisher. Summaries and tags are AI-generated; verify before acting.</span>
+</footer>
+<div id="tip" class="tip" role="tooltip" hidden></div>
+</body>
+</html>
