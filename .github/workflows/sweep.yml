@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: "0 11,17,22 * * *"
   workflow_dispatch: {}
+  # Editing this file also starts a sweep (lets a commit trigger a run).
+  push:
+    branches: [main]
+    paths: [".github/triggers/sweep"]
 
 permissions:
   contents: write
@@ -15,7 +19,7 @@ concurrency:
 jobs:
   sweep:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
@@ -27,6 +31,13 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python -m pulse sweep
+      - name: Optional digest right after (push trigger file says daily, monday or friday)
+        if: github.event_name == 'push'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          kind=$(head -c 20 .github/triggers/sweep 2>/dev/null | tr -cd 'a-z')
+          case "$kind" in daily|monday|friday) python -m pulse digest "$kind";; *) echo "sweep only";; esac
       - name: Commit data
         run: |
           git config user.name "market-pulse-bot"

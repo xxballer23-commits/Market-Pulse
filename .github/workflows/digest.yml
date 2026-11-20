@@ -10,6 +10,10 @@ on:
       kind:
         description: "auto, daily, monday or friday"
         default: auto
+  # Editing this file starts a digest; its first word is the kind (auto, daily, monday, friday).
+  push:
+    branches: [main]
+    paths: [".github/triggers/digest"]
 
 permissions:
   contents: write
@@ -36,6 +40,9 @@ jobs:
           INPUT_KIND: ${{ github.event.inputs.kind }}
         run: |
           kind="${INPUT_KIND:-auto}"
+          if [ "${{ github.event_name }}" = "push" ] && [ -f .github/triggers/digest ]; then
+            kind=$(head -c 20 .github/triggers/digest | tr -cd 'a-z' )
+          fi
           if [ "$SCHED" = "50 22 * * 5" ]; then kind=friday; fi
           case "$kind" in auto|daily|monday|friday) ;; *) echo "bad kind"; exit 1;; esac
           echo "kind=$kind" >> "$GITHUB_OUTPUT"
