@@ -50,3 +50,59 @@ def system_with_context(task_prompt: str) -> str:
 def today_line() -> str:
     n = config.now_local()
     return f"Today is {n.strftime('%A, %B %-d, %Y')} ({n.strftime('%Y-%m-%d')}), {n.strftime('%-I:%M %p')} ET."
+
+
+# ---------- source verification ----------
+
+LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)\s]+)\)")
+
+
+def _norm(url: str) -> str:
+    from .collect import norm_url
+    try:
+        return norm_url(url)
+    except Exception:
+        return url
+
+
+def allowed_sources(items: list[dict], web: list[dict] | None = None, extra: list[dict] | None = None) -> dict:
+    """Map of normalized URL -> {url, label} for every link a write-up is allowed to use."""
+    out: dict[str, dict] = {}
+    for i in items:
+        out[_norm(i["url"])] = {"url": i["url"], "label": f"{i['source']}: {i['title']}"}
+        for a in i.get("also") or []:
+            out.setdefault(_norm(a["url"]), {"url": a["url"], "label": f"{a['source']}: {i['title']}"})
+    for w in (web or []) + (extra or []):
+        if w.get("url"):
+            out.setdefault(_norm(w["url"]), {"url": w["url"], "label": w.get("title") or w["url"]})
+    return out
+
+
+def finalize(body: str, allowed: dict, heading: str = "Sources") -> tuple[str, dict]:
+    """Strip links Claude did not actually get from a source, then append a numbered source list.
+
+    Returns (body, stats). A removed link keeps its text and is marked so readers know
+    the claim has no verified source.
+    """
+    used: dict[str, dict] = {}
+    removed = 0
+
+    def sub(m: re.Match) -> str:
+        nonlocal removed
+        text, url = m.group(1), m.group(2)
+        hit = allowed.get(_norm(url))
+        if not hit:
+            removed += 1
+            return f"{text} (source not verified)"
+        used.setdefault(_norm(url), hit)
+        return m.group(0)
+
+    body = LINK_RE.sub(sub, body).rstrip()
+    if used:
+        body += f"\n\n---\n\n**{heading}**\n\n" + "\n".join(
+            f"{n}. [{v['label']}]({v['url']})" for n, v in enumerate(used.values(), 1))
+    return body + "\n", {"sources": len(used), "unverified_links_removed": removed}
+
+
+def has_source(url: str | None, allowed: dict) -> bool:
+    return bool(url) and _norm(url) in allowed

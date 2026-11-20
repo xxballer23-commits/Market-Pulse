@@ -62,7 +62,7 @@ def complete(
     web_search_uses: int = 0,
     mock: Callable[[], str] | None = None,
 ) -> tuple[str, list[dict]]:
-    """Return (text, cited_sources)."""
+    """Return (text, sources). sources = every URL web search returned or cited this call."""
     if MOCK:
         return (mock() if mock else "Mock output."), []
 
@@ -98,12 +98,18 @@ def complete(
         _log_usage(model, resp.usage, searches, task)
 
         for block in resp.content:
+            if block.type == "web_search_tool_result":
+                content = getattr(block, "content", None)
+                for r in content if isinstance(content, list) else []:
+                    url = getattr(r, "url", None)
+                    if url and url not in cited:
+                        cited[url] = {"url": url, "title": getattr(r, "title", "") or url, "kind": "result"}
             if block.type == "text":
                 texts.append(block.text)
                 for c in getattr(block, "citations", None) or []:
                     url = getattr(c, "url", None)
                     if url:
-                        cited[url] = {"url": url, "title": getattr(c, "title", "") or url}
+                        cited[url] = {"url": url, "title": getattr(c, "title", "") or url, "kind": "cited"}
         if resp.stop_reason == "pause_turn":
             messages = [messages[0], {"role": "assistant", "content": resp.content}]
             continue

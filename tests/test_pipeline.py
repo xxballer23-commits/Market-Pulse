@@ -107,6 +107,19 @@ def test_end_to_end():
     print("data dir:", config.DATA_DIR)
 
 
+def test_source_verification():
+    from pulse.common import allowed_sources, finalize
+    items = [{"url": "https://example.com/real?utm_source=x", "source": "Pub", "title": "Real story", "also": []}]
+    web = [{"url": "https://found.example/page", "title": "Found page"}]
+    body = ("- [Real](https://example.com/real) item\n- [Found](https://found.example/page)\n"
+            "- [Made up](https://hallucinated.example/x)")
+    out, stats = finalize(body, allowed_sources(items, web))
+    assert "hallucinated" not in out and "Made up (source not verified)" in out
+    assert stats == {"sources": 2, "unverified_links_removed": 1}
+    assert "1. [Pub: Real story]" in out
+
+
 if __name__ == "__main__":
+    test_source_verification()
     test_end_to_end()
     print("OK")

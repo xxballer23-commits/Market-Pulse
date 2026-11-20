@@ -4,7 +4,7 @@ from __future__ import annotations
 import re
 
 from . import config, llm, store
-from .common import canon_company, item_line, slug, system_with_context, today_line
+from .common import allowed_sources, canon_company, finalize, item_line, slug, system_with_context, today_line
 
 
 def parse_title(title: str) -> str | None:
@@ -30,17 +30,16 @@ def run(company: str, requested_by: str | None = None, issue: int | None = None)
         user=f"{today_line()}\n\nCompany to vet: {company}\n\nWhat our own archive has on them:\n{context}",
         task="vet", max_tokens=4000, web_search_uses=s["web_search"]["max_uses"]["vet"],
         mock=lambda: f"# Part A: Facts\n## Business model\nMock facts for {company}.\n\n# Part B: Analyst take (internal only)\nMock take.")
-    if cites:
-        body += "\n\n---\n**Sources**\n\n" + "\n".join(f"- [{c['title']}]({c['url']})" for c in cites[:30])
+    body, stats = finalize(body, allowed_sources(archive[:30], web=cites))
 
     date = config.now_local().strftime("%Y-%m-%d")
     vid = f"{sl}-{date}"
-    store.write_text(f"vet/{vid}.md", body.strip() + "\n")
+    store.write_text(f"vet/{vid}.md", body)
     idx = store.read_json("vet/index.json", {"entries": []})
     idx["entries"] = [e for e in idx["entries"] if e["id"] != vid]
     entry = {"id": vid, "company": company, "slug": sl, "date": date, "file": f"vet/{vid}.md",
              "requested_by": requested_by, "issue": issue, "archive_items": len(archive),
-             "generated": config.iso(config.now_utc())}
+             "generated": config.iso(config.now_utc()), **stats}
     idx["entries"].insert(0, entry)
     store.write_json("vet/index.json", idx)
     print(f"[vet] wrote {vid}")

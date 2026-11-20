@@ -6,7 +6,7 @@ import json
 from datetime import timedelta
 
 from . import config, living, llm, store
-from .common import items_block, slug, system_with_context, today_line
+from .common import allowed_sources, finalize, items_block, slug, system_with_context, today_line
 
 INDEX = "digests/index.json"
 
@@ -22,25 +22,41 @@ def _index() -> dict:
     return store.read_json(INDEX, {"entries": []})
 
 
+def _living_urls() -> list[dict]:
+    out = []
+    for f, key in (("watchlist", "entries"), ("benefits", "entries"), ("booking", "entries"), ("calendar", "entries")):
+        for e in store.read_json(f"living/{f}.json", {key: []})[key]:
+            if e.get("url"):
+                out.append({"url": e["url"], "title": e.get("name") or e.get("benefit") or e.get("title")})
+            for h in e.get("history") or []:
+                if h.get("url"):
+                    out.append({"url": h["url"], "title": e.get("name")})
+    for d in store.read_json("living/dashboard.json", {"indicators": []})["indicators"]:
+        for r in d.get("readings", []):
+            if r.get("url"):
+                out.append({"url": r["url"], "title": f"{d['label']} ({r['period']})"})
+    return out
+
+
 def _save(kind: str, body: str, items: list[dict], cites: list[dict], title_extra: str = "",
-          quiet: bool = False) -> dict:
+          quiet: bool = False, living: bool = False) -> dict:
     n = config.now_local()
     date = n.strftime("%Y-%m-%d")
     did = f"{date}-{kind}" + (f"-{slug(title_extra)}" if title_extra else "")
     title = f"{TITLES[kind]}{': ' + title_extra if title_extra else ''}, {n.strftime('%a %b %-d')}"
-    if cites:
-        body += "\n\n---\n**Sources found by web search**\n\n" + "\n".join(
-            f"- [{c['title']}]({c['url']})" for c in cites[:25])
-    store.write_text(f"digests/{did}.md", body.strip() + "\n")
+    allowed = allowed_sources(items, web=cites, extra=_living_urls() if living else None)
+    body, stats = finalize(body, allowed)
+    store.write_text(f"digests/{did}.md", body)
     idx = _index()
     idx["entries"] = [e for e in idx["entries"] if e["id"] != did]
     entry = {"id": did, "type": kind, "date": date, "title": title, "file": f"digests/{did}.md",
              "generated": config.iso(config.now_utc()), "item_count": len(items), "quiet": quiet,
-             "item_ids": [i["id"] for i in items][:200]}
+             "item_ids": [i["id"] for i in items][:200], **stats}
     idx["entries"].insert(0, entry)
     idx["entries"].sort(key=lambda e: e["generated"], reverse=True)
     store.write_json(INDEX, idx)
-    print(f"[digest] wrote {did} ({len(items)} items)")
+    print(f"[digest] wrote {did} ({len(items)} items, {stats['sources']} sources, "
+          f"{stats['unverified_links_removed']} unverified links removed)")
     return entry
 
 
@@ -109,7 +125,7 @@ def monday() -> dict:
               f"This week's items ({len(items)}):\n{items_block(items, 160)}"),
         task="digest_monday", max_tokens=5000,
         web_search_uses=s["web_search"]["max_uses"]["monday_digest"], mock=mock)
-    return _save("monday", body, items, cites)
+    return _save("monday", body, items, cites, living=True)
 
 
 def friday() -> dict:
@@ -128,7 +144,7 @@ def friday() -> dict:
         user=(f"{today_line()}\n\nLiving pages snapshot:\n{_living_snapshot()}\n\n"
               f"This week's items ({len(items)}):\n{items_block(items, 140)}"),
         task="digest_friday", max_tokens=2500, mock=mock)
-    return _save("friday", body, items, cites)
+    return _save("friday", body, items, cites, living=True)
 
 
 RECAP_PROMPT = """Write a short earnings recap for {company} ({title}). Focus only on what matters for a card partnerships team: premium and affluent spend trends, card or loyalty program commentary, partnership news, credit quality, and anything said about benefits, travel, dining or luxury demand. 5 to 8 bullets, each with a source link. Use web search to find the results and call commentary. Keep searches generic. If results are not out yet, reply with exactly: NOT_YET"""

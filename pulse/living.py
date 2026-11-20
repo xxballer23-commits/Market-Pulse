@@ -10,7 +10,7 @@ import json
 from datetime import timedelta
 
 from . import config, llm, store
-from .common import canon_company, items_block, slug, system_with_context, today_line
+from .common import allowed_sources, canon_company, has_source, items_block, slug, system_with_context, today_line
 
 INDICATORS = [
     {"id": "citi_luxury_spend", "label": "US luxury credit card spend (Citi)", "unit": "% YoY"},
@@ -55,15 +55,20 @@ def refresh_watchlist() -> None:
                          "status": "emerging", "note": "Seen in this week's items", "url": items[0]["url"]}
                         for c in list(dict.fromkeys(cands))[:3]], "update": []}
 
-    out, _ = llm.complete_json(
+    out, cites = llm.complete_json(
         model=s["models"]["writer"], system=system_with_context(config.prompt("living_watchlist")),
         user=f"{today_line()}\n\nCurrent watchlist:\n{json.dumps(current)}\n\nThis week's items:\n{items_block(items, 120)}",
         task="living_watchlist", max_tokens=3000, mock=mock)
     by_name = {e["name"].lower(): e for e in wl["entries"]}
     today = _today()
+    ok = allowed_sources(items, web=cites)
+    dropped = 0
     for a in out.get("add", []):
         name = canon_company(a.get("name", ""))
         if not name or name.lower() in by_name:
+            continue
+        if not has_source(a.get("url"), ok):
+            dropped += 1
             continue
         e = {"name": name, "slug": slug(name), "category": a.get("category"), "what": a.get("what"),
              "why_fit": a.get("why_fit"), "status": a.get("status", "emerging"), "added": today,
@@ -73,14 +78,15 @@ def refresh_watchlist() -> None:
         by_name[name.lower()] = e
     for u in out.get("update", []):
         e = by_name.get(canon_company(u.get("name", "")).lower())
-        if not e:
+        if not e or not has_source(u.get("url"), ok):
+            dropped += 1 if e else 0
             continue
         e["status"] = u.get("status") or e["status"]
         e["updated"] = today
         e["history"].append({"date": today, "status": e["status"], "note": u.get("note"), "url": u.get("url")})
     wl["updated"] = config.iso(config.now_utc())
     store.write_json("living/watchlist.json", wl)
-    print(f"[living] watchlist: {len(out.get('add', []))} adds, {len(out.get('update', []))} updates")
+    print(f"[living] watchlist: {len(out.get('add', []))} adds, {len(out.get('update', []))} updates, {dropped} dropped (no verified source)")
 
 
 # ---------- competitor benefits ----------
@@ -104,16 +110,21 @@ def refresh_benefits() -> None:
                          "status": "announced", "announced": i["published"][:10], "note": "Mock",
                          "url": i["url"]} for i in items[:2]], "update": []}
 
-    out, _ = llm.complete_json(
+    out, cites = llm.complete_json(
         model=s["models"]["writer"], system=system_with_context(config.prompt("living_benefits")),
         user=f"{today_line()}\n\nCurrent tracker:\n{json.dumps(current)}\n\nThis week's items:\n{items_block(items, 120)}",
         task="living_benefits", max_tokens=3000, mock=mock)
     idx = {_bkey(e): e for e in bt["entries"]}
     today = _today()
+    ok = allowed_sources(items, web=cites)
+    dropped = 0
     for a in out.get("add", []):
         a["issuer"] = canon_company(a.get("issuer") or "")
         k = _bkey(a)
         if not a["issuer"] or k in idx:
+            continue
+        if not has_source(a.get("url"), ok):
+            dropped += 1
             continue
         a["added"] = today
         a["updated"] = today
@@ -122,12 +133,12 @@ def refresh_benefits() -> None:
     for u in out.get("update", []):
         u["issuer"] = canon_company(u.get("issuer") or "")
         e = idx.get(_bkey(u))
-        if e:
+        if e and has_source(u.get("url"), ok):
             e.update({k: v for k, v in u.items() if v})
             e["updated"] = today
     bt["updated"] = config.iso(config.now_utc())
     store.write_json("living/benefits.json", bt)
-    print(f"[living] benefits: {len(out.get('add', []))} adds, {len(out.get('update', []))} updates")
+    print(f"[living] benefits: {len(out.get('add', []))} adds, {len(out.get('update', []))} updates, {dropped} dropped (no verified source)")
 
 
 # ---------- booking windows ----------
@@ -140,15 +151,16 @@ def refresh_booking() -> None:
     def mock():
         return cur["entries"] or [{"name": "Mock Restaurant", "type": "restaurant", "location": "New York",
                                    "window": "Mock window", "next_open": None, "event_date": None,
-                                   "cadence": None, "url": "https://example.com", "note": None}]
+                                   "cadence": None, "url": items[0]["url"] if items else "https://example.com", "note": None}]
 
-    out, _ = llm.complete_json(
+    out, cites = llm.complete_json(
         model=s["models"]["writer"], system=system_with_context(config.prompt("living_booking")),
         user=f"{today_line()}\n\nCurrent list:\n{json.dumps(cur['entries'])}\n\nRecent items:\n{items_block(items, 60)}",
         task="living_booking", max_tokens=5000,
         web_search_uses=s["web_search"]["max_uses"]["living_booking"], mock=mock)
     today = _today()
-    keep = [e for e in out if isinstance(e, dict) and e.get("name")
+    ok = allowed_sources(items, web=cites, extra=[{"url": e.get("url")} for e in cur["entries"]])
+    keep = [e for e in out if isinstance(e, dict) and e.get("name") and has_source(e.get("url"), ok)
             and not (e.get("event_date") and e["event_date"] < today and not e.get("next_open"))]
     store.write_json("living/booking.json", {"updated": config.iso(config.now_utc()), "entries": keep[:30]})
     print(f"[living] booking: {len(keep)} entries")
@@ -170,18 +182,19 @@ def refresh_dashboard() -> None:
     def mock():
         return [{"indicator": "olshan_4m", "period": config.now_local().strftime("%Y-W%V"),
                  "date": _today(), "value": 30 + len(by_id["olshan_4m"]["readings"]),
-                 "display": "Mock reading", "note": "Mock", "url": "https://example.com"}]
+                 "display": "Mock reading", "note": "Mock", "url": items[0]["url"] if items else "https://example.com"}]
 
-    out, _ = llm.complete_json(
+    out, cites = llm.complete_json(
         model=s["models"]["writer"],
         system=system_with_context(config.prompt("living_dashboard").replace("{indicators}", ind_text)),
         user=f"{today_line()}\n\nLatest stored readings:\n{json.dumps(latest)}\n\nRecent items:\n{items_block(items, 60)}",
         task="living_dashboard", max_tokens=3000,
         web_search_uses=s["web_search"]["max_uses"]["living_dashboard"], mock=mock)
     added = 0
+    ok = allowed_sources(items, web=cites)
     for r in out if isinstance(out, list) else []:
         d = by_id.get(r.get("indicator"))
-        if not d or not r.get("period"):
+        if not d or not r.get("period") or not has_source(r.get("url"), ok):
             continue
         if any(x["period"] == r["period"] for x in d["readings"]):
             continue
@@ -209,9 +222,9 @@ def refresh_calendar() -> None:
     def mock():
         return [{"date": (config.now_local() + timedelta(days=10)).strftime("%Y-%m-%d"),
                  "title": "Mock earnings", "type": "earnings", "company": "American Express",
-                 "url": "https://example.com", "confirmed": False}]
+                 "url": items[0]["url"] if items else "https://example.com", "confirmed": False}]
 
-    out, _ = llm.complete_json(
+    out, cites = llm.complete_json(
         model=s["models"]["writer"],
         system=system_with_context(config.prompt("living_calendar").replace("{companies}", CAL_COMPANIES)),
         user=f"{today_line()}\n\nCurrent calendar:\n{json.dumps(cal['entries'])}\n\nRecent items:\n{items_block(items, 40)}",
@@ -220,7 +233,9 @@ def refresh_calendar() -> None:
     today = config.now_local().date()
     past = [e for e in cal["entries"] if e.get("date") and e["date"] < str(today)
             and e["date"] >= str(today - timedelta(days=14))]
-    upcoming = [e for e in out if isinstance(e, dict) and e.get("date") and e["date"] >= str(today)]
+    ok = allowed_sources(items, web=cites, extra=[{"url": e.get("url")} for e in cal["entries"]])
+    upcoming = [e for e in out if isinstance(e, dict) and e.get("date") and e["date"] >= str(today)
+                and has_source(e.get("url"), ok)]
     entries = sorted(past + upcoming, key=lambda e: e["date"])
     store.write_json("living/calendar.json", {"updated": config.iso(config.now_utc()), "entries": entries})
     print(f"[living] calendar: {len(upcoming)} upcoming")

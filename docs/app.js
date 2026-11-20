@@ -266,7 +266,7 @@
       <div class="card"><ul class="digest-list" id="dl"></ul></div>`;
     const draw = (t) => {
       const rows = idx.entries.filter((e) => !t || e.type === t);
-      document.getElementById("dl").innerHTML = rows.length ? rows.map((e) => `<li><div><span class="dtype ${esc(e.type)}">${esc(label[e.type] || e.type)}</span> <a href="#/digest/${esc(e.id)}">${esc(e.title)}</a>${e.quiet ? ' <span class="muted">· quiet</span>' : ""}</div><span class="muted mono">${e.item_count} items</span></li>`).join("") : `<li>${empty("No digests yet.")}</li>`;
+      document.getElementById("dl").innerHTML = rows.length ? rows.map((e) => `<li><div><span class="dtype ${esc(e.type)}">${esc(label[e.type] || e.type)}</span> <a href="#/digest/${esc(e.id)}">${esc(e.title)}</a>${e.quiet ? ' <span class="muted">· quiet</span>' : ""}</div><span class="muted mono">${e.item_count} items${e.sources != null ? ` · ${e.sources} sources` : ""}</span></li>`).join("") : `<li>${empty("No digests yet.")}</li>`;
     };
     document.getElementById("dt").addEventListener("click", (e) => {
       const c = e.target.closest("[data-t]"); if (!c) return;
@@ -284,7 +284,16 @@
     const prev = idx.entries[i + 1], next = idx.entries[i - 1];
     $app.innerHTML = `<div class="page-head"><div><div class="kicker"><a href="#/digests">← Digests</a></div><h1>${esc(e.title)}</h1><p class="muted">Generated ${fmtDate(e.generated, { weekday: "short", month: "short", day: "numeric", hour: "numeric", minute: "2-digit" })} from ${e.item_count} items</p></div>
       <div class="filter-row"><button class="btn ghost" id="copy">Copy text</button>${prev ? `<a class="btn ghost" href="#/digest/${esc(prev.id)}">← Older</a>` : ""}${next ? `<a class="btn ghost" href="#/digest/${esc(next.id)}">Newer →</a>` : ""}</div></div>
-      <article class="card prose">${md(body)}</article>`;
+      <article class="card prose">${md(body)}</article>
+      <div class="card" style="margin-top:16px"><details id="behind"><summary>All ${e.item_count} items behind this digest${e.sources != null ? ` · ${e.sources} sources linked` : ""}${e.unverified_links_removed ? ` · ${e.unverified_links_removed} unverified link${e.unverified_links_removed > 1 ? "s" : ""} removed` : ""}</summary><ul class="items" id="behind-list"><li class="muted">Loading…</li></ul></details>
+      <p class="muted" style="font-size:12.5px;margin:10px 0 0">Every link in a digest is checked against the articles and web search results Claude actually received. Any link that can't be matched is removed and marked "source not verified".</p></div>`;
+    document.getElementById("behind").addEventListener("toggle", async (ev) => {
+      if (!ev.target.open || ev.target.dataset.loaded) return;
+      ev.target.dataset.loaded = "1";
+      const f = await feed(); const want = new Set(e.item_ids || []);
+      const rows = f.filter((i) => want.has(i.id));
+      document.getElementById("behind-list").innerHTML = rows.length ? rows.map((i) => itemHTML(i)).join("") : `<li class="muted">These items are older than the loaded feed window. Use the Feed's "Load older months".</li>`;
+    });
     document.getElementById("copy").addEventListener("click", async (ev) => {
       try { await navigator.clipboard.writeText(body); ev.target.textContent = "Copied"; } catch { ev.target.textContent = "Copy failed"; }
     });
