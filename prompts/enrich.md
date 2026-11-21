@@ -20,7 +20,7 @@ For each item return an object with:
 - benefit_move: true if this is a change to a card benefit, fee, perk, or welcome offer on a premium or co-brand card.
 - benefit_type: if benefit_move, one of lounge, dining, travel, hotel, airline, entertainment, sporting, retail, concierge, credit, fee, offer, other; else null.
 - issuer: if benefit_move, the card issuer (e.g. American Express); else null.
-- confidence: "ok", or "low" when the item is unconfirmed, rumored, targeted, has unknown eligibility or end date, or rests on a thin source.
+- confidence: "ok", or "low" only when the story itself is unconfirmed or rumored, the offer is targeted or has unknown eligibility or end date, or the source is a forum or social post. You only see headlines, so do NOT mark low just because details are not in the headline. Most items are "ok".
 - confidence_reason: if low, a few words naming the weakness (e.g. "Targeted offer, eligibility unknown"); else null.
 - nyc: only for nyc_dining items: {"venue": name or null, "neighborhood": or null, "kind": "opening|closing|chef_move|reservation_intel|event|other", "booking": how or when it books, or null}. Else null.
 - data_points: 0 to 4 key-fact chips: exact numbers, fees, points, percentages or dates stated in the title or summary (e.g. "$895 annual fee", "125k points", "Through Mar 10, 2027"). Never vague, never invented.

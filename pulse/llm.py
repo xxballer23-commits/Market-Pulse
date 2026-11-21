@@ -30,7 +30,7 @@ def _get_client():
             e = RuntimeError("ANTHROPIC_API_KEY is not set. Add it under repo Settings, Secrets and variables, Actions.")
             record_error("setup", e)
             raise e
-        _client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
+        _client = anthropic.Anthropic(timeout=900, max_retries=2)  # reads ANTHROPIC_API_KEY
     return _client
 
 
@@ -96,7 +96,9 @@ def complete(
                 kwargs = dict(model=model, max_tokens=max_tokens, system=system, messages=messages)
                 if tools:
                     kwargs["tools"] = tools
-                resp = client.messages.create(**kwargs)
+                # Stream so long, web-search-heavy writes never hit the non-streaming timeout.
+                with client.messages.stream(**kwargs) as stream:
+                    resp = stream.get_final_message()
                 break
             except Exception as e:  # rate limits / overloads: back off and retry
                 status = getattr(e, "status_code", None)
