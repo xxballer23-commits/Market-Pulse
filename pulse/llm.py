@@ -94,6 +94,9 @@ def complete(
         for attempt in range(4):
             try:
                 kwargs = dict(model=model, max_tokens=max_tokens, system=system, messages=messages)
+                # No extended thinking: output budget goes to the written text, and runs stay fast.
+                if config.settings().get("models", {}).get("disable_thinking", True):
+                    kwargs["thinking"] = {"type": "disabled"}
                 if tools:
                     kwargs["tools"] = tools
                 # Stream so long, web-search-heavy writes never hit the non-streaming timeout.
@@ -129,6 +132,8 @@ def complete(
                     url = getattr(c, "url", None)
                     if url:
                         cited[url] = {"url": url, "title": getattr(c, "title", "") or url, "kind": "cited"}
+        kinds = [b.type for b in resp.content]
+        print(f"[llm] {task}: stop={resp.stop_reason} blocks={kinds.count('text')} text, {kinds.count('server_tool_use')} searches, {kinds.count('thinking')} thinking")
         if resp.stop_reason == "max_tokens":
             print(f"[llm] {task}: hit max_tokens ({max_tokens}); output may be cut off")
             record_error(task, RuntimeError(f"Output hit the {max_tokens} token limit and may be incomplete"))

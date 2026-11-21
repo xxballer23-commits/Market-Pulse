@@ -15,13 +15,15 @@ models:
   enrich: "claude-haiku-5-5"
   # Stronger model for written digests, living pages and diligence briefs.
   writer: "claude-sonnet-5-5"
+  # Turn off extended thinking so the token budget goes to the written output.
+  disable_thinking: true
 
 web_search:
   # Claude's server-side web search tool. Billed per search, so it is only
   # used in the Monday edition, the Monday living-page refresh and Vet briefs.
   tool_type: "web_search_20250305"
   max_uses:
-    monday_digest: 6
+    monday_digest: 4
     living_booking: 5
     living_dashboard: 5
     living_calendar: 4
