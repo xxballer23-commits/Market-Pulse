@@ -129,9 +129,10 @@ def _week_items(days: int = 7, min_rel: int = 3) -> list[dict]:
 
 # ---------- Luxury Trends Briefing ----------
 
-def monday() -> dict:
+def monday(refresh_living: bool = True) -> dict | None:
     s = config.settings()
-    living.run_weekly()
+    if refresh_living:
+        living.run_weekly()
     items = _week_items()
 
     def mock():
@@ -143,8 +144,13 @@ def monday() -> dict:
         model=s["models"]["writer"], system=system_with_context(config.prompt("monday")),
         user=(f"{today_line()}\n\nLiving pages snapshot:\n{_living_snapshot()}\n\n"
               f"This week's items ({len(items)}):\n{items_block(items, 160)}"),
-        task="digest_monday", max_tokens=6000,
+        task="digest_monday", max_tokens=16000,
         web_search_uses=s["web_search"]["max_uses"]["monday_digest"], mock=mock)
+    if len(body.strip()) < 200:
+        llm.record_error("digest_monday", RuntimeError(f"Briefing came back empty or too short ({len(body.strip())} chars); not published"))
+        print("[digest] monday briefing empty, not publishing")
+        radar()
+        return None
     entry = _save("monday", body, items, cites, living=True)
     radar()
     return entry
@@ -165,7 +171,7 @@ def update() -> dict | None:
     body, cites = llm.complete(
         model=s["models"]["writer"], system=system_with_context(config.prompt("update")),
         user=f"{today_line()}\n\nNew high-signal items since the last briefing ({len(items)}):\n{items_block(items, 60)}",
-        task="digest_update", max_tokens=1500, mock=mock)
+        task="digest_update", max_tokens=4000, mock=mock)
     if body.strip().startswith("NOTHING_NEW") or not body.strip():
         print("[digest] briefing update: nothing genuinely new, publishing nothing")
         return None
@@ -255,7 +261,7 @@ def friday() -> dict:
         model=s["models"]["writer"], system=system_with_context(config.prompt("friday")),
         user=(f"{today_line()}\n\nLiving pages snapshot:\n{_living_snapshot()}\n\n"
               f"This week's items ({len(items)}):\n{items_block(items, 140)}"),
-        task="digest_friday", max_tokens=2500, mock=mock)
+        task="digest_friday", max_tokens=6000, mock=mock)
     return _save("friday", body, items, cites, living=True)
 
 

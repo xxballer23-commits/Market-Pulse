@@ -121,7 +121,7 @@ def run(limit: int | None = None) -> int:
             tags, _ = llm.complete_json(
                 model=s["models"]["enrich"], system=system,
                 user="Items:\n" + json.dumps(payload, ensure_ascii=False),
-                task="enrich", max_tokens=6000, mock=lambda b=batch: _mock_tags(b))
+                task="enrich", max_tokens=8000, mock=lambda b=batch: _mock_tags(b))
         except Exception as e:
             print(f"[enrich] batch failed, will retry next sweep: {type(e).__name__}: {e}")
             return 0

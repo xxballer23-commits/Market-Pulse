@@ -127,6 +127,9 @@ def complete(
                     url = getattr(c, "url", None)
                     if url:
                         cited[url] = {"url": url, "title": getattr(c, "title", "") or url, "kind": "cited"}
+        if resp.stop_reason == "max_tokens":
+            print(f"[llm] {task}: hit max_tokens ({max_tokens}); output may be cut off")
+            record_error(task, RuntimeError(f"Output hit the {max_tokens} token limit and may be incomplete"))
         if resp.stop_reason == "pause_turn":
             messages = [messages[0], {"role": "assistant", "content": resp.content}]
             continue

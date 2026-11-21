@@ -38,7 +38,7 @@ collect:
   user_agent: "MarketPulse/1.0 (+personal research dashboard)"
 
 enrich:
-  batch_size: 25
+  batch_size: 10
   # Batches tagged at once, and the most items tagged per sweep (the rest wait for the next sweep).
   parallel: 4
   max_per_run: 400

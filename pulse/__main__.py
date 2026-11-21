@@ -39,7 +39,8 @@ def main(argv: list[str]) -> int:
     elif cmd == "digest":
         kind = rest[0] if rest else "auto"
         {"auto": digest.auto, "daily": digest.weekday, "weekday": digest.weekday, "monday": digest.monday,
-         "friday": digest.friday, "radar": digest.radar, "update": digest.update}[kind]()
+         "friday": digest.friday, "radar": digest.radar, "update": digest.update,
+         "briefing": lambda: digest.monday(refresh_living=False)}[kind]()
         rebuild()
         store.update_manifest(last_digest=config.iso(config.now_utc()))
     elif cmd == "living":
