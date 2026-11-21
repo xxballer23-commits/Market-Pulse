@@ -1,10 +1,10 @@
 {
  "days": {
   "2026-11-20": {
-   "input_tokens": 1616486,
-   "output_tokens": 843537,
+   "input_tokens": 1675128,
+   "output_tokens": 848202,
    "web_searches": 49,
-   "calls": 166,
+   "calls": 167,
    "by_task": {
     "enrich": {
      "calls": 145,
@@ -67,6 +67,13 @@
      "input_tokens": 88112,
      "output_tokens": 4594,
      "web_searches": 8,
+     "model": "claude-sonnet-5-5"
+    },
+    "digest_friday": {
+     "calls": 1,
+     "input_tokens": 58642,
+     "output_tokens": 4665,
+     "web_searches": 0,
      "model": "claude-sonnet-5-5"
     }
    }

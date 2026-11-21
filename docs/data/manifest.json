@@ -57,12 +57,5 @@
   "sources_ok": 50,
   "sources": 53
  },
- "last_digest": "2026-11-21T02:30:37Z",
- "llm_error": {
-  "task": "enrich",
-  "type": "BadRequestError",
-  "status": 400,
-  "message": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '\"thinking.type.between_tools\" is not supported for this model.'}, 'request_id': 'req_011ChFKS6CCJYSUfApJEGj3C'}",
-  "at": "2026-11-21T02:54:23Z"
- }
+ "last_digest": "2026-11-21T03:33:55Z"
 }
