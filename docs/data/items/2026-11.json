@@ -244,6 +244,20 @@
   "enrich_v": 2
  },
  {
+  "id": "f71886e0aeb8",
+  "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaGJVT0RvbkNlZk9iYjVGMjBWQklMS2gyakJvdEN3UTJlMnB0dUhsYXpsRzlsdXJMamd0SlRzUmpLYlRpLTBuT05zN1RQQzdKMVQ2V2ZzWE1uX3pFTXJOUjlnSC0tc2QxdEUwS1ZoaENobm9qZDBaNk9GZFVJUlZCTEFtX3JTYkRFWjlvZGZtSGhXUm0xLUxtRlJxWXQ3WlFl?oc=5",
+  "title": "California Jury Convicts Man of Starting Deadly Palisades Fire",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-21T01:13:00Z",
+  "fetched": "2026-11-21T02:49:56Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "b37e80f042e4",
   "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/paypo-taps-citigroup-and-jpmorgan-for-possible-warsaw-ipo/",
   "title": "PayPo Taps Citigroup and JPMorgan for Possible Warsaw IPO",
@@ -22113,6 +22127,20 @@
   "enrich_v": 2
  },
  {
+  "id": "2c1eac76f656",
+  "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONG85WGtqb2JKY1c5b0FXNHVQMGZNbWhuTzlYV2tQd0h0TEZJc3NBRll1cUU3ZFV6TjFpeW1pLTgzbzJuS3M0SDgwMHZXc3NkcFBMdk83dEtqMWVYRGJEZk5meXpDLWtBUlAzSnV2ZjFWbFdKNGZ3OFRyd3YyYUE0enAwX0w4NGppb2x6OU1RTG44cEZXRnBTdU43N3RPeEhZZjdtRkE3ZExCLWYwRDN3M0QwYllYbnNOaWZZeG5KcFB3U3V0U3B2czFlM0pZV193TUdyblhn?oc=5",
+  "title": "Chanel Fixed-term contract - Fashion Advisor - Milano Montenapoleone - December 2026 - M/F/D",
+  "source": "The Business of Fashion",
+  "via": "Google News: site:businessoffashion.com luxury",
+  "source_type": "gnews",
+  "published": "2026-11-19T14:33:13Z",
+  "fetched": "2026-11-21T02:49:55Z",
+  "summary": "",
+  "hint": "luxury",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "9b23ffb93d42",
   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNb0diQmhsYTNGbWRBTnNjclBOYmE4MURVSzZ3WmN5MXN3bmtSRFFXVG5TYWdGa3hVY3JlNUh1YXVlNzVqOG9WRXlWT2w5YmhSNVdXUHpNMkFrUGVLUWdrQ0V3MTAwRzZ4MnZaOGdXMy1FeldpN0FCY0RKN1AzRjlnd2hfTmliTGMw?oc=5",
   "title": "Anthropic Pushes the Reset Button for AI",
@@ -23247,6 +23275,20 @@
   "data_points": [],
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "3f3a66d77854",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWGpPbGQ4X09PTDBweGtDLXNrLVdyVGdsa2VfR2k5SktwTXJCb0JPdEZhdmsxY1pmSXBjVVdJWG1EeDlRQW8xZnlNM1FvNnFTbFhqQ3lydnJYdlEwWjFZdG13V192U01BN0pTYWNqcDVxWV9panBVQTZGY0dVWHNGN3J3U29jV29mcm1MTFZ6YWZpS29PWWxycUlJcw?oc=5",
+  "title": "National Wealth Fund and Matrix Renewables announce major Scotland battery storage partnership",
+  "source": "Yahoo Finance",
+  "via": "Google News: personal loans lender partnership OR launch",
+  "source_type": "gnews",
+  "published": "2026-11-19T13:10:00Z",
+  "fetched": "2026-11-21T02:49:55Z",
+  "summary": "",
+  "hint": "lending",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "bd0194a546c0",
