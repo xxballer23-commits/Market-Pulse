@@ -47,11 +47,18 @@
   "subtitle": "Premium cards, luxury, partnerships and consumer credit",
   "timezone": "America/New_York"
  },
- "last_sweep": "2026-11-21T00:13:11Z",
+ "last_sweep": "2026-11-21T00:18:13Z",
  "last_sweep_stats": {
-  "new": 704,
-  "merged": 9,
+  "new": 19,
+  "merged": 1,
   "sources_ok": 50,
   "sources": 53
+ },
+ "llm_error": {
+  "task": "setup",
+  "type": "RuntimeError",
+  "status": null,
+  "message": "ANTHROPIC_API_KEY is not set. Add it under repo Settings, Secrets and variables, Actions.",
+  "at": "2026-11-21T00:18:13Z"
  }
 }
