@@ -25,7 +25,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "WWD",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd01PRHBmUzBnNnYtQ1JwcGFVQms1RFpBRnJERFJnX0QzYXAxRHA5SGR4ZUp4cHN5UXluMjAxekpjRmRodVRFMkRtX3RaUlRxNHE5V216S3BUVWQ4dmlOa3VRbHJZR0JVNUFkR29xRG94U2poQ3FvYmNPZC0wT2VaVzVyRlBxYjhmWkJmSnJndDlOX2ota19LUUV4bHBNbXdfV05idg?oc=5"
+    }
+   ]
   }
  ]
 }

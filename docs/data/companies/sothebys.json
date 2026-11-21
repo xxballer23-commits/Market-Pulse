@@ -78,7 +78,12 @@
    "data_points": [
     "$190.4 million sale price"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "Global News",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3QyYy1MVkkwWjFleU1wN3JmR3hzX3Nnamd6RkVieHpfM1lxRlVJTnVqb0N3Z2FtTXRwdG9KLXVBYklrZE5jTkxqZ2FkUlIyS0R5TExFVlVFU1dXOGNUeDFrdGh6YWtBZnZGSTdiMlo4Sko2YWJyZG9aXzhyVEJQQ1g5OW1TU09CUmxzNXk2Z1I4STJEaGVSbHF4T2E5OXZD?oc=5"
+    }
+   ]
   },
   {
    "id": "98704a2718a6",

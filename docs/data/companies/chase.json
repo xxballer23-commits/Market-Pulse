@@ -237,7 +237,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "PCMag",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYXJyRzR1MWFjSzFCTm1RNWNiOXVtdWhSaXFkdW9mai1PejNuZ1FxQU0tOEQtWGJ2aDRfQU9Ndk9henZ0bEpfX0JDTjBCUnBIWjN2XzBfQ1ZDV0UwZFRnd1pET0pqNm9IUFFFRm1UOFZMSlQ5M1pjTUlGSWYyM0ZHMEpFbWNqNkhRaTVLaEYtY1NYeHZNVWRqQkxCRG9zRWNEUmc?oc=5"
+    }
+   ]
   },
   {
    "id": "2c1a8ef5788e",

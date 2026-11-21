@@ -73,7 +73,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Yahoo Finance Singapore",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QRTA3V2QtZzV1T2lEWTIwcEwyRjc2RUxFMTVCNU0yUkFPWmVUeFVEUV9YSnhXaDVvTjc3UUJQRWd0SjRoMGZGR2FfMTBkUGRPUjZhWUw2cnJpcGZMU1VZNjQ0ekFya0w3NG02UG95TmluMENJeW91MXN3ZUhkWEE?oc=5"
+    }
+   ]
   },
   {
    "id": "cafeef6427da",
