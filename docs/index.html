@@ -1,21 +1,29 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-palette="editorial">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#d71e28">
+<meta name="theme-color" content="#f6f1e7">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Market Pulse">
 <title>Market Pulse</title>
 <meta name="robots" content="noindex, nofollow">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="styles.css?v=1795221197">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css?v=3">
+<script>
+  // Apply saved theme before paint (palette: editorial | bank; mode: light | dark).
+  try {
+    var p = localStorage.getItem("mp-palette"), m = localStorage.getItem("mp-theme");
+    if (p) document.documentElement.dataset.palette = p;
+    if (m) document.documentElement.dataset.theme = m;
+  } catch (e) {}
+</script>
 <script src="vendor/marked.min.js" defer></script>
 <script src="vendor/purify.min.js" defer></script>
-<script src="app.js?v=1795221197" defer></script>
+<script src="app.js?v=3" defer></script>
 </head>
 <body>
 <header class="top">
@@ -24,26 +32,34 @@
     <span class="updated" id="updated"></span>
   </div>
   <div class="top-actions">
-    <button class="icon-btn" id="theme" title="Toggle theme" aria-label="Toggle theme">◐</button>
+    <button class="icon-btn" id="theme" title="Light or dark" aria-label="Toggle light or dark">◐</button>
   </div>
   <nav class="nav" id="nav">
     <a href="#/">Today</a>
-    <a href="#/feed">Feed</a>
-    <a href="#/digests">Digests</a>
+    <a href="#/luxury">Luxury</a>
+    <a href="#/nyc">NYC Dining</a>
+    <a href="#/booking">Booking Windows</a>
+    <a href="#/spending">Spending Dashboard</a>
+    <a href="#/radar">Radar</a>
     <a href="#/watchlist">Watchlist</a>
-    <a href="#/benefits">Benefits</a>
-    <a href="#/booking">Booking</a>
-    <a href="#/dashboard">Dashboard</a>
-    <a href="#/calendar">Calendar</a>
-    <a href="#/companies">Companies</a>
     <a href="#/diligence">Diligence</a>
+    <a href="#/feed">Feed / Archive</a>
+    <a href="#/companies">Companies</a>
   </nav>
 </header>
 <main id="app" tabindex="-1"><p class="muted pad">Loading…</p></main>
 <footer class="foot">
-  <a href="#/sources">Sources &amp; usage</a>
-  <span>Headlines link to the original publisher. Summaries and tags are AI-generated; verify before acting.</span>
-  <span class="indep">Independent research tool. Not an official Wells Fargo site.</span>
+  <div class="foot-row">
+    <strong>Independent research tool. Not an official Wells Fargo site.</strong>
+    <span>Headlines link to the original publisher. Summaries and tags are AI-generated, verify before acting. Public news only.</span>
+  </div>
+  <div class="foot-row">
+    <a href="#/sources">Sources &amp; usage</a>
+    <span class="palette-pick">Theme:
+      <button data-palette="editorial">Editorial</button>
+      <button data-palette="bank">Bank red (alternative)</button>
+    </span>
+  </div>
 </footer>
 <div id="tip" class="tip" role="tooltip" hidden></div>
 </body>

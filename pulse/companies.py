@@ -34,13 +34,16 @@ def run() -> None:
             "count_30d": sum(1 for i in its if i["published"] >= cutoff),
             "first_seen": its[-1]["published"], "last_seen": its[0]["published"],
             "sections": dict(secs.most_common(4)),
+            "top_relevance": max((i.get("relevance") or 0) for i in its),
+            "latest_summary": next((i.get("summary_ai") or i.get("why") for i in its if i.get("summary_ai") or i.get("why")), None),
             "watch_status": wl.get(name.lower(), {}).get("status"),
             "has_vet": bool(vet_by.get(s)),
         })
         store.write_json(f"companies/{s}.json", {
             "name": name, "slug": s, "watch": wl.get(name.lower()), "vets": vet_by.get(s, []),
-            "items": [{k: i.get(k) for k in ("id", "title", "url", "source", "published", "relevance",
-                                              "why", "sections", "breaking", "data_points")}
+            "items": [{k: i.get(k) for k in ("id", "title", "url", "source", "source_type", "published", "relevance",
+                                              "why", "summary_ai", "take", "take_kind", "partner", "benefit_move",
+                                              "benefit_type", "low_confidence", "sections", "breaking", "data_points", "also")}
                       for i in its[:300]],
         })
     rows.sort(key=lambda r: (r["count_30d"], r["count"]), reverse=True)
