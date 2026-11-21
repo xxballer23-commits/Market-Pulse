@@ -1,0 +1,57 @@
+{
+ "months": [
+  "2026-11"
+ ],
+ "feed_days": 45,
+ "feed_count": 0,
+ "sections": [
+  {
+   "id": "premium_cards",
+   "label": "Premium Card Intel"
+  },
+  {
+   "id": "luxury",
+   "label": "Luxury Trends"
+  },
+  {
+   "id": "nyc_dining",
+   "label": "NYC Dining"
+  },
+  {
+   "id": "partnerships",
+   "label": "Partnership Radar"
+  },
+  {
+   "id": "lending",
+   "label": "Personal Loans & BNPL"
+  },
+  {
+   "id": "spending_data",
+   "label": "Spending & Credit Data"
+  },
+  {
+   "id": "community",
+   "label": "Card Community"
+  },
+  {
+   "id": "regulatory",
+   "label": "Regulatory"
+  },
+  {
+   "id": "wells",
+   "label": "Wells Fargo"
+  }
+ ],
+ "site": {
+  "title": "Market Pulse",
+  "subtitle": "Premium cards, luxury, partnerships and consumer credit",
+  "timezone": "America/New_York"
+ },
+ "last_sweep": "2026-11-21T00:13:11Z",
+ "last_sweep_stats": {
+  "new": 704,
+  "merged": 9,
+  "sources_ok": 50,
+  "sources": 53
+ }
+}

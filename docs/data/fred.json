@@ -1,0 +1,54 @@
+{
+ "updated": "2026-11-21T00:13:11Z",
+ "series": [
+  {
+   "id": "REVOLSL",
+   "label": "Revolving consumer credit",
+   "unit": "$B, SA",
+   "points": [],
+   "ok": false
+  },
+  {
+   "id": "DRCCLACBS",
+   "label": "Credit card delinquency rate",
+   "unit": "%, SA",
+   "points": [],
+   "ok": false
+  },
+  {
+   "id": "CORCCACBS",
+   "label": "Credit card charge-off rate",
+   "unit": "%, SA",
+   "points": [],
+   "ok": false
+  },
+  {
+   "id": "TERMCBCCALLNS",
+   "label": "Avg credit card APR (all accounts)",
+   "unit": "%",
+   "points": [],
+   "ok": false
+  },
+  {
+   "id": "RSXFS",
+   "label": "Retail sales ex food service",
+   "unit": "$M, SA",
+   "points": [],
+   "ok": false
+  },
+  {
+   "id": "UMCSENT",
+   "label": "Consumer sentiment (U. Michigan)",
+   "unit": "index",
+   "points": [],
+   "ok": false
+  },
+  {
+   "id": "PSAVERT",
+   "label": "Personal saving rate",
+   "unit": "%",
+   "points": [],
+   "ok": false
+  }
+ ]
+}

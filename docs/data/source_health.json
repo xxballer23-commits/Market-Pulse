@@ -1,0 +1,535 @@
+{
+ "checked": "2026-11-21T00:04:59Z",
+ "sources": [
+  {
+   "name": "WSJ Markets",
+   "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",
+   "type": "rss",
+   "ok": true,
+   "count": 0,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "WSJ US Business",
+   "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml",
+   "type": "rss",
+   "ok": true,
+   "count": 0,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "WSJ Lifestyle",
+   "url": "https://feeds.a.dj.com/rss/RSSLifestyle.xml",
+   "type": "rss",
+   "ok": true,
+   "count": 0,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "CNBC Finance",
+   "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
+   "type": "rss",
+   "ok": true,
+   "count": 12,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "CNBC Retail",
+   "url": "https://www.cnbc.com/id/10000116/device/rss/rss.html",
+   "type": "rss",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Payments Dive",
+   "url": "https://www.paymentsdive.com/feeds/news/",
+   "type": "rss",
+   "ok": true,
+   "count": 7,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Banking Dive",
+   "url": "https://www.bankingdive.com/feeds/news/",
+   "type": "rss",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "PYMNTS",
+   "url": "https://www.pymnts.com/feed/",
+   "type": "rss",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Finextra",
+   "url": "https://www.finextra.com/rss/headlines.aspx",
+   "type": "rss",
+   "ok": true,
+   "count": 40,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "The Financial Brand",
+   "url": "https://thefinancialbrand.com/feed/",
+   "type": "rss",
+   "ok": false,
+   "count": 0,
+   "error": "ValueError: unparseable feed: <unknown>:35:46: not well-formed (invalid token)",
+   "last_ok": null,
+   "fail_streak": 1
+  },
+  {
+   "name": "Retail Dive",
+   "url": "https://www.retaildive.com/feeds/news/",
+   "type": "rss",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Modern Retail",
+   "url": "https://www.modernretail.co/feed/",
+   "type": "rss",
+   "ok": true,
+   "count": 6,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Robb Report",
+   "url": "https://robbreport.com/feed/",
+   "type": "rss",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Skift",
+   "url": "https://skift.com/feed/",
+   "type": "rss",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Jing Daily",
+   "url": "https://jingdaily.com/feed/",
+   "type": "rss",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://jingdaily.com/feed",
+   "last_ok": null,
+   "fail_streak": 1
+  },
+  {
+   "name": "Eater NY",
+   "url": "https://ny.eater.com/rss/index.xml",
+   "type": "rss",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Doctor of Credit",
+   "url": "https://www.doctorofcredit.com/feed/",
+   "type": "rss",
+   "ok": true,
+   "count": 15,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Frequent Miler",
+   "url": "https://frequentmiler.com/feed/",
+   "type": "rss",
+   "ok": true,
+   "count": 20,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "The Points Guy",
+   "url": "https://thepointsguy.com/feed/",
+   "type": "rss",
+   "ok": true,
+   "count": 20,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "One Mile at a Time",
+   "url": "https://onemileatatime.com/feed/",
+   "type": "rss",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "r/CreditCards",
+   "url": "https://www.reddit.com/r/CreditCards/top/.rss?t=day",
+   "type": "rss",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 404 Client Error: Not Found for url: https://www.reddit.com/r/CreditCards/top/.rss?t=day",
+   "last_ok": null,
+   "fail_streak": 1
+  },
+  {
+   "name": "Google News: \"credit card\" (Amex OR \"American Express\") (Platinum OR Cent",
+   "url": "https://news.google.com/rss/search?q=%22credit+card%22+%28Amex+OR+%22American+Express%22%29+%28Platinum+OR+Centurion+OR+benefits%29+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 29,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"Sapphire Reserve\" OR \"Chase Sapphire\" benefits",
+   "url": "https://news.google.com/rss/search?q=%22Sapphire+Reserve%22+OR+%22Chase+Sapphire%22+benefits+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 2,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"Venture X\" OR \"Capital One\" premium card lounge",
+   "url": "https://news.google.com/rss/search?q=%22Venture+X%22+OR+%22Capital+One%22+premium+card+lounge+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: Citi Strata OR \"Citi card\" premium benefits",
+   "url": "https://news.google.com/rss/search?q=Citi+Strata+OR+%22Citi+card%22+premium+benefits+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 2,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: Bilt card OR \"Bilt Rewards\"",
+   "url": "https://news.google.com/rss/search?q=Bilt+card+OR+%22Bilt+Rewards%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 14,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"co-brand\" credit card partnership",
+   "url": "https://news.google.com/rss/search?q=%22co-brand%22+credit+card+partnership+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 6,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"invite-only\" credit card OR \"ultra-premium\" card",
+   "url": "https://news.google.com/rss/search?q=%22invite-only%22+credit+card+OR+%22ultra-premium%22+card+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 5,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: credit card \"annual fee\" increase OR refresh",
+   "url": "https://news.google.com/rss/search?q=credit+card+%22annual+fee%22+increase+OR+refresh+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 9,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: airport lounge credit card new opening",
+   "url": "https://news.google.com/rss/search?q=airport+lounge+credit+card+new+opening+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 28,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: loyalty program \"transfer partner\"",
+   "url": "https://news.google.com/rss/search?q=loyalty+program+%22transfer+partner%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 9,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"card-linked offers\" OR \"rewards platform\" funding",
+   "url": "https://news.google.com/rss/search?q=%22card-linked+offers%22+OR+%22rewards+platform%22+funding+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 2,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: concierge OR \"travel booking\" startup raises funding",
+   "url": "https://news.google.com/rss/search?q=concierge+OR+%22travel+booking%22+startup+raises+funding+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 1,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: luxury spending affluent consumers",
+   "url": "https://news.google.com/rss/search?q=luxury+spending+affluent+consumers+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 6,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: LVMH OR Hermes OR Kering OR Richemont sales",
+   "url": "https://news.google.com/rss/search?q=LVMH+OR+Hermes+OR+Kering+OR+Richemont+sales+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: site:businessoffashion.com luxury",
+   "url": "https://news.google.com/rss/search?q=site%3Abusinessoffashion.com+luxury+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 31,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: site:voguebusiness.com",
+   "url": "https://news.google.com/rss/search?q=site%3Avoguebusiness.com+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 19,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: luxury hotel opening 2026 OR 2027",
+   "url": "https://news.google.com/rss/search?q=luxury+hotel+opening+2026+OR+2027+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 31,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: Sotheby's OR Christie's auction results",
+   "url": "https://news.google.com/rss/search?q=Sotheby%27s+OR+Christie%27s+auction+results+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 25,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: NYC restaurant reservations hardest table",
+   "url": "https://news.google.com/rss/search?q=NYC+restaurant+reservations+hardest+table+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 2,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: New York restaurant opening chef",
+   "url": "https://news.google.com/rss/search?q=New+York+restaurant+opening+chef+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 29,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: credit card delinquencies OR charge-offs consumer credit",
+   "url": "https://news.google.com/rss/search?q=credit+card+delinquencies+OR+charge-offs+consumer+credit+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 17,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: Citi luxury spending data OR \"luxury card spending\"",
+   "url": "https://news.google.com/rss/search?q=Citi+luxury+spending+data+OR+%22luxury+card+spending%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 0,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: Olshan luxury contracts Manhattan",
+   "url": "https://news.google.com/rss/search?q=Olshan+luxury+contracts+Manhattan+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 0,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: personal loans lender partnership OR launch",
+   "url": "https://news.google.com/rss/search?q=personal+loans+lender+partnership+OR+launch+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 13,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: Affirm OR Klarna OR Afterpay partnership",
+   "url": "https://news.google.com/rss/search?q=Affirm+OR+Klarna+OR+Afterpay+partnership+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 24,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"buy now pay later\" card OR bank",
+   "url": "https://news.google.com/rss/search?q=%22buy+now+pay+later%22+card+OR+bank+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 44,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: CFPB credit card OR \"Credit Card Competition Act\" OR interch",
+   "url": "https://news.google.com/rss/search?q=CFPB+credit+card+OR+%22Credit+Card+Competition+Act%22+OR+interchange+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 5,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"Wells Fargo\" credit card",
+   "url": "https://news.google.com/rss/search?q=%22Wells+Fargo%22+credit+card+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 28,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"Wells Fargo\" Autograph OR \"Active Cash\" OR \"Wells Fargo Rew",
+   "url": "https://news.google.com/rss/search?q=%22Wells+Fargo%22+Autograph+OR+%22Active+Cash%22+OR+%22Wells+Fargo+Rewards%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 10,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: \"Wells Fargo\" partnership OR \"personal loan\"",
+   "url": "https://news.google.com/rss/search?q=%22Wells+Fargo%22+partnership+OR+%22personal+loan%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 16,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: site:wsj.com credit card OR luxury OR affluent",
+   "url": "https://news.google.com/rss/search?q=site%3Awsj.com+credit+card+OR+luxury+OR+affluent+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 60,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  },
+  {
+   "name": "Google News: site:bloomberg.com luxury OR \"credit card\"",
+   "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com+luxury+OR+%22credit+card%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
+   "type": "gnews",
+   "ok": true,
+   "count": 59,
+   "error": null,
+   "last_ok": "2026-11-21T00:04:59Z",
+   "fail_streak": 0
+  }
+ ]
+}
