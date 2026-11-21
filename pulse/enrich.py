@@ -83,7 +83,7 @@ def run(limit: int | None = None) -> int:
                 user="Items:\n" + json.dumps(payload, ensure_ascii=False),
                 task="enrich", max_tokens=6000, mock=lambda b=batch: _mock_tags(b))
         except Exception as e:
-            print(f"[enrich] batch failed, will retry next sweep: {e}")
+            print(f"[enrich] batch failed, will retry next sweep: {type(e).__name__}: {e}")
             return 0
         by_id = {t.get("id"): t for t in tags if isinstance(t, dict)}
         n = 0

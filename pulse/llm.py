@@ -26,6 +26,10 @@ def _get_client():
     if _client is None:
         import anthropic
 
+        if not os.environ.get("ANTHROPIC_API_KEY"):
+            e = RuntimeError("ANTHROPIC_API_KEY is not set. Add it under repo Settings, Secrets and variables, Actions.")
+            record_error("setup", e)
+            raise e
         _client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY
     return _client
 
@@ -95,7 +99,10 @@ def complete(
                 resp = client.messages.create(**kwargs)
                 break
             except Exception as e:  # rate limits / overloads: back off and retry
-                if attempt == 3:
+                status = getattr(e, "status_code", None)
+                fatal = status is not None and 400 <= status < 500 and status not in (408, 409, 429)
+                if fatal or attempt == 3 or type(e).__name__ in ("AuthenticationError", "PermissionDeniedError"):
+                    record_error(task, e)
                     raise
                 print(f"[llm] {task}: {type(e).__name__}: {e}; retrying")
                 time.sleep(5 * (attempt + 1) ** 2)
@@ -104,6 +111,8 @@ def complete(
         if stu is not None:
             searches = getattr(stu, "web_search_requests", 0) or 0
         _log_usage(model, resp.usage, searches, task)
+        if not MOCK:
+            clear_error()
 
         for block in resp.content:
             if block.type == "web_search_tool_result":
@@ -123,6 +132,25 @@ def complete(
             continue
         break
     return "".join(texts).strip(), list(cited.values())
+
+
+def record_error(task: str, e: Exception) -> None:
+    """Save the latest API error so it shows on the site's Sources page (no log digging needed)."""
+    msg = str(e)
+    key = os.environ.get("ANTHROPIC_API_KEY") or ""
+    if key:
+        msg = msg.replace(key, "***")
+    with _lock:
+        store.update_manifest(llm_error={"task": task, "type": type(e).__name__,
+                                         "status": getattr(e, "status_code", None),
+                                         "message": msg[:400], "at": config.iso(config.now_utc())})
+
+
+def clear_error() -> None:
+    with _lock:
+        m = store.read_json("manifest.json", {})
+        if m.pop("llm_error", None) is not None:
+            store.write_json("manifest.json", m)
 
 
 def _extract_json(text: str) -> Any:

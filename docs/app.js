@@ -476,7 +476,9 @@
     const days = Object.entries(u.days || {}).sort().reverse();
     const month = new Date().toISOString().slice(0, 7);
     const mtd = days.filter(([d]) => d.startsWith(month)).reduce((o, [, v]) => ({ i: o.i + v.input_tokens, o: o.o + v.output_tokens, w: o.w + v.web_searches, c: o.c + v.calls }), { i: 0, o: 0, w: 0, c: 0 });
-    $app.innerHTML = `<div class="page-head"><div><h1>Sources &amp; Usage</h1><p>Feed health from the last sweep and Claude API usage. Add or remove sources in <span class="mono">config/sources.yaml</span>.</p></div></div>
+    const m = await manifest();
+    const err = m.llm_error ? `<div class="breaking" style="margin-bottom:16px"><div class="kicker">Claude API error · ${ago(m.llm_error.at)}</div><p style="margin:6px 0 0"><b>${esc(m.llm_error.type)}${m.llm_error.status ? " (" + esc(m.llm_error.status) + ")" : ""}</b> during ${esc(m.llm_error.task)}: ${esc(m.llm_error.message)}</p></div>` : "";
+    $app.innerHTML = err + `<div class="page-head"><div><h1>Sources &amp; Usage</h1><p>Feed health from the last sweep and Claude API usage. Add or remove sources in <span class="mono">config/sources.yaml</span>.</p></div></div>
       <div class="stats"><div class="stat"><div class="kicker">Sources ok</div><div class="v">${rows.filter((r) => r.ok).length}/${rows.length}</div><div class="s">${h.checked ? "checked " + ago(h.checked) : ""}</div></div>
         <div class="stat"><div class="kicker">API calls this month</div><div class="v">${mtd.c}</div></div>
         <div class="stat"><div class="kicker">Tokens this month</div><div class="v">${fmtNum(mtd.i + mtd.o)}</div><div class="s">${fmtNum(mtd.i)} in · ${fmtNum(mtd.o)} out</div></div>
