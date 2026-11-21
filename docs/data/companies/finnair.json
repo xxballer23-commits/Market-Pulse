@@ -12,19 +12,19 @@
    "source_type": "rss",
    "published": "2026-11-19T23:57:41Z",
    "relevance": 1,
-   "why": "Airline diversity publicity stunt with no card benefit or partnership implication.",
-   "summary_ai": null,
+   "why": "Finnair marked International Men's Day with a flight staffed by an all-male crew.",
+   "summary_ai": "Finnair marked International Men's Day with a flight staffed by an all-male crew.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
-   "breaking": false,
-   "data_points": [
-    "Only around 10% of Finnair cabin crew are men"
+   "sections": [
+    "luxury"
    ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

@@ -12,15 +12,17 @@
    "source_type": "gnews",
    "published": "2026-11-19T22:40:37Z",
    "relevance": 1,
-   "why": "Retail job posting at a luxury group with no partnership or spending intelligence.",
-   "summary_ai": null,
+   "why": "Kering's careers page lists a temporary sales assistant role at a Balenciaga store, a routine hiring post.",
+   "summary_ai": "Kering's careers page lists a temporary sales assistant role at a Balenciaga store, a routine hiring post.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "luxury"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

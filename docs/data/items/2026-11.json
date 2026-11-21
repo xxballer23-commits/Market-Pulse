@@ -35,6 +35,41 @@
   "enrich_v": 2
  },
  {
+  "id": "76f4a154cc9e",
+  "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VZjJRdmVldmFfcDl5WDZTdkVyMzlFcUtZbUdkSkxwSk5sRjlpTTBTTllSV2lGdmZYVmt6b1lxOGx3enp3LWQzcmp1bVVYcGIyQm5uRUEzNW1sd3pRR0JzS0l2QVVFckE?oc=5",
+  "title": "Review: DBS Vantage Card",
+  "source": "The MileLion",
+  "via": "Google News: airport lounge credit card new opening",
+  "source_type": "gnews",
+  "published": "2026-11-21T01:30:28Z",
+  "fetched": "2026-11-21T02:05:07Z",
+  "summary": "",
+  "hint": "premium_cards",
+  "also": [],
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "DBS"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "summary_ai": "A reviewer assesses the DBS Vantage Card, a premium Singapore-issued credit card.",
+  "take_kind": "read",
+  "take": "Useful benchmark for how Asian premium cards position fees against travel and lifestyle perks.",
+  "why": "Useful benchmark for how Asian premium cards position fees against travel and lifestyle perks.",
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "data_points": [],
+  "low_confidence": null,
+  "enrich_v": 2
+ },
+ {
   "id": "0d0f50f1fe08",
   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVNteWxlZ0o5NEZzYlpHMWd2MDdYM2lUSWp2NW5ObmtQZGQ2anlva1pxR09KMmJRbEsxR2ZuZ25pMXZ1b2tXcjVlM3ItQ2xiRXlaaU1yaWJqSzl0SDZPc1g2ZlgxRlktRkFSd2JlNjMwSHFUb3l5emsyYWtQd3N2LUpOWkJFM05MZzFXOENTbDRGZ1I1OV90cTJmRG4wR3Y3?oc=5",
   "title": "Richmond's airport wants to add a premium lounge. Who might be interested?",
@@ -13623,6 +13658,37 @@
   "enrich_v": 2
  },
  {
+  "id": "2bb7bfcb33e0",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjd5NEFZODB5QlROaEhYT3NIMlNJOF85Ml9NMF93WHdDWEFFci1oWXZ0MmJMZXdhakJtSlFoZGFFc2xNZG81eUJRem1yejFkY0ZPRFdycDZSYlZRMzJrUFZLckxHaHFKSkJwX09MZGhXQWZWanVTd3djdTV2MXRScTZOVWVEdw?oc=5",
+  "title": "Senior Manager Full Time jobs in Europe",
+  "source": "The Business of Fashion",
+  "via": "Google News: site:businessoffashion.com luxury",
+  "source_type": "gnews",
+  "published": "2026-11-20T01:19:53Z",
+  "fetched": "2026-11-21T02:05:07Z",
+  "summary": "",
+  "hint": "luxury",
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "summary_ai": "A job listing for a senior manager role at a European fashion business.",
+  "take_kind": null,
+  "take": null,
+  "why": "A job listing for a senior manager role at a European fashion business.",
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "data_points": [],
+  "low_confidence": null,
+  "enrich_v": 2
+ },
+ {
   "id": "af530273fa75",
   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82ZzZyNWd2S3p3VHRRVmpuOUVPQ3dWNzZzSkNGcXJXRUZGMEhKT2JrTHBUX3NfLXdhQ0trb0ZzZmV0WWJzVE1sYlNnYk1oSHhTVFE?oc=5",
   "title": "ATLANTA - Federal agents seized 22 illegal card-skimming devices during a three-day crackdown across metro Atlanta, uncovering devices that investigators say could have resulted in an estimated $22.9 million in potential financial losses. Channel 2 Action",
@@ -14269,8 +14335,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Geopolitical diplomacy coverage with no link to card partnerships or consumer strategy.",
-  "data_points": []
+  "why": "Trump reportedly tells European leaders that Putin wants peace.",
+  "data_points": [],
+  "summary_ai": "Trump reportedly tells European leaders that Putin wants peace.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "1992e9ce880b",
@@ -14290,10 +14366,20 @@
   "companies": [
    "JPMorgan Chase"
   ],
-  "relevance": 1,
+  "relevance": 2,
   "breaking": false,
-  "why": "Bank investment commentary with no direct card or affluent consumer angle.",
-  "data_points": []
+  "why": "JPMorgan's Katrina Dudley discusses investment opportunities outside large tech stocks.",
+  "data_points": [],
+  "summary_ai": "JPMorgan's Katrina Dudley discusses investment opportunities outside large tech stocks.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "fe5c1120929b",
@@ -14313,8 +14399,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "India-US trade diplomacy with no bearing on card partnerships or consumer finance.",
-  "data_points": []
+  "why": "A discussion of India-US trade relations following a meeting in Shenzhen.",
+  "data_points": [],
+  "summary_ai": "A discussion of India-US trade relations following a meeting in Shenzhen.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "632a75255cc0",
@@ -14336,8 +14432,20 @@
   ],
   "relevance": 1,
   "breaking": false,
-  "why": "Bank analyst view on AI capital spending with no consumer card or lending relevance.",
-  "data_points": []
+  "why": "UBS's Lovell suggests AI capital spending could be cut by 5% to 10%.",
+  "data_points": [
+   "5%-10%"
+  ],
+  "summary_ai": "UBS's Lovell suggests AI capital spending could be cut by 5% to 10%.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "7800da6c9810",
@@ -14354,11 +14462,23 @@
   "enriched": true,
   "sections": [],
   "subcategory": null,
-  "companies": [],
+  "companies": [
+   "Franklin Templeton"
+  ],
   "relevance": 1,
   "breaking": false,
-  "why": "General market commentary with no link to card partnerships or affluent consumer spending.",
-  "data_points": []
+  "why": "Franklin Templeton sees investment opportunities beyond the largest technology names.",
+  "data_points": [],
+  "summary_ai": "Franklin Templeton sees investment opportunities beyond the largest technology names.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "210732a369f8",
@@ -14378,8 +14498,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Macro commentary on AI and jobs that does not touch card economics or partner strategy.",
-  "data_points": []
+  "why": "Dr. Homkes argues AI's effect on job losses is currently quite limited.",
+  "data_points": [],
+  "summary_ai": "Dr. Homkes argues AI's effect on job losses is currently quite limited.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "fe4ee29356ac",
@@ -14399,8 +14529,20 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Geopolitical market video with no bearing on card or affluent consumer strategy.",
-  "data_points": []
+  "why": "A Bloomberg video segment covers Saudi action against the Houthis expected to continue into 2027.",
+  "data_points": [
+   "2027"
+  ],
+  "summary_ai": "A Bloomberg video segment covers Saudi action against the Houthis expected to continue into 2027.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "621befc9a520",
@@ -14420,8 +14562,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Bank executive interview on UK business strategy, unrelated to US card partnerships.",
-  "data_points": []
+  "why": "A Bloomberg video interview features Investec's view on its UK business foundation.",
+  "data_points": [],
+  "summary_ai": "A Bloomberg video interview features Investec's view on its UK business foundation.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "e0119435da98",
@@ -14438,11 +14590,23 @@
   "enriched": true,
   "sections": [],
   "subcategory": null,
-  "companies": [],
+  "companies": [
+   "Schroders"
+  ],
   "relevance": 1,
   "breaking": false,
-  "why": "Generic market outlook video with no relevance to card benefits or consumer credit.",
-  "data_points": []
+  "why": "Schroders says markets are going through a healthy correction, per a Bloomberg video segment.",
+  "data_points": [],
+  "summary_ai": "Schroders says markets are going through a healthy correction, per a Bloomberg video segment.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "c6bf568bfe26",
@@ -14464,8 +14628,18 @@
   ],
   "relevance": 1,
   "breaking": false,
-  "why": "Premarket stock move in an AI company, with no direct card or affluent consumer angle.",
-  "data_points": []
+  "why": "Anthropic shares fell in premarket trading, according to a Bloomberg video segment.",
+  "data_points": [],
+  "summary_ai": "Anthropic shares fell in premarket trading, according to a Bloomberg video segment.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "b5ff2f43d742",
@@ -14485,8 +14659,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Sports coaching video with no connection to card partnerships or luxury spending.",
-  "data_points": []
+  "why": "A Bloomberg video asks whether Manchester United's new coach can fix the club's problems.",
+  "data_points": [],
+  "summary_ai": "A Bloomberg video asks whether Manchester United's new coach can fix the club's problems.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "3fc7f37a219d",
@@ -14506,8 +14690,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Market selloff commentary with no card, lending or affluent spending relevance.",
-  "data_points": []
+  "why": "A Baird strategist describes the stock selloff as total de-risking in a Bloomberg video segment.",
+  "data_points": [],
+  "summary_ai": "A Baird strategist describes the stock selloff as total de-risking in a Bloomberg video segment.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "128cb0a137ae",
@@ -14712,6 +14906,39 @@
   "enrich_v": 2
  },
  {
+  "id": "7a9e73837078",
+  "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGJBU0wxeFFlMHNMZUFmYkNXbFB3bDRxOGRjUDhnczZxZHZaaXlqS3dycW9nenFkb3RoM2dBbFlJTW5QeGI0TWdRSS10T2xwSW85akN2dkxiYldvU29relcwNWVBdzlzN2Y0UUF1dFlVWHpzVlhpT1llbjBxVzBLN1NwWTYzaG1WU1Jrdzd6bHdubm93NkpKUHhBYkJfTzI2WEd3YWs2ZUs4ZUhScVE?oc=5",
+  "title": "Watch Burnham Says UK-EU Deal Adds £17 Billion Economic Boost",
+  "source": "Bloomberg.com",
+  "via": "Google News: site:bloomberg.com luxury OR \"credit card\"",
+  "source_type": "gnews",
+  "published": "2026-11-20T00:00:00Z",
+  "fetched": "2026-11-21T02:05:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "summary_ai": "UK Chancellor Burnham argues a UK-EU trade deal would add a large economic boost.",
+  "take_kind": null,
+  "take": null,
+  "why": "UK Chancellor Burnham argues a UK-EU trade deal would add a large economic boost.",
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "data_points": [
+   "£17 billion"
+  ],
+  "low_confidence": null,
+  "enrich_v": 2
+ },
+ {
   "id": "6d717910c91f",
   "url": "https://onemileatatime.com/news/finnair-international-mens-day-all-male-crew/",
   "title": "Finnair Celebrates International Men’s Day With All-Male Crew On Flight",
@@ -14724,17 +14951,27 @@
   "hint": "community",
   "also": [],
   "enriched": true,
-  "sections": [],
-  "subcategory": null,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
   "companies": [
    "Finnair"
   ],
   "relevance": 1,
   "breaking": false,
-  "why": "Airline diversity publicity stunt with no card benefit or partnership implication.",
-  "data_points": [
-   "Only around 10% of Finnair cabin crew are men"
-  ]
+  "why": "Finnair marked International Men's Day with a flight staffed by an all-male crew.",
+  "data_points": [],
+  "summary_ai": "Finnair marked International Men's Day with a flight staffed by an all-male crew.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "8a7c6d150246",
@@ -14904,10 +15141,22 @@
   ],
   "relevance": 1,
   "breaking": false,
-  "why": "Gaming REIT bond pricing with no link to card partnerships or consumer lending.",
+  "why": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes due 2031.",
   "data_points": [
-   "$600,000,000 of 6.250% senior notes due 2031"
-  ]
+   "$600 million",
+   "6.250%",
+   "2031"
+  ],
+  "summary_ai": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes due 2031.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "df1375f4bf38",
@@ -14927,8 +15176,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Job listing with no market intelligence value for partnerships or luxury trends.",
-  "data_points": []
+  "why": "A job listing for marketing roles in the United Kingdom from a fashion industry board.",
+  "data_points": [],
+  "summary_ai": "A job listing for marketing roles in the United Kingdom from a fashion industry board.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "5559f8b0e915",
@@ -15054,8 +15313,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Job listing with no relevance to partnerships, luxury trends or card strategy.",
-  "data_points": []
+  "why": "A job listing for coordinator and executive roles in New York from a fashion industry board.",
+  "data_points": [],
+  "summary_ai": "A job listing for coordinator and executive roles in New York from a fashion industry board.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "f72cd8d8fea6",
@@ -15070,13 +15339,25 @@
   "hint": "nyc_dining",
   "also": [],
   "enriched": true,
-  "sections": [],
+  "sections": [
+   "nyc_dining"
+  ],
   "subcategory": null,
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Local Los Angeles restaurant news with no New York dining relevance.",
-  "data_points": []
+  "why": "A local Los Angeles community paper ran a general restaurant news roundup with no specific details in the headline.",
+  "data_points": [],
+  "summary_ai": "A local Los Angeles community paper ran a general restaurant news roundup with no specific details in the headline.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "5fe5429a355f",
@@ -15135,8 +15416,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Defense and foreign policy opinion piece with no card or affluent consumer relevance.",
-  "data_points": []
+  "why": "A WSJ opinion piece argues the US Navy needs frigates, using Japan's fleet as a comparison.",
+  "data_points": [],
+  "summary_ai": "A WSJ opinion piece argues the US Navy needs frigates, using Japan's fleet as a comparison.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "87af4d50b2da",
@@ -15186,15 +15477,27 @@
   "hint": "luxury",
   "also": [],
   "enriched": true,
-  "sections": [],
-  "subcategory": null,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
   "companies": [
    "Kering"
   ],
   "relevance": 1,
   "breaking": false,
-  "why": "Retail job posting at a luxury group with no partnership or spending intelligence.",
-  "data_points": []
+  "why": "Kering's careers page lists a temporary sales assistant role at a Balenciaga store, a routine hiring post.",
+  "data_points": [],
+  "summary_ai": "Kering's careers page lists a temporary sales assistant role at a Balenciaga store, a routine hiring post.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "eb860712d6aa",
@@ -15214,8 +15517,18 @@
   "companies": [],
   "relevance": 1,
   "breaking": false,
-  "why": "Church governance news with no bearing on card, lending or consumer strategy.",
-  "data_points": []
+  "why": "Two Anglican church bodies in the Pacific formalized their partnership at a church general synod.",
+  "data_points": [],
+  "summary_ai": "Two Anglican church bodies in the Pacific formalized their partnership at a church general synod.",
+  "take_kind": null,
+  "take": null,
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "low_confidence": null,
+  "enrich_v": 2
  },
  {
   "id": "976f7b1373c0",
@@ -21761,6 +22074,44 @@
   "nyc": null,
   "data_points": [],
   "low_confidence": "Headline only, no venue or location details",
+  "enrich_v": 2
+ },
+ {
+  "id": "bd972bfa7f47",
+  "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zOUFkSXAwR2FLaGEzY3BNRGhSNUduQXdHZUxHMFhGWEhaZWZOQ3dRY3pRX3FPT0F2ckk3Q3JyRTB3LWtobEFaZG1DYnhtY2FLT2p1eFI0bm9TSGZSWm9vUnJB?oc=5",
+  "title": "Fiserv (FISV) Q4 2025 Earnings Call Transcript",
+  "source": "Fortune",
+  "via": "Google News: \"Wells Fargo\" credit card",
+  "source_type": "gnews",
+  "published": "2026-11-19T14:17:58Z",
+  "fetched": "2026-11-21T02:05:07Z",
+  "summary": "",
+  "hint": "wells",
+  "also": [],
+  "enriched": true,
+  "sections": [
+   "wells",
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Fiserv"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "summary_ai": "Fiserv discusses its fourth-quarter 2025 results on an earnings call.",
+  "take_kind": "read",
+  "take": "Payments processor results can signal merchant and bank processing trends, but this is only indirectly relevant.",
+  "why": "Payments processor results can signal merchant and bank processing trends, but this is only indirectly relevant.",
+  "partner": null,
+  "benefit_move": false,
+  "benefit_type": null,
+  "issuer": null,
+  "nyc": null,
+  "data_points": [
+   "Q4 2025"
+  ],
+  "low_confidence": null,
   "enrich_v": 2
  },
  {

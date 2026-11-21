@@ -1,0 +1,34 @@
+{
+ "name": "Fiserv",
+ "slug": "fiserv",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "bd972bfa7f47",
+   "title": "Fiserv (FISV) Q4 2025 Earnings Call Transcript",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zOUFkSXAwR2FLaGEzY3BNRGhSNUduQXdHZUxHMFhGWEhaZWZOQ3dRY3pRX3FPT0F2ckk3Q3JyRTB3LWtobEFaZG1DYnhtY2FLT2p1eFI0bm9TSGZSWm9vUnJB?oc=5",
+   "source": "Fortune",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:17:58Z",
+   "relevance": 2,
+   "why": "Payments processor results can signal merchant and bank processing trends, but this is only indirectly relevant.",
+   "summary_ai": "Fiserv discusses its fourth-quarter 2025 results on an earnings call.",
+   "take": "Payments processor results can signal merchant and bank processing trends, but this is only indirectly relevant.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Q4 2025"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:47:26Z",
+ "updated": "2026-11-21T02:05:15Z",
  "companies": [
   {
    "name": "Anthropic",
@@ -513,11 +513,27 @@
    "first_seen": "2026-11-19T05:30:00Z",
    "last_seen": "2026-11-19T22:40:37Z",
    "sections": {
-    "luxury": 3,
+    "luxury": 4,
     "spending_data": 1
    },
    "top_relevance": 3,
-   "latest_summary": "Retail job posting at a luxury group with no partnership or spending intelligence.",
+   "latest_summary": "Kering's careers page lists a temporary sales assistant role at a Balenciaga store, a routine hiring post.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "DBS",
+   "slug": "dbs",
+   "count": 4,
+   "count_30d": 4,
+   "first_seen": "2026-11-19T16:07:00Z",
+   "last_seen": "2026-11-21T01:30:28Z",
+   "sections": {
+    "partnerships": 2,
+    "premium_cards": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "A reviewer assesses the DBS Vantage Card, a premium Singapore-issued credit card.",
    "watch_status": null,
    "has_vet": false
   },
@@ -740,21 +756,6 @@
    "top_relevance": 4,
    "latest_summary": "Rakuten is offering 100x cash back on OneRep, NordVPN and other subscription services for a limited time.",
    "watch_status": "signed",
-   "has_vet": false
-  },
-  {
-   "name": "DBS",
-   "slug": "dbs",
-   "count": 3,
-   "count_30d": 3,
-   "first_seen": "2026-11-19T16:07:00Z",
-   "last_seen": "2026-11-20T14:08:58Z",
-   "sections": {
-    "partnerships": 2
-   },
-   "top_relevance": 2,
-   "latest_summary": "DBS is extending its blockchain-based rewards platform to corporate clients.",
-   "watch_status": null,
    "has_vet": false
   },
   {
@@ -3270,7 +3271,33 @@
    "last_seen": "2026-11-20T00:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Bank analyst view on AI capital spending with no consumer card or lending relevance.",
+   "latest_summary": "UBS's Lovell suggests AI capital spending could be cut by 5% to 10%.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Franklin Templeton",
+   "slug": "franklin-templeton",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Franklin Templeton sees investment opportunities beyond the largest technology names.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Schroders",
+   "slug": "schroders",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Schroders says markets are going through a healthy correction, per a Bloomberg video segment.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3320,9 +3347,11 @@
    "count_30d": 1,
    "first_seen": "2026-11-19T23:57:41Z",
    "last_seen": "2026-11-19T23:57:41Z",
-   "sections": {},
+   "sections": {
+    "luxury": 1
+   },
    "top_relevance": 1,
-   "latest_summary": "Airline diversity publicity stunt with no card benefit or partnership implication.",
+   "latest_summary": "Finnair marked International Men's Day with a flight staffed by an all-male crew.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3361,7 +3390,7 @@
    "last_seen": "2026-11-19T23:31:19Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Gaming REIT bond pricing with no link to card partnerships or consumer lending.",
+   "latest_summary": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes due 2031.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3935,6 +3964,22 @@
    "sections": {},
    "top_relevance": 1,
    "latest_summary": "Canadian bank BMO says quantum computing helped AI models pick out key information from complex datasets.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Fiserv",
+   "slug": "fiserv",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T14:17:58Z",
+   "last_seen": "2026-11-19T14:17:58Z",
+   "sections": {
+    "wells": 1,
+    "spending_data": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Fiserv discusses its fourth-quarter 2025 results on an earnings call.",
    "watch_status": null,
    "has_vet": false
   },

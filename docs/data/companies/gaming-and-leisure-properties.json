@@ -12,18 +12,20 @@
    "source_type": "gnews",
    "published": "2026-11-19T23:31:19Z",
    "relevance": 1,
-   "why": "Gaming REIT bond pricing with no link to card partnerships or consumer lending.",
-   "summary_ai": null,
+   "why": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes due 2031.",
+   "summary_ai": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes due 2031.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [],
    "breaking": false,
    "data_points": [
-    "$600,000,000 of 6.250% senior notes due 2031"
+    "$600 million",
+    "6.250%",
+    "2031"
    ],
    "also": []
   }
