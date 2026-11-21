@@ -3,6 +3,7 @@ and short earnings recaps after scheduled earnings dates."""
 from __future__ import annotations
 
 import json
+import re
 from datetime import timedelta
 
 from . import config, living, llm, store
@@ -44,6 +45,7 @@ def _save(kind: str, body: str, items: list[dict], cites: list[dict], title_extr
     date = n.strftime("%Y-%m-%d")
     did = f"{date}-{kind}" + (f"-{slug(title_extra)}" if title_extra else "")
     title = f"{TITLES[kind]}{': ' + title_extra if title_extra else ''}, {n.strftime('%a %b %-d')}"
+    body = re.sub(r"\A\s*#\s[^\n]*\n+", "", body)  # the site shows its own title
     allowed = allowed_sources(items, web=cites, extra=_living_urls() if living else None)
     body, stats = finalize(body, allowed)
     store.write_text(f"digests/{did}.md", body)

@@ -156,7 +156,7 @@ def refresh_booking() -> None:
     out, cites = llm.complete_json(
         model=s["models"]["writer"], system=system_with_context(config.prompt("living_booking")),
         user=f"{today_line()}\n\nCurrent list:\n{json.dumps(cur['entries'])}\n\nRecent items:\n{items_block(items, 60)}",
-        task="living_booking", max_tokens=5000,
+        task="living_booking", max_tokens=12000,
         web_search_uses=s["web_search"]["max_uses"]["living_booking"], mock=mock)
     today = _today()
     ok = allowed_sources(items, web=cites, extra=[{"url": e.get("url")} for e in cur["entries"]])
@@ -228,7 +228,7 @@ def refresh_calendar() -> None:
         model=s["models"]["writer"],
         system=system_with_context(config.prompt("living_calendar").replace("{companies}", CAL_COMPANIES)),
         user=f"{today_line()}\n\nCurrent calendar:\n{json.dumps(cal['entries'])}\n\nRecent items:\n{items_block(items, 40)}",
-        task="living_calendar", max_tokens=4000,
+        task="living_calendar", max_tokens=10000,
         web_search_uses=s["web_search"]["max_uses"]["living_calendar"], mock=mock)
     today = config.now_local().date()
     past = [e for e in cal["entries"] if e.get("date") and e["date"] < str(today)
@@ -247,3 +247,10 @@ def run_weekly() -> None:
             fn()
         except Exception as e:  # one page failing should not block the rest
             print(f"[living] {fn.__name__} failed: {type(e).__name__}: {e}")
+            errs = store.read_json("manifest.json", {}).get("living_errors", {})
+            errs[fn.__name__] = {"error": f"{type(e).__name__}: {str(e)[:200]}", "at": config.iso(config.now_utc())}
+            store.update_manifest(living_errors=errs)
+            continue
+        errs = store.read_json("manifest.json", {}).get("living_errors", {})
+        if errs.pop(fn.__name__, None) is not None:
+            store.update_manifest(living_errors=errs)

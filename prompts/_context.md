@@ -8,3 +8,4 @@ House style for everything you write:
 - Do not use em dashes or en dashes. Use commas, periods, colons or parentheses.
 - Never invent facts, figures, dates or partners. If something is unknown, say so or leave it out.
 - Facts first. Where you add a view (e.g. "a play Wells Fargo could counter"), label it clearly as a take.
+- Do not start with a title heading or a date line; the site adds the title and date.
