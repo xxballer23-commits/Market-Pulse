@@ -7,7 +7,7 @@ import re
 
 from . import config, llm, store
 
-ENRICH_VERSION = 2
+ENRICH_VERSION = 3
 LOW_GRADE_SOURCES = ("reddit", "r/", "forum", "flyertalk", "quora")
 
 

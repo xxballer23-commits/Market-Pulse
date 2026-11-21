@@ -73,7 +73,8 @@
   const NYC_KIND = { opening: "Opening", closing: "Closing", chef_move: "Chef move", reservation_intel: "Reservation intel", event: "Dining event", other: "NYC dining" };
 
   const relBars = (n) => `<span class="rel" title="Relevance ${n} of 5: premium and partnership impact" aria-label="Relevance ${n} of 5">${[1, 2, 3, 4, 5].map((i) => `<i class="${i <= n ? "on" : ""}"></i>`).join("")}<span>${n}/5</span></span>`;
-  const statusPill = (s) => `<span class="status ${esc(s)}">${esc(String(s || "").replace("_", " "))}</span>`;
+  const STATUS_LABEL = { signed: "has issuer deal", rumored: "in talks / rumored", in_talks: "in talks / rumored", soon: "opening soon", open: "open now" };
+  const statusPill = (s) => `<span class="status ${esc(s)}" title="${s === "signed" ? "Publicly announced deal with some card issuer (not necessarily ours)" : ""}">${esc(STATUS_LABEL[s] || String(s || "").replace("_", " "))}</span>`;
   const byline = (e) => e ? `<div class="byline">
       <span>Curated by ${esc(e.curator || "Jackson Cummiskey")}</span><span>·</span><span>${fmtDate(e.generated, { weekday: "short", month: "short", day: "numeric", year: "numeric" })}</span>
       ${(e.status || "draft") === "reviewed" ? `<span class="pill reviewed" title="Reviewed ${esc(fmtDate(e.reviewed_at))}">Reviewed</span>` : `<span class="pill draft" title="AI-drafted, not yet reviewed by the curator">Draft, awaiting review</span>`}
@@ -441,8 +442,8 @@
     $app.innerHTML = `<div class="page-head"><div><div class="kicker">Part 6 · Shared Watchlist</div><h1>Partnership Watchlist</h1><div class="rule"></div>
         <p>Brands, venues and platforms flagged as potential card-benefit partners, carried forward with dated history. Statuses reflect public reporting only.</p></div>
         <div class="filter-row"><a class="btn" href="${esc(watchUrl(""))}" target="_blank" rel="noopener">Propose an add</a><button class="btn ghost" id="csv">Export CSV</button></div></div>
-      <div class="stats" style="grid-template-columns:repeat(4,minmax(0,1fr))">${["emerging", "rumored", "signed", "acquired"].map((s) => `<div class="stat"><div class="kicker">${s}</div><div class="v">${counts[s] || 0}</div></div>`).join("")}</div>
-      ${rows.length ? `<div class="filter-row" style="margin-bottom:12px"><input type="search" id="wq" placeholder="Search the watchlist"><select id="ws"><option value="">All statuses</option><option>emerging</option><option>rumored</option><option>signed</option><option>acquired</option><option>dropped</option></select></div>
+      <div class="stats" style="grid-template-columns:repeat(4,minmax(0,1fr))">${["emerging", "rumored", "signed", "acquired"].map((s) => `<div class="stat"><div class="kicker">${esc(STATUS_LABEL[s] || s)}</div><div class="v">${counts[s] || 0}</div></div>`).join("")}</div>
+      ${rows.length ? `<div class="filter-row" style="margin-bottom:12px"><input type="search" id="wq" placeholder="Search the watchlist"><select id="ws"><option value="">All statuses</option><option value="emerging">emerging</option><option value="rumored">in talks / rumored</option><option value="signed">has issuer deal</option><option>acquired</option><option>dropped</option></select></div>
       <div class="table-wrap"><table id="t"><thead><tr><th data-k="0">Brand or venue</th><th data-k="1">Status</th><th>Why it matters</th><th data-k="3">Items</th><th data-k="4">Last seen</th><th data-k="5">Top rel.</th><th data-k="6">Updated</th></tr></thead><tbody>
       ${rows.sort((a, b) => (order[a.status] ?? 5) - (order[b.status] ?? 5) || (b.updated || "").localeCompare(a.updated || "")).map((e) => `<tr data-name="${esc(e.name.toLowerCase())}" data-status="${esc(e.status)}">
         <td><a href="#/company/${esc(e.slug || slug(e.name))}"><b>${esc(e.name)}</b></a><div class="note">${esc(e.what || e.category || "")}</div>${e.added_by ? `<div class="note">Added by ${esc(e.added_by)}</div>` : ""}</td>
