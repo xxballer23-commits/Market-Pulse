@@ -15,8 +15,9 @@ models:
   enrich: "claude-haiku-5-5"
   # Stronger model for written digests, living pages and diligence briefs.
   writer: "claude-sonnet-5-5"
-  # Turn off extended thinking so the token budget goes to the written output.
-  disable_thinking: true
+  # No thinking before responding, so the token budget goes to the written output.
+  # (These models reject {"type": "disabled"}; "between_tools" is the off setting.)
+  thinking: {type: between_tools}
 
 web_search:
   # Claude's server-side web search tool. Billed per search, so it is only

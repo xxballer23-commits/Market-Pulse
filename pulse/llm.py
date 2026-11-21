@@ -95,8 +95,9 @@ def complete(
             try:
                 kwargs = dict(model=model, max_tokens=max_tokens, system=system, messages=messages)
                 # No extended thinking: output budget goes to the written text, and runs stay fast.
-                if config.settings().get("models", {}).get("disable_thinking", True):
-                    kwargs["thinking"] = {"type": "disabled"}
+                thinking = config.settings().get("models", {}).get("thinking")
+                if thinking:
+                    kwargs["thinking"] = thinking
                 if tools:
                     kwargs["tools"] = tools
                 # Stream so long, web-search-heavy writes never hit the non-streaming timeout.
