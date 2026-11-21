@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:10:49Z",
+ "updated": "2026-11-21T01:14:27Z",
  "companies": [
   {
    "name": "Anthropic",
@@ -192,7 +192,7 @@
    },
    "top_relevance": 4,
    "latest_summary": "Bilt's bonus redemption and airline status match show how issuers use points promos and airline partners to drive engagement.",
-   "watch_status": null,
+   "watch_status": "signed",
    "has_vet": false
   },
   {
@@ -328,7 +328,7 @@
    },
    "top_relevance": 4,
    "latest_summary": "Rakuten's approval bonuses across issuers show how card-linked offers are being used to drive acquisition, a model worth tracking.",
-   "watch_status": null,
+   "watch_status": "signed",
    "has_vet": false
   },
   {
@@ -658,7 +658,7 @@
    },
    "top_relevance": 3,
    "latest_summary": "AI underwriting providers like Pagaya are potential embedded lending partners for installment and loan products.",
-   "watch_status": null,
+   "watch_status": "emerging",
    "has_vet": false
   },
   {
@@ -1292,7 +1292,7 @@
    },
    "top_relevance": 4,
    "latest_summary": "Revolut adding Velocity as a points currency shows fintechs buying into airline loyalty ecosystems, a direct partner model to watch.",
-   "watch_status": null,
+   "watch_status": "signed",
    "has_vet": false
   },
   {

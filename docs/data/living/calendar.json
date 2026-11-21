@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:27:29Z",
+ "updated": "2026-11-21T01:13:13Z",
  "entries": [
   {
    "date": "2026-11-30",
@@ -26,20 +26,36 @@
    "confirmed": true
   },
   {
-   "date": "2026-12-09",
-   "title": "FOMC rate decision, projections and dot plot (meeting Dec 8-9)",
-   "type": "event",
+   "date": "2026-12-07",
+   "title": "Federal Reserve G.19 Consumer Credit release (3:00pm ET), tracks revolving credit and card balances",
+   "type": "regulatory",
    "company": "Federal Reserve",
-   "url": "https://fedgazette.com/fomc-meetings/",
+   "url": "https://www.federalreserve.gov/newsevents/2026-december.htm",
+   "confirmed": true
+  },
+  {
+   "date": "2026-12-08",
+   "title": "Goldman Sachs US Financial Services Conference, New York (Dec 8-9 per company announcements). Goldman CFO speaks Dec 8 at about 10am ET; Fifth Third and Blackstone present Dec 9. Check for card issuer and network sessions",
+   "type": "event",
+   "company": "Goldman Sachs",
+   "url": "https://www.goldmansachs.com/pressroom/press-releases/2026/denis-coleman-to-speak-at-goldman-sachs-us-financial-services-conference",
+   "confirmed": true
+  },
+  {
+   "date": "2026-12-09",
+   "title": "FOMC rate decision, projections and dot plot (meeting Dec 8-9). Statement 2:00pm ET, press conference 2:30pm ET",
+   "type": "regulatory",
+   "company": "Federal Reserve",
+   "url": "https://www.federalreserve.gov/newsevents/2026-december.htm",
    "confirmed": true
   },
   {
    "date": "2026-12-30",
-   "title": "FOMC minutes for the Dec 8-9 meeting (date per third-party calendar, not yet checked against the Fed's own page)",
-   "type": "event",
+   "title": "FOMC minutes for the Dec 8-9 meeting (2:00pm ET)",
+   "type": "regulatory",
    "company": "Federal Reserve",
-   "url": "https://fattail.ai/fomc-meeting-schedule-2026/",
-   "confirmed": false
+   "url": "https://www.federalreserve.gov/monetarypolicy.htm",
+   "confirmed": true
   },
   {
    "date": "2027-01-14",
@@ -47,6 +63,14 @@
    "type": "earnings",
    "company": "JPMorgan Chase",
    "url": "https://www.jpmorganchase.com/ir/news/2025/jpmc-announces-conference-calls-to-review-first-quarter-second-quarter-third-quarter-and-fourth-quarter-2026-earnings",
+   "confirmed": true
+  },
+  {
+   "date": "2027-01-14",
+   "title": "Wells Fargo Q4 2026 earnings (release about 7:00am ET, call 10:00am ET). Just outside the 6-week window",
+   "type": "earnings",
+   "company": "Wells Fargo",
+   "url": "https://newsroom.wf.com/news-releases/news-details/2026/Wells-Fargo-Updates-2026-Earnings-Release-Date-Information/default.aspx",
    "confirmed": true
   }
  ]

@@ -1,0 +1,78 @@
+{
+ "entries": [
+  {
+   "digest_id": "2026-11-20-radar",
+   "kind": "weekly",
+   "date": "2026-11-20",
+   "generated": "2026-11-21T01:14:27Z",
+   "intro": "A thin week for true partnership plays. Five items are worth a conversation: two airline-linked loyalty moves, one new foreign airline card entrant, and two fintech or portal offer models. Hotel openings, auction results and BNPL stories were skipped as context only.",
+   "items": [
+    {
+     "company": "Bilt (with JetBlue)",
+     "what": "Rent-focused rewards program that runs points promos and airline partner tie-ins.",
+     "signal": "Rent Day offers up to a 100% bonus when points are redeemed for statement credits (normally 0.55 cents per point), plus a JetBlue Mosaic status match.",
+     "why_fit": "A status match is a low-cost, high-perceived-value perk that an airline gives away, and it shows how a card program can package partner status as an engagement driver.",
+     "angle": "A time-limited airline status match or challenge for premium cardholders, paired with a points redemption boost.",
+     "partner_type": "loyalty",
+     "item_id": "c76355162a07",
+     "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/",
+     "source": "Frequent Miler",
+     "published": "2026-11-20T20:45:38Z",
+     "relevance": 4
+    },
+    {
+     "company": "Etihad",
+     "what": "Abu Dhabi-based airline with its own loyalty program.",
+     "signal": "Reported as launching its first credit cards on the U.S. market. The source gives no issuer or benefit details, so those are unknown.",
+     "why_fit": "A foreign premium carrier building a U.S. card base may look for issuing, benefit or lounge partners, and it will compete for the same international travelers.",
+     "angle": "Find out who is issuing for Etihad and whether there is room for a transfer, lounge or international travel benefit tie-in.",
+     "partner_type": "travel",
+     "item_id": "15a7ba092cc9",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hSVo4ZlY4VkNsZzFPSWR3M00zOHpLZlppN1o4SHJod2dqODVGSE1PNWNlZy0wQ0pyN0VKZWYzdTQ4SkN2OU5EWW5tWGt1SXRXRVlkd3psYWhlMXJxd1laSGhVR1I4UQ?oc=5",
+     "source": "Upgraded Points",
+     "published": "2026-11-20T20:28:13Z",
+     "relevance": 4
+    },
+    {
+     "company": "Rove",
+     "what": "Loyalty program that earns miles on spending.",
+     "signal": "Launched personalized shopping offers with up to 25 miles per dollar spent, and expanded in-store earning.",
+     "why_fit": "A program building a personalized merchant-offer layer suggests appetite for offer and redemption partners, and its card-linked mechanics are close to what we run.",
+     "angle": "Co-promoted merchant offers or a points conversion option for cardholders who shop in-store and online.",
+     "partner_type": "loyalty",
+     "item_id": "0da783497045",
+     "url": "https://thepointsguy.com/news/rove-personalized-shopping-offers/",
+     "source": "The Points Guy",
+     "published": "2026-11-20T11:00:30Z",
+     "relevance": 4
+    },
+    {
+     "company": "Revolut (Velocity Points)",
+     "what": "Global fintech and neobank.",
+     "signal": "Revolut has added Velocity Points as a points currency it supports.",
+     "why_fit": "A fintech plugging into an airline loyalty currency shows a model where a non-bank provides airline redemption value, and it competes for the same affluent travelers.",
+     "angle": "Take: assess how the Revolut and Velocity link works, then compare it with our own airline transfer and redemption options.",
+     "partner_type": "fintech",
+     "item_id": "873c16f5328d",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQWpQZTBhVGZtRnlMcndGZUFjX0ZPbGFlZWZCMG11NjluVzNvQ2ZLcXBycy1GWUp5MjZ1S2w2OUVDY19mSkhvUjlTZ2QyeERNRHVYSnJidjlaNkdFdXgtaA?oc=5",
+     "source": "Executive Traveller",
+     "published": "2026-11-20T08:20:10Z",
+     "relevance": 4
+    },
+    {
+     "company": "Rakuten (with Citi)",
+     "what": "Cashback and shopping portal.",
+     "signal": "Offering $50 cashback or up to 5,000 Bilt points as approval bonuses on three Citi cards. The source also names Chase and Bank of America.",
+     "why_fit": "A portal acting as an issuer acquisition channel with a choice of cash or points currency is a model that could be replicated or countered.",
+     "angle": "Take: explore a portal-funded approval bonus or points-currency choice for our cards, and watch how Citi's results develop.",
+     "partner_type": "retail",
+     "item_id": "1a93ecd1c41e",
+     "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/",
+     "source": "Frequent Miler",
+     "published": "2026-11-19T23:45:33Z",
+     "relevance": 4
+    }
+   ]
+  }
+ ]
+}

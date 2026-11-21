@@ -8,7 +8,7 @@
    "category": "travel",
    "status": "announced",
    "announced": "2026-11-20",
-   "note": "Launched alongside a Rent Day promo of up to a 100% bonus on points redeemed for statement credits (normally 0.55 cents per point). Take: an airline status match is a cheap partner-funded perk Wells Fargo could counter for affluent travelers. Eligibility terms and end date not confirmed in the items.",
+   "note": "Now tied to the Bilt Rent Day promo alongside a tiered redemption bonus. The source URL calls it a Mosaic challenge, so terms may require activity. Full terms and dates are not stated in the items.",
    "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/",
    "added": "2026-11-20",
    "updated": "2026-11-20"
@@ -25,7 +25,20 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hSVo4ZlY4VkNsZzFPSWR3M00zOHpLZlppN1o4SHJod2dqODVGSE1PNWNlZy0wQ0pyN0VKZWYzdTQ4SkN2OU5EWW5tWGt1SXRXRVlkd3psYWhlMXJxd1laSGhVR1I4UQ?oc=5",
    "added": "2026-11-20",
    "updated": "2026-11-20"
+  },
+  {
+   "issuer": "Bilt",
+   "card": "Bilt Rewards cards (specific card not stated)",
+   "benefit": "Rent Day redemption bonus on statement credits",
+   "partner": null,
+   "category": "other",
+   "status": "announced",
+   "announced": "2026-11-20",
+   "note": "Up to a 100% bonus when points are redeemed for statement credits, which normally redeem at 0.55 cents per point. Take: a time limited redemption boost is a cheap way to lift engagement, and Wells Fargo could counter with a similar promo on a premium card.",
+   "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/",
+   "added": "2026-11-20",
+   "updated": "2026-11-20"
   }
  ],
- "updated": "2026-11-21T00:25:33Z"
+ "updated": "2026-11-21T01:11:47Z"
 }

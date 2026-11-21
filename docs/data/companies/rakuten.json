@@ -1,7 +1,24 @@
 {
  "name": "Rakuten",
  "slug": "rakuten",
- "watch": null,
+ "watch": {
+  "name": "Rakuten",
+  "slug": "rakuten",
+  "category": "retail",
+  "what": "Cashback shopping portal that pays approval bonuses on partner issuers' credit cards.",
+  "why_fit": "Shows a third-party portal acting as an acquisition channel for card issuers, which Wells Fargo could use or counter.",
+  "status": "signed",
+  "added": "2026-11-20",
+  "updated": "2026-11-20",
+  "history": [
+   {
+    "date": "2026-11-20",
+    "status": "signed",
+    "note": "Added approval bonuses on three Citi cards this week: $50 cashback or up to 5,000 Bilt points.",
+    "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

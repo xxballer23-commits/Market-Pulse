@@ -1,11 +1,22 @@
 {
- "updated": "2026-11-21T00:27:10Z",
+ "updated": "2026-11-21T01:12:55Z",
  "indicators": [
   {
    "id": "citi_luxury_spend",
    "label": "US luxury credit card spend (Citi)",
    "unit": "% YoY",
-   "readings": []
+   "readings": [
+    {
+     "period": "2026-09",
+     "date": "2026-09-30",
+     "value": -6.0,
+     "display": "-6% YoY",
+     "note": "Citi card data, released Oct 6. Third straight monthly decline after -4% in July and August. Q3 was -5% after +5% in Q1 and +3% in Q2. I did not find an October reading.",
+     "url": "https://www.investing.com/news/stock-market-news/citi-reports-us-luxury-spending-fell-6-in-september-on-weak-demand-93CH-4935925",
+     "added": "2026-11-20"
+    }
+   ],
+   "group": "spend"
   },
   {
    "id": "olshan_4m",
@@ -29,14 +40,88 @@
      "note": "Week of Aug 31 to Sep 6. Asking volume was $66.24M, with none at $10M or above. This is the latest weekly figure found, so newer weeks may exist.",
      "url": "https://www.manhattanmiami.com/manhattan-condo-market-analysis",
      "added": "2026-11-20"
+    },
+    {
+     "period": "2026-W44",
+     "date": "2026-11-01",
+     "value": 34.0,
+     "display": "34 contracts",
+     "note": "Week of Oct 26 to Nov 1. Down from 36 the prior week. The top deal was the 111 Murray Street penthouse, last asking just under $34M.",
+     "url": "https://therealdeal.com/new-york/2026/11/02/111-murray-penthouse-deal-leads-manhattan-luxury-contracts/",
+     "added": "2026-11-20"
+    },
+    {
+     "period": "2026-W45",
+     "date": "2026-11-08",
+     "value": 45.0,
+     "display": "45 contracts",
+     "note": "Week of Nov 2 to Nov 8. Asking volume was nearly $450M, the highest weekly total since 2021. 14 contracts asked $10M or more.",
+     "url": "https://therealdeal.com/new-york/2026/11/09/steve-wynns-penthouse-tops-manhattans-luxury-contracts/",
+     "added": "2026-11-20"
+    },
+    {
+     "period": "2026-W46",
+     "date": "2026-11-15",
+     "value": 34.0,
+     "display": "34 contracts",
+     "note": "Week of Nov 9 to Nov 15. Down from 45 the prior week, which was the highest tally since 2021.",
+     "url": "https://therealdeal.com/new-york/2026/11/16/uptown-sponsor-units-top-manhattan-luxury-contracts/",
+     "added": "2026-11-20"
     }
-   ]
+   ],
+   "group": "real_estate"
   },
   {
    "id": "auction_sell_through",
    "label": "Major auction sell-through rate",
    "unit": "%",
-   "readings": []
+   "readings": [
+    {
+     "period": "Christie's 20th Century Evening Sale, Nov 17 2026",
+     "date": "2026-11-17",
+     "value": 88.0,
+     "display": "88% sell-through",
+     "note": "Christie's sale of $521M hammer ($627M with fees). The 88% counts three withdrawn lots as unsold. Total landed at the low end of the $511M to $743M estimate.",
+     "url": "https://www.theartnewspaper.com/2026/11/18/kandinsky-record-and-a-trove-consigned-by-jeff-koons-buoy-christies-solid-20th-century-evening-sale-in-new-york",
+     "added": "2026-11-20"
+    },
+    {
+     "period": "Christie's 21st Century Evening Sale, Nov 19 2026",
+     "date": "2026-11-19",
+     "value": 91.0,
+     "display": "91% sell-through",
+     "note": "51 of 56 lots sold. Total was $145.9M with fees. Two lots were withdrawn at the last moment and the result came in below pre-sale expectations.",
+     "url": "https://www.artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916/",
+     "added": "2026-11-20"
+    }
+   ],
+   "group": "auction"
+  },
+  {
+   "id": "auction_lots",
+   "group": "auction",
+   "label": "Auction headline lots",
+   "unit": "text",
+   "readings": [
+    {
+     "period": "Sotheby's Blaquier-Arrieta evening sale, Nov 18 2026",
+     "date": "2026-11-18",
+     "value": null,
+     "display": "Van Gogh, Châtaigniers en fleurs, $190.4M, Sotheby's",
+     "note": "Auction record for the artist. $165M hammer. Cézanne's Arlequin made $111M in the same sale. Sotheby's evening total was $777.8M.",
+     "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
+     "added": "2026-11-20"
+    },
+    {
+     "period": "Christie's 21st Century Evening Sale, Nov 19 2026",
+     "date": "2026-11-19",
+     "value": null,
+     "display": "Basquiat, Untitled (Leonardo and His Five Grotesque Heads), $32.9M, Christie's",
+     "note": "Top lot of a $145.9M sale that closed New York's fall auction week.",
+     "url": "https://www.artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916/",
+     "added": "2026-11-20"
+    }
+   ]
   },
   {
    "id": "earn_lvmh",
@@ -52,7 +137,8 @@
      "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Y6AfTE0Y7WFnyftQ_LVMH2026ThirdQuarterRevenue.pdf",
      "added": "2026-11-20"
     }
-   ]
+   ],
+   "group": "earnings"
   },
   {
    "id": "earn_hermes",
@@ -68,7 +154,8 @@
      "url": "https://pulse2.com/hermes-reports-q3-2026-revenue-of-e4-1-billion-and-nine-month-sales-of-e12-3-billion-as-americas-and-leather-goods-drive-growth/",
      "added": "2026-11-20"
     }
-   ]
+   ],
+   "group": "earnings"
   },
   {
    "id": "earn_kering",
@@ -84,7 +171,8 @@
      "url": "https://www.kering.com/en/news/revenue-for-the-3rd-quarter-of-2026/",
      "added": "2026-11-20"
     }
-   ]
+   ],
+   "group": "earnings"
   },
   {
    "id": "earn_richemont",
@@ -100,7 +188,8 @@
      "url": "https://www.richemont.com/news-media/press-releases-news/richemont-posts-strong-results-for-the-six-month-period-ended-30-september-2026-driven-by-sustained-double-digit-sales-growth/",
      "added": "2026-11-20"
     }
-   ]
+   ],
+   "group": "earnings"
   }
  ]
 }

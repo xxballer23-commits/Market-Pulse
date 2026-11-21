@@ -1,10 +1,10 @@
 {
  "days": {
   "2026-11-20": {
-   "input_tokens": 647416,
-   "output_tokens": 374072,
-   "web_searches": 23,
-   "calls": 66,
+   "input_tokens": 1064883,
+   "output_tokens": 404117,
+   "web_searches": 41,
+   "calls": 74,
    "by_task": {
     "enrich": {
      "calls": 59,
@@ -14,45 +14,52 @@
      "model": "claude-haiku-5-5"
     },
     "living_watchlist": {
-     "calls": 1,
-     "input_tokens": 15999,
-     "output_tokens": 2621,
+     "calls": 3,
+     "input_tokens": 49164,
+     "output_tokens": 8568,
      "web_searches": 0,
      "model": "claude-sonnet-5-5"
     },
     "living_benefits": {
-     "calls": 1,
-     "input_tokens": 7157,
-     "output_tokens": 1718,
+     "calls": 2,
+     "input_tokens": 14774,
+     "output_tokens": 3613,
      "web_searches": 0,
      "model": "claude-sonnet-5-5"
     },
     "living_booking": {
-     "calls": 2,
-     "input_tokens": 122106,
-     "output_tokens": 11165,
-     "web_searches": 10,
+     "calls": 3,
+     "input_tokens": 188474,
+     "output_tokens": 18411,
+     "web_searches": 15,
      "model": "claude-sonnet-5-5"
     },
     "living_dashboard": {
-     "calls": 1,
-     "input_tokens": 65690,
-     "output_tokens": 2627,
-     "web_searches": 5,
+     "calls": 2,
+     "input_tokens": 174719,
+     "output_tokens": 5582,
+     "web_searches": 10,
      "model": "claude-sonnet-5-5"
     },
     "living_calendar": {
-     "calls": 1,
-     "input_tokens": 42604,
-     "output_tokens": 2412,
-     "web_searches": 4,
+     "calls": 2,
+     "input_tokens": 84936,
+     "output_tokens": 5061,
+     "web_searches": 8,
      "model": "claude-sonnet-5-5"
     },
     "digest_monday": {
+     "calls": 2,
+     "input_tokens": 276567,
+     "output_tokens": 12004,
+     "web_searches": 8,
+     "model": "claude-sonnet-5-5"
+    },
+    "radar_radar": {
      "calls": 1,
-     "input_tokens": 133715,
-     "output_tokens": 5492,
-     "web_searches": 4,
+     "input_tokens": 16104,
+     "output_tokens": 2841,
+     "web_searches": 0,
      "model": "claude-sonnet-5-5"
     }
    }

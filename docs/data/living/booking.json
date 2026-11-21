@@ -1,0 +1,258 @@
+{
+ "updated": "2026-11-21T01:12:34Z",
+ "entries": [
+  {
+   "name": "Carbone",
+   "type": "restaurant",
+   "location": "New York, NY",
+   "window": "Tables are released online 30 days ahead at 10am. Release day is the best shot.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "30 days out at 10am (online)",
+   "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
+   "note": "The Infatuation guide was updated about 16 days ago. Re-check the release time before relying on it."
+  },
+  {
+   "name": "Torrisi Bar & Restaurant",
+   "type": "restaurant",
+   "location": "New York, NY",
+   "window": "Tables are released online 30 days ahead at 10am. Walk-in waits can run very long, and lunch is easier to book.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "30 days out at 10am (online)",
+   "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
+   "note": "Try lunch if dinner is gone."
+  },
+  {
+   "name": "4 Charles Prime Rib",
+   "type": "restaurant",
+   "location": "New York, NY",
+   "window": "Tables are released on Resy 21 days ahead at 9am. Diners already verified in the restaurant's system get priority.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "21 days out at 9am ET (Resy)",
+   "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
+   "note": "Verification comes from dining there and asking to be added to the list. This is a relationship lever."
+  },
+  {
+   "name": "Tatiana",
+   "type": "restaurant",
+   "location": "New York, NY",
+   "window": "Tables are released four weeks ahead at noon.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "28 days out at 12pm ET",
+   "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
+   "note": null
+  },
+  {
+   "name": "The Four Horsemen",
+   "type": "restaurant",
+   "location": "New York, NY",
+   "window": "Tables are released online 30 days ahead at 7am and usually go right away.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "30 days out at 7am ET (online)",
+   "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
+   "note": "The early release time catches people out."
+  },
+  {
+   "name": "The Polo Bar",
+   "type": "restaurant",
+   "location": "New York, NY",
+   "window": "Phone only, with no online release. Calls open one month out from 10am.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "1 month out from 10am ET (phone only)",
+   "url": "https://happy-hour.nyc/deals/hardest-reservations-nyc",
+   "note": "Source is a secondary roundup. Confirm with the venue."
+  },
+  {
+   "name": "Rao's",
+   "type": "restaurant",
+   "location": "New York, NY",
+   "window": "No public booking. The ten tables belong to regulars.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": null,
+   "url": "https://happy-hour.nyc/deals/hardest-reservations-nyc",
+   "note": "Access depends on an existing regular or a concierge relationship. This is a possible partnership angle."
+  },
+  {
+   "name": "San Sabino",
+   "type": "restaurant",
+   "location": "New York, NY",
+   "window": "Tables open 30 days ahead at 9am, exclusively on OpenTable.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "30 days out at 9am ET (OpenTable only)",
+   "url": "https://happy-hour.nyc/deals/hardest-reservations-nyc",
+   "note": "From the Don Angie chefs. Its window is much longer than Don Angie's seven days."
+  },
+  {
+   "name": "Four Kings",
+   "type": "restaurant",
+   "location": "San Francisco, CA",
+   "window": "Tables open on OpenTable three weeks ahead at noon Pacific. The room is small and has four dinner services a week.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "21 days out at 12pm PT (OpenTable)",
+   "url": "https://restomojo.com/blog/hardest-reservations-san-francisco-2026",
+   "note": "Check the release time after daylight saving changes. Cancellations and a limited counter line are the backup."
+  },
+  {
+   "name": "State Bird Provisions",
+   "type": "restaurant",
+   "location": "San Francisco, CA",
+   "window": "Tables open on OpenTable 30 days ahead at noon Pacific.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "30 days out at 12pm PT (OpenTable)",
+   "url": "https://restomojo.com/blog/hardest-reservations-san-francisco-2026",
+   "note": null
+  },
+  {
+   "name": "Bavette's Bar & Boeuf",
+   "type": "restaurant",
+   "location": "Chicago, IL",
+   "window": "Tables are typically released on Resy 21 days ahead at 9am. Bar seats are first come, first served.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "21 days out at 9am (Resy)",
+   "url": "https://pursuitist.com/the-hardest-restaurant-reservations-in-chicago-and-how-to-actually-get-them/",
+   "note": "The bar is often the easiest way in."
+  },
+  {
+   "name": "Kasama",
+   "type": "restaurant",
+   "location": "Chicago, IL",
+   "window": "Dinner books on a rolling six week calendar through OpenTable, released at noon Central.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": "6 weeks out at 12pm CT (OpenTable)",
+   "url": "https://pursuitist.com/the-hardest-restaurant-reservations-in-chicago-and-how-to-actually-get-them/",
+   "note": null
+  },
+  {
+   "name": "Art Basel Miami Beach",
+   "type": "event",
+   "location": "Miami Beach, FL",
+   "window": "Public days run December 4 to 6. Tickets are sold only through Art Basel's official online shop. December 2 and 3 are invitation only VIP preview days.",
+   "next_open": null,
+   "event_date": "2026-12-04",
+   "cadence": null,
+   "url": "https://www.artbasel.com/miami-beach",
+   "note": "One source lists day tickets from $92, and a Design Miami combination ticket at $132. Art Basel does not sell through third parties. Hotels and tickets tighten as the week gets closer."
+  },
+  {
+   "name": "Park Hyatt Riviera Maya Cancun",
+   "type": "hotel",
+   "location": "Riviera Maya, Mexico",
+   "window": "Reservations are shown as open. It is Park Hyatt's first all inclusive, with plunge pool penthouses about 20 minutes south of Cancun airport.",
+   "next_open": null,
+   "event_date": null,
+   "cadence": null,
+   "url": "https://fat.voyage/openings",
+   "note": "Expected opening is January 2027. One listing shows stays bookable from February 2027. Confirm the first bookable date."
+  },
+  {
+   "name": "Cambridge House, Auberge Collection",
+   "type": "hotel",
+   "location": "Mayfair, London, UK",
+   "window": "Opens February 1, 2027 and is already bookable. It is Auberge's first UK hotel, with 102 rooms.",
+   "next_open": null,
+   "event_date": "2027-02-01",
+   "cadence": null,
+   "url": "https://ca.news.yahoo.com/hotels-europe-2027-most-anticipated-060039241.html",
+   "note": "A new London luxury address for Auberge. Check Auberge's own site for current availability."
+  },
+  {
+   "name": "Super Bowl LXI",
+   "type": "event",
+   "location": "SoFi Stadium, Inglewood, CA",
+   "window": "There is no public sale. The NFL distributes tickets to clubs and partners. Official hospitality packages come from On Location, and resale runs through the NFL Ticket Exchange by Ticketmaster.",
+   "next_open": null,
+   "event_date": "2027-02-14",
+   "cadence": null,
+   "url": "https://biggameweek.com/super-bowl-2027-tickets-prices-packages/",
+   "note": "A November 5 check put resale from $5,356 and On Location packages from $7,350 per person. A separate guide mentions a refundable $2,500 per person deposit for priority access to packages. That guide is about 49 days old, so verify it."
+  },
+  {
+   "name": "Omni Pontoque Resort at Punta de Mita",
+   "type": "hotel",
+   "location": "Punta de Mita, Mexico",
+   "window": "Reservations are open for stays from March 2, 2027. The resort has 202 rooms, 42 suites and two villas across 50 oceanfront acres.",
+   "next_open": null,
+   "event_date": "2027-03-02",
+   "cadence": null,
+   "url": "https://hotel-online.com/news/omni-pontoque-resort-at-punta-de-mita-appoints-oscar-rito-as-executive-chef",
+   "note": "Five dining venues are planned."
+  },
+  {
+   "name": "Park Hyatt Mexico City Polanco",
+   "type": "hotel",
+   "location": "Mexico City, Mexico",
+   "window": "Reservations are open from April 1, 2027.",
+   "next_open": null,
+   "event_date": "2027-04-01",
+   "cadence": null,
+   "url": "https://notanatlas.com/new-hotels-opening/",
+   "note": "Rosewood Mexico City is also listed as a 2027 Polanco opening, so the area gets two new luxury hotels."
+  },
+  {
+   "name": "F1 Japanese Grand Prix 2027",
+   "type": "event",
+   "location": "Suzuka, Japan",
+   "window": "Four day tickets (Thursday to Sunday) are on sale at the promoter's site. Some grandstands show only a handful of seats left.",
+   "next_open": null,
+   "event_date": "2027-04-09",
+   "cadence": null,
+   "url": "https://www.japan.gp/en/tickets",
+   "note": "Race weekend is April 9 to 11. The promoter's listings show low stock in several grandstands."
+  },
+  {
+   "name": "F1 Miami Grand Prix 2027",
+   "type": "event",
+   "location": "Miami, FL",
+   "window": "Grandstand and hospitality tickets are on sale. Paddock Club tickets went on sale to the general public for the first time on September 24.",
+   "next_open": null,
+   "event_date": "2027-04-30",
+   "cadence": null,
+   "url": "https://f1miamigp.com/news/press-release/tickets-on-sale-2027/",
+   "note": "Race weekend is April 30 to May 2. The promoter says the first five editions all sold out."
+  },
+  {
+   "name": "F1 Monaco Grand Prix 2027",
+   "type": "event",
+   "location": "Monaco",
+   "window": "Listed as on sale on the official F1 ticket partner page.",
+   "next_open": null,
+   "event_date": "2027-06-04",
+   "cadence": null,
+   "url": "https://grandprixevents.com/",
+   "note": "Race weekend is June 4 to 6. That page was about 79 days old when found, so confirm current availability."
+  },
+  {
+   "name": "F1 British Grand Prix 2027",
+   "type": "event",
+   "location": "Silverstone, UK",
+   "window": "Tickets are on sale through the official F1 store. Options include grandstands, VIP hospitality and Paddock Club.",
+   "next_open": null,
+   "event_date": "2027-07-02",
+   "cadence": null,
+   "url": "https://ticketing.formula1.com/great-britain/",
+   "note": "Race weekend is July 2 to 4. General sale opened September 24. Hospitality sold out for the 2026 race, per Motor Sport."
+  },
+  {
+   "name": "F1 United States Grand Prix 2027",
+   "type": "event",
+   "location": "Austin, TX",
+   "window": "Tickets are listed on the Circuit of the Americas site.",
+   "next_open": null,
+   "event_date": "2027-10-22",
+   "cadence": null,
+   "url": "https://circuitoftheamericas.com/event/f1/tickets/",
+   "note": "Race weekend is October 22 to 24."
+  }
+ ]
+}

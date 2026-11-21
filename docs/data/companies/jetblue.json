@@ -1,7 +1,24 @@
 {
  "name": "JetBlue",
  "slug": "jetblue",
- "watch": null,
+ "watch": {
+  "name": "JetBlue",
+  "slug": "jetblue",
+  "category": "travel",
+  "what": "US airline whose Mosaic elite status is being offered through a status match with Bilt.",
+  "why_fit": "Airline status matches are a concrete benefit design to benchmark for premium card holders.",
+  "status": "signed",
+  "added": "2026-11-20",
+  "updated": "2026-11-20",
+  "history": [
+   {
+    "date": "2026-11-20",
+    "status": "signed",
+    "note": "Part of the Bilt Rent Day promo, which pairs a JetBlue Mosaic status match with up to a 100% bonus on points redeemed for statement credits.",
+    "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {
