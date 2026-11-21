@@ -13,7 +13,7 @@ INDEX = "digests/index.json"
 
 TITLES = {
     "daily": "Daily Brief",
-    "monday": "Monday Weekly Edition",
+    "monday": "Weekly Edition",
     "friday": "Week in Review",
     "earnings": "Earnings Recap",
 }

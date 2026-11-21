@@ -260,7 +260,7 @@
 
   views.digests = async () => {
     const idx = await get("digests/index.json", { entries: [] });
-    const label = { daily: "Daily", monday: "Monday", friday: "Week in Review", earnings: "Earnings" };
+    const label = { daily: "Daily", monday: "Weekly", friday: "Week in Review", earnings: "Earnings" };
     $app.innerHTML = `<div class="page-head"><div><h1>Digests</h1><p>Daily briefs (Tue to Fri), the Monday weekly edition, Friday week in review, and earnings recaps.</p></div>
       <div class="filter-row" id="dt"><span class="chip on" data-t="">All</span>${Object.entries(label).map(([k, v]) => `<span class="chip" data-t="${k}">${v}</span>`).join("")}</div></div>
       <div class="card"><ul class="digest-list" id="dl"></ul></div>`;
