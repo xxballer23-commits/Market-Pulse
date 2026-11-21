@@ -28,4 +28,4 @@ Bullets on watchlist changes this week (new entries, status changes) with the re
 
 The Partnership Sourcing Radar is written separately, so do not include radar opportunities here.
 
-Keep the whole briefing under 1,200 words.
+Length is a hard limit: the whole briefing must be under 1,200 words. Caps: Part 1 at most 6 issuers and 2 moves per issuer, only the moves that change the competitive picture; Part 2 at most 2 bullets per category; NYC dining at most 6 bullets; Parts 4 to 6 at most 5 bullets each. If you are running long, cut weaker items, never cut a part: all six parts must appear, in order, every time. One link per item is enough.

@@ -157,8 +157,13 @@ def monday(refresh_living: bool = True) -> dict | None:
         model=s["models"]["writer"], system=system_with_context(config.prompt("monday")),
         user=(f"{today_line()}\n\nLiving pages snapshot:\n{_living_snapshot()}\n\n"
               f"Research notes from this morning's web search (use their links):\n{notes or '(none)'}\n\n"
-              f"This week's items ({len(items)}):\n{items_block(items, 140)}"),
+              f"This week's items, strongest first ({len(items)} total, top 90 shown):\n{items_block(items, 90)}"),
         task="digest_monday", max_tokens=9000, mock=mock)
+    missing = [n for n in range(1, 7) if not re.search(rf"^##\s*Part {n}\b", body, re.M)]
+    if missing:
+        print(f"[digest] briefing missing parts {missing}")
+        llm.record_error("digest_monday", RuntimeError(f"Briefing came back without Part(s) {missing}; published with a note"))
+        body += "\n\n" + "\n\n".join(f"## Part {n}\n_This part did not generate in this run. See the matching page for current data._" for n in missing)
     if len(body.strip()) < 200:
         llm.record_error("digest_monday", RuntimeError(f"Briefing came back empty or too short ({len(body.strip())} chars); not published"))
         print("[digest] monday briefing empty, not publishing")
