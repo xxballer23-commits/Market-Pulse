@@ -1,10 +1,10 @@
 {
  "days": {
   "2026-11-20": {
-   "input_tokens": 112277,
-   "output_tokens": 156037,
-   "web_searches": 0,
-   "calls": 27,
+   "input_tokens": 499548,
+   "output_tokens": 182072,
+   "web_searches": 23,
+   "calls": 34,
    "by_task": {
     "enrich": {
      "calls": 27,
@@ -12,6 +12,48 @@
      "output_tokens": 156037,
      "web_searches": 0,
      "model": "claude-haiku-5-5"
+    },
+    "living_watchlist": {
+     "calls": 1,
+     "input_tokens": 15999,
+     "output_tokens": 2621,
+     "web_searches": 0,
+     "model": "claude-sonnet-5-5"
+    },
+    "living_benefits": {
+     "calls": 1,
+     "input_tokens": 7157,
+     "output_tokens": 1718,
+     "web_searches": 0,
+     "model": "claude-sonnet-5-5"
+    },
+    "living_booking": {
+     "calls": 2,
+     "input_tokens": 122106,
+     "output_tokens": 11165,
+     "web_searches": 10,
+     "model": "claude-sonnet-5-5"
+    },
+    "living_dashboard": {
+     "calls": 1,
+     "input_tokens": 65690,
+     "output_tokens": 2627,
+     "web_searches": 5,
+     "model": "claude-sonnet-5-5"
+    },
+    "living_calendar": {
+     "calls": 1,
+     "input_tokens": 42604,
+     "output_tokens": 2412,
+     "web_searches": 4,
+     "model": "claude-sonnet-5-5"
+    },
+    "digest_monday": {
+     "calls": 1,
+     "input_tokens": 133715,
+     "output_tokens": 5492,
+     "web_searches": 4,
+     "model": "claude-sonnet-5-5"
     }
    }
   }

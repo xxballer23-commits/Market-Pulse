@@ -1,0 +1,106 @@
+{
+ "updated": "2026-11-21T00:27:10Z",
+ "indicators": [
+  {
+   "id": "citi_luxury_spend",
+   "label": "US luxury credit card spend (Citi)",
+   "unit": "% YoY",
+   "readings": []
+  },
+  {
+   "id": "olshan_4m",
+   "label": "Manhattan $4M+ contracts signed (Olshan, weekly)",
+   "unit": "contracts",
+   "readings": [
+    {
+     "period": "2026-W31",
+     "date": "2026-08-02",
+     "value": 21.0,
+     "display": "21 contracts",
+     "note": "Week of Jul 27 to Aug 2. Up from 18 the prior week and well above 9 in the same week of 2025.",
+     "url": "https://therealdeal.com/new-york/2026/08/03/manhattan-luxury-contracts-climb-despite-late-summer-slump/",
+     "added": "2026-11-20"
+    },
+    {
+     "period": "2026-W36",
+     "date": "2026-09-06",
+     "value": 13.0,
+     "display": "13 contracts",
+     "note": "Week of Aug 31 to Sep 6. Asking volume was $66.24M, with none at $10M or above. This is the latest weekly figure found, so newer weeks may exist.",
+     "url": "https://www.manhattanmiami.com/manhattan-condo-market-analysis",
+     "added": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "auction_sell_through",
+   "label": "Major auction sell-through rate",
+   "unit": "%",
+   "readings": []
+  },
+  {
+   "id": "earn_lvmh",
+   "label": "LVMH organic revenue growth",
+   "unit": "% YoY",
+   "readings": [
+    {
+     "period": "Q3 2026",
+     "date": "2026-09-30",
+     "value": 1.0,
+     "display": "+1% YoY organic",
+     "note": "Reported Oct 12. Fashion & Leather Goods fell 5% on weaker China demand. 9M organic growth was +2%.",
+     "url": "https://lvmh-com.cdn.prismic.io/lvmh-com/Y6AfTE0Y7WFnyftQ_LVMH2026ThirdQuarterRevenue.pdf",
+     "added": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "earn_hermes",
+   "label": "Hermes organic revenue growth",
+   "unit": "% YoY",
+   "readings": [
+    {
+     "period": "Q3 2026",
+     "date": "2026-09-30",
+     "value": 4.3,
+     "display": "+4.3% YoY at constant FX",
+     "note": "Reported Oct 22. Leather goods grew 10.8% at constant FX. 9M growth was +6%. Hermes rounds Q3 to +4% in its own release.",
+     "url": "https://pulse2.com/hermes-reports-q3-2026-revenue-of-e4-1-billion-and-nine-month-sales-of-e12-3-billion-as-americas-and-leather-goods-drive-growth/",
+     "added": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "earn_kering",
+   "label": "Kering comparable revenue growth",
+   "unit": "% YoY",
+   "readings": [
+    {
+     "period": "Q3 2026",
+     "date": "2026-09-30",
+     "value": -1.0,
+     "display": "-1% YoY comparable",
+     "note": "Reported Oct 22. Gucci fell 6% comparable. Jewelry grew 11% comparable. 9M comparable growth was flat.",
+     "url": "https://www.kering.com/en/news/revenue-for-the-3rd-quarter-of-2026/",
+     "added": "2026-11-20"
+    }
+   ]
+  },
+  {
+   "id": "earn_richemont",
+   "label": "Richemont constant currency sales growth",
+   "unit": "% YoY",
+   "readings": [
+    {
+     "period": "Q2 FY2027 (Jul-Sep 2026)",
+     "date": "2026-09-30",
+     "value": 13.0,
+     "display": "+13% YoY at constant FX",
+     "note": "Reported Nov 13. H1 sales were +17% at constant FX. Q1 was +20%. Jewellery Maisons grew 14% in Q2.",
+     "url": "https://www.richemont.com/news-media/press-releases-news/richemont-posts-strong-results-for-the-six-month-period-ended-30-september-2026-driven-by-sustained-double-digit-sales-growth/",
+     "added": "2026-11-20"
+    }
+   ]
+  }
+ ]
+}

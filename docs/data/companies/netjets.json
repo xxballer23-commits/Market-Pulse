@@ -1,7 +1,24 @@
 {
  "name": "NetJets",
  "slug": "netjets",
- "watch": null,
+ "watch": {
+  "name": "NetJets",
+  "slug": "netjets",
+  "category": "travel",
+  "what": "Private aviation provider.",
+  "why_fit": "Private flying and premier sporting event access match what HNW and UHNW cardholders value, and could support a concierge or flight benefit.",
+  "status": "emerging",
+  "added": "2026-11-20",
+  "updated": "2026-11-20",
+  "history": [
+   {
+    "date": "2026-11-20",
+    "status": "emerging",
+    "note": "Named official private aviation provider of the Hahnenkamm Races in Kitzbühel. This is an event sponsorship, not an issuer deal.",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORi1wZ2FtMVJ2cjJXRTBVVDU5ZC1CMUlnM0VuSGY5OFpEcGtaY0JhWU54ekRzSU1FYTdoVzYtbVRQZHJCeWFTZExNa2FMZWI5WG9Rbi1lRmJzQmgtUVVPU0Z4ZElwT0tCdWYteFJBZjRnRGF4RHo0dElZODdZYlpjMDl0XzVSVldJSEdtdU92VGJ4MV9GOVNfQWg2SkNONVdpS1hUMEllV2E4MWZUdFd5ejcwTmFmc0RPcGZsRWtFZER1Z3RiNmU4UGdyTmhnNzEzaUZRRVE4Qi1LMUhoQTFOUTh3?oc=5"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:24:59Z",
+ "updated": "2026-11-21T00:28:17Z",
  "companies": [
   {
    "name": "Anthropic",
@@ -81,7 +81,7 @@
     "community": 2,
     "partnerships": 1
    },
-   "watch_status": null,
+   "watch_status": "signed",
    "has_vet": false
   },
   {
@@ -444,7 +444,7 @@
    "sections": {
     "premium_cards": 1
    },
-   "watch_status": null,
+   "watch_status": "signed",
    "has_vet": false
   },
   {
@@ -583,7 +583,7 @@
    "sections": {
     "luxury": 1
    },
-   "watch_status": null,
+   "watch_status": "emerging",
    "has_vet": false
   },
   {
@@ -993,7 +993,7 @@
     "partnerships": 1,
     "community": 1
    },
-   "watch_status": null,
+   "watch_status": "emerging",
    "has_vet": false
   },
   {
@@ -1195,7 +1195,7 @@
     "community": 1,
     "partnerships": 1
    },
-   "watch_status": null,
+   "watch_status": "signed",
    "has_vet": false
   },
   {

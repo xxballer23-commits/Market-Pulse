@@ -1,7 +1,24 @@
 {
  "name": "Atmos Rewards",
  "slug": "atmos-rewards",
- "watch": null,
+ "watch": {
+  "name": "Atmos Rewards",
+  "slug": "atmos-rewards",
+  "category": "loyalty",
+  "what": "Combined Alaska and Hawaiian airline loyalty program with its own premium co-brand cards.",
+  "why_fit": "A major West Coast airline currency that issuers are actively paying to acquire members for, relevant to any airline benefit or transfer play.",
+  "status": "signed",
+  "added": "2026-11-20",
+  "updated": "2026-11-20",
+  "history": [
+   {
+    "date": "2026-11-20",
+    "status": "signed",
+    "note": "Bank of America targeted offers rose to 125k points on the Atmos Summit and 90k on the Atmos Ascent. Atmos also has a double points promo on Hawaii flights through March 10, 2027.",
+    "url": "https://www.doctorofcredit.com/targeted-increased-bank-of-america-atmos-offers-125k-summit-90k-ascent/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

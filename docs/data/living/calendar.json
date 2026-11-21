@@ -1,0 +1,53 @@
+{
+ "updated": "2026-11-21T00:27:29Z",
+ "entries": [
+  {
+   "date": "2026-11-30",
+   "title": "Miami Art Week begins (runs through Dec 6, anchored by Art Basel Miami Beach)",
+   "type": "event",
+   "company": null,
+   "url": "https://themiamiguide.com/art-basel-miami/",
+   "confirmed": true
+  },
+  {
+   "date": "2026-12-02",
+   "title": "Art Basel Miami Beach VIP preview days begin (Dec 2-3). Global Lead Partner is UBS",
+   "type": "event",
+   "company": null,
+   "url": "https://www.artbasel.com/stories/art-basel-announces-exhibitors-and-a-reconfigured-showfloor-for-miami-beach-2026?lang=en",
+   "confirmed": true
+  },
+  {
+   "date": "2026-12-04",
+   "title": "Art Basel Miami Beach public days (Dec 4-6), Miami Beach Convention Center",
+   "type": "event",
+   "company": null,
+   "url": "https://www.artbasel.com/miami-beach",
+   "confirmed": true
+  },
+  {
+   "date": "2026-12-09",
+   "title": "FOMC rate decision, projections and dot plot (meeting Dec 8-9)",
+   "type": "event",
+   "company": "Federal Reserve",
+   "url": "https://fedgazette.com/fomc-meetings/",
+   "confirmed": true
+  },
+  {
+   "date": "2026-12-30",
+   "title": "FOMC minutes for the Dec 8-9 meeting (date per third-party calendar, not yet checked against the Fed's own page)",
+   "type": "event",
+   "company": "Federal Reserve",
+   "url": "https://fattail.ai/fomc-meeting-schedule-2026/",
+   "confirmed": false
+  },
+  {
+   "date": "2027-01-14",
+   "title": "JPMorgan Chase Q4 2026 earnings (call 8:30am ET). Just outside the 6-week window, listed as the first big-bank report",
+   "type": "earnings",
+   "company": "JPMorgan Chase",
+   "url": "https://www.jpmorganchase.com/ir/news/2025/jpmc-announces-conference-calls-to-review-first-quarter-second-quarter-third-quarter-and-fourth-quarter-2026-earnings",
+   "confirmed": true
+  }
+ ]
+}

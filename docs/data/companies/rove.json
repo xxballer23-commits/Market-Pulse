@@ -1,7 +1,24 @@
 {
  "name": "Rove",
  "slug": "rove",
- "watch": null,
+ "watch": {
+  "name": "Rove",
+  "slug": "rove",
+  "category": "loyalty",
+  "what": "Loyalty program that has launched personalized shopping offers with in store earning.",
+  "why_fit": "A loyalty currency with offer based earning could work as an offer or transfer partner for card benefits.",
+  "status": "emerging",
+  "added": "2026-11-20",
+  "updated": "2026-11-20",
+  "history": [
+   {
+    "date": "2026-11-20",
+    "status": "emerging",
+    "note": "Launched personalized shopping offers earning up to 25 miles per dollar and expanded in store earning.",
+    "url": "https://thepointsguy.com/news/rove-personalized-shopping-offers/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

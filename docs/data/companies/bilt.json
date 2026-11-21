@@ -1,7 +1,24 @@
 {
  "name": "Bilt",
  "slug": "bilt",
- "watch": null,
+ "watch": {
+  "name": "Bilt",
+  "slug": "bilt",
+  "category": "fintech",
+  "what": "Rent rewards and points platform that runs frequent points promos and airline partner offers.",
+  "why_fit": "Its rent focused rewards model and airline tie ins are a live benchmark for engagement and benefit design that appeals to affluent renters.",
+  "status": "signed",
+  "added": "2026-11-20",
+  "updated": "2026-11-20",
+  "history": [
+   {
+    "date": "2026-11-20",
+    "status": "signed",
+    "note": "Bilt Rent Day offers up to a 100% bonus on points redeemed for statement credits (normally 0.55 cents per point) and a JetBlue Mosaic status match.",
+    "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {
