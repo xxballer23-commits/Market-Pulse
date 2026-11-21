@@ -50,10 +50,10 @@
   "curator_github": "xxballer23-commits",
   "url": "https://xxballer23-commits.github.io/Market-Pulse/"
  },
- "last_sweep": "2026-11-21T02:49:59Z",
+ "last_sweep": "2026-11-21T02:54:23Z",
  "last_sweep_stats": {
-  "new": 3,
-  "merged": 0,
+  "new": 26,
+  "merged": 1,
   "sources_ok": 50,
   "sources": 53
  },
@@ -62,7 +62,7 @@
   "task": "enrich",
   "type": "BadRequestError",
   "status": 400,
-  "message": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '\"thinking.type.between_tools\" is not supported for this model.'}, 'request_id': 'req_011ChFK6f9YDdia4WFM3zVzt'}",
-  "at": "2026-11-21T02:49:59Z"
+  "message": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '\"thinking.type.between_tools\" is not supported for this model.'}, 'request_id': 'req_011ChFKS6CCJYSUfApJEGj3C'}",
+  "at": "2026-11-21T02:54:23Z"
  }
 }

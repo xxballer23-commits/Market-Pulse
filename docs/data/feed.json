@@ -19952,7 +19952,12 @@
   "fetched": "2026-11-21T00:04:57Z",
   "summary": "",
   "hint": "nyc_dining",
-  "also": [],
+  "also": [
+   {
+    "source": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjVWTDMzNDJXV2pDNVQ1LXJnSnNOcFp6RGZYMnV6VnFSdDcwdVpRbVBhNDhrLTVfTW5VcE16ZGg4bVZhc2NTc0ttd01qLVlGOE01VjhGTlNrVGRnNUUyalY2LWxnU2hlRDhlLXFyWVhZbDh0QnlhenlJeTJ4T2ktTVR6cjBILUZpWVBj?oc=5"
+   }
+  ],
   "enriched": true,
   "sections": [
    "luxury"

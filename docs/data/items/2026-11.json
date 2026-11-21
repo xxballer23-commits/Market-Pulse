@@ -959,6 +959,48 @@
   "enrich_v": 2
  },
  {
+  "id": "5db555daa263",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObEpFX3VDa3ZVV0hpWHFvWG9zTkxkTXI1T1l5SWtybjBELUtMTGw4eG5jUURnSFU4eW5GVXYzcWlIaHdxTzhZMlJ0bXRCTjZSWUJVU3pPa1RlVVNUTVJQX2NjcWhmR0lMQ0NyeWtIdWdybU1BamMxS1M4aFZZSkJ0eGFwRkhYVVk3YXVZTG5jVXc1NkU3THVmLUdGaw?oc=5",
+  "title": "Woodberry Kitchen to Close April 30, 2027",
+  "source": "Wisevoter",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T23:44:28Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
+  "id": "a0b408e885b3",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWmNGZnZDdUdiVWxIcWlGLVAyNTEwMzdUR1RuZ090amgwcEgzWjhSWWhDUlRYenJFZjVYaVZlQndERUJ0WGQ1MmZtVDlmVjR4cVdLU2F1RkRlODVCc2EtWERIWjNRdzBMQzljUWtzT1lDSjZwMHJERW9jMEFXMkxTRkRjNDUyWlZ0OVRQVDA1WEdWT0lhR2JPbGE0Zw?oc=5",
+  "title": "Laya Café Opens in Downtown Santa Monica",
+  "source": "Wisevoter",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T23:42:57Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
+  "id": "d5068d101add",
+  "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWFZ0UExVeks1eVg1djlvbnpnMmUwYmdhdl8tYzh0OG5WWlZLb29LempDRXVaQW9Lc3NWeTdOVnFwRjI0OEdMVE03YWxneTZONV8yM1BHdTc3eGkxWG5qY1FHVUF6QVNMWkRqZE1wRXZiNkJybUVCZkZPWE9qX1FLYlZxblFWZXFyUUdCQnV0WGlWenpOM1BtRDRZOA?oc=5",
+  "title": "Kulture Closes Downtown Houston Restaurant",
+  "source": "Wisevoter",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T23:42:40Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "f6d215d9eb69",
   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWW1jeHRIcG9nTnJoYUpTM1dwT0Z5Tkp3eWlRSDFiUmZuRTctOUxYa2o3VEZMQXo3TW5nZ1pwZ2x4NHlwLVpJSURWaTdpVkNUSm5LOW1IQlFrdF9meTNzbS03X2ZRd1ByNngzUU82NDF2NGpvMURyLWRFZE92dVU5VERvWlFDZXpxTnRnM3YyT0lYanJmcndtX0lzX0U5eGtEeUR2emxTX25MdWEtM2M4?oc=5",
   "title": "Casa de Sada Beach Resort to Open in Algarve in April 2027",
@@ -3508,6 +3550,20 @@
   "enrich_v": 2
  },
  {
+  "id": "ca64d63f0460",
+  "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9FX2xVcmo0Wk9SM0VUaExveUwyWjhlc3U0Ymd4MmdqQ1ZyOTJjaXNXRFFIXzJ6YlZTVVBRNmlPV0hxZFVnSXpsRzRtRXJJbFlyYlByM0c5TXkzdlEzRjhPREduU3B6dw?oc=5",
+  "title": "9 Of The Best New Restaurants In Vancouver",
+  "source": "604 Now",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T19:58:45Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "1b591d360d45",
   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSG9xQkgxRzhTcjBMQUJrbnJ0SndGMmQ0MHFDd3N6T3JMa1hiamxMa0NNbWhnWjRJRzE0YXpYOUpWQWNGMkF5blJCd0Z3N2xBRDRtMnRUcTlsZjAyaDFfZl83dGdpbWp4cjk0N0NaZTA5YXR4MmFvVl9lS19qOU4zRXVQeXJwNE9fdDUyWnUzR04?oc=5",
   "title": "AFRM slides as seller pressure and downside momentum outweigh rebounding signals",
@@ -3755,6 +3811,20 @@
   ],
   "low_confidence": "Thin source, figure unverified",
   "enrich_v": 2
+ },
+ {
+  "id": "28f4272795c9",
+  "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb05qYUZKbDNJVThidVRrZnZic3FqaUlWSjBSdS1ybzF0WTFMUE43LWFjVDNXY3Fwb0gzR2pteU5mdG5OQWctMXFTVmZDb0prQkVWWEIwXzJYbzNRWkZoSk83RkxRNkQ2THNLOUZRWGZkaUx4NUdVYnZ5ZHZ6WE1zbW5jaWpfZWc2a3BwYjR1Zm43LVBiUld3SkY3bWlncTIyVFBEbjNkMFgySlRkSGFZ?oc=5",
+  "title": "New York City Weighs Ban On Common Cooking Practice As Top Chefs Blast Proposal",
+  "source": "The Daily Wire",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T19:35:51Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "bd6d36c99f72",
@@ -4321,6 +4391,20 @@
   "enrich_v": 2
  },
  {
+  "id": "d525d7cf6b6c",
+  "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd1kwRkY4Z0kxemR1X2hkQTZaRWV0UjVxcGlIXzVUeUFMQ2lrY1lrSWtOcDM5dm1mZXBvbzhGZmxfMHlBZDg2bkhmQlpKYjlXR3FUS0hDTFFxX0ZDbnlvRkJvdzM3V1I3Ul9CZ0k3ajlEeUVBdFBMamRPYVZJVWpMTkdQdEtVLWhIdER0cko4QTk0RG9OTVBvZENTdUxGMDFxVi1wdmVoMjlMR3VzeHhlRElB?oc=5",
+  "title": "Summit just got a new French restaurant led by an impressive chef",
+  "source": "NJ.com",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T19:00:00Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "41c9ebb3a68f",
   "url": "https://www.finextra.com/blogposting/33530/human-judgment-and-inclusion-are-the-real-drivers-of-financial-ai?utm_medium=rssfinextra&utm_source=finextrafeed",
   "title": "Human Judgment and Inclusion Are the Real Drivers of Financial AI",
@@ -4802,6 +4886,20 @@
   "nyc": null,
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "2e2154b9e42a",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95bVlfSlJJaFlrUHFBeVNxaDJmd09JUHhBdGJMSGJxdlVVTEY4UmdkMzlEZThqMnNjNUsyTktHYW10UlRXbk5qWTlubk5KU1R1c084QlhzekZ0Tlhubkk5RmdCd1Nqd1JT?oc=5",
+  "title": "The Best Restaurants in Quebec City",
+  "source": "Tastet",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T18:14:02Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "44694ef07b9f",
@@ -6680,6 +6778,20 @@
   "data_points": [],
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "95cbc674dab8",
+  "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOVV2bzF2ZDU2Ti1saGVKbGVWcjBBNklPVDh0X2pxWnl5cVJDUTBVbXVEc3lQamJjQjZrNW01QU9uQkZEMlUwOTFKZkZReHlEUno3Ym9QT2ZBTHU1RWdSOFJORnVaeS1INEp0WHJWZWdjMXl3d1VqckxVbW41M2Jodjc4cE02SDZYTlhBM3BCR2JkeEhkcUJLRC1vQkFCak5rOGt3ZWJHWFZNM2lSeE9XWjJHejhVcmZtanFlYk0yOHM0Y0JaNVE?oc=5",
+  "title": "As Clare Reichenbach prepares to exit the James Beard Foundation, a look back on her tenure",
+  "source": "Restaurant Business",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T16:11:19Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "187dd88daae4",
@@ -8883,6 +8995,20 @@
   "enrich_v": 2
  },
  {
+  "id": "085b8bdafd59",
+  "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREVocjRkZzJPc2xoWDBkVzdpa0lpWHpLeW9aUGFKM1RHQUljcUdISWNZcXJfcXBUbTlRdGVVSEt1WV9USkhqam15VEVkY3hqcjhMSWdHU2M2bGFxUzJrX1I1by1lNVVsQ1pPdmdQWFQzbDdaa2dyb1hhNTAyRkJlZm9VTmN3SERJaEFieDZXMndZOS0wRng2WXNtMUlPQ0dfS0E?oc=5",
+  "title": "A veteran Philly chef plans to open his first restaurant in Kensington",
+  "source": "Inquirer.com",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T14:01:00Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "c28c8ed47c9d",
   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbWlBRDhsc3dPNVRoSGZob1FrMGFVeURvY3BDaHk4em9HS2ZxNmlmY0hBMDlMaGVYeklnd3Mwdk5yVFNINWY3QlE2VkFjM3BpQWxsRXNaR19YZVZNN0tLeUZUOVd0M1NIMzZSOUQzcmdmSlhZVDZmcU5iRWwxcm1qTzRPM2FZclhPNG81dk5jUjQ2TFZjYWlDVWZEd3VsRlk?oc=5",
   "title": "Bilt offers JetBlue status trial with reduced retention targets",
@@ -9309,6 +9435,20 @@
   ],
   "low_confidence": "Thin source, no summary",
   "enrich_v": 2
+ },
+ {
+  "id": "7a99215452dc",
+  "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQekg4dVdNWkppenRHZjl2cFU0Vlp4bm5MRWZpa2NYb2NMWEJkNlpVaFJrcF85dURzcEJSbEdEZkVMUV91ZnNjYlhycXBVVWVTeVpjSFlXcVVEeXJMVW9oOWxIakotYWdqenRTaExqbTJEUmVnRGluWml2cy1uYnV1dEw1UkRUZW01SmtvM0x1QVFueHVMR29xSmJUanJZQVNwVVR0eVR0Q2YxT2JlaC1zTzJBbVJpNmhJRXV1cnZIQVdIT3F0WWZoNXBrM2tmZDdsdDFCVjQyTk1Yd0dNNUZn0gHfAUFVX3lxTFB6SDh1V01aSml6dEdmOXZwVTRWWnhubkxFZmlrY1hvY0xYQmQ2WlVoUmtwXzl1RHNwQlJsR0RmRUxRX3Vmc2NiWHJxcFVVZVN5WmNIWVdxVUR5ckxVb2g5bEhqSi1hZ2p6dFNoTGptMkRSZWdEaW5aaXZzLW5idXV0TDVSRFRlbTVKa28zTHVBUW54dUxHb3FKYlRqcllBU3BVVHR5VHRDZjFPYmVoLXNPMkFtUmk2aElFdXVydkhBV0hPcXRZZmg1cGsza2ZkN2x0MUJWNDJOTVh3R001Rmc?oc=5",
+  "title": "Places To Visit In US: 5 Bucket-List Dining Experiences In America Every Food Lover Should Know About",
+  "source": "Free Press Journal",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T13:30:56Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "a2435921bf25",
@@ -10018,6 +10158,20 @@
   "nyc": null,
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "1816fb8440df",
+  "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWmcwc09wcGdFVUpTUGk5cUhFcjh6eW43V1JQX2NoNW9ta2J3M082WnFOVTNtM1hoQmdsaUFiV3pZUkYtVi1TM0dZRlI0TFllcGdpTldoV0h0SDhrUUxZTWpIQXJhc1Z1aS0xdHdLNGt1S3ZuVTZOUEl4S09Mdm1GX2swTm4xUEZHQ0lkYk9neGlUNFdWWU9wVGRTeGpHU2g4N3Q2dw?oc=5",
+  "title": "Scotland’s 12 most famous chefs – from Gordon Ramsay to Lorna McNee",
+  "source": "ScottishNews.com",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T12:25:36Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "0796e2f1a52d",
@@ -11761,6 +11915,20 @@
   "nyc": null,
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "1a57264f893c",
+  "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45M1B3NkswWkFuZHFVWmdnbXVpUFBpSzZkaU1rYzVjLVRIekJzd0U1enFjTmhaekRDdlJhelJaUVdlUXVKcFNUZ2FUMGRneXlXakFYOE05aTRUNjE0QlBHdVV3N3BDVWpQ?oc=5",
+  "title": "The Evren and Nines Open in Goa’s Vagator",
+  "source": "https://safariindia.com/",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-20T09:35:02Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "4e68e50c4890",
@@ -13709,6 +13877,20 @@
   "enrich_v": 2
  },
  {
+  "id": "9486f7ff3d1f",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNTNRQ0kwbU9SMDlDQnpTZm1TRkxUX1gxLXRLeVlpY0pZZmRhWG5ycnBwVXR2OGM3amQyUzk5R0NBdXJkTnJtRmYwbjM5c2RtTFpNZzhrSmdzVEJYTjA5Yi1hdExFSDB1UEdlcExfSWtNQ1Z3LXhLX0J4LVZGUDVfcDNQdE83aHFSRHdYeGhKNFBlZ1E?oc=5",
+  "title": "Design - Garments & Accessories Full Time jobs",
+  "source": "The Business of Fashion",
+  "via": "Google News: site:businessoffashion.com luxury",
+  "source_type": "gnews",
+  "published": "2026-11-20T02:05:57Z",
+  "fetched": "2026-11-21T02:54:18Z",
+  "summary": "",
+  "hint": "luxury",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "a4006b0c69ec",
   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXZLVzdveGxzd3FTZlBlRWJ6U0JJZjBhalB2elFCTkQwMVZxWUZqNW9HMm44YVdxUnJxQTc3VkZVdnR2eF95eHpIRERWYUpXYUdqZ01XQk94bGlUTExvUXhxUTRMTUxDYlRCMmJ6MzN3ak9xeEhKRF9ibl94SWN0dWcyMDl2emVXdnNJRkNvY2xfZFliZmlfYXQzQnlBM1RJdVhfWDVOYlBzczZPMEFqVmxDa3gtczJ0d245akdhV0NfcTZRNUZN0gHMAUFVX3lxTE82NDdUeExPREl6NUlNYTF6VUdoT1d4cWgwUW9QUzJlUDd6TXlTcHItaGtTcXZkLUpRZFk1UlVDRGt1VGNUZWdickRva3Bod3VkZXlSOGlUbERUbGhKVEROY3paYS1CZGZnc3pMekZNUTZ5OGNQdVpOZmFsLXdHZHdIWW5WMklkV0tWMkdCc1JES1cwVkdoY0FmMlNOTS1GSjAxWGVjZEs4dGp5TWdOa3gtYm5VTUprZTMxV2RrSXVFOGpqZk9mOVBNRWFVRQ?oc=5",
   "title": "ECL transition could consume more than 5% of net worth at five banks",
@@ -15307,6 +15489,20 @@
   "enrich_v": 2
  },
  {
+  "id": "98ee1aa33463",
+  "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQenJjWE5xbjJHX2h4dkFMS3VYd2x5TTNON3FZTUtISFZIcmdQMmxXS1ZJRVRiYmdYQmVqSzVmNzA2S25oZ1J2cUFrelBEZWJuUUVoZk9wSkVmeUxWakNBNmhwZTF2TDk0WHR2Ulh1bXlkTm1PekktaVFPQ1dFTUx0Tlh2UTUtZmR5Y1RFMEJXSmlWQ2p4OW5CQVNuN3gxUQ?oc=5",
+  "title": "Roots Cafe to Open Madison Park Location",
+  "source": "Wisevoter",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T23:42:43Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "fad1c5f9b8c2",
   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOTzdGYy1TUTdmNUw0SFowMFo0OUhWWXJsR1EyNldjVkRPeUgxajI2NzJONXVvc1A1ODgyNUNkLTdiVXRsRDZiYlE3dW0xM2s5bjNGN2dDdG9IUmEzbmlLekMxWDFTYkt3Zng4VmJMTWxfYlRRcHVhdDVnYV9YaTREQ09kcEV6MXdZRmM3MFhUa1pmdjBsVFlRVEdsa05TdmYwMlFGdmJTc2RHaUtDR0w3ZWx4UUNSWWh6YWdkY2cxUzhEM2d0d1ZzTENncE9fQWZJUWFGdS15Q2c3eDdIcHNMbEFuOE5YRG5JekdjeEZlQ2toQ0pjR0hj0gH8AUFVX3lxTE9mYlozMWk1dkRsWkUxeUd6SGZMalZ2a043bHE2Ym5UZGIyNFk2TDM2eFM1Snd4b2FyZXFHNXhkdWkyZmhidVdVUS1GSWYtWXMyT1paTGlFSGtELWtzU0ZXMmpPVllxSmg3LXJLMU5paDQ0dDhKU0JKZ08tMG1DQTgxcXlqclJfcENLX0VPNkxscmZNS0loVXNrN0FjSnVwYnZvcjJHWU5fcURmSjFLRkZBMTE4dFk0N3NIVlRKaFl4ZXpaMDd0QlBlb1Fzak5LbVlwOG53eFBJUG5PdmZDOFRrazdtajdCbUdFbmExYjV3U3d1SkI3N2JaMlZnZw?oc=5",
   "title": "Gaming and Leisure Properties Announces Pricing of $600,000,000 of 6.250% Senior Notes Due 2031",
@@ -16144,6 +16340,20 @@
   ],
   "low_confidence": "Reported valuation talks, not closed",
   "enrich_v": 2
+ },
+ {
+  "id": "e89993a002e1",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTVNVS3ZhcGx4M0FzaGNSQ0EtcTRVSWtkd1ZQY2tZTG5qRFdGSkc4ZDhEajNuLWVOc0dfaTRkdkdIQ2pjOWhIdWFFN3RKTlN5SVp5ZXJCVzBRZGpTa05uaWhoa2wzcTdaTER4dzI4SFNZc0l5UFlzanV6ampMSlJEN0NfWmZWMzFsYTBYcXh0aldkaE0?oc=5",
+  "title": "GFL Pizza Opens Restaurant in Former Blocky's Space",
+  "source": "Wisevoter",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T22:04:16Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "9201ebd8de65",
@@ -19176,6 +19386,20 @@
   "enrich_v": 2
  },
  {
+  "id": "a8d820cbec2f",
+  "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5acU82V1dGV05qZDIwc0JUVGszTkppdmpJb1p6Ql9kNmx4UHFjRGlQcXpfcFR5OVplcjZweVpKZkhndE5XWnhVOUFsVmhVcUxlVU1LTDVYZTR4a1o0eW1JTnAydkN0eFAzV0d3blRBV2tEckhhNEVYQVkta2tsZw?oc=5",
+  "title": "Coconut Water Has Never Been More Popular – Here’s How to Include It on Your Menu",
+  "source": "Total Food Service",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T17:37:43Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "ccb6920a1260",
   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeEwyOU43UDBUODJFOXBVRGRER0tRUFJ5dVlUaEQyV19kcFRzd0dEZnBHbG9PSEcxaFNiWHNIOWhEekw3c3huNU82b3NIN3JRbVYwcXlxcGc0YXlCX0t3dlk2aGlaZVdpYXJQUXFLU0ZPZ2tRZm1kNnZJTXVaZ29JcURHRnBTZ0QxODhLX3hEaExvRTJhNUtjblNCV3lxd2ZTMEF4MmNyVmNFZ0ZFaGJYbWkzeXFielNl?oc=5",
   "title": "Rayleigh Lounge opens at Western Sydney Airport in November",
@@ -19966,7 +20190,12 @@
   "fetched": "2026-11-21T00:04:57Z",
   "summary": "",
   "hint": "nyc_dining",
-  "also": [],
+  "also": [
+   {
+    "source": "Yahoo",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYjVWTDMzNDJXV2pDNVQ1LXJnSnNOcFp6RGZYMnV6VnFSdDcwdVpRbVBhNDhrLTVfTW5VcE16ZGg4bVZhc2NTc0ttd01qLVlGOE01VjhGTlNrVGRnNUUyalY2LWxnU2hlRDhlLXFyWVhZbDh0QnlhenlJeTJ4T2ktTVR6cjBILUZpWVBj?oc=5"
+   }
+  ],
   "enriched": true,
   "sections": [
    "luxury"
@@ -21536,6 +21765,20 @@
   "enrich_v": 2
  },
  {
+  "id": "e6446f768c6a",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVGpWdnVJN3FkWkhtLXJTejJiVHMwZHJKYVIzRmx5amhZb3IyeEtMZWRLZF9WdktXczFUZ0FoeG9zZXBicFVydVoxTUhmNmtFbWtWSEd2NDlvaWphNnc1VVN0UVFJTVd2TlNVQkpTUHZULXFqV0dhaHo5cFB4T1lySWEyVmNGX3VaR0HSAZ4BQVVfeXFMUGYzNjFFOFF6eDNSenh4ajdNNzFjX0tibGtKN2toTTZRMWVkejJRd1lxMGFfSjVQWlFmSjR2ZlE5V08tVXZ4cERIbWJQclhiLXNyd2tkVU1yNTVFRmllVkxONDJZTE9hdmViNENlNHpHeGFLRTd4bGFBMHFiVEJvY0FuT25Cc0xseFZjOG1ZYzVZTllTZzliNi1JUTRQYXc?oc=5",
+  "title": "A sushi favorite to reopen in Birmingham area",
+  "source": "AL.com",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T15:03:00Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "a5c2ea86ce3c",
   "url": "https://www.finextra.com/videoarticle/3645/what-controls-allow-for-strong-governable-ai-assisted-infrastructure-modernisation?utm_medium=rssfinextra&utm_source=finextrafeed",
   "title": "What Controls Allow for Strong, Governable AI-Assisted Infrastructure Modernisation?",
@@ -22820,6 +23063,20 @@
   "enrich_v": 2
  },
  {
+  "id": "f1e58312e3c0",
+  "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE81bDBLOVpTRTNaNXZqelYyZGVFTHRycGx3N1ZTWmdxcnJIOVRkSV8yTXRpeUZSWnMzN3dPN0FnaWN6M0hqbUt3VWtscXhKdEFuVjA2enV3VmFTaXhOUVpJVktOVVJyaFBfeXhvQS1IUjZnLWZhcHlSTg?oc=5",
+  "title": "[Expired] New Capital One Shopping Offer: Get 10.5% Back at Giftcards.com",
+  "source": "Upgraded Points",
+  "via": "Google News: \"Venture X\" OR \"Capital One\" premium card lounge",
+  "source_type": "gnews",
+  "published": "2026-11-19T13:49:58Z",
+  "fetched": "2026-11-21T02:54:18Z",
+  "summary": "",
+  "hint": "premium_cards",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "799675ba56cb",
   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeklXR2JWOWV2T2IxRGM2YUhHa1ItSElCWUV5dXNYQmRXVFRNSmNIbWxPMFNEZ1VrMkc0YTRMb2ZmdXFaZGpzdjhLNzB5Nl9xbFVjZ1ZUY1NvdHlMZkYtZGt6RmlTUW1DbDRBdU1acFRudXdMdjdBRkViUnd0WEM1WmpGeFNqa0xKU1dfRHdxUm92TUJ5bzMyREk2QVFRbWplWFUzUXR5SWNMOWdlcGNiTGpfQUNiTEJpS2xydWlUYnVMOHZmdW5yYUx4cF9UbnFOb21GLVRZa1pLZk3SAeABQVVfeXFMUHFYTFNWMjQyMGF2bFZUMEx1V3VBRDBpYXE2aGk0MlptMU9fWVljZ3lwV05ZNWJESmNqTTl1ZDVpNmdmaTZpTGxmTlc5RUJqSWgwa2M5amRFNVk5UXRWVmNobm5QY0xvWVpsQXFINUdEQmVOdTg2QWsycGhyVW1HMzhrMEtJZGJKNDdJcTZxdzA3UFVjVENYS19JeE8zMVNBTGlGTGNrcDlsZGktUkxpRmdQUHhNUXJXMHdKbDkwOEc0d0J5eW9IdmxUTE5SYjVqekUxY2ZScm1DczJoSWNwaF8?oc=5",
   "title": "PNB inaugurates next-gen youth-centric digital banking branch at Parliament Street",
@@ -23174,6 +23431,20 @@
   ],
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "1abb8e99c113",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUFJwbENuSVNZYjZrQlc5eFUxUV83aVpjbWExRjJWeUk3MnMwX0FtaDExNXZGZGM4cXEwU0ptUXh3cF93Y2FMaUhVUDFrNGJKWS1wT3RyODE2dGUwRVQ4dW9zTnhXaUdMRTU1Sl9DcWdzRHJVMXBFc2p2VHVwTWR1ZDJtZ1BqUXVfSml2VEFKQ2xpZnhjRHI2OENvSVBmdktGNW1CV3VRbV93dHFvdzFTR2VDT1hCeWNzT0E?oc=5",
+  "title": "Federal to give out 1,000 free coffees when it opens its doors in York",
+  "source": "Great British Life",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T13:15:11Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "e110eb4f6d65",
@@ -24396,6 +24667,20 @@
   "enrich_v": 2
  },
  {
+  "id": "f45f4947f585",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcV9VZUJXM0ZGNmI4RjRBd1NZOUYtMTFJQjlQeTVMLXJQcUdseUhMdVE0ZDJpTEFsMzVJd1RlRzk3UHlkS3p0R2hmajc0YTFrWnpRMkxBdjZ3cUI0QU1jXzFXQVl5T3V1ZU5LNW9TLXBlV3BubXI1UjQzU3UxMGRWS25oYzJ2TmFldjFMWTRybG1PbXo2S1BIVG96VUMyVGo5cFc2azJObw?oc=5",
+  "title": "As the Rittenhouse Hotel undergoes a transformation, a young chef extends his big break",
+  "source": "Inquirer.com",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T11:01:00Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "489ab0dae8ba",
   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNDd4VkVQOVo4Ym10MVUxdTBjMW9mb3lsRVRMcUJFZUE1VmhBbU5rYjRPSTRJYWctVUd5S0NPeVozM3phcGNCRTV0SURRYklZeGg0azJUdzFxUmpfSExuUFpkNkx0T2kxejBicmhodVptTUpOZ3BXdlVXUUhfOEdmRlVuRG1VWWtWbFp5cUtOVUpvRkp6V2drcXA4aWxoUWJLQ2c?oc=5",
   "title": "Veteran CFO Bill Zerella Aims to Fast-Track Growth at Stord",
@@ -24806,6 +25091,20 @@
   "data_points": [],
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "b39ef0b6dc93",
+  "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNV2VjSjB6c2FydmlqbjcyaVVXTFRENzBvTVBpUG9DVDA2SDFFYTc4TFZKcmpjRVdBcWZvSWtiLXpHZ2RMMXY3ZVFXaEhuWGJJSktkMy1BcVdMODVzWVJvU0ViUzd0RW9lM3UyaG1QZV9RZENOVzRodVV3VTIya1lZOERlWldoZ0dodTcxeEZ1akg0QjFnS08wTWlVcjZ1T2lCczFhbWpieGoycm9mR0xGddIBtgFBVV95cUxQNkRCV0ppZWJTOWpQNDBGX3V6LWJrWWNfTm1XY3o2NGs0T0h5LTNneTlvczBHdkRHeFE1ZEZneHM0a2ZWYW5QNWtuM3d2RlRVMF9qOWxGdXNKOXhSMjY1RVoxU2U2czI3c0Jja3hXbHJEMVlHUjBfU1hjRXVKdDlnbEdpYzRoRHJRUk9wdnB4MXRmbWVoZjdsYzFaNzZWT0lMbUNqWnJSUWd0WGtQMk5ubGY2MVpfUQ?oc=5",
+  "title": "Renowned Manchester chef gives brutal verdict after new restaurant announces 2027 opening",
+  "source": "Manchester Evening News",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T10:31:00Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "be71ea328291",
@@ -25416,6 +25715,20 @@
   "enrich_v": 2
  },
  {
+  "id": "db4b0f88cd83",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS1ZoZFZXOEFUQkUyV3EwTDFaTXVGektabDlhbmx6V21ocHhzVnFBSWVSaUtLRDVrcHVVd0hfdlBEVWRVTGRKaUVHSUhvenk3d1FrMVBTcDdRM2sxd0JqRDhsUVNXUHRENlRiNDBhcjlkNmcxbld5RTY5NkNIMF9ibTVBQXRyNi1VUHc?oc=5",
+  "title": "Wolseley Hotel New York appoints managing director",
+  "source": "The Caterer",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T08:57:19Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "ff11e5d563bd",
   "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOQlVEb3FVLUtpOTZ5c1M0WF9BcmJMd2pYYVVEVEQ1WEdQNEhSMllzb2RQekVRV0dyeTZ4RkVJWnhSTzlsOW12TDNoem1RdFVGOFM5UWVuTVVqckFLaHhHXzQ0VG4yc1ZQNWlVbW1reWVycm9veV9sU3FjV1pua3d5MlNPbWhzVWExTEY1RUM2MHU1Ty1XX1BVVlZVWFpXUFJYOE84OE01ZURpX0o2b3c3eEVhNmY3dUp4MFJTVXFYbFR1OU9Gc05kdXlDMDVHSUl3dHJEVnF5RTJiV3RoMEprTTV3eFk1cWI4X3BhWUFIc3JyX2tzNVNSRXp5YzhOVXhWNHFRRV9BT0otcENyMTFGVXltSEVzLUhiZ1JVVU40X1dsR0xVYnA40gGsAkFVX3lxTE40NlRlWVk2dDB5aVllaGF2bS00cm9razdmMzNBbS1NOVBQV0R1OFBvUVRLYVNrVHhIS0R0NFY1RmJHUnVtN1gtRXJCYm41cVVSZzdoaHFhVHgwTTAwSFNzT19GdmZkeDZqRlRwQTBINDFOV1FncXZxcUo4UUM3QVozTmZWVFVoTVg1a1ozQnVzV3NBT0dOQjBEcXFXSFBzdXZMZFBMTXhjZ2d1UFZlUEFIN0d3Q2VXNDZDRVczRWhmX1phTnA1UG5KeWtweldkc2hFbnptcmZQVlZQYnhabm9HTkZCZ21oN0steEFYNnlXSXRzVWIzYVJMQVBuUmNvR1pjUFpIckdsSlZQN2Q2VTZTVWhPWWx2S0VDYnFGSGowYy1IQnpiZFZpTnBURw?oc=5",
   "title": "Home, car and personal loan EMIs may rise as HDFC Bank, PNB and other lenders revise lending rates in Nove",
@@ -25691,6 +26004,20 @@
   "data_points": [],
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "19b9922cb8a0",
+  "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXROVGVQQ3p1OTNjbEJSRVItMVI4NTl6RTNMWUgtQmZMX2RHal9ZSFVCdGRHbHdLX1VpS1ljamRob1FhYm1JLXVuRm9RRUtHRzJ2anEweWlWcHZwSlR1RHUzTEQ3QUI0T0ttaFNTR3E2dW1RbVBGMGZaV0duYVR6S19hMlJZd25qNnU4MmtoWTVOZw?oc=5",
+  "title": "Yusuke Takada’s Osaka: The People and Places That Catch His Eye",
+  "source": "MICHELIN Guide",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T08:00:00Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "bb06c8d8dff0",
@@ -26168,6 +26495,34 @@
   "enrich_v": 2
  },
  {
+  "id": "cfe9a98c0612",
+  "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZlVXVWlQTGZ2VlNXOFkxYUJfM0t4TWE5QTEwbDlWMzBWX0hOS0FUcGpzZ29iQldORUFTR1dkOU5ka2hSQ0J6bnllRGdDclBvbXplQkYyVkRabFVmYzBOY2FjTkNSUHpIWk5wNmo0OVdPWEFVSGM0RFlsNDQ4MHp1WGI4YWtycEFJajBJODN6UWdscVFL?oc=5",
+  "title": "Chef Jassi Bindra Opens Maati at The Wharf",
+  "source": "Wisevoter",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T06:25:19Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
+  "id": "eef7cfd135a6",
+  "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0t0WVRWWkg0R3BlT3BJUTlvd2w2TlBjOEJ0cGx5Z0NkejZqZVdPdEZIS1JWQlhIZi12bE9taWdHZU9QR3YzdnRqcjdpNzRCNEYyOWFiMHQ2V1RXeDJYY1QzQUpVMXZvUGpHTlBDNXZod0VNXzMxUjV6RHVZYjJPSlZnUl9VbGVLREZ0MTBkVUI0cTNVYW9jU295V2s5U2hvSkd6WDZ3VdIBrAFBVV95cUxPa1NKZ09hZW9zdTNkT01YQmFuU0ZpMHVRdEtrN3pOTGR5N3lmUVNEYWxVOXBxdXJ0Qi1rRnJYRUQwLWNZd0lYZl9RdGFFaVBETDhJamN1SVh0NGxUUG5kemxUZHhoSGdfYVpxRzh2NWdxZjl2SFo3R0lWMkltS2dBOHNIZ0tuOWJfOUVDcFdDQk1xREZzN1ZkSWVNVlpFSy1pdkRaWk9DbzYwSUJ4?oc=5",
+  "title": "Food Network’s Bobby Flay Faces Explosive Claims From Fellow TV Chef Over 35-Year History",
+  "source": "ComingSoon.net",
+  "via": "Google News: New York restaurant opening chef",
+  "source_type": "gnews",
+  "published": "2026-11-19T06:03:10Z",
+  "fetched": "2026-11-21T02:54:19Z",
+  "summary": "",
+  "hint": "nyc_dining",
+  "also": [],
+  "enriched": false
+ },
+ {
   "id": "cd5760ac6885",
   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5falJmRDFPOHlBZW0xa2FnN0xVNC10eGd0d0JtUlE3OUQ4TzRYdWxJdVRhSHh1ZC1FVWRsR1lPVXJMTEtudVJHR1M2S0dVM3F0Sy0xNUh2dXpkTVBiQWczazc2ZDN3QjJnbjU5bQ?oc=5",
   "title": "Ally Financial (ALLY) Q1 2026 Earnings Call Transcript",
@@ -26237,6 +26592,20 @@
   ],
   "low_confidence": null,
   "enrich_v": 2
+ },
+ {
+  "id": "15c7aa66d790",
+  "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRzFFUUh4MTVRbmthb0hJX09MTHFFTF9tRll2ZHV4NFdxM1R5TWR3cHY2N004Tl81YVpMMHlnZVh6bXljejZyS3ZDcXNYM1lPVE0zMzR1S0lVaXhuVmlWMUNrMnlwXzFWWnFFcmh5X1ZYNG82NWh2eVBWX25ZTE1ZYmpmeUxjZw?oc=5",
+  "title": "Ecommerce Coordinator / Executive jobs",
+  "source": "The Business of Fashion",
+  "via": "Google News: site:businessoffashion.com luxury",
+  "source_type": "gnews",
+  "published": "2026-11-19T05:30:33Z",
+  "fetched": "2026-11-21T02:54:18Z",
+  "summary": "",
+  "hint": "luxury",
+  "also": [],
+  "enriched": false
  },
  {
   "id": "01134c435a14",
