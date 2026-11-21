@@ -3,7 +3,7 @@
   "2026-11"
  ],
  "feed_days": 45,
- "feed_count": 0,
+ "feed_count": 250,
  "sections": [
   {
    "id": "premium_cards",
@@ -47,18 +47,11 @@
   "subtitle": "Premium cards, luxury, partnerships and consumer credit",
   "timezone": "America/New_York"
  },
- "last_sweep": "2026-11-21T00:18:13Z",
+ "last_sweep": "2026-11-21T00:24:59Z",
  "last_sweep_stats": {
-  "new": 19,
-  "merged": 1,
+  "new": 12,
+  "merged": 0,
   "sources_ok": 50,
   "sources": 53
- },
- "llm_error": {
-  "task": "setup",
-  "type": "RuntimeError",
-  "status": null,
-  "message": "ANTHROPIC_API_KEY is not set. Add it under repo Settings, Secrets and variables, Actions.",
-  "at": "2026-11-21T00:18:13Z"
  }
 }

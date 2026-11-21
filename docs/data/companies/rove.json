@@ -1,0 +1,25 @@
+{
+ "name": "Rove",
+ "slug": "rove",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0da783497045",
+   "title": "Rove launches personalized shopping offers with up to 25 miles per dollar",
+   "url": "https://thepointsguy.com/news/rove-personalized-shopping-offers/",
+   "source": "The Points Guy",
+   "published": "2026-11-20T11:00:30Z",
+   "relevance": 4,
+   "why": "Rove's personalized offers and in-store earning expansion show a loyalty program that could be a transfer or offer partner.",
+   "sections": [
+    "partnerships",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 25 miles per dollar spent"
+   ]
+  }
+ ]
+}

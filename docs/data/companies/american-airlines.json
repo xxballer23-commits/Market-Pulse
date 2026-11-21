@@ -1,0 +1,22 @@
+{
+ "name": "American Airlines",
+ "slug": "american-airlines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "536fd5ee40db",
+   "title": "Why International First Class Has Failed At US Airlines (But Shouldn’t)",
+   "url": "https://onemileatatime.com/insights/international-first-class-failed-us-airlines/",
+   "source": "One Mile at a Time",
+   "published": "2026-11-20T17:30:20Z",
+   "relevance": 3,
+   "why": "Highlights a gap in US premium air products that a boutique first class offering could fill for high-end cardholders.",
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": []
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "name": "Alibaba",
+ "slug": "alibaba",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c7f2472c9803",
+   "title": "Ex-Alibaba AI Chief Junyang Lin Drives Startup Pragmatik Labs to $5 Billion Valuation",
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/",
+   "source": "PYMNTS",
+   "published": "2026-11-20T18:25:29Z",
+   "relevance": 1,
+   "why": "Private AI startup funding in China has no bearing on US card or affluent consumer partnerships.",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$5 billion valuation"
+   ]
+  }
+ ]
+}

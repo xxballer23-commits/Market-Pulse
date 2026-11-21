@@ -1,4 +1,1295 @@
 {
- "updated": "2026-11-21T00:18:13Z",
- "companies": []
+ "updated": "2026-11-21T00:24:59Z",
+ "companies": [
+  {
+   "name": "Anthropic",
+   "slug": "anthropic",
+   "count": 11,
+   "count_30d": 11,
+   "first_seen": "2026-11-19T22:41:00Z",
+   "last_seen": "2026-11-20T23:51:28Z",
+   "sections": {
+    "luxury": 1,
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Citi",
+   "slug": "citi",
+   "count": 6,
+   "count_30d": 6,
+   "first_seen": "2026-11-19T23:45:33Z",
+   "last_seen": "2026-11-20T19:00:19Z",
+   "sections": {
+    "community": 3,
+    "partnerships": 2,
+    "regulatory": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Nvidia",
+   "slug": "nvidia",
+   "count": 5,
+   "count_30d": 5,
+   "first_seen": "2026-11-20T00:01:00Z",
+   "last_seen": "2026-11-20T23:59:07Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "American Express",
+   "slug": "american-express",
+   "count": 4,
+   "count_30d": 4,
+   "first_seen": "2026-11-20T10:57:17Z",
+   "last_seen": "2026-11-20T23:00:31Z",
+   "sections": {
+    "community": 3,
+    "premium_cards": 2
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Capital One",
+   "slug": "capital-one",
+   "count": 4,
+   "count_30d": 4,
+   "first_seen": "2026-11-20T11:45:45Z",
+   "last_seen": "2026-11-20T19:04:21Z",
+   "sections": {
+    "community": 3,
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Bilt",
+   "slug": "bilt",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-19T23:45:33Z",
+   "last_seen": "2026-11-20T20:45:38Z",
+   "sections": {
+    "premium_cards": 2,
+    "community": 2,
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "PayPal",
+   "slug": "paypal",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-20T17:08:00Z",
+   "last_seen": "2026-11-20T18:30:16Z",
+   "sections": {
+    "community": 1,
+    "partnerships": 1,
+    "lending": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Chase",
+   "slug": "chase",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-19T23:45:33Z",
+   "last_seen": "2026-11-20T17:30:48Z",
+   "sections": {
+    "community": 2,
+    "premium_cards": 1,
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Wells Fargo",
+   "slug": "wells-fargo",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-19T23:20:00Z",
+   "last_seen": "2026-11-20T14:35:49Z",
+   "sections": {
+    "wells": 2,
+    "lending": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Delta",
+   "slug": "delta",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T17:30:09Z",
+   "last_seen": "2026-11-20T23:45:15Z",
+   "sections": {
+    "community": 2,
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Alaska Airlines",
+   "slug": "alaska-airlines",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T00:45:51Z",
+   "last_seen": "2026-11-20T21:00:50Z",
+   "sections": {
+    "community": 2,
+    "premium_cards": 1,
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "JetBlue",
+   "slug": "jetblue",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T20:45:38Z",
+   "last_seen": "2026-11-20T20:45:38Z",
+   "sections": {
+    "premium_cards": 2,
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Best Buy",
+   "slug": "best-buy",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T19:00:16Z",
+   "last_seen": "2026-11-20T20:32:05Z",
+   "sections": {
+    "community": 2
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "inKind",
+   "slug": "inkind",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T18:00:01Z",
+   "last_seen": "2026-11-20T18:50:33Z",
+   "sections": {
+    "community": 2
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Bank of America",
+   "slug": "bank-of-america",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-19T23:45:33Z",
+   "last_seen": "2026-11-20T17:00:56Z",
+   "sections": {
+    "community": 2,
+    "premium_cards": 1,
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "LVMH",
+   "slug": "lvmh",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T11:17:00Z",
+   "last_seen": "2026-11-20T12:02:32Z",
+   "sections": {
+    "luxury": 2,
+    "spending_data": 2
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Christian Dior",
+   "slug": "christian-dior",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T11:30:43Z",
+   "last_seen": "2026-11-20T11:30:45Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "SpaceX",
+   "slug": "spacex",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T00:15:41Z",
+   "last_seen": "2026-11-20T10:59:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Christie's",
+   "slug": "christies",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-19T23:10:21Z",
+   "last_seen": "2026-11-20T07:12:18Z",
+   "sections": {
+    "spending_data": 2,
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "JPMorgan Chase",
+   "slug": "jpmorgan-chase",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:37:27Z",
+   "sections": {
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Rakuten",
+   "slug": "rakuten",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-19T23:45:33Z",
+   "last_seen": "2026-11-19T23:45:33Z",
+   "sections": {
+    "partnerships": 2,
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Mastercard",
+   "slug": "mastercard",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-21T00:04:57Z",
+   "last_seen": "2026-11-21T00:04:57Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "China Southern",
+   "slug": "china-southern",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T23:50:23Z",
+   "last_seen": "2026-11-20T23:50:23Z",
+   "sections": {
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Hyatt",
+   "slug": "hyatt",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T23:45:15Z",
+   "last_seen": "2026-11-20T23:45:15Z",
+   "sections": {
+    "community": 1,
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Databricks",
+   "slug": "databricks",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T22:50:00Z",
+   "last_seen": "2026-11-20T22:50:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Hawaiian Airlines",
+   "slug": "hawaiian-airlines",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T21:00:50Z",
+   "last_seen": "2026-11-20T21:00:50Z",
+   "sections": {
+    "community": 1,
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Visa",
+   "slug": "visa",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T21:00:50Z",
+   "last_seen": "2026-11-20T21:00:50Z",
+   "sections": {
+    "community": 1,
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "SWISS",
+   "slug": "swiss",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:54:31Z",
+   "last_seen": "2026-11-20T20:54:31Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Dataiku",
+   "slug": "dataiku",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:45:47Z",
+   "last_seen": "2026-11-20T20:45:47Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "WhiteMatter",
+   "slug": "whitematter",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:45:47Z",
+   "last_seen": "2026-11-20T20:45:47Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Take-Two",
+   "slug": "take-two",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:41:00Z",
+   "last_seen": "2026-11-20T20:41:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Amazon",
+   "slug": "amazon",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:32:00Z",
+   "last_seen": "2026-11-20T20:32:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Nubank",
+   "slug": "nubank",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:30:00Z",
+   "last_seen": "2026-11-20T20:30:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Etihad",
+   "slug": "etihad",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:28:13Z",
+   "last_seen": "2026-11-20T20:28:13Z",
+   "sections": {
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Lufthansa",
+   "slug": "lufthansa",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:22:19Z",
+   "last_seen": "2026-11-20T20:22:19Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Airbnb",
+   "slug": "airbnb",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T20:19:23Z",
+   "last_seen": "2026-11-20T20:19:23Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Mandarin Oriental",
+   "slug": "mandarin-oriental",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T19:00:00Z",
+   "last_seen": "2026-11-20T19:00:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Southwest",
+   "slug": "southwest",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T18:54:51Z",
+   "last_seen": "2026-11-20T18:54:51Z",
+   "sections": {
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Alibaba",
+   "slug": "alibaba",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T18:25:29Z",
+   "last_seen": "2026-11-20T18:25:29Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Mitek Systems",
+   "slug": "mitek-systems",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T18:19:00Z",
+   "last_seen": "2026-11-20T18:19:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "WeBull",
+   "slug": "webull",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T18:17:16Z",
+   "last_seen": "2026-11-20T18:17:16Z",
+   "sections": {
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Costco",
+   "slug": "costco",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T18:00:01Z",
+   "last_seen": "2026-11-20T18:00:01Z",
+   "sections": {
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Volkswagen",
+   "slug": "volkswagen",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T18:00:00Z",
+   "last_seen": "2026-11-20T18:00:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Pagaya",
+   "slug": "pagaya",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:52:28Z",
+   "last_seen": "2026-11-20T17:52:28Z",
+   "sections": {
+    "lending": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "NetJets",
+   "slug": "netjets",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:45:00Z",
+   "last_seen": "2026-11-20T17:45:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "The Container Store",
+   "slug": "the-container-store",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:41:00Z",
+   "last_seen": "2026-11-20T17:41:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Apple",
+   "slug": "apple",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:30:48Z",
+   "last_seen": "2026-11-20T17:30:48Z",
+   "sections": {
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Uber",
+   "slug": "uber",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:30:48Z",
+   "last_seen": "2026-11-20T17:30:48Z",
+   "sections": {
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "DoorDash",
+   "slug": "doordash",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:30:48Z",
+   "last_seen": "2026-11-20T17:30:48Z",
+   "sections": {
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "American Airlines",
+   "slug": "american-airlines",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:30:20Z",
+   "last_seen": "2026-11-20T17:30:20Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Gap Inc.",
+   "slug": "gap-inc",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:28:00Z",
+   "last_seen": "2026-11-20T17:28:00Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Old Navy",
+   "slug": "old-navy",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:28:00Z",
+   "last_seen": "2026-11-20T17:28:00Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "OakNorth",
+   "slug": "oaknorth",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:21:54Z",
+   "last_seen": "2026-11-20T17:21:54Z",
+   "sections": {
+    "lending": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Apollo",
+   "slug": "apollo",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:18:56Z",
+   "last_seen": "2026-11-20T17:18:56Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "ThredUp",
+   "slug": "thredup",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:16:00Z",
+   "last_seen": "2026-11-20T17:16:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "BILL",
+   "slug": "bill",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:10:00Z",
+   "last_seen": "2026-11-20T17:10:00Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "TPG",
+   "slug": "tpg",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:10:00Z",
+   "last_seen": "2026-11-20T17:10:00Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Corpay",
+   "slug": "corpay",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:10:00Z",
+   "last_seen": "2026-11-20T17:10:00Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Nestle",
+   "slug": "nestle",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:01:00Z",
+   "last_seen": "2026-11-20T17:01:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Roger Dubuis",
+   "slug": "roger-dubuis",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:00:00Z",
+   "last_seen": "2026-11-20T17:00:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Lamborghini",
+   "slug": "lamborghini",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:00:00Z",
+   "last_seen": "2026-11-20T17:00:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Lysée",
+   "slug": "lys-e",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T17:00:00Z",
+   "last_seen": "2026-11-20T17:00:00Z",
+   "sections": {
+    "nyc_dining": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "FICO",
+   "slug": "fico",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T16:51:39Z",
+   "last_seen": "2026-11-20T16:51:39Z",
+   "sections": {
+    "lending": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Xactus",
+   "slug": "xactus",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T16:51:39Z",
+   "last_seen": "2026-11-20T16:51:39Z",
+   "sections": {
+    "lending": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "State Street",
+   "slug": "state-street",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T14:49:39Z",
+   "last_seen": "2026-11-20T14:49:39Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Hilton",
+   "slug": "hilton",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T14:45:42Z",
+   "last_seen": "2026-11-20T14:45:42Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Worldline",
+   "slug": "worldline",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T14:39:00Z",
+   "last_seen": "2026-11-20T14:39:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Target",
+   "slug": "target",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T14:30:00Z",
+   "last_seen": "2026-11-20T14:30:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "DBS",
+   "slug": "dbs",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T14:08:58Z",
+   "last_seen": "2026-11-20T14:08:58Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "TD",
+   "slug": "td",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T12:33:34Z",
+   "last_seen": "2026-11-20T12:33:34Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Aeromexico",
+   "slug": "aeromexico",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T12:27:33Z",
+   "last_seen": "2026-11-20T12:27:33Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Bonhams",
+   "slug": "bonhams",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T12:00:00Z",
+   "last_seen": "2026-11-20T12:00:00Z",
+   "sections": {
+    "luxury": 1,
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "F.P. Journe",
+   "slug": "f-p-journe",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T12:00:00Z",
+   "last_seen": "2026-11-20T12:00:00Z",
+   "sections": {
+    "luxury": 1,
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Sotheby's",
+   "slug": "sothebys",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T12:00:00Z",
+   "last_seen": "2026-11-20T12:00:00Z",
+   "sections": {
+    "luxury": 1,
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Four Seasons",
+   "slug": "four-seasons",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T11:57:08Z",
+   "last_seen": "2026-11-20T11:57:08Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Wolters Kluwer",
+   "slug": "wolters-kluwer",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T11:13:58Z",
+   "last_seen": "2026-11-20T11:13:58Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Rove",
+   "slug": "rove",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T11:00:30Z",
+   "last_seen": "2026-11-20T11:00:30Z",
+   "sections": {
+    "partnerships": 1,
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Columbia Sportswear",
+   "slug": "columbia-sportswear",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T10:57:00Z",
+   "last_seen": "2026-11-20T10:57:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Velera",
+   "slug": "velera",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T10:42:47Z",
+   "last_seen": "2026-11-20T10:42:47Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "HDFC Bank",
+   "slug": "hdfc-bank",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T10:01:19Z",
+   "last_seen": "2026-11-20T10:01:19Z",
+   "sections": {
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Patek Philippe",
+   "slug": "patek-philippe",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T10:00:00Z",
+   "last_seen": "2026-11-20T10:00:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Chrome Hearts",
+   "slug": "chrome-hearts",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T10:00:00Z",
+   "last_seen": "2026-11-20T10:00:00Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Mercedes-Benz",
+   "slug": "mercedes-benz",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T09:49:30Z",
+   "last_seen": "2026-11-20T09:49:30Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Ally Financial",
+   "slug": "ally-financial",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T09:12:36Z",
+   "last_seen": "2026-11-20T09:12:36Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Marriott",
+   "slug": "marriott",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T09:11:36Z",
+   "last_seen": "2026-11-20T09:11:36Z",
+   "sections": {
+    "luxury": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Federated Hermes",
+   "slug": "federated-hermes",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T09:09:11Z",
+   "last_seen": "2026-11-20T09:09:11Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Revolut",
+   "slug": "revolut",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T08:20:10Z",
+   "last_seen": "2026-11-20T08:20:10Z",
+   "sections": {
+    "partnerships": 1,
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Virgin Atlantic",
+   "slug": "virgin-atlantic",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T08:20:10Z",
+   "last_seen": "2026-11-20T08:20:10Z",
+   "sections": {
+    "partnerships": 1,
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Marqeta",
+   "slug": "marqeta",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T07:56:18Z",
+   "last_seen": "2026-11-20T07:56:18Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Equitas Small Finance Bank",
+   "slug": "equitas-small-finance-bank",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T07:12:30Z",
+   "last_seen": "2026-11-20T07:12:30Z",
+   "sections": {
+    "community": 1,
+    "premium_cards": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Honda",
+   "slug": "honda",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T03:00:00Z",
+   "last_seen": "2026-11-20T03:00:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Hertz",
+   "slug": "hertz",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T01:34:34Z",
+   "last_seen": "2026-11-20T01:34:34Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Atmos Rewards",
+   "slug": "atmos-rewards",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:45:51Z",
+   "last_seen": "2026-11-20T00:45:51Z",
+   "sections": {
+    "community": 1,
+    "partnerships": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Financial Conduct Authority",
+   "slug": "financial-conduct-authority",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:01:00Z",
+   "last_seen": "2026-11-20T00:01:00Z",
+   "sections": {
+    "regulatory": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "UBS",
+   "slug": "ubs",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:00:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Finnair",
+   "slug": "finnair",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T23:57:41Z",
+   "last_seen": "2026-11-19T23:57:41Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Intuit",
+   "slug": "intuit",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T23:53:00Z",
+   "last_seen": "2026-11-19T23:53:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Bending Spoons",
+   "slug": "bending-spoons",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T23:53:00Z",
+   "last_seen": "2026-11-19T23:53:00Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Gaming and Leisure Properties",
+   "slug": "gaming-and-leisure-properties",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T23:31:19Z",
+   "last_seen": "2026-11-19T23:31:19Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "IHG",
+   "slug": "ihg",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T22:57:42Z",
+   "last_seen": "2026-11-19T22:57:42Z",
+   "sections": {
+    "luxury": 1,
+    "community": 1
+   },
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Kering",
+   "slug": "kering",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T22:40:37Z",
+   "last_seen": "2026-11-19T22:40:37Z",
+   "sections": {},
+   "watch_status": null,
+   "has_vet": false
+  }
+ ]
 }

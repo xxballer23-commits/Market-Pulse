@@ -1,0 +1,25 @@
+{
+ "name": "DoorDash",
+ "slug": "doordash",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2a62b0855ff5",
+   "title": "Chase Ultimate Rewards: 10-15% off Select Gift Card Redemptions (Lowe’s, Apple, Uber, DoorDash & More)",
+   "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-10-15-off-select-gift-card-redemptions-lowes-apple-uber-doordash-more/",
+   "source": "Doctor of Credit",
+   "published": "2026-11-20T17:30:48Z",
+   "relevance": 3,
+   "why": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Lowe's gift cards at 15% off",
+    "Apple, Uber, DoorDash and Choice at 10% off"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "name": "Sotheby's",
+ "slug": "sothebys",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1edc77f172d1",
+   "title": "Sotheby’s $39.8 Million Jewelry Sale Reveals What Collectors Value Most",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFViQlFlbzJER3lJRUJySXhkd2hhSnV5OVlMMm0tSVpZTE5OZkQxcmF4RDVWUzEtV1hXaXlaaTA1bnFqUDFDYVpYN196NkwtQXVFR0lLeHBzQXJ0X2s2VEstS2lOa1BXSF9wNlE0NmZBWFVNTnJQQWYwQkRZZy1EYjRtTHc3bVJCcDVHcVUwdTVnbEF0VkVYdlNaRXJlTThPYkRZWExGM1JNY3dJUGhoS1Z0aEdpbTYtc1hWNlFsNHkzRDg?oc=5",
+   "source": "Forbes",
+   "published": "2026-11-20T12:00:00Z",
+   "relevance": 3,
+   "why": "A large jewelry sale reveals which categories collectors prize, useful for affluent spending and collectibles strategy.",
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$39.8 million jewelry sale"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "name": "Chase",
+ "slug": "chase",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2a62b0855ff5",
+   "title": "Chase Ultimate Rewards: 10-15% off Select Gift Card Redemptions (Lowe’s, Apple, Uber, DoorDash & More)",
+   "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-10-15-off-select-gift-card-redemptions-lowes-apple-uber-doordash-more/",
+   "source": "Doctor of Credit",
+   "published": "2026-11-20T17:30:48Z",
+   "relevance": 3,
+   "why": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Lowe's gift cards at 15% off",
+    "Apple, Uber, DoorDash and Choice at 10% off"
+   ]
+  },
+  {
+   "id": "1a75ef1ce2d6",
+   "title": "JPMorgan Chase data leak exposes contact information of 16,000 reserve customers",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tTTmFoQ1dibGRSeDg5SWlQdThuY0pGRF9fc2xySXpMYWc0dDBEajZYNlBfeEpBVnBCM0sxTXJnbGJ4ZkVzcHk1eVk4OXNfN0NJbmFuX29fYTNqWFQtQVB1Wk5wVDhjcUVYMDlTUmF5aUVQWmdyRWVGWWNHNW5zTDhaTUdzdW9JTDhKSFd1YkpsY29lSko5Sk1vTllNTFNEOHI3VmhEVQ?oc=5",
+   "source": "KuCoin",
+   "published": "2026-11-20T00:37:27Z",
+   "relevance": 3,
+   "why": "A data exposure touching premium reserve cardholders could raise security and trust questions for rival premium issuers.",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Exposure of contact information for 16,000 reserve customers"
+   ]
+  },
+  {
+   "id": "1a93ecd1c41e",
+   "title": "Rakuten offering $50 cashback or up to 5K Bilt points for three Citi cards",
+   "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/",
+   "source": "Frequent Miler",
+   "published": "2026-11-19T23:45:33Z",
+   "relevance": 4,
+   "why": "Rakuten's approval bonuses across issuers show how card-linked offers are being used to drive acquisition, a model worth tracking.",
+   "sections": [
+    "partnerships",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$50 cashback or up to 5,000 Bilt points",
+    "Offers span three Citi cards"
+   ]
+  }
+ ]
+}

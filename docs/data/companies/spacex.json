@@ -1,0 +1,34 @@
+{
+ "name": "SpaceX",
+ "slug": "spacex",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5ad1bdd9de0e",
+   "title": "SpaceX Lenders Seek Restrictions on Moving Nvidia AI Chips Into Orbit, FT Reports",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjVOUjV4SVFQMzRHSGhjelNYR2lBVkNKb0JiWnpibWIyNVVTam9DeEM2OUUtSTdSNl9IRE16MW5QQmZYdEd0VnVyMTBfaVFvRWZsRVV4enZGV2c1bDU2RHg4aFZhQjBicDExd0QyWk9iOVM3X1h1M0NkUTI3UjZ5SEVocE5PYnFXSHhZcktjd2hZeGJjUnlEVzhIM0dLc04zV1JPTUNR?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-20T10:59:00Z",
+   "relevance": 1,
+   "why": "Lender restrictions on AI chip shipments to orbit are unrelated to consumer card or lending strategy.",
+   "sections": [],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "640920ce59c7",
+   "title": "Lenders aim to bar SpaceX from launching $40bn of chips into orbit",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXdESDhWTHF3Y0Z1ZVo2dzgtTEM2QnI1cm5pdk1nQ21zbjhpVDJONzdmcGhBU0NQUEtTSEtkVTFuUVhqRHdBa2tucUZqa1pvLXZvVkxUNUY4R1hxVFZVTEk2TWJJMHZIZ2tlbklJcXVxTzlxMFZKXzR5UTVfX0tYNGFsME0?oc=5",
+   "source": "Financial Times",
+   "published": "2026-11-20T00:15:41Z",
+   "relevance": 1,
+   "why": "Lender collateral dispute over space hardware, with no consumer lending or card relevance.",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$40bn of chips slated for orbit"
+   ]
+  }
+ ]
+}

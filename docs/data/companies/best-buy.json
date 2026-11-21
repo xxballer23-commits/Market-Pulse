@@ -1,0 +1,40 @@
+{
+ "name": "Best Buy",
+ "slug": "best-buy",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e9e7e1b4ed79",
+   "title": "[YMMV] Free My Best Buy Plus Membership",
+   "url": "https://www.doctorofcredit.com/ymmv-free-my-best-buy-plus-membership/",
+   "source": "Doctor of Credit",
+   "published": "2026-11-20T20:32:05Z",
+   "relevance": 2,
+   "why": "A free retail membership offer is a minor example of perk promotions that cardholders compare against paid card benefits.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Offer valid until 12/6/26"
+   ]
+  },
+  {
+   "id": "918e29d68faf",
+   "title": "Citi Offers: $10 Off $200 At Best Buy (Limit 2)",
+   "url": "https://www.doctorofcredit.com/citi-offers-15-off-150-at-best-buy-limit-2/",
+   "source": "Doctor of Credit",
+   "published": "2026-11-20T19:00:16Z",
+   "relevance": 2,
+   "why": "A merchant-specific Citi Offers deal signals ongoing issuer retail promotions that affect card engagement.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$10 off $200 at Best Buy, limit 2"
+   ]
+  }
+ ]
+}

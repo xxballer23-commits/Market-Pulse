@@ -1,0 +1,24 @@
+{
+ "name": "OakNorth",
+ "slug": "oaknorth",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "80dc4a4dfbd1",
+   "title": "OakNorth gets Fed, OCC nod for US license",
+   "url": "https://www.bankingdive.com/news/oaknorth-fed-occ-approve-charter-application-michigan-bank-acquisition-digital-uk/875357/",
+   "source": "Banking Dive",
+   "published": "2026-11-20T17:21:54Z",
+   "relevance": 2,
+   "why": "A new US charter for a digital lender adds a potential future competitor or embedded lending partner in the US market.",
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Waited 20 months for approval"
+   ]
+  }
+ ]
+}

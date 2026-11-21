@@ -1,0 +1,24 @@
+{
+ "name": "Lufthansa",
+ "slug": "lufthansa",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3b2f425839c5",
+   "title": "Luftahnsa to Cut 1,000 Jobs",
+   "url": "https://skift.com/2026/11/20/luftahnsa-to-cut-1000-jobs/",
+   "source": "Skift",
+   "published": "2026-11-20T20:22:19Z",
+   "relevance": 2,
+   "why": "Airline cost cuts may erode premium cabin and lounge quality that card partners rely on for travel benefits.",
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Cut 1,000 jobs"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,52 @@
+{
+ "name": "PayPal",
+ "slug": "paypal",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a232a7cd62a5",
+   "title": "[YMMV] PayPal: Earn 15% Back On Food Delivery (Up To $15)",
+   "url": "https://www.doctorofcredit.com/ymmv-paypal-earn-15-back-on-food-delivery-up-to-15/",
+   "source": "Doctor of Credit",
+   "published": "2026-11-20T18:30:16Z",
+   "relevance": 2,
+   "why": "A capped food delivery reward from PayPal reflects how digital wallets use category offers to drive engagement.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "15% back, up to $15"
+   ]
+  },
+  {
+   "id": "cd259bf1f360",
+   "title": "PayPal names Claire Bramley CFO",
+   "url": "https://www.finextra.com/pressarticle/111755/paypal-names-claire-bramley-cfo?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "published": "2026-11-20T18:17:00Z",
+   "relevance": 2,
+   "why": "A new CFO at a major payments partner could shift priorities on partnership and co-brand strategy.",
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "4625b13e5c16",
+   "title": "PayPal Scales Buy Now, Pay Later: Can Growth Accelerate?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeWdtRmJPNEZYUm4wc2lrM3h5bWFMT01ONzE4S1FUZElsX3UyMjdqVklWVWk3czh6TDdyUEVDZjdQYjJwZEhlUjZiZU1MbEo5Y2loNnZpMjJWcVFQbWhqUHBqcGI3TkZISVp3U2l4OXR3akVteHdUQU1ocXZ5VnVEczNuZVNCd1ZFRFpkV1I1THFkbTBfNVZ0NlpHQ2IyMHVUX3FvV1Vic0pVQk9HWUE?oc=5",
+   "source": "TradingView",
+   "published": "2026-11-20T17:08:00Z",
+   "relevance": 3,
+   "why": "PayPal's growth in buy now, pay later competes directly with Affirm and Klarna and shapes installment options at checkout.",
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": []
+  }
+ ]
+}

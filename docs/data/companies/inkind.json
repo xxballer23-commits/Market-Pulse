@@ -1,0 +1,41 @@
+{
+ "name": "inKind",
+ "slug": "inkind",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ae5430235153",
+   "title": "[New Offer] inKind: 50% Bonus ($150 for $100)",
+   "url": "https://www.doctorofcredit.com/inkind-20-off-40/",
+   "source": "Doctor of Credit",
+   "published": "2026-11-20T18:50:33Z",
+   "relevance": 2,
+   "why": "Gift card bonus promotions are a recurring cardholder tactic and a possible reference for offer design.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$150 for $100",
+    "$20 off $40+"
+   ]
+  },
+  {
+   "id": "ba312b872e9b",
+   "title": "(Upcoming 11/26) Costco.com: $100 inKind Giftcard For $64.99 (Limit 5)",
+   "url": "https://www.doctorofcredit.com/costco-100-inkind-giftcard-for-69-99/",
+   "source": "Doctor of Credit",
+   "published": "2026-11-20T18:00:01Z",
+   "relevance": 1,
+   "why": "Discounted gift card purchase deal is routine deal-hunting content with little partnership value.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 inKind gift card for $64.99, limit 5"
+   ]
+  }
+ ]
+}

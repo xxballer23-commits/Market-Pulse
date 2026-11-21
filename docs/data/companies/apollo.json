@@ -1,0 +1,24 @@
+{
+ "name": "Apollo",
+ "slug": "apollo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "873baa5fe690",
+   "title": "Apollo Lends $305 Million for Luxury Condo Project in NYC’s Tribeca",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdWxaUXR2YVVCWjFPU242NzBZNWNrZ2Q1ckJOVzN3RGxTOEhsM3VqeG1zMHJDVmN3WmlDVjktYUJsQ2hmVDdlVjJURGpwdU4wNUtzWW0wdUdwYmRmX2ppeW5pQ0tYeUFEM0stZVRPeXdHTlNNTjY1RlBzMHdFOUFSd0YzYUpqeVNyak4zUV9SOVNSbXRzRktVay1PWTdEckJQS0V1Z2NKUW1BR0dZR1VxdmVNUmdmMTVy?oc=5",
+   "source": "Bloomberg.com",
+   "published": "2026-11-20T17:18:56Z",
+   "relevance": 2,
+   "why": "Large lending into Manhattan luxury condos signals continued capital flowing into high-end real estate for affluent buyers.",
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$305 million loan"
+   ]
+  }
+ ]
+}

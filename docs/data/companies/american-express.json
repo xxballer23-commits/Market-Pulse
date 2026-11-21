@@ -1,0 +1,69 @@
+{
+ "name": "American Express",
+ "slug": "american-express",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8885554a9dd9",
+   "title": "Amex Centurion (black) card benefits — and how to get them without the card",
+   "url": "https://thepointsguy.com/credit-cards/amex-centurion-black-card/",
+   "source": "The Points Guy",
+   "published": "2026-11-20T23:00:31Z",
+   "relevance": 3,
+   "why": "Shows premium perks like lounge access and elite status are reachable through cheaper cards, pressuring top-tier card value.",
+   "sections": [
+    "community",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "953a53d94460",
+   "title": "Amex Membership Rewards Sale: Use 20% Fewer Points on Some Gift Cards",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnBtVEtuMy1NMTBDdVZ4WTQ0NFBwY2RzaFNfX2c4UmFIOV9INVpreEFxc0M5VGdQUVVtN3k1MXpIRmxmUUNzMjRiWUJZckRwall2LWVQclEwSFFHUFU2ek05a3paM2hrMnZvaW9nSXNRSDc2STZDRnh2ZUsxZ1VpMTFReEcwVzI0Ujc0?oc=5",
+   "source": "Upgraded Points",
+   "published": "2026-11-20T17:12:24Z",
+   "relevance": 3,
+   "why": "A points discount on gift card purchases shows how Amex uses limited-time offers to shape Membership Rewards redemption value.",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20% fewer points on some gift cards"
+   ]
+  },
+  {
+   "id": "116cade93e87",
+   "title": "Current Amex Offers",
+   "url": "https://frequentmiler.com/current-amex-offers/",
+   "source": "Frequent Miler",
+   "published": "2026-11-20T14:45:09Z",
+   "relevance": 3,
+   "why": "Tracks Amex merchant offers that cardholders actively use, useful for benchmarking card-linked offer programs.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "4f1ce94f45be",
+   "title": "Amex Auto-Enrolling Card Members In Paperless Billing (Sorry, Dad!)",
+   "url": "https://onemileatatime.com/news/amex-auto-enrolling-card-members-paperless-billing/",
+   "source": "One Mile at a Time",
+   "published": "2026-11-20T10:57:17Z",
+   "relevance": 2,
+   "why": "Amex's default paperless billing switch will draw member reaction and may affect statement engagement.",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Paperless billing starts February 2027"
+   ]
+  }
+ ]
+}

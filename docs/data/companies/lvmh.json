@@ -1,0 +1,40 @@
+{
+ "name": "LVMH",
+ "slug": "lvmh",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ffe4383fc290",
+   "title": "LVMH Steps Back From Armani as Rivals Circle and French Sales Slip",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHVFdTN6bUVLTXdsT3RZRVFseTFjcG5xeEowYkhOUVA3cTNlbUh2eFZ2RWwzVU1xWFBCVlZCaW9XSTJZMEthVXRrQWJoanlzbHZpT3VvNXFrNXF2bzM2UFJ5eWpHX1dUREVoY29IaHc5VmhTb01hVllqME9TM0RfMUV3bTUwVmEweUs0ajV5QkMtaEd4NmVmZGFjR0hwaExxUUozb1phSERmT20tZmg4bDB0SnNZcXpwOUxWX3ZCWWtCVHpON3oxTkpsVFVCbTFpSHRPZg?oc=5",
+   "source": "ad-hoc-news.de",
+   "published": "2026-11-20T12:02:32Z",
+   "relevance": 3,
+   "why": "LVMH pulling back from Armani and softer French sales signal shifting luxury demand among affluent shoppers.",
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "fba8fa1329b4",
+   "title": "LVMH shares fall nearly 5% over the week, at the bottom of the CAC 40",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMnZEQ08xYWJmcGJQajRRai1qZElESk95Q0gyQU83TUE0ajdac0QtVWV0aTJzNFRhSDlyejlKMjJOeGZVQUtsaHJIZ3JMZVJlRlI0SG5ocFk4eXNPZV9UcUFyYWRKV1c2cE94WFZPRHhEaTZQMnE2UjVoUmp1ei1WUml1NkM0d21paURmT2pxbFNtMHdJWjRfYkZPaGxyYXFvaURLeklJb1RSa0FpRFM3VkgwVGF6d1dFc2xSTFRYeXpZeVpF?oc=5",
+   "source": "Idéal Investisseur",
+   "published": "2026-11-20T11:17:00Z",
+   "relevance": 3,
+   "why": "LVMH share weakness signals softening luxury demand that may affect premium spend and partner appetite.",
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Shares fall nearly 5% over the week"
+   ]
+  }
+ ]
+}

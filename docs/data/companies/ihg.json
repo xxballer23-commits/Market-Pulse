@@ -1,0 +1,27 @@
+{
+ "name": "IHG",
+ "slug": "ihg",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5fe5429a355f",
+   "title": "IHG Cyber Sale: 500 free points and up to 30% off hotel stays",
+   "url": "https://frequentmiler.com/ihg-cyber-sale-500-free-points-and-up-to-30-off-hotel-stays/",
+   "source": "Frequent Miler",
+   "published": "2026-11-19T22:57:42Z",
+   "relevance": 3,
+   "why": "Hotel loyalty sale mechanics show how hotel programs compete on points and discounts that premium card benefits often mirror.",
+   "sections": [
+    "luxury",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 30% off paid stays",
+    "500 points for app download",
+    "1-night nonrefundable deposit required"
+   ]
+  }
+ ]
+}

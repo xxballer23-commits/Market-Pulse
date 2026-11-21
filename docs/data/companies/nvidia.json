@@ -1,0 +1,68 @@
+{
+ "name": "Nvidia",
+ "slug": "nvidia",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c108b468ea5c",
+   "title": "Uber Co-Founder Kalanick Teases Protest at Nvidia as Calls for Huang’s Return Continue",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVVhwbzh4allnMUt5ZzRaR3JZbXlqeU9tY3lIT19fSXA5QW1GTk0tcDVacHg0S05XdkpESUJ2VGpnQnpSWG4wQ2FGTTZRZEZoVE9oT0hYSUFzUmNzQk9MaDZRSjRZdmctZ195WlYwX0g1bjQ5MmcwWGFReC1NbE45MnExanpxM2VCc1Q0ZUNjcGZON0MweExxSlZJMFQ1NGNVa1RodUxGRk9wNWNxSUMxQmRqVzRPd2w0a1lvRUZJNA?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-20T23:59:07Z",
+   "relevance": 1,
+   "why": "Tech executive drama has no bearing on card benefits or affluent consumer spending.",
+   "sections": [],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "8bf12cf07754",
+   "title": "The Morning Risk Report: China’s AI Firms Are Hooked on Nvidia Chips. Now Comes the Withdrawal.",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMHEyLWU1cHVQOEsyMWdfSkhfaV90MldNcl9JVjdtTmdRVXp2dU1xeUN3MF8yeVlnV21Ga01fbGJDWEVTNjR3YUdQcXpoWlBCOThDNjRGNktGaFB4S3BvRXZjcjl1Qkl2OEl4NDlYWWdTSUN3Vm1wOEJPU0dWSlRDN0JWME1vWXE0UXpZUHphcEYzYUNzS2FkY2l3aTNZVEFoLWxIcndrNERMTGN5ckU3NXkzMVRMOEEwMTlaNW90Uk5EZTViWDg4MERnR01zcTNKVk8tSmlBcmpKdlFo?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-20T12:59:06Z",
+   "relevance": 1,
+   "why": "Chip supply and China AI market news has no direct bearing on card partnerships or affluent consumer spending.",
+   "sections": [],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "5ad1bdd9de0e",
+   "title": "SpaceX Lenders Seek Restrictions on Moving Nvidia AI Chips Into Orbit, FT Reports",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjVOUjV4SVFQMzRHSGhjelNYR2lBVkNKb0JiWnpibWIyNVVTam9DeEM2OUUtSTdSNl9IRE16MW5QQmZYdEd0VnVyMTBfaVFvRWZsRVV4enZGV2c1bDU2RHg4aFZhQjBicDExd0QyWk9iOVM3X1h1M0NkUTI3UjZ5SEVocE5PYnFXSHhZcktjd2hZeGJjUnlEVzhIM0dLc04zV1JPTUNR?oc=5",
+   "source": "Yahoo Finance",
+   "published": "2026-11-20T10:59:00Z",
+   "relevance": 1,
+   "why": "Lender restrictions on AI chip shipments to orbit are unrelated to consumer card or lending strategy.",
+   "sections": [],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "8d47825472ab",
+   "title": "China’s AI Firms Are Addicted to Nvidia Chips. Now They Are Facing Withdrawal.",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHpsUWpRNHV2N1B5QVI4LUdwb1VMWjB1aXRnV2I0YkowdGZDRnBLeGJWYWx3UERrRXNWWmh4QV9wQkd0UlUydEp6WDVYMVJBMHNSOXJUMHhHUUMtbjUzUFp1aXdlX283dWt1aDlUaWhYQW5oNkozeGY2dUVSbkxiZjQ2Nkd0QjBfVjVLRW44YktRbTMtdEx5ZWZuTGl6LVVvRWpWS1hfZU9pR0RVVkRYUUh3?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-20T03:00:00Z",
+   "relevance": 1,
+   "why": "Chip supply story about China's AI sector with no bearing on card partnerships or affluent spending.",
+   "sections": [],
+   "breaking": false,
+   "data_points": []
+  },
+  {
+   "id": "d2071fc9f669",
+   "title": "California Attorney General Issues Investigative Subpoena to Nvidia",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1JnZlB6YVZ4SGVkcGZoWFc3eWVGdjY2T3g2ZXhoZ2NrcXd5NjZNTUx0ZE9wZ2I0Uk9fNGxyal9pWnZYdS0wa0tKYUlpem5PSllfSWFueWw3VnY5aVM1andIeTZadW1ZSEduazNsWTNXemlITUpDV0R1d3N1WU9aNG9JSk1kSklNTlBHTXlCb2ttZ3otUW95Zld4YWlQS3pNbjdn?oc=5",
+   "source": "WSJ",
+   "published": "2026-11-20T00:01:00Z",
+   "relevance": 1,
+   "why": "State legal action against a chipmaker with no connection to card partnerships or consumer finance.",
+   "sections": [],
+   "breaking": false,
+   "data_points": []
+  }
+ ]
+}

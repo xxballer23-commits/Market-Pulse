@@ -1,5 +1,30 @@
 [
  {
+  "id": "8ee67881acdf",
+  "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdm9JalFqdEVTRUEyYkVDRWtENl9PeENhZENlckJlbjZJci1CLWZ4WmhUUUxzVkdaLW14YlF2MlRaWkk3Z0d0QmJ5UllyQTdtLUh4LTZjSDZzU0tNbEpGbEZiRm1uRTdMb1RIc3ROTjYxWHMtcmcyMUVoRnFaNGRld3FoVjNSajNSVFE?oc=5",
+  "title": "Exclusive | Ken Griffin Sells New York City Duplex to Woody Johnson for $58 Million",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-21T00:10:28Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A high-profile Manhattan trophy sale signals active ultra-high-net-worth spending on prime real estate, useful context for affluent lifestyle positioning.",
+  "data_points": [
+   "Sale price of $58 million"
+  ]
+ },
+ {
   "id": "fe7e6b1b5140",
   "url": "https://www.finextra.com/event-info/642/what-defines-the-issuer-of-tomorrow?utm_medium=rssfinextra&utm_source=finextrafeed",
   "title": "What defines the issuer of tomorrow?",
@@ -8,10 +33,17 @@
   "source_type": "rss",
   "published": "2026-11-21T00:04:57Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Modern issuing doesn’t only evolve technological change; it requires operating model transformation.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Generic issuing operating model commentary with no specific card, partner, or consumer insight.",
+  "data_points": []
  },
  {
   "id": "aefed0e4cb14",
@@ -22,10 +54,17 @@
   "source_type": "rss",
   "published": "2026-11-21T00:04:57Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "How can banks deliver an AI-enabled, self-service payments experience to corporates?",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Corporate payments exception handling is outside the consumer card and partnership focus.",
+  "data_points": []
  },
  {
   "id": "230473998ddd",
@@ -36,10 +75,17 @@
   "source_type": "rss",
   "published": "2026-11-21T00:04:57Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "What does the next phase of payments transformation look like?",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Abstract payments infrastructure commentary with no direct bearing on card benefits or partners.",
+  "data_points": []
  },
  {
   "id": "6c7529ed4b59",
@@ -50,10 +96,17 @@
   "source_type": "rss",
   "published": "2026-11-21T00:04:57Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "How can financial institutions unlock real-time intelligence?",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Forward-looking real-time infrastructure talk with no concrete card or consumer relevance.",
+  "data_points": []
  },
  {
   "id": "558de222bba4",
@@ -64,10 +117,17 @@
   "source_type": "rss",
   "published": "2026-11-21T00:04:57Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "How are financial institutions combatting increasingly complex trade-based financial crime?",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Trade finance crime analysis sits outside consumer card economics and partnership work.",
+  "data_points": []
  },
  {
   "id": "bace65c88447",
@@ -78,10 +138,17 @@
   "source_type": "rss",
   "published": "2026-11-21T00:04:57Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "How can financial institutions build trust through payment certainty, transparent pricing, and consistent execution?",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Small business cross-border payments are outside the premium consumer card focus.",
+  "data_points": []
  },
  {
   "id": "788950f9738a",
@@ -92,10 +159,19 @@
   "source_type": "rss",
   "published": "2026-11-21T00:04:57Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "How can the Nordics balance open competition and global interoperability with strategic autonomy, resilience and the development of strong regional payment infrastructure?",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "regulatory"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Nordic debate on payment initiation control hints at open banking policy shifts, though the impact on US card economics is indirect.",
+  "data_points": []
  },
  {
   "id": "ffde30137b26",
@@ -106,10 +182,21 @@
   "source_type": "rss",
   "published": "2026-11-21T00:04:57Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "What is driving the growing chargeback challenge based on new Mastercard sponsored research ‘Chargebacks: The Case for Coordination’, and where does the current dispute process create friction?",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Mastercard"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Chargeback friction affects issuer costs and merchant relationships, a tangential but relevant card economics issue.",
+  "data_points": []
  },
  {
   "id": "61a69dc6fde3",
@@ -120,10 +207,19 @@
   "source_type": "rss",
   "published": "2026-11-21T00:01:29Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "A power company makes the same costly decisions every hour. It picks which plants to run, how much fuel to burn and which ones to shut down for repairs. NextEra Energy now uses artificial intelligence (AI) to make those decisions cheaper. The company’s AI tool, Grid Composer, has produced “over $20 million of savings to […] The post NextEra’s AI Saves Florida Customers $20 Million appeared first o",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Utility sector AI cost savings are unrelated to card partnerships or affluent consumer strategy.",
+  "data_points": [
+   "Over $20 million in customer savings"
+  ]
  },
  {
   "id": "60b593f85127",
@@ -134,10 +230,21 @@
   "source_type": "rss",
   "published": "2026-11-21T00:00:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "The two-door is available with a supercharger that boosts output to 840 hp.",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Movie trivia tied to a niche performance car offers little value for card partnership planning.",
+  "data_points": [
+   "Supercharged output of 840 hp"
+  ]
  },
  {
   "id": "a0419c937693",
@@ -151,7 +258,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "dining",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A fast-growing Chinese dining chain expanding abroad may signal emerging upscale dining brands for future cardholder experiences.",
+  "data_points": []
  },
  {
   "id": "c108b468ea5c",
@@ -165,7 +281,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Nvidia"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Tech executive drama has no bearing on card benefits or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "f42153e06969",
@@ -179,7 +304,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Historic estate ownership reflects affluent appetite for unique properties, a loose signal for lifestyle positioning.",
+  "data_points": []
  },
  {
   "id": "2932fd9ce190",
@@ -193,7 +327,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "AI company IPO coverage is market news without direct relevance to card partnerships or consumer benefits.",
+  "data_points": []
  },
  {
   "id": "b99035b0317e",
@@ -204,10 +347,23 @@
   "source_type": "rss",
   "published": "2026-11-20T23:50:23Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Mexican President Claudia Sheinbaum reportedly flew China Southern economy, in a middle seat, on a 21-hour trip to the APEC summit in Shenzhen, with a refueling stop in Tijuana.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "China Southern"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Viral travel story that points and miles enthusiasts discuss, showing their attention to economy travel and seat experience.",
+  "data_points": [
+   "21-hour economy flight"
+  ]
  },
  {
   "id": "65f5a5dc7a06",
@@ -218,10 +374,23 @@
   "source_type": "rss",
   "published": "2026-11-20T23:45:15Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "On today’s episode, we discuss Delta & Hyatt snuggling up, a tip for upgrading flights to Europe, and Hyatt shaking up their rewards program. Hyatt’s Milestone Modifications: Awesome or Awful? Watch the full episode below, or listen on your favorite podcast platform. You can click the timestamps below to navigate directly to a specific part […] The post Hyatt’s Milestone Modifications: Awesome or ",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community",
+   "partnerships"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Hyatt",
+   "Delta"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Discussion of a Delta and Hyatt tie-up and Hyatt rewards changes signals loyalty alignment worth tracking for partner strategy.",
+  "data_points": []
  },
  {
   "id": "f6d215d9eb69",
@@ -235,7 +404,18 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A new Algarve beach resort adds to the luxury travel pipeline, though it is not tied to a specific card or partner.",
+  "data_points": [
+   "Opening planned for April 2027"
+  ]
  },
  {
   "id": "fbe18cc2a90f",
@@ -249,7 +429,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Market volatility coverage has no direct link to card partnerships or affluent consumer benefits.",
+  "data_points": []
  },
  {
   "id": "28fe3c0fe499",
@@ -263,7 +452,16 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Rising buy now, pay later usage shows consumers leaning on installment credit, relevant to pay-over-time card features.",
+  "data_points": []
  },
  {
   "id": "8885554a9dd9",
@@ -274,10 +472,22 @@
   "source_type": "rss",
   "published": "2026-11-20T23:00:31Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "You don't need an Amex Centurion Card to enjoy lounge access, hotel elite status and other perks. Here's how to get them with other credit cards.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community",
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "American Express"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Shows premium perks like lounge access and elite status are reachable through cheaper cards, pressuring top-tier card value.",
+  "data_points": []
  },
  {
   "id": "59e18a3eefe0",
@@ -288,10 +498,21 @@
   "source_type": "rss",
   "published": "2026-11-20T23:00:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "The five-bedroom abode features funky wallpaper and statement light fixtures throughout.",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Residential design feature with no clear link to card benefits or partnership opportunities.",
+  "data_points": [
+   "Asking price of $8.5 million"
+  ]
  },
  {
   "id": "2500c496a000",
@@ -305,7 +526,18 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Databricks"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Enterprise software fundraising is unrelated to consumer card benefits or loyalty partners.",
+  "data_points": [
+   "Talks at a $225 billion valuation"
+  ]
  },
  {
   "id": "89d9293b646d",
@@ -319,7 +551,37 @@
   "summary": "",
   "hint": "nyc_dining",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A Los Angeles cafe opening falls outside the NYC dining focus and offers no partnership angle.",
+  "data_points": []
+ },
+ {
+  "id": "d02c55c6521b",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNT255Q2NwZjVVeV85dnA2ZmlDeUJJY1lKeGptUktTeXl6azJEdFZLLXFnZS1VbDdwQUhfNWJfbm41VzZiSFVyU3hZdFlGcHozS2hHT2VsbFRkdzJZX25JVEZ2MG54TVZOVzcyWXRxNW5mc0J0M0FDc2hIM2U4cEZsOEgzbmRkNFFSaFdnZTE1cF9KTnNLaXJNVTFwYTh5Y3ZqTzE3ZWZUNkZ3a0swRUJvZ2wwc0hfd1Ix?oc=5",
+  "title": "WSJ Dollar Index Rises 0.42% This Week to 98.75",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T22:48:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Dollar index movement is general macro data with no direct card or consumer spending read.",
+  "data_points": [
+   "Index rose 0.42% this week to 98.75"
+  ]
  },
  {
   "id": "da5b529f3e92",
@@ -680,10 +942,24 @@
   "source_type": "rss",
   "published": "2026-11-20T21:00:50Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "The Atmos Rewards Summit is the premium card for Alaska Airlines and Hawaiian Airlines flyers, but it holds value for many types of travelers.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community",
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Alaska Airlines",
+   "Hawaiian Airlines",
+   "Visa"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A review of this airline co-brand card shows how members judge premium value beyond the core airline, which informs benefit design.",
+  "data_points": []
  },
  {
   "id": "9e1669e5ed18",
@@ -694,10 +970,44 @@
   "source_type": "rss",
   "published": "2026-11-20T21:00:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Perched high above Lake Sonoma in the Rockpile AVA, the off-grid holding pairs 58 acres of mountain vineyards with a restored 1920s Craftsman farmhouse.",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Ultra-high-net-worth rural property listings signal where affluent buyers are spending, though the link to card benefits is indirect.",
+  "data_points": [
+   "Lists for $9.5 Million",
+   "755-acre property",
+   "58 acres of mountain vineyards"
+  ]
+ },
+ {
+  "id": "115cf82eec85",
+  "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN202RFVKUXpJMEl0aDZhdmV6TnZ5QjR4eDEtWVdrM0lBOV8zcEtQdW4yd3lWenJFX3IzZTB0VXYzOTZNZjJxdlJOUWE5YjFYNlc3cnAxMFdPRWNYZUtmUF9hQ1dTV0ZuOWY0Q1ZNeGRsbVJqYzdKZmhodnFFMXdWSEpGaU42a0doNHg3aEJn?oc=5",
+  "title": "Treasury Yields Fall as Investors Seek Safe Havens",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T20:58:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "General treasury market movement with no direct bearing on card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "c9230ab212f6",
@@ -711,7 +1021,18 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A high-profile executive's luxury resort stay hints at travel habits of newly wealthy tech founders, a tangential signal for affluent targeting.",
+  "data_points": []
  },
  {
   "id": "c3aae25f617e",
@@ -722,10 +1043,17 @@
   "source_type": "rss",
   "published": "2026-11-20T20:55:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Author: A finextra community member",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Banking data governance commentary with no connection to card partnerships or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "3606f8baf8b0",
@@ -739,7 +1067,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Government policy on data center location has no bearing on card benefits or consumer lending.",
+  "data_points": []
  },
  {
   "id": "4ab6db685114",
@@ -750,10 +1085,19 @@
   "source_type": "rss",
   "published": "2026-11-20T20:54:31Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "A SWISS Airbus A220 rejected its takeoff from Zurich three times in a row before returning to the gate. The cause was a stuck auto-thrust switch.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "SWISS"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "An operational airline incident with no effect on premium card partnerships or affluent spending trends.",
+  "data_points": []
  },
  {
   "id": "5cf181c6f6e3",
@@ -767,7 +1111,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Geopolitical news with no relevance to card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "152c8a9c09a2",
@@ -781,7 +1132,16 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "If BNPL drives acquisition more than wallets, card issuers may need stronger installment features to compete for new customers.",
+  "data_points": []
  },
  {
   "id": "9b2ce4a016f9",
@@ -792,10 +1152,20 @@
   "source_type": "rss",
   "published": "2026-11-20T20:45:47Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Companies have long paid for software by the employee and, more recently, by usage. WhiteMatter, Nestack and Dataiku now bill them by the artificial intelligence agent. WhiteMatter, a San Francisco startup formerly called QuilrAI, assigns a Guardian agent to watch each AI agent a company runs, according to a Nov. 10 press release. The Guardian […] The post AI Vendors Ditch Seat Licenses for Per-Ag",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Dataiku",
+   "WhiteMatter"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Enterprise software pricing changes do not touch card benefits, loyalty partners or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "c76355162a07",
@@ -806,10 +1176,27 @@
   "source_type": "rss",
   "published": "2026-11-20T20:45:38Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Bilt has announced its December Rent Day promos. The headliners are up to a 100% bonus on redeeming points for statement credits for Bilt cardholders and a match to JetBlue Mosaic status. Bilt Rewards normally redeem at 0.55 cents each when used for a statement credit. The statement credit bonus is 25% for Blue cardholders, […] The post Bilt Rent Day: Up to a 100% bonus when using points for a sta",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards",
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Bilt",
+   "JetBlue"
+  ],
+  "relevance": 4,
+  "breaking": false,
+  "why": "Bilt's bonus redemption and airline status match show how issuers use points promos and airline partners to drive engagement.",
+  "data_points": [
+   "Up to a 100% bonus on points redeemed for statement credits",
+   "Statement credit redemption normally 0.55 cents per point",
+   "JetBlue Mosaic status match"
+  ]
  },
  {
   "id": "5bbf1336c466",
@@ -823,7 +1210,47 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Bilt",
+   "JetBlue"
+  ],
+  "relevance": 4,
+  "breaking": false,
+  "why": "A tiered redemption bonus paired with an airline status match is a concrete benchmark for benefit design on rent-focused premium cards.",
+  "data_points": [
+   "Tiered redemption bonus",
+   "JetBlue status match"
+  ]
+ },
+ {
+  "id": "2839419d560a",
+  "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ21QbUU2aE9uVUNabDBiZk5IbnZxeGhTTnhaV0duNU8wWmxEVmlHbU9iN0I1TVdMX3R6OERSazRXY05xT1V3bTRXaHFhM0puRjZYVUZseHZpVzg3UUlnODhpSGM4QTB4eG9NWno0WmZIMFVEMWdrN0VuQWxtb1VzYTRoa25DTFFZTm9DQ1JXLWxGZFFLaHdONU8yazhXbmtzUV85MzBDei1nNFdnNlMwWXZuWUNFbVNiaEE?oc=5",
+  "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T20:41:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Take-Two"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Video game sales have little overlap with premium card benefits or affluent luxury spending.",
+  "data_points": [
+   "Nearly $4 billion in sales on launch day"
+  ]
  },
  {
   "id": "a625629b8d28",
@@ -837,7 +1264,17 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data",
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Auction results reveal where ultra-affluent collectors are spending, useful context for luxury cardholder experiences and events.",
+  "data_points": []
  },
  {
   "id": "e9e7e1b4ed79",
@@ -848,10 +1285,23 @@
   "source_type": "rss",
   "published": "2026-11-20T20:32:05Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Best Buy is offering a My Best Buy Plus Membership for free. Valid until 12/6/26.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Best Buy"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A free retail membership offer is a minor example of perk promotions that cardholders compare against paid card benefits.",
+  "data_points": [
+   "Offer valid until 12/6/26"
+  ]
  },
  {
   "id": "a5f4187a26af",
@@ -865,7 +1315,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Amazon"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A local delivery regulation fight is unrelated to card economics, benefits or affluent consumer partnerships.",
+  "data_points": []
  },
  {
   "id": "3508d2008955",
@@ -879,7 +1338,16 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Nubank"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A home-market banking license for a major fintech card issuer is tangential but shows continued expansion of digital card players.",
+  "data_points": []
  },
  {
   "id": "216f56c113c7",
@@ -893,7 +1361,16 @@
   "summary": "",
   "hint": "regulatory",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "regulatory"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Federal rules on continued billing after cancellation affect recurring charges and subscription-bundled card benefits.",
+  "data_points": []
  },
  {
   "id": "acdab16e80f9",
@@ -907,7 +1384,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A generic real estate news index with no specific story relevant to card partnerships or affluent strategy.",
+  "data_points": []
  },
  {
   "id": "15a7ba092cc9",
@@ -921,7 +1405,18 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Etihad"
+  ],
+  "relevance": 4,
+  "breaking": true,
+  "why": "A foreign premium airline entering the US card market adds a new high-fee competitor and possible co-brand benefit model to track.",
+  "data_points": []
  },
  {
   "id": "f279cddb3fd9",
@@ -935,7 +1430,18 @@
   "summary": "",
   "hint": "nyc_dining",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "dining",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Michelin chef's table picks signal high-end dining destinations that affluent cardholders may value in dining perks.",
+  "data_points": [
+   "16 MICHELIN Guide picks"
+  ]
  },
  {
   "id": "3b2f425839c5",
@@ -946,10 +1452,23 @@
   "source_type": "rss",
   "published": "2026-11-20T20:22:19Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Job cuts won’t fix Lufthansa Airlines — its own board says it’s uncompetitive on cost, efficiency and productivity",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Lufthansa"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Airline cost cuts may erode premium cabin and lounge quality that card partners rely on for travel benefits.",
+  "data_points": [
+   "Cut 1,000 jobs"
+  ]
  },
  {
   "id": "f646f876a26d",
@@ -960,10 +1479,21 @@
   "source_type": "rss",
   "published": "2026-11-20T20:19:23Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Are we one day going to see an Airbnb best price guarantee for short-term rentals? AI agents may force the issue.",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Airbnb"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Price-matching on short-term rentals could shift affluent travel booking habits and affect hotel-focused card benefits.",
+  "data_points": []
  },
  {
   "id": "d26be10809df",
@@ -977,7 +1507,35 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Gold price moves on rate expectations are general market news with no direct card or affluent strategy link.",
+  "data_points": []
+ },
+ {
+  "id": "fc7012edcc6f",
+  "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcGM3SEI3NjBHTkRmZGJaLTJFVldMYzJyUDI4emU5bDZLQl9yS1NtN3VRajVYU1VkYVlFSkRyUVVrenZCUXRZV3NFX3d2cmhHa3JRZ3A2bVdaR25KMU05MjJkSUoyQU1TOWk2enVhRmhNUjJvZFQ2M2FvQnNJbXZUc3NFMFh3ZDRieDJaZlN0dXVhZ09wMUhrQUJtMEdlUWp3N0NJd1FHaHYwUFNRR09PbjJtRmQtbWs?oc=5",
+  "title": "New Satellite Photos Show Expansion of North Korean Uranium-Enrichment Plant",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T20:16:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Nuclear proliferation reporting has no relevance to card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "d00e0cbf3cb2",
@@ -1346,7 +1904,20 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Capital One"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A targeted mid-tier bonus offer shows how Capital One is using acquisition offers to compete for entry-level cardholders.",
+  "data_points": [
+   "40K miles bonus offer"
+  ]
  },
  {
   "id": "2f11f23526d3",
@@ -1357,10 +1928,21 @@
   "source_type": "rss",
   "published": "2026-11-20T19:00:19Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Citi Shop offers statement credits and coupon codes at thousands of retailers. Learn how it works, when to use it and how it compares with shopping portals.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Citi"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Citi Shop's statement credit model is a useful reference for how issuers layer shopping perks onto cards.",
+  "data_points": []
  },
  {
   "id": "918e29d68faf",
@@ -1371,10 +1953,24 @@
   "source_type": "rss",
   "published": "2026-11-20T19:00:16Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Citi Offers is offering $15 back when you spend $150 at Best Buy",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Citi",
+   "Best Buy"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A merchant-specific Citi Offers deal signals ongoing issuer retail promotions that affect card engagement.",
+  "data_points": [
+   "$10 off $200 at Best Buy, limit 2"
+  ]
  },
  {
   "id": "cdfb408286c2",
@@ -1385,10 +1981,23 @@
   "source_type": "rss",
   "published": "2026-11-20T19:00:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Sales have launched for the branded homes, ranging from beachfront villas to mangrove-surrounded estates.",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Mandarin Oriental"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Branded residences tied to a hotel brand show affluent buyers are spending on hospitality-linked property.",
+  "data_points": [
+   "49 branded residences"
+  ]
  },
  {
   "id": "41c9ebb3a68f",
@@ -1399,10 +2008,17 @@
   "source_type": "rss",
   "published": "2026-11-20T18:56:09Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Author: A finextra community member",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "General opinion piece on financial AI with no direct link to card or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "143b071cf0d9",
@@ -1413,10 +2029,23 @@
   "source_type": "rss",
   "published": "2026-11-20T18:54:51Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Another round Southwest Rapid Rewards members are waking up to a nice email today as the airline is dropping 5,000 points in their accounts for seemingly no reason other than just because. The Deal Some Southwest members are getting 5,000 bonus Rapid Rewards points credited to their account. Key Terms You’ll need to be alive […] The post Targeted Southwest promo: Get 5,000 Rapid Rewards points jus",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Southwest"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Targeted airline point drops reveal how co-brand and loyalty partners use bonus points to re-engage members.",
+  "data_points": [
+   "5,000 bonus Rapid Rewards points"
+  ]
  },
  {
   "id": "ae5430235153",
@@ -1427,10 +2056,24 @@
   "source_type": "rss",
   "published": "2026-11-20T18:50:33Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "inKind is offering $20 off $40+ when you enter your phone number",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "inKind"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Gift card bonus promotions are a recurring cardholder tactic and a possible reference for offer design.",
+  "data_points": [
+   "$150 for $100",
+   "$20 off $40+"
+  ]
  },
  {
   "id": "d7bff03f053d",
@@ -1444,7 +2087,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Upcoming luxury hotel openings in California create future hotel partner and premium travel benefit opportunities.",
+  "data_points": []
  },
  {
   "id": "fb24dadf9055",
@@ -1458,7 +2110,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Shows ultra-wealthy spending on bespoke residential lifestyle features, useful background for UHNW positioning.",
+  "data_points": []
  },
  {
   "id": "a232a7cd62a5",
@@ -1469,10 +2130,23 @@
   "source_type": "rss",
   "published": "2026-11-20T18:30:16Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "PayPal is offering 15% back on food delivery purchases in points. Up to a maximum of $15 back. Terms say it works on grocery and restaurants?",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "PayPal"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A capped food delivery reward from PayPal reflects how digital wallets use category offers to drive engagement.",
+  "data_points": [
+   "15% back, up to $15"
+  ]
  },
  {
   "id": "c7f2472c9803",
@@ -1483,10 +2157,21 @@
   "source_type": "rss",
   "published": "2026-11-20T18:25:29Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Pragmatik Labs, a Shanghai-based artificial intelligence (AI) startup launched over the summer by the former AI chief of Alibaba Group Holding, Junyang Lin, closed new funding at a valuation of $5 billion, Bloomberg reported Friday (Nov. 20), citing unnamed sources. Pragmatik Labs, which is also known as p7k, raised tens of millions of dollars in the round, […] The post Ex-Alibaba AI Chief Junyang",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Alibaba"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Private AI startup funding in China has no bearing on US card or affluent consumer partnerships.",
+  "data_points": [
+   "$5 billion valuation"
+  ]
  },
  {
   "id": "87b874b7711d",
@@ -1500,7 +2185,16 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Rising UK card charge-offs offer a comparative credit health signal, though not directly tied to US card books.",
+  "data_points": []
  },
  {
   "id": "3938d7019276",
@@ -1514,7 +2208,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "regulatory"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Fed policy stance on inflation may influence future card APRs and lending costs, though the link is indirect.",
+  "data_points": []
  },
  {
   "id": "523a5f2255fa",
@@ -1525,10 +2228,19 @@
   "source_type": "rss",
   "published": "2026-11-20T18:20:06Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Pay close attention to the walls of New York City’s restaurants, and you might see RuPaul, queen of drag, performing the Heimlich maneuver on a choking Donald Trump. Elsewhere, the Statue of Liberty is in danger, but saved by a notable Taiwanese politician. On another poster, an anthropomorphic parrot saves a fellow bird from suffocating. […]",
+  "summary": "",
   "hint": "nyc_dining",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "nyc_dining"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Feature on restaurant art in NYC offers color for dining events, though it has no direct partnership angle.",
+  "data_points": []
  },
  {
   "id": "44f10ca16bf3",
@@ -1539,10 +2251,19 @@
   "source_type": "rss",
   "published": "2026-11-20T18:19:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Mitek Systems, Inc. (NASDAQ: MITK), a global leader in digital identity verification and fraud prevention, today announced the appointment of Laura Apel as Chief Marketing Officer, effective November 16, 2026. Reporting directly to Chief Executive Officer Edward H. West, Apel will lead Mitek's global marketing organization, overseeing brand, demand generation, product marketing and communications.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Mitek Systems"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Routine marketing executive appointment at an identity verification vendor with no partnership relevance.",
+  "data_points": []
  },
  {
   "id": "85555dafc815",
@@ -1553,10 +2274,24 @@
   "source_type": "rss",
   "published": "2026-11-20T18:17:16Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "WeBull is offering customers a 2% transfer match on brokerage transfers, up to $5,000 max bonus. Valid through 12/31. Payment in 36 installments",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "WeBull"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Brokerage transfer bonuses are a reference point for cash-bonus offers, though outside the card space.",
+  "data_points": [
+   "2% transfer match, up to $5,000",
+   "36 installment payments"
+  ]
  },
  {
   "id": "cd259bf1f360",
@@ -1567,10 +2302,21 @@
   "source_type": "rss",
   "published": "2026-11-20T18:17:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "PayPal Holdings, Inc. (NASDAQ: PYPL) today announced several executive leadership appointments. This follows several months of strategic planning to establish clear strategies across PayPal's core businesses, simplify its operating model and align leadership accountability with the company's long-term priorities.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "partnerships"
+  ],
+  "subcategory": null,
+  "companies": [
+   "PayPal"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A new CFO at a major payments partner could shift priorities on partnership and co-brand strategy.",
+  "data_points": []
  },
  {
   "id": "35353412b6ad",
@@ -1584,7 +2330,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Cultural documentary coverage with no connection to cards, lending or affluent spending.",
+  "data_points": []
  },
  {
   "id": "718d7d60c74e",
@@ -1595,10 +2348,19 @@
   "source_type": "rss",
   "published": "2026-11-20T18:00:22Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Book a sailing today with these solid sales from cruise lines, and receive fare discounts and extra perks.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Cruise promotions show affluent travel demand and could inform premium travel perk pricing benchmarks.",
+  "data_points": []
  },
  {
   "id": "b94ed8f91213",
@@ -1609,10 +2371,19 @@
   "source_type": "rss",
   "published": "2026-11-20T18:00:10Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Save, maximize and earn points and miles on various travel purchases this November",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Monthly roundup of travel earn and burn deals gives a light read on current points and miles promotions.",
+  "data_points": []
  },
  {
   "id": "ba312b872e9b",
@@ -1623,10 +2394,24 @@
   "source_type": "rss",
   "published": "2026-11-20T18:00:01Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Costco is selling a $100 inKind giftcard for $69.99",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Costco",
+   "inKind"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Discounted gift card purchase deal is routine deal-hunting content with little partnership value.",
+  "data_points": [
+   "$100 inKind gift card for $64.99, limit 5"
+  ]
  },
  {
   "id": "d238d0aa2b55",
@@ -1637,10 +2422,21 @@
   "source_type": "rss",
   "published": "2026-11-20T18:00:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "The all-electric four-wheeler comes with a double bed, folding furniture, and other road trip-friendly features.",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [
+   "Volkswagen"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Product feature on an electric camper van with no direct link to card benefits or affluent spending data.",
+  "data_points": []
  },
  {
   "id": "2c2bf386761a",
@@ -1654,7 +2450,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Pagaya"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "AI underwriting providers like Pagaya are potential embedded lending partners for installment and loan products.",
+  "data_points": []
  },
  {
   "id": "34d396e81109",
@@ -1668,7 +2475,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "sporting",
+  "companies": [
+   "NetJets"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Private aviation sponsorship at a premier sporting event points to a possible concierge or flight benefit partner.",
+  "data_points": []
  },
  {
   "id": "c1b65c4fac61",
@@ -1679,10 +2497,19 @@
   "source_type": "rss",
   "published": "2026-11-20T17:41:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "The incident has not impacted the security of customer financial data, according to the company.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "The Container Store"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Retailer website outage update with no bearing on card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "2a62b0855ff5",
@@ -1693,10 +2520,27 @@
   "source_type": "rss",
   "published": "2026-11-20T17:30:48Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Chase Ultimate Rewards is offering discounts on gift card redemptions: Lowe's at 15% and Apple, Uber, DoorDash, and Choice at 10% and many more deals",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Chase",
+   "Apple",
+   "Uber",
+   "DoorDash"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
+  "data_points": [
+   "Lowe's gift cards at 15% off",
+   "Apple, Uber, DoorDash and Choice at 10% off"
+  ]
  },
  {
   "id": "536fd5ee40db",
@@ -1707,10 +2551,21 @@
   "source_type": "rss",
   "published": "2026-11-20T17:30:20Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "American has retired its 777 first class, leaving no US airline with a true international first class. Here's why it failed, and how a boutique version could work.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "American Airlines"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Highlights a gap in US premium air products that a boutique first class offering could fill for high-end cardholders.",
+  "data_points": []
  },
  {
   "id": "5070ec56ab7d",
@@ -1721,10 +2576,21 @@
   "source_type": "rss",
   "published": "2026-11-20T17:30:09Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Delta Cruises is out with its richest accelerated mileage offer of the year.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Delta"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A accelerated miles promotion on cruises shows how airline loyalty programs use travel bookings to drive mileage earning.",
+  "data_points": []
  },
  {
   "id": "b057709d2172",
@@ -1735,10 +2601,24 @@
   "source_type": "rss",
   "published": "2026-11-20T17:28:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "As the Gap Inc.’s value brand falters, its namesake has risen from a years-long slump to notch its 12th straight quarter of comparable sales growth.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Gap Inc.",
+   "Old Navy"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Retail comparable sales trends offer modest context on mainstream apparel spending, which is less relevant to affluent card strategy.",
+  "data_points": [
+   "12th straight quarter of comparable sales growth"
+  ]
  },
  {
   "id": "c669b059ef02",
@@ -1752,7 +2632,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "General AI research news with no link to card partnerships or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "472f33e72cd7",
@@ -1763,10 +2652,19 @@
   "source_type": "rss",
   "published": "2026-11-20T17:27:18Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "After some rough decades, LaGuardia Airport is now considered one of the best airports in North America for good reason. The domestic airport went through intensive renovations, resulting in a shiny, bright new traveling hub in New York City. This extends into its food and drinks offerings, which include outposts of Texas-style breakfast taco stand […]",
+  "summary": "",
   "hint": "nyc_dining",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "nyc_dining"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Airport dining upgrades at LaGuardia could matter for premium travelers who want quality food between flights.",
+  "data_points": []
  },
  {
   "id": "80dc4a4dfbd1",
@@ -1777,10 +2675,23 @@
   "source_type": "rss",
   "published": "2026-11-20T17:21:54Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "The British lender waited 20 months to gain the regulatory green light and becomes the first foreign digital bank to get a U.S. national banking charter.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [
+   "OakNorth"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A new US charter for a digital lender adds a potential future competitor or embedded lending partner in the US market.",
+  "data_points": [
+   "Waited 20 months for approval"
+  ]
  },
  {
   "id": "873baa5fe690",
@@ -1794,7 +2705,20 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Apollo"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Large lending into Manhattan luxury condos signals continued capital flowing into high-end real estate for affluent buyers.",
+  "data_points": [
+   "$305 million loan"
+  ]
  },
  {
   "id": "3c774c1d382b",
@@ -1808,7 +2732,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Opinion piece on medical platforms with no connection to card benefits or lending.",
+  "data_points": []
  },
  {
   "id": "a52f25a87ba0",
@@ -1822,7 +2753,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Broad geopolitical news with no direct bearing on card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "d82c353290da",
@@ -1833,10 +2771,21 @@
   "source_type": "rss",
   "published": "2026-11-20T17:16:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "After early success on Whatnot, the resale marketplace is expanding its livestream efforts with a launch on TikTok Shop.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "ThredUp"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Resale platforms expanding into livestream selling show shifting channels for secondhand goods among value-minded shoppers.",
+  "data_points": []
  },
  {
   "id": "953a53d94460",
@@ -1850,7 +2799,20 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "American Express"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A points discount on gift card purchases shows how Amex uses limited-time offers to shape Membership Rewards redemption value.",
+  "data_points": [
+   "20% fewer points on some gift cards"
+  ]
  },
  {
   "id": "51ea2089bf9f",
@@ -1864,7 +2826,22 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "partnerships"
+  ],
+  "subcategory": null,
+  "companies": [
+   "BILL",
+   "TPG",
+   "Corpay"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Private equity takeover of a payments platform signals consolidation among fintech infrastructure providers that could affect future partner options.",
+  "data_points": [
+   "$6 billion deal value"
+  ]
  },
  {
   "id": "4625b13e5c16",
@@ -1878,7 +2855,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [
+   "PayPal"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "PayPal's growth in buy now, pay later competes directly with Affirm and Klarna and shapes installment options at checkout.",
+  "data_points": []
  },
  {
   "id": "afbb23bdc17b",
@@ -1892,7 +2880,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Political economy commentary on the Nvidia matter with no relevance to card or lending partnerships.",
+  "data_points": []
  },
  {
   "id": "8364f67da24d",
@@ -1906,7 +2901,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Nestle"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Industrial automation news with no link to card benefits, lending or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "59b962425cd7",
@@ -1917,10 +2921,25 @@
   "source_type": "rss",
   "published": "2026-11-20T17:00:56Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Bank of America are offering some increased offers on the Atmos cards",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards",
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Bank of America"
+  ],
+  "relevance": 4,
+  "breaking": false,
+  "why": "Higher Atmos card welcome offers signal aggressive acquisition tactics in the premium travel card segment.",
+  "data_points": [
+   "125,000 point Atmos Summit offer",
+   "90,000 point Atmos Ascent offer"
+  ]
  },
  {
   "id": "77e92fe17dbd",
@@ -1931,10 +2950,21 @@
   "source_type": "rss",
   "published": "2026-11-20T17:00:56Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "The Capital One VentureOne Card is a budget-friendly option for Capital One fans and frequent travelers. Find out if this no-annual-fee card is right for you.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Capital One"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A review of a no-fee Capital One card offers entry-level context on competitor benefits for budget-conscious travelers.",
+  "data_points": []
  },
  {
   "id": "5a9fb12a31b9",
@@ -1948,7 +2978,18 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Capital One"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A no-fee card with transferable miles raises the bar for entry-level rewards cards and pressures premium value propositions.",
+  "data_points": []
  },
  {
   "id": "f9f20daf0284",
@@ -1959,10 +3000,22 @@
   "source_type": "rss",
   "published": "2026-11-20T17:00:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "As the manufacture celebrates “10 Years of Adrenaline,” CEO David Chaumet reflects on a partnership that has brought supercar engineering and a little automotive theater to the wrist.",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "Roger Dubuis",
+   "Lamborghini"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A luxury watch and supercar brand collaboration shows how automotive partnerships drive collectible appeal among affluent buyers.",
+  "data_points": []
  },
  {
   "id": "8c2e01ca91c7",
@@ -1976,7 +3029,45 @@
   "summary": "",
   "hint": "nyc_dining",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "nyc_dining"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Lysée"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A pastry chef's favorite NYC spots give useful insight into where chefs dine and which venues appeal to insiders.",
+  "data_points": []
+ },
+ {
+  "id": "4891c89c2cdf",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUt2OHExSjcwRHNmWnFlWTlYWU5sSmlVRmtSeURfa0pFMmZ5TEtTdGRlelEwLXV3SXI0TTU1SkZQNjhpMElnRzVidXdQWEdfdkRrbFdjYlppekVfc3pUMk1jUVdSODEzSzk1WXJ4QVJJSklkdEVEMnZGcXVDT2lLaUh6dGN4dVpYbWhpR0VqUlFRVkxraTJqR25NX1JKanRrcmNR?oc=5",
+  "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T16:59:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [
+   "regulatory"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Citi"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Asset reporting errors at a Citi subsidiary could bring added regulatory scrutiny that affects the bank's broader consumer business.",
+  "data_points": [
+   "$35 billion in undercounted assets"
+  ]
  },
  {
   "id": "2ab86f607351",
@@ -1990,7 +3081,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "General coverage of drone delivery with no clear link to card partnerships or lending.",
+  "data_points": []
  },
  {
   "id": "b9b8823a41b6",
@@ -2004,7 +3102,19 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [
+   "FICO",
+   "Xactus"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "New mortgage pricing flexibility from credit scoring partners may influence how lenders use credit data in underwriting.",
+  "data_points": []
  },
  {
   "id": "fbdd2a56a459",
@@ -2018,7 +3128,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "The headline and summary are too thin to assess any relevance to card or lending strategy.",
+  "data_points": []
  },
  {
   "id": "c65e2a659307",
@@ -2742,7 +3859,14 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Beauty industry roundup with no clear link to card partnerships or affluent spending strategy.",
+  "data_points": []
  },
  {
   "id": "899495309b3b",
@@ -2753,10 +3877,19 @@
   "source_type": "rss",
   "published": "2026-11-20T15:00:48Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "A look at the trip delay benefit offered on certain travel rewards credit cards, providing reimbursement for expenses such as hotels and meals during a delay.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Shows how cardholders value trip delay protection, a benefit partners could help package into premium travel cards.",
+  "data_points": []
  },
  {
   "id": "a4dfc9fb083c",
@@ -2770,7 +3903,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "General fixed income ETF video with no bearing on card benefits or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "23b4e390b983",
@@ -2784,7 +3924,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Leadership change at a London luxury hotel is tangential to partnership opportunities for premium card benefits.",
+  "data_points": []
  },
  {
   "id": "5815b4060d70",
@@ -2798,7 +3947,18 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "dining",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Luxury afternoon tea offering shows high-end hotel dining experiences that affluent travelers seek out.",
+  "data_points": [
+   "Afternoon tea costs €51"
+  ]
  },
  {
   "id": "4eb4e3ee0017",
@@ -2812,7 +3972,19 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Branded luxury residences in Houston signal affluent demand for lifestyle hospitality and high-value homes.",
+  "data_points": [
+   "114 homes",
+   "From €2.27m ($2.5m)"
+  ]
  },
  {
   "id": "c6a8b3a7fcbb",
@@ -2826,7 +3998,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "State Street"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Asset manager interview on ETFs and government savings accounts with no clear link to card partnerships.",
+  "data_points": []
  },
  {
   "id": "c071d1c55470",
@@ -2840,7 +4021,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Caribbean resort spa relaunch reflects wellness experiences that affluent travelers may value in premium benefits.",
+  "data_points": []
  },
  {
   "id": "944c0e735209",
@@ -2854,7 +4044,18 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "New adults-only resort opening adds to the luxury travel inventory affluent cardholders might book.",
+  "data_points": [
+   "Opens 1 December"
+  ]
  },
  {
   "id": "de204173bdad",
@@ -2868,7 +4069,18 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Large resort renovation plan in Croatia reflects continued investment in upscale European leisure travel.",
+  "data_points": [
+   "€102m plan"
+  ]
  },
  {
   "id": "a0261793e0ba",
@@ -2882,7 +4094,21 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Hilton"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Hilton's first LXR in Rome extends its luxury brand tier, a possible angle for hotel partner benefits.",
+  "data_points": [
+   "Opens in 2028",
+   "Six 19th-century buildings"
+  ]
  },
  {
   "id": "116cade93e87",
@@ -2893,10 +4119,21 @@
   "source_type": "rss",
   "published": "2026-11-20T14:45:09Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "This post is designed to show current Amex Offers. If you have any Amex cards, even authorized user cards, then you’re eligible to sign up for offers when you log into your Amex account. If you’re planning to shop or book travel, check this page to see if an Amex Offer exists that will help […] The post Current Amex Offers appeared first on Frequent Miler . Frequent Miler may receive compensation ",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "American Express"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Tracks Amex merchant offers that cardholders actively use, useful for benchmarking card-linked offer programs.",
+  "data_points": []
  },
  {
   "id": "2db339bb864f",
@@ -2910,7 +4147,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "ETF quiz segment with no connection to card benefits or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "d0902aa0fe6d",
@@ -2921,10 +4165,21 @@
   "source_type": "rss",
   "published": "2026-11-20T14:39:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Shares in Worldline fell by as much as 20% on Friday after the Financial Times reported that the French firm delayed payments to suppliers and asked customers for cash advances ahead of its financial results in the years leading up to a 2023 profit warning.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Worldline"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Payments firm scandal over cash advances and supplier payments may affect payment partner risk assessments.",
+  "data_points": [
+   "Shares fell as much as 20%"
+  ]
  },
  {
   "id": "5c5c617feebb",
@@ -2938,7 +4193,16 @@
   "summary": "",
   "hint": "wells",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Wells Fargo"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Generic 13F investor positioning piece that only mentions Wells Fargo as a ticker reference.",
+  "data_points": []
  },
  {
   "id": "4f956317b922",
@@ -2952,7 +4216,18 @@
   "summary": "",
   "hint": "wells",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "wells"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Wells Fargo"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Shareholder list for Wells Fargo offers no insight into its card or partnership business.",
+  "data_points": []
  },
  {
   "id": "1a7ab61d58e7",
@@ -2963,10 +4238,21 @@
   "source_type": "rss",
   "published": "2026-11-20T14:30:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Target’s third-quarter earnings, released on Wednesday, gave investors confidence that it’s finding its footing under CEO Michael Fiddelke, who stepped into the role in February. But analysts’ praise for the retailer’s performance has come with caveats.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "Target"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Mass retailer earnings and value brand competition hint at affluent shoppers trading between premium and value goods.",
+  "data_points": []
  },
  {
   "id": "78ef2dbd14aa",
@@ -2980,7 +4266,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Government seabed mineral auction is unrelated to card partnerships or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "a29324e6b2f4",
@@ -2994,7 +4287,18 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Auction record data offers a hard read on high-end art demand among wealthy collectors.",
+  "data_points": [
+   "20 new artist auction records in November 2026"
+  ]
  },
  {
   "id": "e64ef53046c9",
@@ -3008,7 +4312,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Shift from status goods to experiences among UK affluent consumers supports prioritizing experiential card benefits.",
+  "data_points": []
  },
  {
   "id": "43f28da70ba1",
@@ -3022,7 +4335,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Value-seeking trend among UK consumers is a caution for premium card fee and benefit value positioning.",
+  "data_points": []
  },
  {
   "id": "fb329336ea33",
@@ -3033,10 +4355,21 @@
   "source_type": "rss",
   "published": "2026-11-20T14:15:29Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Companies are shifting from share buybacks to stock issuance, adding new supply. Anthropic’s $81 billion IPO puts that demand to the test.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Market commentary on equity supply and a large IPO has no direct bearing on card partnerships.",
+  "data_points": [
+   "$81 billion IPO"
+  ]
  },
  {
   "id": "97787ba673f8",
@@ -3050,7 +4383,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Precious metals price move is macro market news with no link to card or affluent spending strategy.",
+  "data_points": []
  },
  {
   "id": "a6e6ffb6b37d",
@@ -3064,7 +4404,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "General business continuity commentary with no direct relevance to card partnerships.",
+  "data_points": []
  },
  {
   "id": "10046622df1e",
@@ -3078,7 +4425,18 @@
   "summary": "",
   "hint": "partnerships",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "partnerships"
+  ],
+  "subcategory": null,
+  "companies": [
+   "DBS"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Bank blockchain rewards platform expanding to corporates may signal emerging loyalty tech worth monitoring.",
+  "data_points": []
  },
  {
   "id": "f16c55d811de",
@@ -3442,7 +4800,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Nvidia"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Chip supply and China AI market news has no direct bearing on card partnerships or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "412b7f55a0c3",
@@ -3456,7 +4823,14 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Indian forex compliance rules for banks and exporters fall outside our US premium card and lending focus.",
+  "data_points": []
  },
  {
   "id": "15ed69ecbd78",
@@ -3470,7 +4844,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "New London luxury hotels for 2027 could shape where affluent travelers book and which hotel partners matter.",
+  "data_points": []
  },
  {
   "id": "06904ff6e65e",
@@ -3481,10 +4864,17 @@
   "source_type": "rss",
   "published": "2026-11-20T12:44:23Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Author: A finextra community member",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Cross-border IBAN mechanics are payments plumbing with little relevance to card benefits or consumer lending.",
+  "data_points": []
  },
  {
   "id": "0cc139edb866",
@@ -3498,7 +4888,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "The title is a generic magazine listing with no specific news to act on for partnerships.",
+  "data_points": []
  },
  {
   "id": "41797d671f6d",
@@ -3509,10 +4906,17 @@
   "source_type": "rss",
   "published": "2026-11-20T12:39:20Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Author: A finextra community member",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Tokenized deposit testing is interbank infrastructure with no near-term link to card or lending partnerships.",
+  "data_points": []
  },
  {
   "id": "52ec481782b0",
@@ -3526,7 +4930,20 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "TD"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Rising share of rate-linked mortgages signals household rate sensitivity that could spill into credit health.",
+  "data_points": [
+   "A record 35% of mortgages now move with the policy rate"
+  ]
  },
  {
   "id": "6e549f19aadc",
@@ -3537,10 +4954,19 @@
   "source_type": "rss",
   "published": "2026-11-20T12:30:43Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "AI can help you plan trips and maximize points and miles, but it also carries risks. Here's what to know about using AI safely for travel.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Cardholder guidance on using AI for travel planning reflects how points enthusiasts are changing their booking habits.",
+  "data_points": []
  },
  {
   "id": "940930d18d98",
@@ -3551,10 +4977,21 @@
   "source_type": "rss",
   "published": "2026-11-20T12:27:33Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Aeromexico plans to retrofit its 787-9s with new Recaro business class suites and its first premium economy cabin, while the 787-8s inherit the old reverse herringbone seats.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Aeromexico"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Aeromexico's new premium economy and business cabins may matter for airline partner benefits and affluent travel demand.",
+  "data_points": []
  },
  {
   "id": "0796e2f1a52d",
@@ -3568,7 +5005,14 @@
   "summary": "",
   "hint": "wells",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A personal finance tip about Costco shopping is consumer noise with no partnership or premium card angle.",
+  "data_points": []
  },
  {
   "id": "ffe4383fc290",
@@ -3582,7 +5026,40 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury",
+   "spending_data"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "LVMH"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "LVMH pulling back from Armani and softer French sales signal shifting luxury demand among affluent shoppers.",
+  "data_points": []
+ },
+ {
+  "id": "a8746eb44ed5",
+  "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVnRremxyWXlsMVdTck9wWTQ4OHRjN2kzTldiWmxWT1BHZzQ4SjdTa0F3dGlxdzlqMGhfeGt4dXlOZE9nV0Nhd0ctWUhxejcxQUFSc0JHcUsxVVFrZDA5MmExSGs5WktCcG0xRjhaNEhuQjQ0TnI0WWE0blpCbm54dHRrVktwLWRqXzlSZnhjbEZENGpMYVh4NEJsWXlaZjBDVXg1SGR3dmpHN05fU2FCYkhMVUVlcVJn?oc=5",
+  "title": "Union Pacific CEO Apologizes as March Remark Fuels Opposition to Merger",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T12:02:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Railroad merger politics has no connection to card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "90fda39ae12f",
@@ -3596,7 +5073,17 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "regulatory",
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Tighter French consumer credit rules preview the kind of borrower protections that could spread to other lending markets.",
+  "data_points": []
  },
  {
   "id": "6bd5e8f575b1",
@@ -3607,10 +5094,20 @@
   "source_type": "rss",
   "published": "2026-11-20T12:00:02Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Retailers are charging higher prices for clothing made with cheaper materials. Shoppers are taking notice and experts say it could shift how they spend.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury",
+   "spending_data"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Shoppers accepting higher prices for better materials hints at trading up behavior among affluent consumers.",
+  "data_points": []
  },
  {
   "id": "c45bb8b9fa31",
@@ -3621,10 +5118,26 @@
   "source_type": "rss",
   "published": "2026-11-20T12:00:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "The Tourbillon Souverain “Souscription” hammered down for $11.03 million at Bonhams Paris.",
+  "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury",
+   "spending_data"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "Bonhams",
+   "F.P. Journe"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A record-setting watch auction result shows strong demand at the top of the collectibles market among UHNW buyers.",
+  "data_points": [
+   "Hammered down for $11.03 million",
+   "Most expensive watch ever sold at auction in France"
+  ]
  },
  {
   "id": "a3de2eba4cd6",
@@ -3638,7 +5151,16 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 4,
+  "breaking": false,
+  "why": "Comparing lounge access rules for kids across programs is useful for benchmarking family-friendly premium card benefits.",
+  "data_points": []
  },
  {
   "id": "1edc77f172d1",
@@ -3652,7 +5174,21 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury",
+   "spending_data"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "Sotheby's"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A large jewelry sale reveals which categories collectors prize, useful for affluent spending and collectibles strategy.",
+  "data_points": [
+   "$39.8 million jewelry sale"
+  ]
  },
  {
   "id": "598558a997be",
@@ -3666,7 +5202,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Political coverage of a military conflict has no bearing on card partnerships or consumer spending strategy.",
+  "data_points": []
  },
  {
   "id": "cc198e91d4df",
@@ -3680,7 +5223,18 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Four Seasons"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "New resort openings from Four Seasons and Miraval expand luxury hotel options that premium card travel benefits could feature.",
+  "data_points": []
  },
  {
   "id": "ad0284d191a3",
@@ -3694,7 +5248,14 @@
   "summary": "",
   "hint": "wells",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A generic weekly news roundup with no specific item tied to card partnerships or affluent consumers.",
+  "data_points": []
  },
  {
   "id": "47766591353e",
@@ -3708,7 +5269,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Growth in pre-owned watch retail shows affluent buyers shifting spend toward resale channels.",
+  "data_points": []
  },
  {
   "id": "2f70e9540275",
@@ -3722,7 +5292,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "AI stock moves are market noise with no direct relevance to card benefits or affluent consumer spend.",
+  "data_points": []
  },
  {
   "id": "8714addd9f49",
@@ -3733,10 +5312,21 @@
   "source_type": "rss",
   "published": "2026-11-20T11:45:45Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "I’ve become an unequivocal fanboy for Capital One’s incredible shopping offers over the last few years. I’ve written extensively about Capital One Shopping (the public shopping portal) and some of the absolutely bananas offers on hand. Many readers have been equally as excited about Capital One Offers (exclusively for Capital One cardholders). The difference between […] The post Capital One Shoppi",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Capital One"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Cardholder comparison of Capital One shopping perks shows how members value issuer offer programs against alternatives.",
+  "data_points": []
  },
  {
   "id": "3ffddc14bd5b",
@@ -3750,7 +5340,16 @@
   "summary": "",
   "hint": "wells",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Balance transfer card options show competitive pricing pressure in the revolving credit space.",
+  "data_points": []
  },
  {
   "id": "7c6d72ed8c0d",
@@ -3764,7 +5363,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A hospitality market outlook offers context on how luxury hotel owners are creating value, relevant to hotel partnerships.",
+  "data_points": []
  },
  {
   "id": "931b7b3724d9",
@@ -3778,7 +5386,16 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Peak season retail forecasts give general context on consumer demand but no card-specific signal yet.",
+  "data_points": []
  },
  {
   "id": "2601b0584ecd",
@@ -3792,7 +5409,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Christian Dior"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A retail job listing with no bearing on card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "6128a0421177",
@@ -3806,7 +5432,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Christian Dior"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A retail job listing with no bearing on card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "2f63ed7972bb",
@@ -3820,7 +5455,14 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A diplomatic partnership in Indonesia that has no relevance to card benefits or affluent consumers.",
+  "data_points": []
  },
  {
   "id": "df9e6907a76a",
@@ -3834,7 +5476,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A hospitality market report on a Greek island offers light context on luxury travel demand.",
+  "data_points": []
  },
  {
   "id": "7667312c5371",
@@ -3848,7 +5499,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Data center power demand is an energy story with no direct link to card or lending economics.",
+  "data_points": []
  },
  {
   "id": "4bb963e0cf7d",
@@ -3862,7 +5520,14 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A campground industry convention story with no link to premium cards or affluent spending.",
+  "data_points": []
  },
  {
   "id": "fba8fa1329b4",
@@ -3876,7 +5541,21 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury",
+   "spending_data"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "LVMH"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "LVMH share weakness signals softening luxury demand that may affect premium spend and partner appetite.",
+  "data_points": [
+   "Shares fall nearly 5% over the week"
+  ]
  },
  {
   "id": "71af167cf452",
@@ -3890,7 +5569,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "General personal finance advice on inflation hedging with no card or partnership relevance.",
+  "data_points": []
  },
  {
   "id": "4ae8e11056b5",
@@ -3904,7 +5590,16 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Wolters Kluwer"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A stock analysis of an information services firm with no link to card or lending partnerships.",
+  "data_points": []
  },
  {
   "id": "84f246c67fe8",
@@ -3918,7 +5613,14 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Saudi and Japanese energy policy with no relevance to card benefits or consumer lending.",
+  "data_points": []
  },
  {
   "id": "0da783497045",
@@ -3929,10 +5631,24 @@
   "source_type": "rss",
   "published": "2026-11-20T11:00:30Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Rove has launched personalized shopping offers with up to 25 miles per dollar spent and expanded in-store earning opportunities. Here's what to know.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "partnerships",
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Rove"
+  ],
+  "relevance": 4,
+  "breaking": false,
+  "why": "Rove's personalized offers and in-store earning expansion show a loyalty program that could be a transfer or offer partner.",
+  "data_points": [
+   "Up to 25 miles per dollar spent"
+  ]
  },
  {
   "id": "bb00681826ae",
@@ -3946,7 +5662,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Ethical apparel sourcing is a retail supply chain topic with no direct card partnership angle.",
+  "data_points": []
  },
  {
   "id": "b0b86bdaa9ad",
@@ -3960,7 +5683,16 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Daily HELOC and home equity rate listings offer general lending context but no new product or partner signal.",
+  "data_points": []
  },
  {
   "id": "5ad1bdd9de0e",
@@ -3974,7 +5706,40 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "SpaceX",
+   "Nvidia"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Lender restrictions on AI chip shipments to orbit are unrelated to consumer card or lending strategy.",
+  "data_points": []
+ },
+ {
+  "id": "8e8c67a85719",
+  "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdm15Q3c0OFltcEpTb25rNF9iWEZMa3gtcWh1UERHdV9Jb1NkZGplRGNwX1d5aWJBdEtkanhxU0l5MlhnOXowQWdQLTNfclhqRHVpTXNWNzZxc0R4MjJlN19DVXNuc3dOTkllQnNNMjdvempCMW5JbHVlTWx6ZnpjVWJDX25IUlNDSllYY0VrQmxWOUhJOWFpZXR3aFdEZ3VBUlFKa0FxRWFqUQ?oc=5",
+  "title": "Anthropic Lives Up to Wall Street Hype, but AI Doubts Linger | The 10-Point for Nov. 20",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T10:59:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A general market recap on AI company valuations with no bearing on card partnerships.",
+  "data_points": []
  },
  {
   "id": "4f1ce94f45be",
@@ -3985,10 +5750,46 @@
   "source_type": "rss",
   "published": "2026-11-20T10:57:17Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Amex is emailing card members that billing statements go paperless starting February 2027, though you can opt back into paper by switching your settings.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "American Express"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Amex's default paperless billing switch will draw member reaction and may affect statement engagement.",
+  "data_points": [
+   "Paperless billing starts February 2027"
+  ]
+ },
+ {
+  "id": "f83c7a345863",
+  "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdWVmenJVM2lpMG5abDMwem8wLTlqUGY1MDJYTWhrRC1pY3RCTWhpZ1hyTlJiYjY0dW9QZXNiU19xQVBzVU9Kb2dPT2g2bnU2Skp2V3JzVG1XWWxsV2x4cGdFekYycHNuVWh4eDVBUm9XM0JTN01rLTFuZVlrc1UwdzdoeS1HakVaOVhiVWVYV1Z3a1U?oc=5",
+  "title": "What Columbia Sportswear’s Ads Say About Its Culture",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T10:57:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Columbia Sportswear"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "An analysis of apparel advertising culture with no direct link to premium card or affluent spend.",
+  "data_points": []
  },
  {
   "id": "d9030da608a9",
@@ -4002,7 +5803,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Velera"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Debit outpacing credit growth hints at consumers shifting payment mix, relevant to card spend forecasts.",
+  "data_points": []
  },
  {
   "id": "9cadbe8271f7",
@@ -4016,7 +5828,19 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury",
+   "spending_data"
+  ],
+  "subcategory": "lifestyle",
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A record art sale shows ultra high net worth appetite for trophy assets, useful for affluent consumer positioning.",
+  "data_points": [
+   "Sells for a record $190 million"
+  ]
  },
  {
   "id": "6f79c13adbf3",
@@ -4030,7 +5854,14 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Tenant deposit and rental borrowing stories concern the UK rental market with no card or lending partnership angle.",
+  "data_points": []
  },
  {
   "id": "8d16adbbaa98",
@@ -4044,7 +5875,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "An opinion piece on AI share valuations with no link to card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "9b51818bfcbc",
@@ -4058,7 +5898,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Retirement account tax rules are personal finance content with no bearing on card or lending partnerships.",
+  "data_points": []
  },
  {
   "id": "6d08f78a8c48",
@@ -4072,7 +5919,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A human interest feature with no link to card benefits, lending, or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "836998396dfc",
@@ -4086,7 +5940,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Fashion's middle market tier matters as a contrast to top end luxury, useful for mass affluent positioning.",
+  "data_points": []
  },
  {
   "id": "88afc0ae320f",
@@ -4100,7 +5963,14 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Indian forex reporting clarifications for service trade have little bearing on US card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "af66e3aec3a2",
@@ -4114,7 +5984,20 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "HDFC Bank"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A rewards rule change on a premium business card shows how Indian issuers are tuning earn structures for high spenders.",
+  "data_points": [
+   "5X points earn rate"
+  ]
  },
  {
   "id": "dfd040988aeb",
@@ -4125,10 +6008,17 @@
   "source_type": "rss",
   "published": "2026-11-20T10:00:18Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "Author: A finextra community member",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Agent identity and bank security commentary is general fintech discussion without a card or partnership angle.",
+  "data_points": []
  },
  {
   "id": "442a7aeea232",
@@ -4142,7 +6032,21 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "Patek Philippe",
+   "Chrome Hearts"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Shows affluent households mixing ultra-high-end watches with streetwear, a useful signal for premium spending profiles.",
+  "data_points": [
+   "$150,000 watch"
+  ]
  },
  {
   "id": "d89599b08ba4",
@@ -4156,7 +6060,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Mercedes-Benz"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Labor disputes at German auto plants are macro industrial news with no connection to card or luxury consumer strategy.",
+  "data_points": []
  },
  {
   "id": "4e68e50c4890",
@@ -4170,7 +6083,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Market snapshot on chip export curbs is general financial news outside this team's scope.",
+  "data_points": []
  },
  {
   "id": "c4d0ee5855c3",
@@ -4184,7 +6104,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A new UK bank license tied to a private investor is not a card or lending partnership signal for this team.",
+  "data_points": []
  },
  {
   "id": "34dc77514eed",
@@ -4198,7 +6125,18 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Ally Financial"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Ally's return on equity commentary offers some read on consumer lender profitability, though it is not card specific.",
+  "data_points": []
  },
  {
   "id": "df06842ec472",
@@ -4212,7 +6150,21 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "Marriott"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A new large St. Regis in India expands a top luxury hotel brand that premium card hotel perks often feature.",
+  "data_points": [
+   "397 rooms",
+   "October 2027 opening"
+  ]
  },
  {
   "id": "4a6ae9dba645",
@@ -4226,7 +6178,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Federated Hermes"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "An insider share sale filing at an asset manager has no bearing on card benefits or affluent spending.",
+  "data_points": []
  },
  {
   "id": "9ad23e2894b2",
@@ -4240,7 +6201,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "European tech stock moves are general market news without a card or consumer partnership angle.",
+  "data_points": []
  },
  {
   "id": "62bd3e110fac",
@@ -4254,7 +6222,18 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Citi"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A Citi trade-error and risk-asset disclosure is a governance story, only tangentially relevant to card strategy.",
+  "data_points": [
+   "$35B underestimated risky assets"
+  ]
  },
  {
   "id": "959582b0ff32",
@@ -4268,7 +6247,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Market commentary on an AI company's share price has no connection to card partnerships or luxury consumers.",
+  "data_points": []
  },
  {
   "id": "18e5a037577c",
@@ -4282,7 +6268,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "A video game release story is holiday entertainment noise with no link to card benefits or luxury spending.",
+  "data_points": []
  },
  {
   "id": "873c16f5328d",
@@ -4296,7 +6289,20 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "partnerships",
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Revolut",
+   "Virgin Atlantic"
+  ],
+  "relevance": 4,
+  "breaking": false,
+  "why": "Revolut adding Velocity as a points currency shows fintechs buying into airline loyalty ecosystems, a direct partner model to watch.",
+  "data_points": []
  },
  {
   "id": "44a3eb418314",
@@ -4310,7 +6316,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "partnerships"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Marqeta"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Marqeta's card-issuing infrastructure push hints at new embedded card products that could become partner channels.",
+  "data_points": []
  },
  {
   "id": "15a98f28a251",
@@ -4324,7 +6341,14 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Generic shopping advice piece with no concrete card, lending or luxury signal for this team.",
+  "data_points": []
  },
  {
   "id": "9c8253ae53a2",
@@ -4338,7 +6362,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "UK government borrowing figures are sovereign finance news without relevance to card or lending economics here.",
+  "data_points": []
  },
  {
   "id": "6d8efe845a8c",
@@ -4352,7 +6383,16 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Analysis of randomized card rewards and overspending may signal design trends and regulatory attention on gamified benefits.",
+  "data_points": []
  },
  {
   "id": "f56c8e2b2ab8",
@@ -4366,7 +6406,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Spain's economic growth and household sentiment story is macro commentary without direct card or lending relevance.",
+  "data_points": []
  },
  {
   "id": "0e66f94af127",
@@ -4380,7 +6427,19 @@
   "summary": "",
   "hint": "partnerships",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community",
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Equitas Small Finance Bank"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A top-tier benefit cut on co-branded cards is a cautionary example for partners on devaluation risk and cardholder sentiment.",
+  "data_points": []
  },
  {
   "id": "1e0b90e43fad",
@@ -4394,7 +6453,18 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Christie's"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A soft 21st-century auction result gives a read on the appetite of high-net-worth buyers for art and collectibles.",
+  "data_points": []
  },
  {
   "id": "46213801e907",
@@ -4408,7 +6478,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Renters borrowing for deposits points to a sizable pool of short-term consumer credit demand that lenders could address.",
+  "data_points": [
+   "One in four renters borrow for deposits"
+  ]
  },
  {
   "id": "555ca554fe3c",
@@ -4422,7 +6503,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A similar survey figure on renters borrowing for deposits reinforces demand for flexible installment and personal loan products.",
+  "data_points": [
+   "27% of renters borrowing for deposits"
+  ]
  },
  {
   "id": "bfa848177b4c",
@@ -4436,7 +6528,14 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Black Friday shoe promotion is retail noise with no tie to card benefits or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "bd96abddaea2",
@@ -4805,7 +6904,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Political press access news with no link to card partnerships or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "4d7be0b3d145",
@@ -4819,7 +6925,14 @@
   "summary": "",
   "hint": "nyc_dining",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Reader comment roundup on a chef tribute, offering no restaurant openings, bookings or dining trends.",
+  "data_points": []
  },
  {
   "id": "8d47825472ab",
@@ -4833,7 +6946,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Nvidia"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Chip supply story about China's AI sector with no bearing on card partnerships or affluent spending.",
+  "data_points": []
  },
  {
   "id": "118cef08d3ba",
@@ -4847,7 +6969,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "entertainment",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Broadway review that signals affluent interest in theater, though nothing here is tied to card benefits.",
+  "data_points": []
  },
  {
   "id": "f30a4d1a33c9",
@@ -4861,7 +6992,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Honda"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Automaker product news for Asia with no relevance to card benefits or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "5421ef1a04cb",
@@ -4875,7 +7015,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Government cybersecurity personnel story with no connection to card or lending partnerships.",
+  "data_points": []
  },
  {
   "id": "a4006b0c69ec",
@@ -4889,7 +7036,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Indian bank accounting change affecting capital buffers, useful only as distant context on credit loss provisioning.",
+  "data_points": [
+   "ECL transition could consume more than 5% of net worth at five banks"
+  ]
  },
  {
   "id": "738aa3dde6dc",
@@ -4903,7 +7061,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Hertz"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Corporate lender group formation at Hertz, with no read-through to consumer card or loan partnerships.",
+  "data_points": []
  },
  {
   "id": "af530273fa75",
@@ -4917,7 +7084,17 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Card skimming enforcement in Atlanta highlights fraud exposure that card issuers and their partners must manage.",
+  "data_points": [
+   "22 card-skimming devices seized",
+   "Estimated $22.9 million in potential losses"
+  ]
  },
  {
   "id": "3c9294a9462f",
@@ -4928,10 +7105,27 @@
   "source_type": "rss",
   "published": "2026-11-20T00:45:51Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Atmos Rewards is running a well-timed promo awarding double Atmos points on all flights between any U.S. state and Hawaiʻi, including Alaska. The promo is valid for flights through March 10th, 2027, with blackout dates from December 18th to January 4th. Flights to Hawaiʻi from the West Coast are ~5,000 miles roundtrip, so this promo […] The post Earn double Atmos Points on Hawaii flights this wint",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "community",
+   "partnerships"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Atmos Rewards",
+   "Alaska Airlines"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A loyalty promo showing how airline programs use bonus earning to win travel spend, a useful benchmark for perk design.",
+  "data_points": [
+   "Double Atmos points on Hawaii flights",
+   "Promo valid through March 10, 2027",
+   "Blackout December 18 to January 4"
+  ]
  },
  {
   "id": "1a75ef1ce2d6",
@@ -4945,7 +7139,21 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "premium_cards"
+  ],
+  "subcategory": null,
+  "companies": [
+   "JPMorgan Chase",
+   "Chase"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "A data exposure touching premium reserve cardholders could raise security and trust questions for rival premium issuers.",
+  "data_points": [
+   "Exposure of contact information for 16,000 reserve customers"
+  ]
  },
  {
   "id": "3150fcd1e970",
@@ -4959,7 +7167,35 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Bank staff compensation decision with no bearing on card partnerships or affluent consumer strategy.",
+  "data_points": []
+ },
+ {
+  "id": "7414bc01e943",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTUVLYlJ2blhyVXFFbzRoWUE0enc5d0JZWWY1Z1JVUC00YlNGblFsbFdKcFQ1Y2x4NnlpemF4cVhJa0tpNGRiNzJsZHM1UURadnhPd3YwYjhjSXlTTVlscnpIYTRiRERoSWVkU3N5a1RuemVhaW15NEUzd1NZQjZxeXV2S3pXSmNFQjV0bA?oc=5",
+  "title": "Entry Level / Assistant jobs in United Kingdom",
+  "source": "The Business of Fashion",
+  "via": "Google News: site:businessoffashion.com luxury",
+  "source_type": "gnews",
+  "published": "2026-11-20T00:20:45Z",
+  "fetched": "2026-11-21T00:22:06Z",
+  "summary": "",
+  "hint": "luxury",
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Generic job listings with no consumer spending, brand or partnership signal.",
+  "data_points": []
  },
  {
   "id": "640920ce59c7",
@@ -4973,7 +7209,18 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "SpaceX"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Lender collateral dispute over space hardware, with no consumer lending or card relevance.",
+  "data_points": [
+   "$40bn of chips slated for orbit"
+  ]
  },
  {
   "id": "f2e1dd29aa52",
@@ -4987,7 +7234,18 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "spending_data"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Pre-IPO wealth could fuel luxury housing demand in tech hubs, a possible signal of affluent spending momentum.",
+  "data_points": []
  },
  {
   "id": "ab482e8a1989",
@@ -4998,10 +7256,44 @@
   "source_type": "rss",
   "published": "2026-11-20T00:01:00Z",
   "fetched": "2026-11-21T00:04:57Z",
-  "summary": "The UK's Financial Conduct Authority has launched a platform bringing together real-world examples of AI adoption across financial services as it seeks to help firms identify emerging trends and opportunities.",
+  "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "regulatory"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Financial Conduct Authority"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "UK AI oversight in financial services is tangential to US card economics but hints at broader AI governance trends.",
+  "data_points": []
+ },
+ {
+  "id": "d2071fc9f669",
+  "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU1JnZlB6YVZ4SGVkcGZoWFc3eWVGdjY2T3g2ZXhoZ2NrcXd5NjZNTUx0ZE9wZ2I0Uk9fNGxyal9pWnZYdS0wa0tKYUlpem5PSllfSWFueWw3VnY5aVM1andIeTZadW1ZSEduazNsWTNXemlITUpDV0R1d3N1WU9aNG9JSk1kSklNTlBHTXlCb2ttZ3otUW95Zld4YWlQS3pNbjdn?oc=5",
+  "title": "California Attorney General Issues Investigative Subpoena to Nvidia",
+  "source": "WSJ",
+  "via": "Google News: site:wsj.com credit card OR luxury OR affluent",
+  "source_type": "gnews",
+  "published": "2026-11-20T00:01:00Z",
+  "fetched": "2026-11-21T00:22:07Z",
+  "summary": "",
+  "hint": null,
+  "also": [],
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Nvidia"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "State legal action against a chipmaker with no connection to card partnerships or consumer finance.",
+  "data_points": []
  },
  {
   "id": "054f5c33b0f5",
@@ -5015,7 +7307,16 @@
   "summary": "",
   "hint": "nyc_dining",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "nyc_dining"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "A French restaurant guide that could help identify tables worth tracking for clients, though it is not news.",
+  "data_points": []
  },
  {
   "id": "06e7930f1700",
@@ -5029,7 +7330,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "European macroeconomic commentary with no direct link to card or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "ec38c41453a1",
@@ -5043,7 +7351,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "UK trade policy on China tariffs with no bearing on card partnerships or consumer finance.",
+  "data_points": []
  },
  {
   "id": "56aa278edd2e",
@@ -5057,7 +7372,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Preview of a UK-EU summit with no card, lending or affluent consumer angle.",
+  "data_points": []
  },
  {
   "id": "c73ea45845d0",
@@ -5071,7 +7393,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Geopolitical diplomacy coverage with no link to card partnerships or consumer strategy.",
+  "data_points": []
  },
  {
   "id": "1992e9ce880b",
@@ -5085,7 +7414,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "JPMorgan Chase"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Bank investment commentary with no direct card or affluent consumer angle.",
+  "data_points": []
  },
  {
   "id": "fe5c1120929b",
@@ -5099,7 +7437,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "India-US trade diplomacy with no bearing on card partnerships or consumer finance.",
+  "data_points": []
  },
  {
   "id": "632a75255cc0",
@@ -5113,7 +7458,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "UBS"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Bank analyst view on AI capital spending with no consumer card or lending relevance.",
+  "data_points": []
  },
  {
   "id": "7800da6c9810",
@@ -5127,7 +7481,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "General market commentary with no link to card partnerships or affluent consumer spending.",
+  "data_points": []
  },
  {
   "id": "210732a369f8",
@@ -5141,7 +7502,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Macro commentary on AI and jobs that does not touch card economics or partner strategy.",
+  "data_points": []
  },
  {
   "id": "fe4ee29356ac",
@@ -5155,7 +7523,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Geopolitical market video with no bearing on card or affluent consumer strategy.",
+  "data_points": []
  },
  {
   "id": "621befc9a520",
@@ -5169,7 +7544,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Bank executive interview on UK business strategy, unrelated to US card partnerships.",
+  "data_points": []
  },
  {
   "id": "e0119435da98",
@@ -5183,7 +7565,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Generic market outlook video with no relevance to card benefits or consumer credit.",
+  "data_points": []
  },
  {
   "id": "c6bf568bfe26",
@@ -5197,7 +7586,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Premarket stock move in an AI company, with no direct card or affluent consumer angle.",
+  "data_points": []
  },
  {
   "id": "b5ff2f43d742",
@@ -5211,7 +7609,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Sports coaching video with no connection to card partnerships or luxury spending.",
+  "data_points": []
  },
  {
   "id": "3fc7f37a219d",
@@ -5225,7 +7630,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Market selloff commentary with no card, lending or affluent spending relevance.",
+  "data_points": []
  },
  {
   "id": "6d717910c91f",
@@ -5236,10 +7648,21 @@
   "source_type": "rss",
   "published": "2026-11-19T23:57:41Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "Finnair marked International Men's Day by operating a Helsinki to London flight with an all-male crew, aiming to highlight that only around 10% of its cabin crew are men.",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Finnair"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Airline diversity publicity stunt with no card benefit or partnership implication.",
+  "data_points": [
+   "Only around 10% of Finnair cabin crew are men"
+  ]
  },
  {
   "id": "8a7c6d150246",
@@ -5253,7 +7676,19 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Intuit",
+   "Bending Spoons"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Software M&A with only indirect relevance to fintech or card ecosystem partners.",
+  "data_points": [
+   "$3.68 billion sale price"
+  ]
  },
  {
   "id": "1a93ecd1c41e",
@@ -5264,10 +7699,29 @@
   "source_type": "rss",
   "published": "2026-11-19T23:45:33Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "For several months, Rakuten has offered rewards for applying for and being approved for the Chase Freedom Unlimited® and INK cards, as well as several different Bank of America cards. Even Citibank is increasingly getting into the game. Right now, Rakuten is offering $50 cashback or up to 5,000 Bilt points if you apply for […] The post Rakuten offering $50 cashback or up to 5K Bilt points for thre",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "partnerships",
+   "community"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Rakuten",
+   "Citi",
+   "Bilt",
+   "Chase",
+   "Bank of America"
+  ],
+  "relevance": 4,
+  "breaking": false,
+  "why": "Rakuten's approval bonuses across issuers show how card-linked offers are being used to drive acquisition, a model worth tracking.",
+  "data_points": [
+   "$50 cashback or up to 5,000 Bilt points",
+   "Offers span three Citi cards"
+  ]
  },
  {
   "id": "a06c119571eb",
@@ -5281,7 +7735,19 @@
   "summary": "",
   "hint": "premium_cards",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "partnerships"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Rakuten",
+   "Citi"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Rakuten approval bonuses on Citi cards signal issuers using third-party cashback portals for card acquisition.",
+  "data_points": []
  },
  {
   "id": "fad1c5f9b8c2",
@@ -5295,7 +7761,18 @@
   "summary": "",
   "hint": "wells",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Gaming and Leisure Properties"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Gaming REIT bond pricing with no link to card partnerships or consumer lending.",
+  "data_points": [
+   "$600,000,000 of 6.250% senior notes due 2031"
+  ]
  },
  {
   "id": "df1375f4bf38",
@@ -5309,7 +7786,14 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Job listing with no market intelligence value for partnerships or luxury trends.",
+  "data_points": []
  },
  {
   "id": "467cbc9fd78f",
@@ -5323,7 +7807,22 @@
   "summary": "",
   "hint": "wells",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending",
+   "wells"
+  ],
+  "subcategory": null,
+  "companies": [
+   "Wells Fargo"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Third-party review of a Wells Fargo personal loan highlights fee and funding speed positioning vs. competitors.",
+  "data_points": [
+   "No origination fee",
+   "Same-day funding"
+  ]
  },
  {
   "id": "97217903ca0d",
@@ -5337,7 +7836,19 @@
   "summary": "",
   "hint": "spending_data",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury",
+   "spending_data"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [
+   "Christie's"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Auction disruption shows how high-value art collecting is tied to geopolitics and provenance, a niche affluent signal.",
+  "data_points": []
  },
  {
   "id": "1598bf3c52fd",
@@ -5351,7 +7862,14 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Job listing with no relevance to partnerships, luxury trends or card strategy.",
+  "data_points": []
  },
  {
   "id": "f72cd8d8fea6",
@@ -5365,7 +7883,14 @@
   "summary": "",
   "hint": "nyc_dining",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Local Los Angeles restaurant news with no New York dining relevance.",
+  "data_points": []
  },
  {
   "id": "5fe5429a355f",
@@ -5376,10 +7901,26 @@
   "source_type": "rss",
   "published": "2026-11-19T22:57:42Z",
   "fetched": "2026-11-21T00:04:58Z",
-  "summary": "IHG has pre-launched its 2026 Cyber Sale, which includes up to 25-30% off paid stays at many IHG properties, up to 60% off Iberostar hotels, and 500 points for downloading the IHG app and signing in. However, the sale rate requires you to prepay a 1-night nonrefundable deposit. Compared to other rates with the same […] The post IHG Cyber Sale: 500 free points and up to 30% off hotel stays appeared",
+  "summary": "",
   "hint": "community",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury",
+   "community"
+  ],
+  "subcategory": "travel",
+  "companies": [
+   "IHG"
+  ],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Hotel loyalty sale mechanics show how hotel programs compete on points and discounts that premium card benefits often mirror.",
+  "data_points": [
+   "Up to 30% off paid stays",
+   "500 points for app download",
+   "1-night nonrefundable deposit required"
+  ]
  },
  {
   "id": "66539c572a06",
@@ -5393,7 +7934,14 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Defense and foreign policy opinion piece with no card or affluent consumer relevance.",
+  "data_points": []
  },
  {
   "id": "87af4d50b2da",
@@ -5407,7 +7955,16 @@
   "summary": "",
   "hint": null,
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Anthropic"
+  ],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Newly minted tech wealth could expand the affluent card target base, though the link is indirect.",
+  "data_points": []
  },
  {
   "id": "68d60a338b9c",
@@ -5421,7 +7978,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [
+   "Kering"
+  ],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Retail job posting at a luxury group with no partnership or spending intelligence.",
+  "data_points": []
  },
  {
   "id": "eb860712d6aa",
@@ -5435,7 +8001,14 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 1,
+  "breaking": false,
+  "why": "Church governance news with no bearing on card, lending or consumer strategy.",
+  "data_points": []
  },
  {
   "id": "976f7b1373c0",
@@ -5449,7 +8022,17 @@
   "summary": "",
   "hint": "lending",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "lending",
+   "regulatory"
+  ],
+  "subcategory": null,
+  "companies": [],
+  "relevance": 3,
+  "breaking": false,
+  "why": "Proposed pause-before-pay rules would shape how BNPL and pay-over-time features are offered to younger customers.",
+  "data_points": []
  },
  {
   "id": "0dc4950cab63",
@@ -5463,7 +8046,16 @@
   "summary": "",
   "hint": "luxury",
   "also": [],
-  "enriched": false
+  "enriched": true,
+  "sections": [
+   "luxury"
+  ],
+  "subcategory": "goods_retail",
+  "companies": [],
+  "relevance": 2,
+  "breaking": false,
+  "why": "Single artwork listing from a mid-century British sculptor, offering only a small read on affluent art buying.",
+  "data_points": []
  },
  {
   "id": "8542c776c1b2",
@@ -5934,6 +8526,20 @@
   "fetched": "2026-11-21T00:04:58Z",
   "summary": "",
   "hint": "spending_data",
+  "also": [],
+  "enriched": false
+ },
+ {
+  "id": "d712de33251f",
+  "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd3FCNFpoV1ZRU3VZTkhCYTJQelNvMGhyNTJia0J0Uk9vU0JZREF6WFh5b3N4NWVEWDZMTkxwUmFqMmZ6emZiN2FNUlBzcmQ5ZEd1X21NM09yTFpEQ1NIdjRCMzVVVGJaYVFPRnNHT2JXRzhtaHMxZUMwY2FCNGJva2JaNllSVUNLUkVSQQ?oc=5",
+  "title": "Capital One VentureOne current offers: Which is best?",
+  "source": "The Points Guy",
+  "via": "Google News: airport lounge credit card new opening",
+  "source_type": "gnews",
+  "published": "2026-11-19T20:30:35Z",
+  "fetched": "2026-11-21T00:22:06Z",
+  "summary": "",
+  "hint": "premium_cards",
   "also": [],
   "enriched": false
  },
