@@ -1,10 +1,10 @@
 {
  "days": {
   "2026-11-20": {
-   "input_tokens": 1336739,
-   "output_tokens": 815970,
-   "web_searches": 41,
-   "calls": 160,
+   "input_tokens": 1486228,
+   "output_tokens": 830103,
+   "web_searches": 45,
+   "calls": 163,
    "by_task": {
     "enrich": {
      "calls": 145,
@@ -49,17 +49,24 @@
      "model": "claude-sonnet-5-5"
     },
     "digest_monday": {
-     "calls": 2,
-     "input_tokens": 276567,
-     "output_tokens": 12004,
+     "calls": 3,
+     "input_tokens": 337563,
+     "output_tokens": 21004,
      "web_searches": 8,
      "model": "claude-sonnet-5-5"
     },
     "radar_radar": {
-     "calls": 1,
-     "input_tokens": 16104,
-     "output_tokens": 2841,
+     "calls": 2,
+     "input_tokens": 60657,
+     "output_tokens": 5629,
      "web_searches": 0,
+     "model": "claude-sonnet-5-5"
+    },
+    "digest_monday_research": {
+     "calls": 1,
+     "input_tokens": 43940,
+     "output_tokens": 2345,
+     "web_searches": 4,
      "model": "claude-sonnet-5-5"
     }
    }
