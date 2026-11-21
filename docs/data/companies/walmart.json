@@ -1,0 +1,125 @@
+{
+ "name": "Walmart",
+ "slug": "walmart",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e2b4d1596381",
+   "title": "The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart",
+   "url": "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-20T15:35:00Z",
+   "relevance": 2,
+   "why": "The NYC surveillance pricing ban could limit personalized merchant offers built on card data, so check the rule's scope before building them.",
+   "summary_ai": "New York City banned surveillance pricing, which bars tailoring prices with personal data, while FabFitFun is launching a beauty box in 3,000 Walmart stores.",
+   "take": "The NYC surveillance pricing ban could limit personalized merchant offers built on card data, so check the rule's scope before building them.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "3,000 Walmart stores"
+   ],
+   "also": []
+  },
+  {
+   "id": "4b96749f838e",
+   "title": "Walmart, Target Highlight Groceries Heading Into the Holidays",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlVIZkpHNlp3aFV6OXpxd2JmQ1dzYjdaTnBrY3VvemZsTGdoQ0dnZmVNSlVOcGM1c3NsS0FkcFc2NFprbnNsR2JHbE5mYTNuUllOQ2tibVJxVThxZWNTTjFkT0IwYkZBT20tNDhUc1ZLNjQ0U05pZHUyM3l3THRGbXh5amdtSzF4eHNWcmlBcFIzSVNyQzZYZEJGRkxfZnVqMVFwUzA4dXVtS0lndUE1b1FRYTV0UzE4SkNLeXpnTDNpY25Fdmc?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T14:01:49Z",
+   "relevance": 2,
+   "why": "Walmart and Target are highlighting grocery offerings ahead of the holiday season.",
+   "summary_ai": "Walmart and Target are highlighting grocery offerings ahead of the holiday season.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "d2fdeffb7a2d",
+   "title": "Walmart’s convenience lures high-income shoppers",
+   "url": "https://www.modernretail.co/operations/walmarts-convenience-lures-high-income-shoppers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "source": "Modern Retail",
+   "source_type": "rss",
+   "published": "2026-11-20T05:00:00Z",
+   "relevance": 3,
+   "why": "Affluent-targeted membership bundles compete for the same wallet as premium card perks; test bundling angles in partner talks.",
+   "summary_ai": "Walmart is combining Walmart+ and Sam's Club Plus into one membership aimed at higher-income shoppers.",
+   "take": "Affluent-targeted membership bundles compete for the same wallet as premium card perks; test bundling angles in partner talks.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "51c5886a825b",
+   "title": "Walmart hikes outlook as CEO tells CNBC retailer aims to keep prices low despite soaring fuel costs",
+   "url": "https://www.cnbc.com/2026/11/19/walmart-wmt-q3-2026-earnings.html",
+   "source": "CNBC Retail",
+   "source_type": "rss",
+   "published": "2026-11-19T19:58:30Z",
+   "relevance": 2,
+   "why": "Walmart raised its outlook after its CEO said the retailer will keep prices low despite higher fuel costs.",
+   "summary_ai": "Walmart raised its outlook after its CEO said the retailer will keep prices low despite higher fuel costs.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "ba616f66a569",
+   "title": "Walmart’s Digital Sales Are Now Driving Its Growth, Not Stores",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1NMeEgtRlBKbmh5MGpoTmJfNUUtLS1QNUgxeTJnUlh2NTJvSjY3dndxekJzZXFxRFF3TkkxLWxpUG4zSmxTVGdyUFh6bC1uem5EWkprRWlQS01JdkNaT2xXd3l5eTM2bE9HU3IxR1BadWhwNHRmQ2xhRjhTZ0NRSHlhcUZUT1RBN2c?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-19T15:35:16Z",
+   "relevance": 2,
+   "why": "Walmart's growth is now coming mainly from its digital sales rather than from its stores, according to a WSJ report.",
+   "summary_ai": "Walmart's growth is now coming mainly from its digital sales rather than from its stores, according to a WSJ report.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

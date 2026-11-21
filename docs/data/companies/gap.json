@@ -1,0 +1,29 @@
+{
+ "name": "Gap",
+ "slug": "gap",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1eb7507f8cbe",
+   "title": "Gap names new Athleta CEO, says Old Navy turnaround is seeing signs of progress",
+   "url": "https://www.cnbc.com/2026/11/19/gap-gap-q3-2026-earnings.html",
+   "source": "CNBC Retail",
+   "source_type": "rss",
+   "published": "2026-11-20T21:04:48Z",
+   "relevance": 1,
+   "why": "Gap named Ashley Kechter as Athleta CEO and reported mixed fiscal third-quarter results.",
+   "summary_ai": "Gap named Ashley Kechter as Athleta CEO and reported mixed fiscal third-quarter results.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

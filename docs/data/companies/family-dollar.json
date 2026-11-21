@@ -1,0 +1,31 @@
+{
+ "name": "Family Dollar",
+ "slug": "family-dollar",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a85640f077ed",
+   "title": "Family Dollar Closed 350+ Stores - One Unexpected Retailer Is Snapping Them Up",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zcG9YbXlJa1NrU18tVkhWVUQtM2xsR2luLUJFS21WclF2VDZSMHFFREloS1ozR05lcHFzbm9ENDlnbDg4alRzYkp1WjIwN0NTRXN5a3pucTNjcXV6TVREcG1CdXV3c0pmUUpYTngwSm5OUQ?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:00:00Z",
+   "relevance": 1,
+   "why": "Family Dollar has closed over 350 stores, and an unnamed retailer is reportedly taking over some locations.",
+   "summary_ai": "Family Dollar has closed over 350 stores, and an unnamed retailer is reportedly taking over some locations.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Acquiring retailer unnamed in title",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "350+ stores closed"
+   ],
+   "also": []
+  }
+ ]
+}

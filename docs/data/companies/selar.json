@@ -1,0 +1,31 @@
+{
+ "name": "Selar",
+ "slug": "selar",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "355f8ccdf4c8",
+   "title": "Selar Wants to Make Arctic Cruising Less Like a Cruise",
+   "url": "https://skift.com/2026/11/20/selar-wants-to-make-arctic-cruising-less-like-a-cruise/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-20T15:37:22Z",
+   "relevance": 3,
+   "why": "Small-group expedition operators are candidates for premium travel perk partnerships, so check their appetite for card-benefit tie-ins.",
+   "summary_ai": "Selar is building Arctic expedition trips on a lower-emissions ship, with small groups and local expertise.",
+   "take": "Small-group expedition operators are candidates for premium travel perk partnerships, so check their appetite for card-benefit tie-ins.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

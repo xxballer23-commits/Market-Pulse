@@ -1,0 +1,32 @@
+{
+ "name": "Afterpay",
+ "slug": "afterpay",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8d1081a84d33",
+   "title": "Birmingham startup lands partnership with Cash App, Afterpay parent company",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnlBNlp1WjNXM3ZhVkJMZHdEZS1nUWtaUzU1SzduSmZEdFQ0ZFFFNUE1TTdDM2hVLUJiNXJPbkFELUxQMVoyMU8zZHBtZXcwUkoyWG5DR0tROGM4Mm5wTm5jbWc1Snh1SUpxSnRpeUpDSkRoQmtZX0x1azhDT1UzMkp0eC1LY1lPMjhmeU1vYVJZZHgyYUFKV1o5QzdnaWRpekdMb1ZQaw?oc=5",
+   "source": "The Business Journals",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:30:00Z",
+   "relevance": 3,
+   "why": "Embedded BNPL deals with startups can serve as low-cost pilots for installment features on cards.",
+   "summary_ai": "A Birmingham startup has struck a partnership with Cash App and Afterpay's parent company.",
+   "take": "Embedded BNPL deals with startups can serve as low-cost pilots for installment features on cards.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Startup and deal terms not in headline",
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

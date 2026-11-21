@@ -1,0 +1,33 @@
+{
+ "name": "Uber Eats",
+ "slug": "uber-eats",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5bb86ed35408",
+   "title": "Amazon Prime Adds Uber Eats: Free Delivery and $40 Savings",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jMlNWWDNubkNjQjN4TFZvNDg4TnVMTmxLVWtzNVVIeURmV0tJY2V2U0g0cjJZMjBMWjROaTVJTU52dVZtVjhTU1BlNXdLTEs1OXZ5OEwybGx1cmhIMTJhcHJCU3dMTTlpR0VzLVlQVXFNTmhOMUFNbXM0bw?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T13:56:34Z",
+   "relevance": 4,
+   "why": "Prime's Uber Eats bundle raises the bar for delivery perks, so test whether a dining delivery credit can stand out.",
+   "summary_ai": "Amazon Prime is adding Uber Eats, bringing free delivery and $40 in savings to members.",
+   "take": "Prime's Uber Eats bundle raises the bar for delivery perks, so test whether a dining delivery credit can stand out.",
+   "take_kind": "take",
+   "partner": "Uber Eats",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$40 savings"
+   ],
+   "also": []
+  }
+ ]
+}

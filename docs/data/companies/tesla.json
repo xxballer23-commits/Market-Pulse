@@ -1,0 +1,50 @@
+{
+ "name": "Tesla",
+ "slug": "tesla",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fa87df45538f",
+   "title": "Tesla Shareholders Urged to Vote Against Chair by Proxy Adviser",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFhtSnZiUm1CTzJJWDlDeml1T3RISkhNUkdaXzM3VTVUbGZicnNsYkVRcElORm1VUlhaRjFPQnJGd1EtLXRHd2xOYWpUZG93MVVLdTJ3cEwwOHNkRHhFZ1gzejY1VTJDU05EWktLWmY0UGF6WXMyZS1CMFFWYVBrZExMYkpERFJDdXdNSnFYTndVZVFTblpZU3VxRVk0YXV5bzRUVlRHak1ydjh0NEZCRUlaUVA?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T20:51:32Z",
+   "relevance": 1,
+   "why": "A proxy adviser recommends that Tesla shareholders vote against the board chair.",
+   "summary_ai": "A proxy adviser recommends that Tesla shareholders vote against the board chair.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "30febc543279",
+   "title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGRaS0psc00yb1MySC1qZTVTdjhELU1HdmxSSmdhWE52YWM4b0hmVzMzYlFlYmVUZTl3d19OVzk5UFl4YkRMek82NEZLbFJIeWtpSnEwMExFVlYtazRuQ0liTjg2ZFFHX0ZFbUlEbnV5UU5OVFNiNEVYOC02bzBJdzBPREp4ek1VYXA3V01Oa0h4TFF5TFlzQVdhR3ZwTTVy?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-19T18:02:00Z",
+   "relevance": 1,
+   "why": "A WSJ analysis looks at how a Democratic gain in Texas could affect Tesla and SpaceX.",
+   "summary_ai": "A WSJ analysis looks at how a Democratic gain in Texas could affect Tesla and SpaceX.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

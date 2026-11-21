@@ -1,0 +1,29 @@
+{
+ "name": "BMO",
+ "slug": "bmo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "233175830d9e",
+   "title": "BMO reaches quantum utility",
+   "url": "https://www.finextra.com/newsarticle/48782/bmo-reaches-quantum-utility?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-19T14:27:00Z",
+   "relevance": 1,
+   "why": "Canadian bank BMO says quantum computing helped AI models pick out key information from complex datasets.",
+   "summary_ai": "Canadian bank BMO says quantum computing helped AI models pick out key information from complex datasets.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

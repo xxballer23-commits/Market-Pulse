@@ -1,0 +1,61 @@
+{
+ "name": "PNC Bank",
+ "slug": "pnc-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d8d7dcf6cb36",
+   "title": "PNC Bank Introduces New Personal Loan Experience with Fast Access to Funds, Predictable Monthly Payments",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN19LNW1rWGVqLU5JN0QyeEUtSnZNSDA2TXJaSGVrZ25mVnF2T2g2MGl1WTJxZ0RoTEJISkZmaEFLS3RJbHNCUUZiSW1QekhpUGtQcVlWZ09WeVdERWVCSl9ndy1UbzNwcXl1MHFBbk9ValFJZGVjTldaZklQWVRheDZRWHg0U29SbU9oY0hWNV84alFTV1RFa1BFQkt5OUpSSkJ4UTRaZW52Rm0zVTJwa1gyblNyVTEycm4ySUhPWnQ5cHh2VHQyVlB1WVdYTE1HWk5yMjh5SmdvbWw1MzZQdWtQa3hyTWh6WlBxX2xhUEZDZ1pkS1hn?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:02:00Z",
+   "relevance": 3,
+   "why": "Incumbent banks are upgrading digital loan UX, so our card-linked installment features need to match that speed.",
+   "summary_ai": "PNC has rolled out a revamped personal loan experience promising faster access to funds and fixed monthly payments.",
+   "take": "Incumbent banks are upgrading digital loan UX, so our card-linked installment features need to match that speed.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": [
+    {
+     "source": "Quantisnow",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVlTMHNxSDAzWWtLeS10SHRLM2RyaE0tVXZ5WDhpVkFmSG1zWlc2TWRFM1FuaG4tV2ZGZmJzMTFnUnh2aTgyd0VZZDZpMjh5clFCZVJXcGp6d3pya0RYTEpDZ0xROW9jNmE5cWQ4VktFakhBU1JHdzVickxodnNHdTVpR2VRWWt1SmZONmlYTElocnNlV0RpVWhOVG8tanlvODZvQURWSQ?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "c3284128f4f7",
+   "title": "PNC Bank, National Association (PNC) Launches Personal Loans in 49 States",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaG9xWWhnTFU1TEtpdUZ0YzV5cVpRZlNFUVBWazJtRTFaSFg1c0FsNW55bzRmQkRpVVJTSG00encxVHVNQ2dnQXVaS2Q2MlUzUEN5dGNGd2RibEZvVE5uVWhweGlnQ29SeGNzbUJVYWhPZjhXRHVUb2xlRWlFbzdoRF9NcmxvTTZZVC1wMnpzVktSVmZGUXEzdFRjRlRnWGJPRWo5clhvTkNpWmpaZERTUzJkTkxRNDNqWnFzcHhxOFVremp2SkdzNm1fTzU?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:02:00Z",
+   "relevance": 3,
+   "why": "A wider national footprint for PNC loans adds competition for the same affluent borrowers we target.",
+   "summary_ai": "PNC is now offering personal loans across 49 states.",
+   "take": "A wider national footprint for PNC loans adds competition for the same affluent borrowers we target.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "49 states"
+   ],
+   "also": []
+  }
+ ]
+}

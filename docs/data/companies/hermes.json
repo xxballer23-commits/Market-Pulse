@@ -1,0 +1,32 @@
+{
+ "name": "Hermes",
+ "slug": "hermes",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "abeb97be5727",
+   "title": "Hermès stock slips to EUR 1,252.75, down 1.67% premarket",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeVBETENyT1VpdU1HbGpWc0hxeTVFd0R0Nmg5OWdOeDJoaVFycDRZOUpCZFNtM0w0d1Q4aHlfUHZuM3NvQXM1TWhGajNSSFdTTFo3YlVfOW5rU1M5RVdlR3Zpcl9KRy1GdGFRZXdwc3BzaE9zdDc2emtsNmtUa3UzWkZWUW9KWXV1QnI0dDhhaG9DWm11bUdQZTZtNlZvQWtOUk11MzlmNFBKbDRiemZEaW9n?oc=5",
+   "source": "ad-hoc-news.de",
+   "source_type": "gnews",
+   "published": "2026-11-20T06:56:47Z",
+   "relevance": 1,
+   "why": "Hermes shares dipped about 1.7% in premarket trading, to EUR 1,252.75.",
+   "summary_ai": "Hermes shares dipped about 1.7% in premarket trading, to EUR 1,252.75.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "EUR 1,252.75 share price",
+    "1.67% premarket drop"
+   ],
+   "also": []
+  }
+ ]
+}

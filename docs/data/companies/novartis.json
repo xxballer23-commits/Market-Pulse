@@ -1,0 +1,29 @@
+{
+ "name": "Novartis",
+ "slug": "novartis",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7e0306e7c394",
+   "title": "Watch Novartis CEO: AI Could Cut Drug Development Time by Years",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTTdNdzBHdUt0UVNjQlZ2ZXRidWZQUWFnSlQ3bVlqa29EQUtqTzVtTEp4d2JCVnd3c2RYR01mb1FTd0poWVhTaDVuUkxJVHpmZzBhejlVYWdSQmFxVklwQkUzVV9tU3ZqSTg3dUI2d1ZfQmJtODNGX3FTQUJ5eUhPYXRmV29VR0QwTmY1Vk9TNzljV3lmdUx2TVBlVjRuZnRLYldDRlJ1VC0wLTg?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T00:00:00Z",
+   "relevance": 1,
+   "why": "A Bloomberg video in which Novartis's CEO discusses how AI could shorten drug development timelines.",
+   "summary_ai": "A Bloomberg video in which Novartis's CEO discusses how AI could shorten drug development timelines.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

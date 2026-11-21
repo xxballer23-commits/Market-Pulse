@@ -1,0 +1,31 @@
+{
+ "name": "OneMain Financial",
+ "slug": "onemain-financial",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5eadf281dccd",
+   "title": "OneMain Financial Gets FDIC Approval to Launch a Bank",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcmNsRHRVQ1JqeDE0SV9Pdzc2bzJ2TW5mbFhISHZmTUE0V0JFVlFfa3hicU53enJ6aEdTSk5KcFJIOUtyOGdXWXNtamtFU0tfVnBrOVZDSUhFYlB2MlRfdGZ0Ynp0dnA5X0NaTVU3TGlhaldKb0xVUUpDYVVMWnNSWVc3Tjg3U0RYRkI4Uk9FTVVLVkVZQ0paVGpXVQ?oc=5",
+   "source": "PYMNTS.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T16:58:47Z",
+   "relevance": 3,
+   "why": "A bank charter lets lenders fund with deposits, which could pressure card and personal loan pricing across the market.",
+   "summary_ai": "OneMain Financial received FDIC approval to launch its own bank.",
+   "take": "A bank charter lets lenders fund with deposits, which could pressure card and personal loan pricing across the market.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "name": "Google",
+ "slug": "google",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5e86c78fe1e9",
+   "title": "Google Wallet lands on iOS in the US",
+   "url": "https://www.finextra.com/pressarticle/111753/google-wallet-lands-on-ios-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-20T15:53:00Z",
+   "relevance": 2,
+   "why": "Wallet consolidation of tickets and boarding passes raises the bar for card-linked travel perks delivered through mobile wallets.",
+   "summary_ai": "Google Wallet is now available to iOS users across the US, consolidating purchases, tickets and boarding passes in one app.",
+   "take": "Wallet consolidation of tickets and boarding passes raises the bar for card-linked travel perks delivered through mobile wallets.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "88a233b4f879",
+   "title": "Google wallet returns to Apple",
+   "url": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T15:24:00Z",
+   "relevance": 3,
+   "why": "Wallet placement on iPhone matters for agentic checkout; consider how card credentials can sit inside these wallets.",
+   "summary_ai": "Google Wallet is returning to Apple iPhones, giving Google an early lead among agentic shoppers and competing with Stripe's Link wallet.",
+   "take": "Wallet placement on iPhone matters for agentic checkout; consider how card credentials can sit inside these wallets.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

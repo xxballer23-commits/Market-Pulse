@@ -1,0 +1,32 @@
+{
+ "name": "Center Parcs",
+ "slug": "center-parcs",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7a50a020305c",
+   "title": "Center Parcs announces new £5 rule at all 5 UK holiday parks",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMGt5dEJuZENNSEZkbDliVjNJRGNROWF4MWI5UFdZb0E0Z0s0eDJRa0t0bUdzanplQUVjYVdCcHl0aVFWdUc4SElkOHNDZ3p1OGJpLWtvcUdqLUxiVEx3QmhjZkh4UndXTFc3cDlyMnlVbVZyOTVkckZWaE1nbkRCbA?oc=5",
+   "source": "AOL.co.uk",
+   "source_type": "gnews",
+   "published": "2026-11-19T21:23:46Z",
+   "relevance": 1,
+   "why": "Center Parcs has announced a new £5 rule across its five UK holiday parks, though the rule's details are unclear.",
+   "summary_ai": "Center Parcs has announced a new £5 rule across its five UK holiday parks, though the rule's details are unclear.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Title only, rule details unclear",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "£5",
+    "5 UK holiday parks"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "FabFitFun",
+ "slug": "fabfitfun",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e2b4d1596381",
+   "title": "The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart",
+   "url": "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-20T15:35:00Z",
+   "relevance": 2,
+   "why": "The NYC surveillance pricing ban could limit personalized merchant offers built on card data, so check the rule's scope before building them.",
+   "summary_ai": "New York City banned surveillance pricing, which bars tailoring prices with personal data, while FabFitFun is launching a beauty box in 3,000 Walmart stores.",
+   "take": "The NYC surveillance pricing ban could limit personalized merchant offers built on card data, so check the rule's scope before building them.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "3,000 Walmart stores"
+   ],
+   "also": []
+  }
+ ]
+}

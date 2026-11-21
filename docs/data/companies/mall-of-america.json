@@ -1,0 +1,31 @@
+{
+ "name": "Mall of America",
+ "slug": "mall-of-america",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "486e0e8b5e44",
+   "title": "Mall of America debuts AI-backed concierge, Mallie",
+   "url": "https://www.retaildive.com/news/mall-of-america-debuts-ai-concierge-mallie/875089/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T17:33:00Z",
+   "relevance": 2,
+   "why": "Mall of America launched Mallie, an AI assistant that helps shoppers plan and personalize visits.",
+   "summary_ai": "Mall of America launched Mallie, an AI assistant that helps shoppers plan and personalize visits.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "FNBO",
+ "slug": "fnbo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1aa68ca0ab66",
+   "title": "FNBO & Etihad Launches Two New Credit Cards",
+   "url": "https://www.doctorofcredit.com/fnbo-etihad-launches-two-new-credit-cards/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-20T19:54:46Z",
+   "relevance": 3,
+   "why": "Airline co-brands from mid-tier issuers show where banks are still competing for travel spend.",
+   "summary_ai": "FNBO and Etihad have launched two new personal credit cards with limited-time launch bonuses.",
+   "take": "Airline co-brands from mid-tier issuers show where banks are still competing for travel spend.",
+   "take_kind": "read",
+   "partner": "Etihad",
+   "benefit_move": true,
+   "benefit_type": "airline",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Launch bonuses through 2/3/27"
+   ],
+   "also": []
+  }
+ ]
+}

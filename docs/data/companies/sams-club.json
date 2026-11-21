@@ -1,0 +1,52 @@
+{
+ "name": "Sam's Club",
+ "slug": "sams-club",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d2fdeffb7a2d",
+   "title": "Walmart’s convenience lures high-income shoppers",
+   "url": "https://www.modernretail.co/operations/walmarts-convenience-lures-high-income-shoppers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "source": "Modern Retail",
+   "source_type": "rss",
+   "published": "2026-11-20T05:00:00Z",
+   "relevance": 3,
+   "why": "Affluent-targeted membership bundles compete for the same wallet as premium card perks; test bundling angles in partner talks.",
+   "summary_ai": "Walmart is combining Walmart+ and Sam's Club Plus into one membership aimed at higher-income shoppers.",
+   "take": "Affluent-targeted membership bundles compete for the same wallet as premium card perks; test bundling angles in partner talks.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "00d8ff0165b3",
+   "title": "7 Sam's Club Kitchen Storage Items Identical to Williams Sonoma's (For Half of the Price)",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXRaNGctSUtSR3ROc0hlaVJSNjU5LXp1cmJ3ME1iQ0pkV2huN0EtX3N1eXRfZlp0a2tvejQ3ZzZXdVJmYlRVX09OQ05QU1ZwTXVxd2lnWnltWndkY1FrSlRZbXE0SUg4dnU5RnM2TmRWMG52aTduUVZxTmpoNHdaUTZVUk1lUmc?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-19T16:43:00Z",
+   "relevance": 1,
+   "why": "A deal listicle highlights Sam's Club kitchen storage items that resemble Williams Sonoma products at lower prices.",
+   "summary_ai": "A deal listicle highlights Sam's Club kitchen storage items that resemble Williams Sonoma products at lower prices.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "Resy",
+ "slug": "resy",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "da5b529f3e92",
+   "title": "Resy Rewards: Earn an additional 4X Membership Rewards points on dining",
+   "url": "https://frequentmiler.com/resy-rewards-earn-an-additional-4x-membership-rewards-points-on-dining/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-20T22:45:47Z",
+   "relevance": 4,
+   "why": "Benchmark this Resy-linked earn against our dining offers and check whether a similar reservation-based earn fits our partner pipeline.",
+   "summary_ai": "American Express launched Resy Rewards, offering 4 extra Membership Rewards points on dining reservations paid with an enrolled card.",
+   "take": "Benchmark this Resy-linked earn against our dining offers and check whether a similar reservation-based earn fits our partner pipeline.",
+   "take_kind": "take",
+   "partner": "Resy",
+   "benefit_move": true,
+   "benefit_type": "dining",
+   "low_confidence": "Limited restaurant eligibility, rollout unclear",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "4 extra Membership Rewards points"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -22,6 +22,31 @@
  "vets": [],
  "items": [
   {
+   "id": "8b7d526784c3",
+   "title": "PayRewards: Pay business bills by credit card, earn transferable points (Atmos Rewards coming soon!)",
+   "url": "https://frequentmiler.com/payrewards/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-20T19:45:57Z",
+   "relevance": 3,
+   "why": "A bill-pay fintech turning card spend into transferable points is a candidate for partner outreach.",
+   "summary_ai": "PayRewards lets users pay business bills by card for a 2.9% fee and earn transferable points, with Atmos Rewards support coming.",
+   "take": "A bill-pay fintech turning card spend into transferable points is a candidate for partner outreach.",
+   "take_kind": "take",
+   "partner": "Atmos Rewards",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Atmos Rewards support not yet live",
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2.9% fee"
+   ],
+   "also": []
+  },
+  {
    "id": "3c9294a9462f",
    "title": "Earn double Atmos Points on Hawaii flights this winter",
    "url": "https://frequentmiler.com/earn-double-atmos-points-on-hawaii-flights-this-winter/",

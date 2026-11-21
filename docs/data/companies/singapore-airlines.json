@@ -1,0 +1,35 @@
+{
+ "name": "Singapore Airlines",
+ "slug": "singapore-airlines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b80e24ee270a",
+   "title": "Singapore Airlines: Premium Economy between US and Asia starting at 55K, Europe from 39K",
+   "url": "https://frequentmiler.com/singapore-airlines-premium-economybetween-asia-and-us-starting-at-55k/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T16:45:26Z",
+   "relevance": 3,
+   "why": "Use KrisFlyer award pricing as a benchmark when pitching transfer-partner value to cardholders.",
+   "summary_ai": "KrisFlyer's monthly Spontaneous Escapes list includes six North America routes in economy or premium economy, with no business-class deals.",
+   "take": "Use KrisFlyer award pricing as a benchmark when pitching transfer-partner value to cardholders.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "6 North America routes",
+    "Premium economy from 55K",
+    "Europe from 39K"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "name": "Oura",
+ "slug": "oura",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5b3ac7a835d7",
+   "title": "Oura Ring 25% off sale: Use your Amex Platinum credit now (save nearly $300)",
+   "url": "https://thepointsguy.com/deals/oura-ring-black-friday-2026-sale/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-19T20:30:05Z",
+   "relevance": 3,
+   "why": "Card-linked wellness credits like this are a partnership template worth testing for affluent cardholder perks.",
+   "summary_ai": "Oura's 25% Black Friday sale can be stacked with an Amex Platinum statement credit of up to $200.",
+   "take": "Card-linked wellness credits like this are a partnership template worth testing for affluent cardholder perks.",
+   "take_kind": "take",
+   "partner": "Oura",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "25% off",
+    "Up to $200 statement credit",
+    "Nearly $300 savings"
+   ],
+   "also": []
+  },
+  {
+   "id": "e065e100cf92",
+   "title": "Oura Ring 5 Black Friday sale: $99 + tax with Amex Platinum Card® benefit",
+   "url": "https://frequentmiler.com/oura-ring-5-black-friday-sale-99-tax-with-amex-platinum-card-benefit/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T18:45:50Z",
+   "relevance": 4,
+   "why": "A wearables tie-in paired with a Platinum credit is a live template; test similar credit-plus-partner structures for our premium benefits.",
+   "summary_ai": "Oura Ring 5 drops to $299 in its early Black Friday sale, and the Amex Platinum benefit brings it to $99 plus tax.",
+   "take": "A wearables tie-in paired with a Platinum credit is a live template; test similar credit-plus-partner structures for our premium benefits.",
+   "take_kind": "take",
+   "partner": "Oura",
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": "Sale end date and credit eligibility unconfirmed",
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$299",
+    "$99 + tax"
+   ],
+   "also": []
+  },
+  {
+   "id": "8b2e85a6c9bb",
+   "title": "Get an Oura Ring 5 for Just $99 With Your Amex Platinum Card [Through November 30]",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UWmVoUXlFaEZoSmY3eE9uQnRKemhkd1pMOTVpRFUwTW5sbkVHb3VHNUdzUzJsdkY0T0hqR3dJY0p1LVVVSlZoMHduWTUyS3Q0d1hvVG9wcEJLNWZWaE9hc0E2bjlZenQycHMyVnNheVJIWndlZ0E?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:08:58Z",
+   "relevance": 4,
+   "why": "Wearable-hardware perks on Platinum-tier cards are a concrete model to test against our own benefit roadmap.",
+   "summary_ai": "Amex Platinum cardholders can buy an Oura Ring 5 for $99 through a limited-time offer.",
+   "take": "Wearable-hardware perks on Platinum-tier cards are a concrete model to test against our own benefit roadmap.",
+   "take_kind": "take",
+   "partner": "Oura",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$99 Oura Ring 5",
+    "Through November 30"
+   ],
+   "also": []
+  }
+ ]
+}

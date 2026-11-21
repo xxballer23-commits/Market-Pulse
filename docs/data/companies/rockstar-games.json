@@ -1,0 +1,33 @@
+{
+ "name": "Rockstar Games",
+ "slug": "rockstar-games",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "eed849413bba",
+   "title": "GTA VI Books Record $3.79 Billion in Sales on First Day of Launch",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDVUbU94SXZWNXh4T09qVEQ3bzdlVnlvZVpzRktZcjNwY21mTmgzX2RPVFBRZFphd3UtUFpBRVVES29JZ1Jpdk83Z2R6SEVtRV80ak0zajhfTkZsaFNOZFY3b2s1WlFrOVJRME5iUkpNell6dUxSQ2U4M0t6TFNFRWoweEV2dFBaVHJWWlV3TGNhWGVndXZVS0h3ME1PbmYxdlFwNktjLWI1YlBVT1RmYW5hMFc2MmxqV2pYWFhEcVU0QQ?oc=5",
+   "source": "US News Money",
+   "source_type": "gnews",
+   "published": "2026-11-20T19:38:00Z",
+   "relevance": 2,
+   "why": "Rockstar's GTA VI reportedly generated $3.79 billion in sales on its launch day.",
+   "summary_ai": "Rockstar's GTA VI reportedly generated $3.79 billion in sales on its launch day.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Thin source, figure unverified",
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$3.79 billion first-day sales"
+   ],
+   "also": []
+  }
+ ]
+}

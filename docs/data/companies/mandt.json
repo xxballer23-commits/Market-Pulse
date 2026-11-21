@@ -1,0 +1,36 @@
+{
+ "name": "M&T",
+ "slug": "mandt",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9ad4ffbf0b07",
+   "title": "M&T aims to ‘dial up’ credit card rewards",
+   "url": "https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T17:06:00Z",
+   "relevance": 2,
+   "why": "Simple rewards are gaining ground among regional issuers; watch whether M&T sets a new benchmark for mass-affluent cards.",
+   "summary_ai": "Regional lender M&T plans simpler, easier-to-understand credit card rewards based on customer feedback.",
+   "take": "Simple rewards are gaining ground among regional issuers; watch whether M&T sets a new benchmark for mass-affluent cards.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Plan only, no specific perks announced",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": [
+    {
+     "source": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/mt-bank-credit-card-rewards-retail/875192/"
+    }
+   ]
+  }
+ ]
+}

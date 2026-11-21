@@ -1,0 +1,31 @@
+{
+ "name": "Tokio Marine Holdings",
+ "slug": "tokio-marine-holdings",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f9eab00b290e",
+   "title": "Japan’s Top Insurers See Cyber Claims More Than Double Amid AI Hacking Surge",
+   "url": "https://www.pymnts.com/cybersecurity/2026/japans-top-insurers-see-cyber-claims-more-than-double-amid-ai-hacking-surge/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-20T19:17:23Z",
+   "relevance": 1,
+   "why": "Two large Japanese property insurers report cyber insurance claims more than doubling as AI-driven hacking rises.",
+   "summary_ai": "Two large Japanese property insurers report cyber insurance claims more than doubling as AI-driven hacking rises.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Three times October cyber claim notifications"
+   ],
+   "also": []
+  }
+ ]
+}

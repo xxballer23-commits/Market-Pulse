@@ -1,0 +1,29 @@
+{
+ "name": "Tractor Supply",
+ "slug": "tractor-supply",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f2f5add917d5",
+   "title": "Tractor Supply boosts same-day delivery options",
+   "url": "https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T15:55:00Z",
+   "relevance": 1,
+   "why": "Tractor Supply is expanding same-day delivery as Amazon grows its rural delivery network.",
+   "summary_ai": "Tractor Supply is expanding same-day delivery as Amazon grows its rural delivery network.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "US Bank",
+ "slug": "us-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "10e07d09e4c7",
+   "title": "U.S. Bank Bringing Back Double Rewards for Cardholders [November 25 to 27]",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Sa2w3czB2eWNlYVJzTDZZYkVlTFRKUFNFNHRqejFSY2tqNU9hNDhGaDRkel95Q0xzUUV3ZkxCekhkQlE3MEd0R3hCYWJfVndSTE1weHR3Qjd0SVozOFloek9LbTlSQQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:20:39Z",
+   "relevance": 2,
+   "why": "U.S. Bank is restoring double rewards for cardholders over the Thanksgiving holiday window.",
+   "summary_ai": "U.S. Bank is restoring double rewards for cardholders over the Thanksgiving holiday window.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Nov 25 to 27"
+   ],
+   "also": []
+  }
+ ]
+}

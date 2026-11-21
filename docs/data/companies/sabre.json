@@ -1,0 +1,31 @@
+{
+ "name": "Sabre",
+ "slug": "sabre",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8542c776c1b2",
+   "title": "Sabre Wants to Be the Transaction Engine Behind AI Travel Bookings",
+   "url": "https://skift.com/2026/11/19/sabre-wants-to-be-the-transaction-engine-behind-ai-travel-bookings/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-19T22:25:28Z",
+   "relevance": 3,
+   "why": "If AI agents become the booking front door, transaction infrastructure like Sabre becomes a key integration point for card travel benefits.",
+   "summary_ai": "Sabre is positioning itself as the transaction layer behind AI-driven travel bookings, even when AI platforms own the customer relationship.",
+   "take": "If AI agents become the booking front door, transaction infrastructure like Sabre becomes a key integration point for card travel benefits.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

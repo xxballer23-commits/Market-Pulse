@@ -1,0 +1,29 @@
+{
+ "name": "Goldman Sachs",
+ "slug": "goldman-sachs",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "275bb538f46b",
+   "title": "Watch Goldman’s Moe on Uncertainties Around the AI Trade",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU3czM1hZLWEzY2hlMFE1OEdrNnRyRUI2ak9VVm12SGxJZ2lIeTQxUWxZcGdDQnpEYlRHTC1VaWNGMEtMRHBXY1RZbzNmRk8yNUhyNGtrVDNSd0tiVzBvbHRmMDFMdFJQSll1aGgtQzBrOHFCeWg4VFJ3cXlqLXo1S2hhcndqdXl2NEdHXzdOYVVzaWFIdVRCTk9fYldkNjNuNVhUSk1uM3g?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T06:15:31Z",
+   "relevance": 1,
+   "why": "Goldman Sachs' Moe discusses uncertainty around the AI trade in a Bloomberg video.",
+   "summary_ai": "Goldman Sachs' Moe discusses uncertainty around the AI trade in a Bloomberg video.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

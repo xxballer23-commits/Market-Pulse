@@ -1,0 +1,55 @@
+{
+ "name": "N26",
+ "slug": "n26",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "056eb9e36a69",
+   "title": "N26 Pursues Higher-Value Customer with New Premium Account",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUTVEa1AxT09peGYwX1JMNVBxQW1HZHRxUTRYOS15NGhXWEdlVF85QjMzTHo4MTBmRm9KUHRzVFlMUUk0TG56Skw5dldmSjh3Q3MtWlpuamhaaDZCU3ZEZUxZOGRUZTlOVzktaWt2UWo4aUdtQS1nUlN1blFOT25QMWtUVWR5QjQ?oc=5",
+   "source": "Finovate",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:40:32Z",
+   "relevance": 3,
+   "why": "Check whether N26's premium tier bundles travel or lounge perks that a US card partner could match.",
+   "summary_ai": "Digital bank N26 is launching a premium account aimed at higher-value customers.",
+   "take": "Check whether N26's premium tier bundles travel or lounge perks that a US card partner could match.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Details limited to headline",
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2ba76db5eb42",
+   "title": "N26 launches premium account",
+   "url": "https://www.finextra.com/pressarticle/111745/n26-launches-premium-account?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-19T16:18:00Z",
+   "relevance": 3,
+   "why": "A neobank moving upmarket with an exclusive tier signals rising competition for affluent digital banking customers.",
+   "summary_ai": "Digital bank N26 has launched Aura, a premium tier it calls its most exclusive banking experience.",
+   "take": "A neobank moving upmarket with an exclusive tier signals rising competition for affluent digital banking customers.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

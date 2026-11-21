@@ -1,0 +1,80 @@
+{
+ "name": "United",
+ "slug": "united",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fb9ca3e9d02b",
+   "title": "United partner TAP adding a 2nd Portugal route from Washington, DC",
+   "url": "https://thepointsguy.com/news/tap-air-portugal-washington-dulles-porto-nonstop-flights/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-20T19:30:30Z",
+   "relevance": 2,
+   "why": "TAP Air Portugal will launch Washington, D.C. to Porto service next summer, a route from United's partner.",
+   "summary_ai": "TAP Air Portugal will launch Washington, D.C. to Porto service next summer, a route from United's partner.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "450170413ef1",
+   "title": "United CFO Plays Down JetBlue Deal Chatter: ‘Very Large Debt Balance’",
+   "url": "https://skift.com/2026/11/19/united-cfo-plays-down-jetblue-deal-chatter/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-19T21:50:45Z",
+   "relevance": 3,
+   "why": "A United and American combination would reshape airline co-brand card partners, so watch for loyalty program implications.",
+   "summary_ai": "United's CFO downplayed renewed JetBlue merger talk, while the CEO still pursues a larger merger with American.",
+   "take": "A United and American combination would reshape airline co-brand card partners, so watch for loyalty program implications.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Merger talk unconfirmed",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "fff9d9161098",
+   "title": "Buy United MileagePlus Miles With up to a 90% Bonus [Ends December 31]",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xRldhNnJLR0NyM0J3SkExWS1xOWNoT05QWGN4Sk9hVi02QU1RSTNnb3ZUeGRwbnJCeHZfZXdGejExUnhTZF90TnRrSTA5Q3ZsU194VFpYX1JWZVE5dGxrc0dHNHFMX2ctZU9UTjA1bEJxMkxkdmF5NVZ4LTg?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T16:42:20Z",
+   "relevance": 3,
+   "why": "Benchmark this points-purchase bonus against card-linked transfer offers when pricing partner deals.",
+   "summary_ai": "United is offering up to a 90% bonus on purchased MileagePlus miles until December 31.",
+   "take": "Benchmark this points-purchase bonus against card-linked transfer offers when pricing partner deals.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "End year and eligibility not stated",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 90% bonus",
+    "Ends December 31"
+   ],
+   "also": []
+  }
+ ]
+}

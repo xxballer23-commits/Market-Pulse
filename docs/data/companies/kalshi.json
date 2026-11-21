@@ -1,0 +1,29 @@
+{
+ "name": "Kalshi",
+ "slug": "kalshi",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ca0b6701fd38",
+   "title": "Prediction markets outlook for stocks in 2026 dims amid AI sell-off",
+   "url": "https://www.cnbc.com/2026/11/20/sp-500-8000-kalshi-odds-ai-selloff.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-20T19:59:03Z",
+   "relevance": 1,
+   "why": "Prediction market odds that the S&P 500 tops 8,000 have fallen sharply on the Kalshi platform.",
+   "summary_ai": "Prediction market odds that the S&P 500 tops 8,000 have fallen sharply on the Kalshi platform.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

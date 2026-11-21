@@ -1,0 +1,29 @@
+{
+ "name": "PNC",
+ "slug": "pnc",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "beec8d1be788",
+   "title": "PNC bets on hospitality to counter AI disruption",
+   "url": "https://www.bankingdive.com/news/pnc-branches-hospitality-ai-disruption-banking/875202/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T16:21:29Z",
+   "relevance": 2,
+   "why": "Banks investing in human service as AI advice grows may raise expectations for premium card concierge experiences.",
+   "summary_ai": "PNC is investing in hospitality training for staff, betting human service will gain value as AI-generated advice spreads.",
+   "take": "Banks investing in human service as AI advice grows may raise expectations for premium card concierge experiences.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

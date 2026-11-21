@@ -50,6 +50,56 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "0e36748d2d07",
+   "title": "Delta SkyMiles Has a New Hotel Promotion: Earn 5x Miles for a Limited Time",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnWW9OS0k4d3dXSE93SWxqVGRwYWxaY1o3ZXpOSVR4Z2JqblBkdUhNRnowa1pOcmx6MkUyN2lHbDdyU2JIc3dCLTB6Rk1hX3Vhay1wTC1oc2tOM3ZzYzF4YThoWnNseVVXUGc?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:00:49Z",
+   "relevance": 2,
+   "why": "Delta SkyMiles is running a limited-time promotion offering 5x miles on hotel bookings.",
+   "summary_ai": "Delta SkyMiles is running a limited-time promotion offering 5x miles on hotel bookings.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Hotel partner and end date unclear",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5x miles"
+   ],
+   "also": []
+  },
+  {
+   "id": "8abab7b7d69b",
+   "title": "Delta Ends Basic Business Lounge Access in January 2027",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54ZDRCUEl1cFgxeFppS2xKN1Y4V3dCd3RDcVZ1QWtBVXhkaWNrVGlJUDhOY0FKYVhWaVlKMmlaamFONUc1d0lhSWNsZFhzVjYxNlNHZmE1dEZzalJ3WGRpM1M0U2JqaUJSN0NIWVJR?oc=5",
+   "source": "Limapagi",
+   "source_type": "gnews",
+   "published": "2026-11-19T13:36:41Z",
+   "relevance": 4,
+   "why": "Delta's lounge cut could push Delta card holders toward Sky Club access, so watch for issuer backfill offers.",
+   "summary_ai": "Delta will stop offering basic business lounge access starting in January 2027.",
+   "take": "Delta's lounge cut could push Delta card holders toward Sky Club access, so watch for issuer backfill offers.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Single unfamiliar source, details unverified",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "January 2027"
+   ],
+   "also": []
   }
  ]
 }

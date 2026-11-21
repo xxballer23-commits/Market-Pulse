@@ -5,6 +5,30 @@
  "vets": [],
  "items": [
   {
+   "id": "cdc3fa7495ea",
+   "title": "Chase adds Qantas and Cathay Pacific as transfer partners. These two credit cards can help you access them",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFBzekwyUF9WY0QtNXlzcTE4Tm5hMmczTmhPdjVwVU85YXJIand3ZFo0blV3YnhGRmRuejFUYVJ2RTctSEVrNVNUYWJqaDJDN2ZSNERCQUY0dmJfQ3U0VU9ka3hqc0tNQ2YxeEUyZDRyVFRoRkl6R0UzTFdiQXpKc9IBhgFBVV95cUxQSHJfQmJ3WXV6MjAxYkVoeF9XU0JyRVF0SjJ5dGJqQTlOQ0xZX3pSeUJJVEdYNzcwZ0ZBeDVMU2RlLUoxbkZSTUtvRmUyNHhUNTRMb1VGMDVoQ09kYTFuTlFqZnZTNVB4ZUprVGIzVmxZa3V1bk1GcG90TnNoc2tWRDBCaGdIdw?oc=5",
+   "source": "CNBC",
+   "source_type": "gnews",
+   "published": "2026-11-20T19:16:19Z",
+   "relevance": 4,
+   "why": "Chase now covers two more Asia-Pacific carriers, so audit our airline transfer gaps against Chase's list.",
+   "summary_ai": "Chase added Qantas and Cathay Pacific as transfer partners, expanding airline options for its premium cards.",
+   "take": "Chase now covers two more Asia-Pacific carriers, so audit our airline transfer gaps against Chase's list.",
+   "take_kind": "take",
+   "partner": "Qantas and Cathay Pacific",
+   "benefit_move": true,
+   "benefit_type": "airline",
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "2a62b0855ff5",
    "title": "Chase Ultimate Rewards: 10-15% off Select Gift Card Redemptions (Lowe’s, Apple, Uber, DoorDash & More)",
    "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-10-15-off-select-gift-card-redemptions-lowes-apple-uber-doordash-more/",
@@ -28,6 +52,52 @@
     "Lowe's gift cards at 15% off",
     "Apple, Uber, DoorDash and Choice at 10% off"
    ],
+   "also": []
+  },
+  {
+   "id": "4aa28b2b0286",
+   "title": "Why the Chase Sapphire Preferred and Capital One Venture X Make a Good Combination | Credit Cards",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcnJGU091X2d4OE5UM0tDNVQwYmdRcVJnUnFSNW55MVBHRjB6MjRWODNER3VzWk1udURfa3hta1JNdjFuN0VDUkIyMjkwUjdVSVYwdURaMk1MSHBkZGptdGVTYVNmVFRCNm1XYmpYY24tMHZ0Q3k5OVlfUWp4cS1OY2Q0WEk2Z1lXam0wa3lPRktkMHcyM1B0OVh5LXhZR0RNT2Vaa1FKaF9xdkptSzZwOEVNT01vT0k3b2tjck51LWZrR2pMbWpRZA?oc=5",
+   "source": "US News Money",
+   "source_type": "gnews",
+   "published": "2026-11-20T15:18:00Z",
+   "relevance": 3,
+   "why": "Consumers are stacking two premium cards for complementary earn and travel perks, a pattern to factor into our benefit positioning.",
+   "summary_ai": "A US News guide makes the case for pairing Chase Sapphire Preferred with Capital One Venture X.",
+   "take": "Consumers are stacking two premium cards for complementary earn and travel perks, a pattern to factor into our benefit positioning.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "e6d0810a1306",
+   "title": "Bank With Chase? New York Account Holders May Have Been Hacked",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NLURwN1FFRU40ck5EcXYzQjBRLVhvRkhqYWxmTlNZaHB3d2tjSnpWQVhHYi14cmlXSjY0MDNVTFFGN0J3Y0hDZl9pSG1fbFBkbXlMc2R1TXJlakttMkZrcV9JOA?oc=5",
+   "source": "CNY News",
+   "source_type": "gnews",
+   "published": "2026-11-20T13:27:12Z",
+   "relevance": 2,
+   "why": "A Chase breach could push issuers to tighten card security messaging in partner pitches.",
+   "summary_ai": "Reports say some New York Chase account holders may have been hacked, with no details on scope yet.",
+   "take": "A Chase breach could push issuers to tighten card security messaging in partner pitches.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Thin source, no details on scope",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   },
   {
@@ -80,6 +150,146 @@
     "$50 cashback or up to 5,000 Bilt points",
     "Offers span three Citi cards"
    ],
+   "also": []
+  },
+  {
+   "id": "066d1781ad5d",
+   "title": "T-Mobile Chase Offer: Get up to $50 back on wireless payments",
+   "url": "https://frequentmiler.com/t-mobile-chase-offer-get-up-to-50-back-on-wireless-payments/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T19:45:16Z",
+   "relevance": 3,
+   "why": "A card-linked offer tied to a recurring telecom bill is a template for a wireless carrier partnership.",
+   "summary_ai": "Chase is offering a 15% cash back deal on T-Mobile wireless plan payments, capped at $50.",
+   "take": "A card-linked offer tied to a recurring telecom bill is a template for a wireless carrier partnership.",
+   "take_kind": "take",
+   "partner": "T-Mobile",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Expiry truncated, eligibility unknown",
+   "sections": [
+    "partnerships",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "15% cash back",
+    "$50 maximum"
+   ],
+   "also": []
+  },
+  {
+   "id": "10e687b76b88",
+   "title": "IHG Overhauls Chase-Issued Credit Cards: New Names, New Perks, and Higher Annual Fees",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hVUFTQ3FJV3BWekdjclZ5bUxHbHZabWo0eHJ6SHlSNEVtZFo3dnFBbXl5VGRjb2lBSFNzdnBUZl82Q3JuLWNqd0tfWi1QR0Jtbi1YMks1b3NRN2pjcjZrODJzQjlMSGo4SkdsSnh3?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:10:29Z",
+   "relevance": 5,
+   "why": "Benchmark our hotel co-brand fee and perk positioning against the IHG refresh before renewal talks.",
+   "summary_ai": "IHG is overhauling its Chase-issued credit cards with new names, new perks and higher annual fees.",
+   "take": "Benchmark our hotel co-brand fee and perk positioning against the IHG refresh before renewal talks.",
+   "take_kind": "take",
+   "partner": "IHG",
+   "benefit_move": true,
+   "benefit_type": "fee",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": true,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "4b5b35930603",
+   "title": "Chase Bank announces cyberattack, says hackers may have obtained customers’ personal information",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORFF2eEZSZ0VncUtNZTJvUk1YbTlxZHFCckdLN1pOeWVvR1N1aW9SOGY3RWxsNHZXSnlhRzZYV2lldE1yb2FzaDBQNGswYWVSUG1lRFh2NFpCUUxZRnlzWVVzSkJhbmxJb2U3UzdLZzN4RVpDV3FNWHI2ZHQ4d2ZveTIxclF1UDcwNlZ2LUh0X0Y4dWVvRnpqVlExTF80TndvWXdnUW5faDY3ci1jQ3ZyZlVHNDdTTFBmNlhqdWVaYVhiZ3J0UnVjS0FvZnNXQ0hjVWpZSE5xcmhQcFJqUE5aYtIB4AFBVV95cUxORFF2eEZSZ0VncUtNZTJvUk1YbTlxZHFCckdLN1pOeWVvR1N1aW9SOGY3RWxsNHZXSnlhRzZYV2lldE1yb2FzaDBQNGswYWVSUG1lRFh2NFpCUUxZRnlzWVVzSkJhbmxJb2U3UzdLZzN4RVpDV3FNWHI2ZHQ4d2ZveTIxclF1UDcwNlZ2LUh0X0Y4dWVvRnpqVlExTF80TndvWXdnUW5faDY3ci1jQ3ZyZlVHNDdTTFBmNlhqdWVaYVhiZ3J0UnVjS0FvZnNXQ0hjVWpZSE5xcmhQcFJqUE5aYg?oc=5",
+   "source": "KNOP",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:01:46Z",
+   "relevance": 3,
+   "why": "Breach scrutiny may shape cardholder trust and data-sharing terms in partner launches; review our own data-handling safeguards.",
+   "summary_ai": "Chase disclosed a cyberattack and said hackers may have accessed customers' personal information.",
+   "take": "Breach scrutiny may shape cardholder trust and data-sharing terms in partner launches; review our own data-handling safeguards.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Scope of breach still unclear",
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "342d3c40e564",
+   "title": "Chase and IHG Launch New Premium Card: the IHG One Rewards Premier Select Credit Card",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDJLck1Tc2dBVm1lcjlPOGQ5Nnl0SWtCVUNiV0FYS2IwdWd2YnpCU2U3MDJUTE4xNW1zLXpwc1pXTE1qLVFCbUtrM05yUUcwQ3NxcWRoanpJVWlyOEh4dmViVmlnZlF4VXJJeW1vcEYzek54Uzlhd0NPbV9rVFhNeVNDb2Y?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T18:58:13Z",
+   "relevance": 4,
+   "why": "Chase keeps extending hotel co-brands; compare IHG's tier economics against our Marriott and Hilton options before the next renewal cycle.",
+   "summary_ai": "Chase launched the IHG One Rewards Premier Select credit card, a new hotel co-brand card.",
+   "take": "Chase keeps extending hotel co-brands; compare IHG's tier economics against our Marriott and Hilton options before the next renewal cycle.",
+   "take_kind": "take",
+   "partner": "IHG",
+   "benefit_move": true,
+   "benefit_type": "hotel",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "10d3496992d1",
+   "title": "Visa, Mastercard and Chase bank customer data hacked — after string of major failures",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpyVlpkRzFZbFNIWHRUT19VR1RWTC1yZ2o3MGk1dnVVekEycGZXakRseTBhdjFFejA2WTQxUXZBSHc3cmpwTXpMVFFTNGU3aHVaNkw5MzF3elJzR0Z5NGhSVnZ5SUEtWXpnb3FWYTNMSW1vcHktVGF0ZW82dnphdGQySm1aVzRNOHhvTnFQZDM0UHlDM19JdTdqcndCM2l4NndSeWhWT0F1MUtnWTJ6MFBjcWw?oc=5",
+   "source": "New York Post",
+   "source_type": "gnews",
+   "published": "2026-11-19T16:50:40Z",
+   "relevance": 2,
+   "why": "Reports say customer data at Visa, Mastercard and Chase was hacked after a run of major security failures, though details are thin.",
+   "summary_ai": "Reports say customer data at Visa, Mastercard and Chase was hacked after a run of major security failures, though details are thin.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Headline only, scope and affected customers unconfirmed",
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "4ea61afabd19",
+   "title": "Chase Bank: Our Partners Got Hacked, User Names and Email Addresses Exposed",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDNHTVBkV2pTYVdtcF9heVRBbFNuU2MtM09GR2NITDZrQWY3V0RuUkQ1N0ZIRHRJQVgwa05KRmdSSmZmSmwzX19Ia21SdEJ5Y2EwNURMU0w2dkVOLUdXWGxqN2EydXBEckNZRzI0bk1sODFZb2tTUFdvU28tM3ZXUG5rNFFkSUpzaUpFMmp5Rm50V0VabDcza3JfSGpvbkthVjRiS1FoVjZLcnVPZlJV?oc=5",
+   "source": "PCMag UK",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:38:40Z",
+   "relevance": 2,
+   "why": "Add partner breach history and data-security reviews to vendor due diligence for any premium card or perks partner.",
+   "summary_ai": "Chase says a third-party partner was hacked, exposing user names and email addresses.",
+   "take": "Add partner breach history and data-security reviews to vendor due diligence for any premium card or perks partner.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

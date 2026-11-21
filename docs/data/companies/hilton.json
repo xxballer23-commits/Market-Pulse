@@ -29,6 +29,79 @@
     "Six 19th-century buildings"
    ],
    "also": []
+  },
+  {
+   "id": "4beed6dab206",
+   "title": "What Guests Will Find at Hilton Cancun, an All-Inclusive Resort",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNczB5ZjhJeDlJcWs4b1ZkVEFha25OT1liUUlILWhCZmJBMWE4UXkzbUNUZFdLR3VkVEwzMGhSMWxhQkNkXzAtUWxac203Tm1MVVRIckM1T3dVZ2RiZ01ueWR1b21sSC1lcERHY0xPd0hZZV9qdVRSUGRGZEJuUWlHRzV1WXZMbk5vQjlN?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-20T14:00:00Z",
+   "relevance": 2,
+   "why": "Upgraded Points previews the amenities and guest offerings at Hilton Cancun, an all-inclusive resort.",
+   "summary_ai": "Upgraded Points previews the amenities and guest offerings at Hilton Cancun, an all-inclusive resort.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "749b4a29dae9",
+   "title": "5 Ways To Use Hilton Honors Points in Crete, Greece",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DRVZnY0VEZ0M4WTY4eVFEOFBtQlp0R2tJMUJzMXE5N3R5cHltcU1rQS1Ccl9kZGtaSmR6bWJ6b2l2UWQzRWRfSlJFdVBfdkFMT0J4OGtPcHVoMEU1RnNtYk5XcF9NU3laQmhaT3N0MzFIVUhnNjF1V2NB?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T22:00:00Z",
+   "relevance": 2,
+   "why": "A guide offers five ways to spend Hilton Honors points on stays in Crete, Greece.",
+   "summary_ai": "A guide offers five ways to spend Hilton Honors points on stays in Crete, Greece.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "a88079dea946",
+   "title": "Booking a Hilton stay? Stack a 20% discount, 5,000 bonus points and up to 200,000 points in card bonus offers",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55MWVSV3N0RExfY2FMc2dpRGk0c1F2cVBjWFlQLWIzUzdWSXprcGQ3dnZnUEFJRlZPU1VLcEN4bUlqMExkQXRpNXBDVW4yT3oxeUExM0l4bjBhLWtyOXRKR1FSeFdNbVJaeERJ0gFwQVVfeXFMUERVNHZUTVdNczFONk1vT2V4OGtYN1FVTGpFRlA1dnNrTm5CbEFZT0ttOGt1dnYzaUt3OXlMSEozekY5QmZLOFVjdzlJQm1YX0RlMURFaWxYSGR3cXJfUlZaYnBPZnBjbEdTT2Rld3pfMg?oc=5",
+   "source": "CNBC",
+   "source_type": "gnews",
+   "published": "2026-11-19T16:29:14Z",
+   "relevance": 3,
+   "why": "Stacked hotel promos show consumers bundling discounts with card bonuses; a useful benchmark for our Hilton co-brand welcome offer.",
+   "summary_ai": "A consumer guide shows how to combine a Hilton booking discount with bonus points and card welcome offers worth up to 200,000 points.",
+   "take": "Stacked hotel promos show consumers bundling discounts with card bonuses; a useful benchmark for our Hilton co-brand welcome offer.",
+   "take_kind": "read",
+   "partner": "Hilton",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Issuer and offer terms unstated",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20% discount",
+    "5,000 bonus points",
+    "200,000 points"
+   ],
+   "also": []
   }
  ]
 }

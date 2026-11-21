@@ -1,0 +1,81 @@
+{
+ "name": "Emirates",
+ "slug": "emirates",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1fd6e85326de",
+   "title": "Hah: Emirates Puts Auditors On Flights To “Provide Support & Guidance” To Crew",
+   "url": "https://onemileatatime.com/news/emirates-puts-auditors-flights-provide-support-guidance-crew/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-20T13:16:07Z",
+   "relevance": 2,
+   "why": "Airlines policing premium cabin service shapes cardholder expectations of the flight experience they pay for.",
+   "summary_ai": "Emirates is reportedly placing auditors on flights to guide crew and enforce its onboard service standards.",
+   "take": "Airlines policing premium cabin service shapes cardholder expectations of the flight experience they pay for.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "516fadc6058b",
+   "title": "[Expired] [Award Alert] Emirates Business Class to Athens for 59K Miles",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YQ0xZLXhmUVdiQ0dKSXdySnBqdWNrcVJiUy1kbVdPdkRuekgxZi1ZbHd3WXF6ZWl2aVpPbHRlZEl0bTdsZ3gzTFdmQi1ySGdaZ1N4bGZyRjBpeFN3MzZic25mbktDOGtoOE9oZGVhY1BPQ3dSZmlV?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-20T13:04:39Z",
+   "relevance": 2,
+   "why": "Expired award listings give a benchmark for Emirates miles pricing, but no direct card action.",
+   "summary_ai": "An expired award alert offered Emirates business class to Athens for 59,000 miles.",
+   "take": "Expired award listings give a benchmark for Emirates miles pricing, but no direct card action.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Expired offer",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "59K miles",
+    "Expired"
+   ],
+   "also": []
+  },
+  {
+   "id": "29e78278224a",
+   "title": "Emirates Opens Stunning New First Class Lounge in Dubai — Here’s a First Look",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmdfVDlfVEljNlBWa1BiWUpGd2ZPVHBBVUM2a0g5cnNyajNERGtaejU4M1lPTWpaM2UwREpJV1BnOEY4OHZzSW8xeVp2ZmEzRDVnWUtzSGFja3FPand6V0FLaXRtelp5YlpNTWZlYVF4SzRyMFJyUXg5TXhwMVJzMW9Vcw?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T17:25:44Z",
+   "relevance": 3,
+   "why": "Flagship carrier lounge upgrades raise the bar for card lounge access, so check whether partner lounge networks can keep pace.",
+   "summary_ai": "Emirates opened a new first class lounge in Dubai, shown in a first look.",
+   "take": "Flagship carrier lounge upgrades raise the bar for card lounge access, so check whether partner lounge networks can keep pace.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

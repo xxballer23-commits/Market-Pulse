@@ -1,0 +1,31 @@
+{
+ "name": "JSX",
+ "slug": "jsx",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4bc30d98c5ec",
+   "title": "Why JSX Just Bought New Pacific Airlines, The Strange, Failed 757 Startup",
+   "url": "https://onemileatatime.com/news/jsx-buys-new-pacific-airlines/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-21T00:26:15Z",
+   "relevance": 2,
+   "why": "JSX bought failed 757 startup New Pacific Airlines, mainly to gain a Part 121 air carrier certificate.",
+   "summary_ai": "JSX bought failed 757 startup New Pacific Airlines, mainly to gain a Part 121 air carrier certificate.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,78 @@
  "vets": [],
  "items": [
   {
+   "id": "b37e80f042e4",
+   "title": "PayPo Taps Citigroup and JPMorgan for Possible Warsaw IPO",
+   "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/paypo-taps-citigroup-and-jpmorgan-for-possible-warsaw-ipo/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-21T00:47:16Z",
+   "relevance": 3,
+   "why": "Public BNPL listings would provide valuation comps for installment partnership pricing discussions.",
+   "summary_ai": "Polish BNPL firm PayPo is reportedly preparing a Warsaw IPO with Citi, JPMorgan Chase and Ipopema as advisers.",
+   "take": "Public BNPL listings would provide valuation comps for installment partnership pricing discussions.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Based on Bloomberg report citing unnamed sources",
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "e5fde714eba1",
+   "title": "Citi Cautions Customers Against Using Third-Party AI Agents",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/citi-cautions-customers-against-using-third-party-ai-agents/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-20T22:33:55Z",
+   "relevance": 3,
+   "why": "Agentic commerce terms may constrain card-linked AI partner integrations; review our agent partner contracts for liability language.",
+   "summary_ai": "Citi updated its user agreement to warn customers against third-party AI agents and to make them liable for agent actions.",
+   "take": "Agentic commerce terms may constrain card-linked AI partner integrations; review our agent partner contracts for liability language.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "b118853ad378",
+   "title": "Best Buy Citi Offer: Save $10 When Spending $200 (can be used twice)",
+   "url": "https://frequentmiler.com/best-buy-citi-offer-save-10-when-spending-200/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-20T21:45:45Z",
+   "relevance": 2,
+   "why": "Issuers are stacking card-linked retail offers against each other at the same merchant, so check how Amex and Citi offers compare.",
+   "summary_ai": "Citi is offering a $10 credit at Best Buy on a single $200 purchase, usable twice, and Amex has a separate Best Buy offer.",
+   "take": "Issuers are stacking card-linked retail offers against each other at the same merchant, so check how Amex and Citi offers compare.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$10 off $200 spend",
+    "Expires 11/30/26"
+   ],
+   "also": []
+  },
+  {
    "id": "2f11f23526d3",
    "title": "Citi Shop offers an easier way to save when shopping online",
    "url": "https://thepointsguy.com/credit-cards/citi-shop/",
@@ -148,6 +220,54 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "b4c6b4bb8a73",
+   "title": "Citigroup: The Turnaround Story Isn’t Over (NYSE:C)",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQWliZ0JyRjB1OGM4TnlVd0toX1ZzQjl6LXd2Y2VtOEFVVmRpa1ZNZGxCQUhteGJFVl9RMnQ4N0l0cDdHZnowWWV3dmdveWtRaFhVd3ZWdldobkpjSm96bTlxaVZldTU5aGtad29OY1F2RUJiM19VZGE3Y1Z1SHI3M0lTM3c3Qmpl?oc=5",
+   "source": "Seeking Alpha",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:33:14Z",
+   "relevance": 1,
+   "why": "A Seeking Alpha stock analysis argues Citi's turnaround is not yet complete.",
+   "summary_ai": "A Seeking Alpha stock analysis argues Citi's turnaround is not yet complete.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "93a420b5d2cb",
+   "title": "Up to $50 off at Amazon with 125 Citi points",
+   "url": "https://frequentmiler.com/up-to-50-off-at-amazon-with-125-citi-points/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T17:46:49Z",
+   "relevance": 2,
+   "why": "Points-for-discount promos show Citi using points as a shopping currency, but user-level variation limits their value.",
+   "summary_ai": "Some shoppers can get up to $50 off at Amazon by redeeming Citi ThankYou points, though offers vary by user.",
+   "take": "Points-for-discount promos show Citi using points as a shopping currency, but user-level variation limits their value.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Offer varies by user, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $50 off",
+    "125 Citi points",
+    "Up to 40% off"
+   ],
    "also": []
   }
  ]

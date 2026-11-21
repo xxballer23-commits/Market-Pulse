@@ -1,0 +1,29 @@
+{
+ "name": "Lenovo",
+ "slug": "lenovo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "15be627cd9ee",
+   "title": "Watch Lenovo CFO Winston Cheng On Earnings",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPLUdBVEpvaXdZdnBXSG9hcG1VakZwV1J5MEJZYTRJdXo5QzVVZm5HVmR3elZCWmRYYkFPZl9JbzJlWFREZDdTNnJCWFk2YnR2UHdJU2MtRVdyY2cyZDRqTWJpS0tDSXVIWElmSUhzWlFvd0dqMFRFcmRqRDFPMVJxYTRQNEVNSjVseHdNeTVYTTVjWEctckE?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T00:00:00Z",
+   "relevance": 1,
+   "why": "A Bloomberg video with Lenovo's CFO Winston Cheng discussing the company's earnings.",
+   "summary_ai": "A Bloomberg video with Lenovo's CFO Winston Cheng discussing the company's earnings.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

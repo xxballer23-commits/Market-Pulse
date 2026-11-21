@@ -1,0 +1,31 @@
+{
+ "name": "BJ's Wholesale",
+ "slug": "bjs-wholesale",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "187dd88daae4",
+   "title": "BJ’s Wholesale Raises Outlook, But Promotions Weigh on Margins",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTVVd1g0ZDdPRG40NHpUaVhVek9pSzY0SnM3TTAyX0o0UTlSMVhIWnUwY3piaVprTFZiT2lEZlpCcWRPX1EyMWs5Z1pfSU1CUElKY09ZRm03ZWtpMllmbWtOZTN6Z2ZSQUdSd25yUTZjX29SVHBaMTZCSHFaTXpfMTJXTHd2ZkVacFZsdFVUTHFlS0szNEhRNFJTMlh0ZWJyZmJ0c3BsLUhYQjA?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-20T16:10:00Z",
+   "relevance": 2,
+   "why": "BJ's Wholesale raised its outlook, but heavier promotions are pressuring its margins.",
+   "summary_ai": "BJ's Wholesale raised its outlook, but heavier promotions are pressuring its margins.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

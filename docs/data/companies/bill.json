@@ -1,23 +1,23 @@
 {
- "name": "BILL",
+ "name": "Bill",
  "slug": "bill",
  "watch": null,
  "vets": [],
  "items": [
   {
-   "id": "51ea2089bf9f",
-   "title": "BILL to Go Private in $6 Billion Acquisition Deal With TPG and Corpay",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOGwzdjUyVXIyTmhRZElQbFB0NlJ0dWRyOWpndWlJWmNyOUNmRWkwWmxubkczUUNuS3NnaU5qeTZNN3J6SUtrczk1R2txczkwYk5OUlVDaENabVRYMnJmWmxoT0k3Q1BSaGVYUjRpdE5HSUJqV1h2X3M1QlBFYlFYX1BFN3NVTEMtQnhwWll4bnotbHRxTnVMZEVXaV9lVWUtOGdCWGNJMWZ2UUR2NmF3enVuWTR3WGJuYkVVRVZLalBmZw?oc=5",
-   "source": "TradingView",
-   "source_type": "gnews",
-   "published": "2026-11-20T17:10:00Z",
-   "relevance": 2,
-   "why": "Private equity takeover of a payments platform signals consolidation among fintech infrastructure providers that could affect future partner options.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "id": "0ba570ab2771",
+   "title": "Bill sells for $6B to TPG, Corpay",
+   "url": "https://www.paymentsdive.com/news/bill-sells-for-6b-to-tpg-corpay/875331/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-20T15:54:00Z",
+   "relevance": 3,
+   "why": "Business payments are consolidating; check whether Bill's integrations with business card programs will change under new owners.",
+   "summary_ai": "Bill agreed to be sold to TPG and Corpay for $6 billion, adding to consolidation in business payments software.",
+   "take": "Business payments are consolidating; check whether Bill's integrations with business card programs will change under new owners.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "$6 billion deal value"
+    "$6B"
    ],
    "also": []
   }

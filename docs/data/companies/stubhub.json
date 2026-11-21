@@ -1,0 +1,32 @@
+{
+ "name": "StubHub",
+ "slug": "stubhub",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "00adb699c6c5",
+   "title": "StubHub Targets Weather, Lineup Changes, Long Lines with FestProtect",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNmcyUUtSckdUejF3Rll2XzU5aFFfd2JuYllLS042dkg0SHZjbVg1SEdvYUxQb0FMcndrRm1UczJ0aWxnc2ZYRXdOSlFTWlRjMkZnR2Y2RDZ4NEhqb2kzQ2x2aHRPUTlHWXY4Y21WbURzWFdFcjZEa2NkS0JiRnZ0UkRMc1hzMkktVERhSW56bw?oc=5",
+   "source": "TicketNews",
+   "source_type": "gnews",
+   "published": "2026-11-20T15:26:19Z",
+   "relevance": 3,
+   "why": "Event-ticket protection could be a card benefit idea; review StubHub's terms and whether the cover is offered for card-bought tickets.",
+   "summary_ai": "StubHub is launching FestProtect, a festival ticket product covering weather, lineup changes and long entry lines.",
+   "take": "Event-ticket protection could be a card benefit idea; review StubHub's terms and whether the cover is offered for card-bought tickets.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "name": "Michelin Guide",
+ "slug": "michelin-guide",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "67f229e36dea",
+   "title": "Michelin Guide adds 12 more NYC restaurants to the list — including a cheap authentic taco joint",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajNlRjRmX09sUlpDYzN2NEdEQldjTjAyQTVBNGhHdzFNYUJLLWNjTUtKcEZnOWI3UlFOZGJ6c042RTdKZDJudThVSjRXMG1TYTNsZGFUV01INnpFV0dkRVVVenBlS1RKaHV6eVdMdUUxN25mZzQwV29sdWozZVQ1WHlMeTlpX2ZhRF9GYTFFZFN5R2VBdzJvXzZvM1ZtendZWUNseC0tUnV2N3BKTXc0Uk96M3BaUFYtRkxwRkhObTdIV0hHWnVLTGttY3V3T21h?oc=5",
+   "source": "New York Post",
+   "source_type": "gnews",
+   "published": "2026-11-20T20:06:00Z",
+   "relevance": 3,
+   "why": "Michelin additions tend to pull reservation demand, so watch booking availability at newly listed spots on dining platforms.",
+   "summary_ai": "The Michelin Guide added 12 New York City restaurants, including a low-cost authentic taco spot.",
+   "take": "Michelin additions tend to pull reservation demand, so watch booking availability at newly listed spots on dining platforms.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [
+    "12 restaurants"
+   ],
+   "also": []
+  },
+  {
+   "id": "a36c9bd73ed9",
+   "title": "6 Chicago restaurants added to Michelin Guide",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOGVwQ2xLVTdJSnFTbWgzV2dIdlRaMEVIcXhSSS1KS2NpdHo3ZnJHY1AwMy1RNnRuNUNVRDVGQ0NaSWEya1JtZmVfVzdhVVhJWFVybjV3WU8tWERtOVVYOGtPblVXd3Q2NmxDaHVucG5HbC1VYlZmVWtGaE1Za0taV2psRW5XVlYwYVU3RG5SVUVpRU9nUjMzWjZaRGlyREk?oc=5",
+   "source": "The Business Journals",
+   "source_type": "gnews",
+   "published": "2026-11-19T18:27:00Z",
+   "relevance": 2,
+   "why": "Six Chicago restaurants were added to the Michelin Guide.",
+   "summary_ai": "Six Chicago restaurants were added to the Michelin Guide.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "6 restaurants"
+   ],
+   "also": []
+  }
+ ]
+}

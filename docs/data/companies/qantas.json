@@ -1,0 +1,32 @@
+{
+ "name": "Qantas",
+ "slug": "qantas",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "cdc3fa7495ea",
+   "title": "Chase adds Qantas and Cathay Pacific as transfer partners. These two credit cards can help you access them",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFBzekwyUF9WY0QtNXlzcTE4Tm5hMmczTmhPdjVwVU85YXJIand3ZFo0blV3YnhGRmRuejFUYVJ2RTctSEVrNVNUYWJqaDJDN2ZSNERCQUY0dmJfQ3U0VU9ka3hqc0tNQ2YxeEUyZDRyVFRoRkl6R0UzTFdiQXpKc9IBhgFBVV95cUxQSHJfQmJ3WXV6MjAxYkVoeF9XU0JyRVF0SjJ5dGJqQTlOQ0xZX3pSeUJJVEdYNzcwZ0ZBeDVMU2RlLUoxbkZSTUtvRmUyNHhUNTRMb1VGMDVoQ09kYTFuTlFqZnZTNVB4ZUprVGIzVmxZa3V1bk1GcG90TnNoc2tWRDBCaGdIdw?oc=5",
+   "source": "CNBC",
+   "source_type": "gnews",
+   "published": "2026-11-20T19:16:19Z",
+   "relevance": 4,
+   "why": "Chase now covers two more Asia-Pacific carriers, so audit our airline transfer gaps against Chase's list.",
+   "summary_ai": "Chase added Qantas and Cathay Pacific as transfer partners, expanding airline options for its premium cards.",
+   "take": "Chase now covers two more Asia-Pacific carriers, so audit our airline transfer gaps against Chase's list.",
+   "take_kind": "take",
+   "partner": "Qantas and Cathay Pacific",
+   "benefit_move": true,
+   "benefit_type": "airline",
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

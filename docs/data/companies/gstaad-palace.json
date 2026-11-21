@@ -1,0 +1,34 @@
+{
+ "name": "Gstaad Palace",
+ "slug": "gstaad-palace",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1d1919d9658b",
+   "title": "The Gstaad Palace hotel in Switzerland reopens on 15 December after a €6.9 million revamp, in 1980s style",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN1lick1zclNjSlBRSGhWUU9aaVBKNWlPODJYS0IyWFNnbERrYU5JZ3J6N05KbVdUNDllUER3c2wwRU1IbEo3bmFhSUp5dkNOampwUmJ6ZnR2VEY4OTczNGsybW5XWW0tekxieTI4M3ctY3VraU9OLU1BVGdOOXJScWNOTUhEeHZlQUZTQjczclZYWElPaDJkaGlLdC1zcXYzNDMw?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-19T13:25:56Z",
+   "relevance": 2,
+   "why": "Gstaad Palace reopens on December 15 after a €6.9 million renovation done in a 1980s style.",
+   "summary_ai": "Gstaad Palace reopens on December 15 after a €6.9 million renovation done in a 1980s style.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "€6.9 million",
+    "15 December"
+   ],
+   "also": []
+  }
+ ]
+}

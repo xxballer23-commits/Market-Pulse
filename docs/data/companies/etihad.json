@@ -49,6 +49,57 @@
    "breaking": true,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "1aa68ca0ab66",
+   "title": "FNBO & Etihad Launches Two New Credit Cards",
+   "url": "https://www.doctorofcredit.com/fnbo-etihad-launches-two-new-credit-cards/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-20T19:54:46Z",
+   "relevance": 3,
+   "why": "Airline co-brands from mid-tier issuers show where banks are still competing for travel spend.",
+   "summary_ai": "FNBO and Etihad have launched two new personal credit cards with limited-time launch bonuses.",
+   "take": "Airline co-brands from mid-tier issuers show where banks are still competing for travel spend.",
+   "take_kind": "read",
+   "partner": "Etihad",
+   "benefit_move": true,
+   "benefit_type": "airline",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Launch bonuses through 2/3/27"
+   ],
+   "also": []
+  },
+  {
+   "id": "a481492151ff",
+   "title": "Buy Etihad Guest Miles With a 60% Bonus [Ends November 22]",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9vekh5b0FyXzhFUXRtZTRSV3Buam5yUGpGTWlIQ2ZxYXFpNXROZ1FDa3hUa1dWM0Nzek5KNzkxWnJXQXdEWEtRRmRLRk9MS1Q0TmNqX0NSS1MtTWJuZWxNY2ZoTkxkQV9YYXRMNFF3?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:11:01Z",
+   "relevance": 2,
+   "why": "Etihad Guest is offering a 60 percent bonus on purchased miles until November 22.",
+   "summary_ai": "Etihad Guest is offering a 60 percent bonus on purchased miles until November 22.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "60% bonus",
+    "Ends November 22"
+   ],
+   "also": []
   }
  ]
 }

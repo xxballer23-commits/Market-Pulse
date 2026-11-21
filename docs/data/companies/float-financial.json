@@ -1,0 +1,31 @@
+{
+ "name": "Float Financial",
+ "slug": "float-financial",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "039ce6a28566",
+   "title": "Canadian fintech Float commits $5m to Quebec",
+   "url": "https://www.finextra.com/pressarticle/111754/canadian-fintech-float-commits-5m-to-quebec?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-20T15:56:00Z",
+   "relevance": 1,
+   "why": "Canadian fintech Float is investing $5 million in Quebec, its first establishment in the province.",
+   "summary_ai": "Canadian fintech Float is investing $5 million in Quebec, its first establishment in the province.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$5 million"
+   ],
+   "also": []
+  }
+ ]
+}

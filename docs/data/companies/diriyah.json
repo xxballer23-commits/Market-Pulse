@@ -1,0 +1,33 @@
+{
+ "name": "Diriyah",
+ "slug": "diriyah",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "65d4f6a57e7c",
+   "title": "Saudi Arabia’s Diriyah Scraps $191 Million Hotel Build",
+   "url": "https://skift.com/2026/11/20/saudi-arabias-diriyah-scraps-191-million-hotel-build/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-20T16:27:05Z",
+   "relevance": 2,
+   "why": "Signals giga-project retrenchment that could thin the Saudi luxury hotel pipeline for partner planning.",
+   "summary_ai": "Diriyah has cancelled a $191 million hotel contract without explaining why, the first Saudi hotel project known to be pulled since the Houthi strikes on Riyadh.",
+   "take": "Signals giga-project retrenchment that could thin the Saudi luxury hotel pipeline for partner planning.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$191 million hotel contract"
+   ],
+   "also": []
+  }
+ ]
+}

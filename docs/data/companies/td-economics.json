@@ -1,0 +1,31 @@
+{
+ "name": "TD Economics",
+ "slug": "td-economics",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "dc7da32709a4",
+   "title": "Canadian Consumers: Bending, Not Breaking",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1U1p1aVAwNE9FLWlRUlVhYlJTSWlJc3Fqd2lPT19TbUhDUVlkdEtTSUI1WFVuaUlLMzNyY29FT1N5eHVuTkVjT0RhLWFQQzYtQ2tPSlZR?oc=5",
+   "source": "TD Economics",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:05:25Z",
+   "relevance": 2,
+   "why": "TD Economics finds Canadian consumers are under strain but still holding up under pressure.",
+   "summary_ai": "TD Economics finds Canadian consumers are under strain but still holding up under pressure.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Title only, thin source detail",
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

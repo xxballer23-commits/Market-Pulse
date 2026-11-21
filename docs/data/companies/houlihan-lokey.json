@@ -1,0 +1,33 @@
+{
+ "name": "Houlihan Lokey",
+ "slug": "houlihan-lokey",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "598046fad90d",
+   "title": "Houlihan Lokey Finds Size-Weighted Defaults in Private Credit Nearly Doubled in the Third Quarter, Reaching a Near-Term High With Smaller Borrowers the Most Impacted",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb3M1SkFZRE5ndG0zUnZZbFI0emlDSlIydnFSZVBRX2EwaVNuSFM1OHJxX3J4T1k1SzVqek5ZTWpYejJZYTNERUhJYmtUVjZ5WVlMM0tXLUhfTHVuZTlRV1V6Z2ZRQ05OYVptUmdvWVpUczUxUUpmcGs4dmNRZVc4aTB3WlZ1V2lTWTVJTTZ6bXBZMHg2Q2MyWk5WSnp4clZC?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:00:00Z",
+   "relevance": 2,
+   "why": "Houlihan Lokey reports size-weighted private credit defaults nearly doubled in Q3, with smaller borrowers hit hardest.",
+   "summary_ai": "Houlihan Lokey reports size-weighted private credit defaults nearly doubled in Q3, with smaller borrowers hit hardest.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Defaults nearly doubled in Q3"
+   ],
+   "also": []
+  }
+ ]
+}

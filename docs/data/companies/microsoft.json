@@ -1,0 +1,31 @@
+{
+ "name": "Microsoft",
+ "slug": "microsoft",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4cbcf476aabf",
+   "title": "Hermes Agent, Near 2T Tokens a Day, Comes to Microsoft Teams",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN19TR1FRTnNieWx3d0Y5QXZmNHhZRXNVQmVsS2ZoaDU2bl9tbHlVbEVFOHUyTEZvR2M2ckRjMXh3STU1MFBHOUVyTjJlZi1jQ0NLQXlYN1ZEYXRfUFRSS1ZXdEVwNDR3aVJmOGpVRTVkTG90NXBSa3JZZ1QybFIwbkZfTkl4WGlpb2NxTHpabw?oc=5",
+   "source": "FourWeekMBA",
+   "source_type": "gnews",
+   "published": "2026-11-20T13:32:44Z",
+   "relevance": 1,
+   "why": "An AI agent called Hermes, reportedly processing near 2 trillion tokens daily, is coming to Microsoft Teams.",
+   "summary_ai": "An AI agent called Hermes, reportedly processing near 2 trillion tokens daily, is coming to Microsoft Teams.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Thin source, no summary",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Near 2T tokens a day"
+   ],
+   "also": []
+  }
+ ]
+}

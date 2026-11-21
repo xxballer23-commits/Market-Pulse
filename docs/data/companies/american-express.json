@@ -29,6 +29,57 @@
    "also": []
   },
   {
+   "id": "da5b529f3e92",
+   "title": "Resy Rewards: Earn an additional 4X Membership Rewards points on dining",
+   "url": "https://frequentmiler.com/resy-rewards-earn-an-additional-4x-membership-rewards-points-on-dining/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-20T22:45:47Z",
+   "relevance": 4,
+   "why": "Benchmark this Resy-linked earn against our dining offers and check whether a similar reservation-based earn fits our partner pipeline.",
+   "summary_ai": "American Express launched Resy Rewards, offering 4 extra Membership Rewards points on dining reservations paid with an enrolled card.",
+   "take": "Benchmark this Resy-linked earn against our dining offers and check whether a similar reservation-based earn fits our partner pipeline.",
+   "take_kind": "take",
+   "partner": "Resy",
+   "benefit_move": true,
+   "benefit_type": "dining",
+   "low_confidence": "Limited restaurant eligibility, rollout unclear",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "4 extra Membership Rewards points"
+   ],
+   "also": []
+  },
+  {
+   "id": "b118853ad378",
+   "title": "Best Buy Citi Offer: Save $10 When Spending $200 (can be used twice)",
+   "url": "https://frequentmiler.com/best-buy-citi-offer-save-10-when-spending-200/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-20T21:45:45Z",
+   "relevance": 2,
+   "why": "Issuers are stacking card-linked retail offers against each other at the same merchant, so check how Amex and Citi offers compare.",
+   "summary_ai": "Citi is offering a $10 credit at Best Buy on a single $200 purchase, usable twice, and Amex has a separate Best Buy offer.",
+   "take": "Issuers are stacking card-linked retail offers against each other at the same merchant, so check how Amex and Citi offers compare.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$10 off $200 spend",
+    "Expires 11/30/26"
+   ],
+   "also": []
+  },
+  {
    "id": "953a53d94460",
    "title": "Amex Membership Rewards Sale: Use 20% Fewer Points on Some Gift Cards",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnBtVEtuMy1NMTBDdVZ4WTQ0NFBwY2RzaFNfX2c4UmFIOV9INVpreEFxc0M5VGdQUVVtN3k1MXpIRmxmUUNzMjRiWUJZckRwall2LWVQclEwSFFHUFU2ek05a3paM2hrMnZvaW9nSXNRSDc2STZDRnh2ZUsxZ1VpMTFReEcwVzI0Ujc0?oc=5",
@@ -98,6 +149,211 @@
    "breaking": false,
    "data_points": [
     "Paperless billing starts February 2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "5b3ac7a835d7",
+   "title": "Oura Ring 25% off sale: Use your Amex Platinum credit now (save nearly $300)",
+   "url": "https://thepointsguy.com/deals/oura-ring-black-friday-2026-sale/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-19T20:30:05Z",
+   "relevance": 3,
+   "why": "Card-linked wellness credits like this are a partnership template worth testing for affluent cardholder perks.",
+   "summary_ai": "Oura's 25% Black Friday sale can be stacked with an Amex Platinum statement credit of up to $200.",
+   "take": "Card-linked wellness credits like this are a partnership template worth testing for affluent cardholder perks.",
+   "take_kind": "take",
+   "partner": "Oura",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "25% off",
+    "Up to $200 statement credit",
+    "Nearly $300 savings"
+   ],
+   "also": []
+  },
+  {
+   "id": "5c3092d189c3",
+   "title": "American Express Membership Rewards: Ultimate Guide",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUVBFcHBIeTBkVFJhYzY2TEh3Zk9rZVZlYUJlOEUwZmNfRFZ2R0d1Nkx1TkdoSHFQSEtjUzZBR1BmVFg2NEpkd3ZIeWN3cXVVc0VHdjN6c09sNlBXRTJuXzJ2UF9FaUNtVXNIeDI5NUNSVTZyNUJlODl3REViUWx3NkpXYkFzWkd3MGJN?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:03:38Z",
+   "relevance": 3,
+   "why": "An evergreen guide walks through how American Express Membership Rewards points earn, transfer and redeem.",
+   "summary_ai": "An evergreen guide walks through how American Express Membership Rewards points earn, transfer and redeem.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "8e3f6fd1bad5",
+   "title": "The Best Ways To Redeem 60,000 Amex Rewards Points [2018]",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzJJTFh2ZUpQbms4N3JGb1N2d1ZrRDl0bjZBWTluZlk4TjNzbThYZ1d0SHJnS1NCQ3UwaVMyTWFyOWYyVExLbndEOGVpdDRoWS1HYldzNTE4V19kaVF3ZDY2TzByM3dmMUQ1d0ltTWpHS3pBNEZ2VzBBeWI4dGxxOFk0SzU?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:02:33Z",
+   "relevance": 1,
+   "why": "A 2018 guide to redeeming 60,000 American Express Membership Rewards points, now long outdated.",
+   "summary_ai": "A 2018 guide to redeeming 60,000 American Express Membership Rewards points, now long outdated.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Dated 2018 content",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "60,000 points",
+    "2018"
+   ],
+   "also": []
+  },
+  {
+   "id": "e065e100cf92",
+   "title": "Oura Ring 5 Black Friday sale: $99 + tax with Amex Platinum Card® benefit",
+   "url": "https://frequentmiler.com/oura-ring-5-black-friday-sale-99-tax-with-amex-platinum-card-benefit/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T18:45:50Z",
+   "relevance": 4,
+   "why": "A wearables tie-in paired with a Platinum credit is a live template; test similar credit-plus-partner structures for our premium benefits.",
+   "summary_ai": "Oura Ring 5 drops to $299 in its early Black Friday sale, and the Amex Platinum benefit brings it to $99 plus tax.",
+   "take": "A wearables tie-in paired with a Platinum credit is a live template; test similar credit-plus-partner structures for our premium benefits.",
+   "take_kind": "take",
+   "partner": "Oura",
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": "Sale end date and credit eligibility unconfirmed",
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$299",
+    "$99 + tax"
+   ],
+   "also": []
+  },
+  {
+   "id": "b8244059ecb6",
+   "title": "Amex Platinum's $600 hotel credit now comes with a catch starting in 2027",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzdWcDQzdUN1OFZVX2Y0QkpCVnFSbXM0cFNBSHM1dzJ0OUF2V3pubS14S29IcEpZQ0pRNWFOSDJXb3VCS0FGdW5XRThyWThlME5MUlNINVltMkJRalVrc3UzbTE5emtuUXRJdmh0Z3NWNUl2dzBNMTR3dFB0TlRXN2MyWktSYmdiVktpcUlDOW5fblplNDdLb0dDUlFUSVBib3JicEg5cHFacmxENGlYckZ3cjFIZw?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-19T18:08:49Z",
+   "relevance": 5,
+   "why": "Map this restriction against our own travel credits now; a flagship credit tightening sets the bar cardholders will compare us to.",
+   "summary_ai": "Amex Platinum's $600 hotel credit will carry new restrictions beginning in 2027.",
+   "take": "Map this restriction against our own travel credits now; a flagship credit tightening sets the bar cardholders will compare us to.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": "Restriction details not in headline",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": true,
+   "data_points": [
+    "$600 hotel credit",
+    "2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "032379fac22c",
+   "title": "Amex Business Platinum Benefits [Over $5,000 in Value]",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcVhXTXVxWXUwam1ablZkTTVoNjdUbHhiVzZSRHVKdDIxamxkcC12WlJ4bUxrdW81TDBzcERkME1RenJZLXNycnJmV0ZKWEVHTFhEcURyMkJLRUFGd1F4WVowcTFKSjdYcUJfUkFFOVlWamNMcks1bFFMbHByYm5hTmFKNVpITnM?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T15:56:23Z",
+   "relevance": 3,
+   "why": "A useful public benchmark for how cardholders value premium business card perks in a partnership pitch.",
+   "summary_ai": "Upgraded Points itemizes Amex Business Platinum perks and estimates their total value above $5,000.",
+   "take": "A useful public benchmark for how cardholders value premium business card perks in a partnership pitch.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Over $5,000 in value"
+   ],
+   "also": []
+  },
+  {
+   "id": "f70b0623a801",
+   "title": "3 Best Ways To Use Virgin Atlantic Points With Amex’s 30% Transfer Bonus",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNkFxWTRwc0t0d0lDVnFDUmVXdkdYUTVxS25XODM4UVg2MFNOSmJPa2s0d3owUFlwclpZNHEwaGpxYkEwejFZZk5RTUJaajNYZWQxREZUcWM5MlZnYVJoN2c1LUdzNHhvQmMwOHZZdjdZbnpDaE1za1YzTEJ2THBRei1BVzR1S01PdzV5cWE0bERrWlk?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:30:00Z",
+   "relevance": 4,
+   "why": "Transfer bonuses spike redemption demand, so watch partner seat availability as the real constraint on value.",
+   "summary_ai": "A guide covers how to use Amex points for Virgin Atlantic while a 30% transfer bonus is active.",
+   "take": "Transfer bonuses spike redemption demand, so watch partner seat availability as the real constraint on value.",
+   "take_kind": "take",
+   "partner": "Virgin Atlantic",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Bonus window and terms unverified",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30% transfer bonus"
+   ],
+   "also": []
+  },
+  {
+   "id": "8b2e85a6c9bb",
+   "title": "Get an Oura Ring 5 for Just $99 With Your Amex Platinum Card [Through November 30]",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9UWmVoUXlFaEZoSmY3eE9uQnRKemhkd1pMOTVpRFUwTW5sbkVHb3VHNUdzUzJsdkY0T0hqR3dJY0p1LVVVSlZoMHduWTUyS3Q0d1hvVG9wcEJLNWZWaE9hc0E2bjlZenQycHMyVnNheVJIWndlZ0E?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:08:58Z",
+   "relevance": 4,
+   "why": "Wearable-hardware perks on Platinum-tier cards are a concrete model to test against our own benefit roadmap.",
+   "summary_ai": "Amex Platinum cardholders can buy an Oura Ring 5 for $99 through a limited-time offer.",
+   "take": "Wearable-hardware perks on Platinum-tier cards are a concrete model to test against our own benefit roadmap.",
+   "take_kind": "take",
+   "partner": "Oura",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$99 Oura Ring 5",
+    "Through November 30"
    ],
    "also": []
   }

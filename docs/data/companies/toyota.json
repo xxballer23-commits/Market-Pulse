@@ -1,0 +1,31 @@
+{
+ "name": "Toyota",
+ "slug": "toyota",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "aa73e834312f",
+   "title": "Road Test: This Toyota Supra Is One of the Marque’s Finest Sports Cars Yet",
+   "url": "https://robbreport.com/motors/cars/review-toyota-gr-supra-mkv-final-edition-1238851756/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-20T13:00:00Z",
+   "relevance": 1,
+   "why": "Robb Report road-tests the Toyota GR Supra MkV Final Edition sports car.",
+   "summary_ai": "Robb Report road-tests the Toyota GR Supra MkV Final Edition sports car.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

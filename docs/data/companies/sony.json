@@ -1,0 +1,31 @@
+{
+ "name": "Sony",
+ "slug": "sony",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d00e0cbf3cb2",
+   "title": "Sony Said to Abandon Talks to Anchor $2.7 Billion NYC Tower",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOGRSVmRhMGJXcFJlVjhIY09IaVFkZTZ4c1FNanNFOTVVQVd4UUF2amZndUlkT0otSnhQMGN6a0JNMmdYekRZTTg5VE1zUlk2RS1OTTZWWjI0cVk3NG1QbXNwZUNqdmRENkRSSklESFJBTktzb1hMc1VlSmRXazRGaHhZR0hyTC1RalFiY29mbDNBYjg4OXFIZWVMdU9zUjFsWnhLN056YTM3OGtBWlE?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T20:11:48Z",
+   "relevance": 1,
+   "why": "Sony reportedly dropped talks to anchor a $2.7 billion New York City tower.",
+   "summary_ai": "Sony reportedly dropped talks to anchor a $2.7 billion New York City tower.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported talks, not confirmed by parties",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$2.7 billion"
+   ],
+   "also": []
+  }
+ ]
+}

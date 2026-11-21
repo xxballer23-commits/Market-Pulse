@@ -1,0 +1,29 @@
+{
+ "name": "Home Depot",
+ "slug": "home-depot",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "91d834ab940c",
+   "title": "Home Depot vs. Lowe's: Which stock has the edge and our support after earnings",
+   "url": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",
+   "source": "CNBC Retail",
+   "source_type": "rss",
+   "published": "2026-11-20T19:28:59Z",
+   "relevance": 1,
+   "why": "Analysts weigh Home Depot against Lowe's as stock picks following their latest earnings.",
+   "summary_ai": "Analysts weigh Home Depot against Lowe's as stock picks following their latest earnings.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

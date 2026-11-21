@@ -1,0 +1,34 @@
+{
+ "name": "Michter's",
+ "slug": "michters",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b45597c48fa2",
+   "title": "Michter’s Ultra-Rare 25-Year-Old Bourbon Is Back for the First Time Since 2023",
+   "url": "https://robbreport.com/food-drink/spirits/michters-25-year-old-bourbon-i2026-1238850750/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-20T22:00:00Z",
+   "relevance": 2,
+   "why": "Michter's is releasing its ultra-rare 25-year-old bourbon, the first release since 2023.",
+   "summary_ai": "Michter's is releasing its ultra-rare 25-year-old bourbon, the first release since 2023.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "25-year-old",
+    "Since 2023"
+   ],
+   "also": []
+  }
+ ]
+}

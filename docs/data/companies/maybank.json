@@ -1,0 +1,29 @@
+{
+ "name": "Maybank",
+ "slug": "maybank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fefdfe814a68",
+   "title": "Maybank executes Malaysia’s first Tokenised MGS transaction",
+   "url": "https://www.finextra.com/pressarticle/111748/maybank-executes-malaysias-first-tokenised-mgs-transaction?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-20T13:18:00Z",
+   "relevance": 1,
+   "why": "Maybank completed Malaysia's first tokenised government securities transaction in a pilot with insurer Etiqa.",
+   "summary_ai": "Maybank completed Malaysia's first tokenised government securities transaction in a pilot with insurer Etiqa.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

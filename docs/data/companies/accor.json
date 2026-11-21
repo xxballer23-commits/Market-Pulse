@@ -1,0 +1,58 @@
+{
+ "name": "Accor",
+ "slug": "accor",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "900c0479dedf",
+   "title": "Accor’s Largest Shareholder Moves to Oust CEO After Ennismore Buyout",
+   "url": "https://skift.com/2026/11/20/accors-largest-shareholder-moves-to-oust-ceo-after-ennismore-buyout/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-20T21:17:29Z",
+   "relevance": 3,
+   "why": "A leadership fight at a major hotel loyalty owner could shift partner priorities, so confirm the outcome before negotiating.",
+   "summary_ai": "Activist investor Parvus wants Accor's CEO removed, citing the Ennismore buyout and years of share underperformance.",
+   "take": "A leadership fight at a major hotel loyalty owner could shift partner priorities, so confirm the outcome before negotiating.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "13 years of alleged underperformance"
+   ],
+   "also": []
+  },
+  {
+   "id": "3a63bbe87421",
+   "title": "MGallery to Open Luxury Seafront Resort in Porto Heli in 2027",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR2VGMG1PU19BRTVWelczSzR4bUo1VnBVX04wV1pXVWUzZldTRVFpS2hkVUhFdUlweWdJbG9hZ081SVQwYVp5NFZoazlkdW9vMWhCeDNIbXJTZ2RnTkJtYmxtdTBBSEtIZlp3OHhCTDJ1RDVLTmJuZWExbzB4cmZIOWpQR21WdHk5V2cwTjBiUDR0ZTdBNkppaQ?oc=5",
+   "source": "GTP Headlines",
+   "source_type": "gnews",
+   "published": "2026-11-20T19:59:23Z",
+   "relevance": 2,
+   "why": "Accor's MGallery brand plans a luxury seafront resort in Porto Heli, Greece, opening in 2027.",
+   "summary_ai": "Accor's MGallery brand plans a luxury seafront resort in Porto Heli, Greece, opening in 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2027 opening"
+   ],
+   "also": []
+  }
+ ]
+}

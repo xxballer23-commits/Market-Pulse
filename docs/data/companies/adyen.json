@@ -1,0 +1,135 @@
+{
+ "name": "Adyen",
+ "slug": "adyen",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1cbc4353d151",
+   "title": "Adyen Taps Klarna to Enable Agentic Commerce Payment Options Beyond Cards",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/adyen-taps-klarna-to-enable-agentic-commerce-payment-options-beyond-cards/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-20T20:11:08Z",
+   "relevance": 3,
+   "why": "Agentic checkout could route BNPL around cards, so assess whether issuers need a pay-over-time answer in agent-driven flows.",
+   "summary_ai": "Klarna became the first non-card payment option in Adyen's agentic commerce suite, enabled without new integration for merchants.",
+   "take": "Agentic checkout could route BNPL around cards, so assess whether issuers need a pay-over-time answer in agent-driven flows.",
+   "take_kind": "take",
+   "partner": "Adyen",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Nov. 20 announcement"
+   ],
+   "also": [
+    {
+     "source": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZnhpRG9tenBKM2JvbFpNbEs5M1kzRVdfeVFkdndzV0liNzVWcmh3N0J3eGxhVWZVUjVqUFhUbUNMZjItMXp5dzNEVWRpdVpNNzB4LTJyczJGazdIUWxvT0ZWMnRkcktBcXZUdHJkQjJidlBMcTFSN0V5VTdqVjhoVlY4c1M3djZaV3F5OWVubHNlRmoxWXluT3BnTExfM0N4YzVxajZzQlpDSHFBcG1qTmtaV1EzdU9GeVhZUktn?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "ac81796ee08b",
+   "title": "Adyen Opens Agentic Checkout to Klarna in First Non-Card Deal",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcVhQRkxtVDdxS29hQkhkd25FRnd6YnVONlVCMG8zMF9pYmFuaDZSeXpYaFVBLVpCNjhHOER3OWVadkFVMEdhaWxVQVBaNGRyMkVWWG1ZYmNvMDFPeElEUXdJdVhrSk5kWDBGZGt1QU94LWU4SzZrVDZId3VIcnFzNmxmV0E3dGdub1lBUEdIYXVmWGNrT2NIeVh1QkZxd0R1?oc=5",
+   "source": "FinanceX Magazine",
+   "source_type": "gnews",
+   "published": "2026-11-20T16:31:49Z",
+   "relevance": 3,
+   "why": "Pay-over-time options inside AI-driven checkout flows are becoming a live battleground for issuers and BNPL providers.",
+   "summary_ai": "Adyen will bring Klarna into its agentic checkout, its first such deal without a card-based payment method.",
+   "take": "Pay-over-time options inside AI-driven checkout flows are becoming a live battleground for issuers and BNPL providers.",
+   "take_kind": "read",
+   "partner": "Adyen",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "845405a9035f",
+   "title": "Klarna (KLAR) Partners with Adyen for AI-Driven Checkout; Shares Dip Despite Payment Innovation",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdnVsUGVKTkh2anYtRV85bGh6WjNxV0ZkYmZIb0FDc2V4X3JpUEVpeTZqQjBDcHNnLUdrSEZqTDk1S3psRkR1Yk5BTWc3ZHZTbi1XTm13RHltQlozV3M5T0lZcC03UTFUazBBeklVc053cFpzSWhrRkVaU3hzTFJfU1gtaE9wNHBxY29ObzJTenNUYUxCeFRja3hLNUdnaVI4VF9TbDZIelNlZS1UTlFuVzhfMGEzNkNibFdUZDk2Q2RqQ0tOTGtDS0Jn?oc=5",
+   "source": "GuruFocus",
+   "source_type": "gnews",
+   "published": "2026-11-20T16:11:40Z",
+   "relevance": 3,
+   "why": "Track Klarna's checkout reach through Adyen; BNPL options at merchant checkout could compete with issuer installment features.",
+   "summary_ai": "Klarna is partnering with Adyen to bring AI-driven features to checkout, and its shares fell despite the news.",
+   "take": "Track Klarna's checkout reach through Adyen; BNPL options at merchant checkout could compete with issuer installment features.",
+   "take_kind": "take",
+   "partner": "Adyen",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "63962743e3b4",
+   "title": "Adyen Recruits Klarna for Payments on Adyen Agentic",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWw3eDF6QjVrZWUyY0lkSk9tdUEwT05hQXNDUGpqQXcxbkFaWWxPU3Nyem5wVlBhYW5PLWJOU04waVBvZjVnVlFiUENtM3RITF9jdXB6aVR6VkxSTHFqS1hKanZoelc2U3hPT0RTU1JYeHpDUGFXTHltclVqWnM2eFJ0ckRPNnNhQ1YtOHVTUkRYZw?oc=5",
+   "source": "Digital Transactions",
+   "source_type": "gnews",
+   "published": "2026-11-20T15:46:32Z",
+   "relevance": 3,
+   "why": "Agentic checkout is pulling BNPL into AI-driven purchase flows, so watch for similar integrations that reach card-holder checkouts.",
+   "summary_ai": "Adyen has added Klarna as a payment option within its Agentic offering, though the source gives no further detail.",
+   "take": "Agentic checkout is pulling BNPL into AI-driven purchase flows, so watch for similar integrations that reach card-holder checkouts.",
+   "take_kind": "read",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Thin source, no summary text",
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "513ff5dab1ce",
+   "title": "Adyen merchants can offer Klarna in AI agent checkout",
+   "url": "https://www.finextra.com/pressarticle/111751/adyen-merchants-can-offer-klarna-in-ai-agent-checkout?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-20T15:02:00Z",
+   "relevance": 3,
+   "why": "Agentic checkout could become a new channel for BNPL volume, so watch how issuers and BNPL providers position for it.",
+   "summary_ai": "Adyen merchants can now offer Klarna when an AI agent completes checkout on a shopper's behalf.",
+   "take": "Agentic checkout could become a new channel for BNPL volume, so watch how issuers and BNPL providers position for it.",
+   "take_kind": "read",
+   "partner": "Adyen",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": [
+    {
+     "source": "Business Wire",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZnI4ZVVPWlBJYXVhZTU5X0tNQ2dkN1ItSENyWHgzSTlxV2RyejVKUVNsOFFkcFJNRkxSTFF2TW9pUmFBMlM2N2d2bWp4eWFyUWZNdElqTWQxNFhPbXFPUFVRdTRIN1VVdVdrcDA3dHUzNERkY2s4bmdJUTNUYVdhNzA3TmN6YkdqZUhOZ2xDYWJNVlg1WGtOblZnU0IweHpJSjZENkNWT0ZUamdyeTZsT0N1ZVM?oc=5"
+    }
+   ]
+  }
+ ]
+}

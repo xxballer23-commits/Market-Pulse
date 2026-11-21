@@ -1,0 +1,31 @@
+{
+ "name": "MoonPay",
+ "slug": "moonpay",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ffd23e181b03",
+   "title": "MoonPay joins the race for a trust charter",
+   "url": "https://www.bankingdive.com/news/moonpay-crypto-applies-national-trust-bank-charter-occ-pham/875330/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-20T15:48:44Z",
+   "relevance": 2,
+   "why": "MoonPay applied to the OCC for a banking license, joining other crypto firms seeking trust charters.",
+   "summary_ai": "MoonPay applied to the OCC for a banking license, joining other crypto firms seeking trust charters.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

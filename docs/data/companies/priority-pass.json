@@ -1,0 +1,31 @@
+{
+ "name": "Priority Pass",
+ "slug": "priority-pass",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "aa74d03f2f7c",
+   "title": "How Priority Pass elevates your journey beyond the airport lounge",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1EMDJwaTVXV2R1b2hEWEJSYkxLVEtuTm5HT0V1MnQzanc3OGwxU1BkOHppTWhza3o1Y0JVSUtsWFVGQ1ZPUjF2UnVGaXFFaHVaelQ4MTNYTDMxaDBZOS1xYTR4aw?oc=5",
+   "source": "Executive Traveller",
+   "source_type": "gnews",
+   "published": "2026-11-20T21:30:06Z",
+   "relevance": 2,
+   "why": "Priority Pass underpins many card lounge benefits, so review its partner perks before pitching lounge enhancements.",
+   "summary_ai": "Priority Pass explains how its membership extends travel experiences beyond the airport lounge.",
+   "take": "Priority Pass underpins many card lounge benefits, so review its partner perks before pitching lounge enhancements.",
+   "take_kind": "read",
+   "partner": "Priority Pass",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

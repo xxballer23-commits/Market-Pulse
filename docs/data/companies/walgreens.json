@@ -1,0 +1,35 @@
+{
+ "name": "Walgreens",
+ "slug": "walgreens",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7ed49050bbf9",
+   "title": "Capital One Offers: 18% Back at CVS & 10% Back at Walgreens & Kroger",
+   "url": "https://www.doctorofcredit.com/capital-one-offers-18-back-at-cvs-10-back-at-walgreens/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-20T21:03:29Z",
+   "relevance": 2,
+   "why": "Merchant-specific card offers show issuers chasing everyday retail spend, though these are not premium-tier benefits.",
+   "summary_ai": "Capital One Offers give 18% back at CVS and 10% back at Walgreens on in-store purchases, possibly including gift cards.",
+   "take": "Merchant-specific card offers show issuers chasing everyday retail spend, though these are not premium-tier benefits.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "18% back at CVS",
+    "10% back at Walgreens",
+    "Through Nov 23, 2026"
+   ],
+   "also": []
+  }
+ ]
+}

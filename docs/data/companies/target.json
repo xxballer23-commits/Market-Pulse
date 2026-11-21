@@ -26,6 +26,52 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "4b96749f838e",
+   "title": "Walmart, Target Highlight Groceries Heading Into the Holidays",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlVIZkpHNlp3aFV6OXpxd2JmQ1dzYjdaTnBrY3VvemZsTGdoQ0dnZmVNSlVOcGM1c3NsS0FkcFc2NFprbnNsR2JHbE5mYTNuUllOQ2tibVJxVThxZWNTTjFkT0IwYkZBT20tNDhUc1ZLNjQ0U05pZHUyM3l3THRGbXh5amdtSzF4eHNWcmlBcFIzSVNyQzZYZEJGRkxfZnVqMVFwUzA4dXVtS0lndUE1b1FRYTV0UzE4SkNLeXpnTDNpY25Fdmc?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T14:01:49Z",
+   "relevance": 2,
+   "why": "Walmart and Target are highlighting grocery offerings ahead of the holiday season.",
+   "summary_ai": "Walmart and Target are highlighting grocery offerings ahead of the holiday season.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "6fdfed7fc346",
+   "title": "5 Target Holiday Items Identical to West Elm's (For Half of the Price)",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUUm5qRmZtYTRHcEh4a1d3N0V3c2V5NkpUS1AxM3ktN3huVHVvTjR3clpnRG9Rd0Q4R2cyRmdRWXc0S0hXbEU2anBhdU9PMFBQTTg4M2tlWV9OQUFZVzl2Wkk3UXlaanlBOUY0NVFILXlKRlNUd2xr?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:15:00Z",
+   "relevance": 1,
+   "why": "A FinanceBuzz list highlights Target holiday items said to resemble West Elm pieces at a lower price.",
+   "summary_ai": "A FinanceBuzz list highlights Target holiday items said to resemble West Elm pieces at a lower price.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Half the West Elm price"
+   ],
+   "also": []
   }
  ]
 }

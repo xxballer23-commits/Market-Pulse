@@ -1,0 +1,31 @@
+{
+ "name": "Bombardier",
+ "slug": "bombardier",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "efc54c23f5b1",
+   "title": "Soaring to New Heights",
+   "url": "https://robbreport.com/partners/bombardier-soaring-new-heights-1238772719/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-20T15:17:09Z",
+   "relevance": 2,
+   "why": "Bombardier says its new flagship Global 8000 business jet draws its wing design from natural forms.",
+   "summary_ai": "Bombardier says its new flagship Global 8000 business jet draws its wing design from natural forms.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

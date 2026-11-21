@@ -1,0 +1,33 @@
+{
+ "name": "Voyage Labs",
+ "slug": "voyage-labs",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fbe780eef6ed",
+   "title": "Google Maps alum's Voyage Labs raises $12M to build AI travel agent",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRVMwV1RrSUQ3TVUzLVNsWHA2UVlyOVJNcFl5cW1ESjZpajlrY2ZVNlJOdlFaT1FncjJYbE52Y1pTUWc3Qzd5NGdGMXlrYjFxNnd4bkM2am5WZTRDWE1qbndsWHlHd2xSU0VwVFdoVmhVVE0wcXBGbXl5LTNGb3VWWmVmdC1ZZFRuSnBfaTVicG1UeHh2SlNWX3MwdDBhdURaTXc?oc=5",
+   "source": "PhocusWire",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:50:56Z",
+   "relevance": 3,
+   "why": "Early-stage AI travel agent to watch as a possible concierge or booking partner for premium card travel perks.",
+   "summary_ai": "Voyage Labs, founded by a former Google Maps staffer, raised $12 million to build an AI travel agent.",
+   "take": "Early-stage AI travel agent to watch as a possible concierge or booking partner for premium card travel perks.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$12M funding"
+   ],
+   "also": []
+  }
+ ]
+}

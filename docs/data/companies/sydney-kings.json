@@ -1,0 +1,29 @@
+{
+ "name": "Sydney Kings",
+ "slug": "sydney-kings",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c96c2c674f38",
+   "title": "Summer with the Kings",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wMXB4YmRhbjcyMEQwcFVRZmZxMlF6aWxZQk1MRGc2WXpEMkVsUmJuMU4xMU1fTmZ0SUVXaGx4aURxcmd6ckZqaDhhbEFvOUdCdGhHS2JBa3c5Tm04ZzRZY2labFA?oc=5",
+   "source": "Sydney Kings",
+   "source_type": "gnews",
+   "published": "2026-11-19T20:15:00Z",
+   "relevance": 1,
+   "why": "A Sydney Kings basketball post offers no usable details in the feed.",
+   "summary_ai": "A Sydney Kings basketball post offers no usable details in the feed.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

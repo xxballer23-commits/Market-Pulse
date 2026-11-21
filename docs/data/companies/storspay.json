@@ -1,0 +1,31 @@
+{
+ "name": "Storspay",
+ "slug": "storspay",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b6169d12bb02",
+   "title": "Storspay completes money services business registration in Canada",
+   "url": "https://www.finextra.com/pressarticle/111747/storspay-completes-money-services-business-registration-in-canada?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-20T13:14:00Z",
+   "relevance": 1,
+   "why": "Storspay has registered with FINTRAC as a money services business in Canada.",
+   "summary_ai": "Storspay has registered with FINTRAC as a money services business in Canada.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "MSB no. N300002335"
+   ],
+   "also": []
+  }
+ ]
+}

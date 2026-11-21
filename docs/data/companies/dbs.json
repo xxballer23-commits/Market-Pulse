@@ -26,6 +26,50 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "bd96abddaea2",
+   "title": "DBS expands blockchain-powered digital voucher platform",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE50cTRaaS1peXRyMDkybjZuRDJTOWxHdmF4bDFSaGt1ZGpuQnJjYi1LZmk2UzBic1dZS0I3SmdCNElrOGlORllra1VWdzZ1Qk5lOWRjd3laZktZdDFCSjQ1RG1MVlNXRkptYnJlMWt2UXNSdFZiSTZRU013?oc=5",
+   "source": "finews.asia",
+   "source_type": "gnews",
+   "published": "2026-11-20T06:51:00Z",
+   "relevance": 2,
+   "why": "DBS is expanding its blockchain-based digital voucher platform.",
+   "summary_ai": "DBS is expanding its blockchain-based digital voucher platform.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "3edb12738e58",
+   "title": "DBS and Circle partner to expand institutional access to USDC in Asia",
+   "url": "https://www.finextra.com/newsarticle/48786/dbs-and-circle-partner-to-expand-institutional-access-to-usdc-in-asia?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-19T16:07:00Z",
+   "relevance": 1,
+   "why": "DBS and Circle will broaden institutional access to USDC across Asia.",
+   "summary_ai": "DBS and Circle will broaden institutional access to USDC across Asia.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
   }
  ]
 }

@@ -5,6 +5,27 @@
  "vets": [],
  "items": [
   {
+   "id": "7c3561a5a3fd",
+   "title": "Project Saturn: 5 Lenders Seek SpaceX Chip Launch Ban",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWtkWEtuTmVwWl9PanRoTlpZTFV1Z3BnRlc2aW1ZTWtOSEZUVjNoRlh4RkZzcGxzZ1JUeVQ3Q09oWUN3NEQ2aC1HajlhUjc4cl9IcVlPZklmWlhZRlQ3ajJ2aDZDa3pkVndVQ0t0cnI1RlZ3TG1KcERXcHhfdjlubG0xRncySmxXTW5pNGdNaHhBZw?oc=5",
+   "source": "shattered.io",
+   "source_type": "gnews",
+   "published": "2026-11-21T01:14:21Z",
+   "relevance": 1,
+   "why": "Five lenders are reportedly seeking a ban on a SpaceX chip launch, with no further detail in the source.",
+   "summary_ai": "Five lenders are reportedly seeking a ban on a SpaceX chip launch, with no further detail in the source.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "No summary, unclear link to consumer lending",
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "5ad1bdd9de0e",
    "title": "SpaceX Lenders Seek Restrictions on Moving Nvidia AI Chips Into Orbit, FT Reports",
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTjVOUjV4SVFQMzRHSGhjelNYR2lBVkNKb0JiWnpibWIyNVVTam9DeEM2OUUtSTdSNl9IRE16MW5QQmZYdEd0VnVyMTBfaVFvRWZsRVV4enZGV2c1bDU2RHg4aFZhQjBicDExd0QyWk9iOVM3X1h1M0NkUTI3UjZ5SEVocE5PYnFXSHhZcktjd2hZeGJjUnlEVzhIM0dLc04zV1JPTUNR?oc=5",
@@ -18,6 +39,27 @@
    "take_kind": null,
    "partner": null,
    "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "4e009333792e",
+   "title": "Elon Musk’s Dream Meets Wall Street Reality: SpaceX Lenders Don’t Want Nvidia Chips Leaving Earth",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPczIyMEUtSUxFRnpWWlFQNXl3VzhFeXJBNXlLdTRVem82aDBJYXdKcXFRTlhnN0JhMnVIQUFxbTNCNFpoTEdBUm5JV3AtSWZZZTBIMThfNXhNdHBfMDZFU1lDSU5QSWlaMWNfQjA5ei1PUUZWb3hHY2UtRU44Y2labzRTU3padVJBbGFOS0hWMEJnTEEzSVE?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-20T06:24:00Z",
+   "relevance": 1,
+   "why": "Lenders to SpaceX are reportedly reluctant to let Nvidia chips leave Earth as collateral.",
+   "summary_ai": "Lenders to SpaceX are reportedly reluctant to let Nvidia chips leave Earth as collateral.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [],
@@ -46,6 +88,27 @@
    "data_points": [
     "$40bn of chips slated for orbit"
    ],
+   "also": []
+  },
+  {
+   "id": "30febc543279",
+   "title": "What the Blue Wave in Texas Means for Elon Musk’s Tesla and SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVGRaS0psc00yb1MySC1qZTVTdjhELU1HdmxSSmdhWE52YWM4b0hmVzMzYlFlYmVUZTl3d19OVzk5UFl4YkRMek82NEZLbFJIeWtpSnEwMExFVlYtazRuQ0liTjg2ZFFHX0ZFbUlEbnV5UU5OVFNiNEVYOC02bzBJdzBPREp4ek1VYXA3V01Oa0h4TFF5TFlzQVdhR3ZwTTVy?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-19T18:02:00Z",
+   "relevance": 1,
+   "why": "A WSJ analysis looks at how a Democratic gain in Texas could affect Tesla and SpaceX.",
+   "summary_ai": "A WSJ analysis looks at how a Democratic gain in Texas could affect Tesla and SpaceX.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

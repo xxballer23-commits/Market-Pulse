@@ -24,6 +24,105 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "93a420b5d2cb",
+   "title": "Up to $50 off at Amazon with 125 Citi points",
+   "url": "https://frequentmiler.com/up-to-50-off-at-amazon-with-125-citi-points/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T17:46:49Z",
+   "relevance": 2,
+   "why": "Points-for-discount promos show Citi using points as a shopping currency, but user-level variation limits their value.",
+   "summary_ai": "Some shoppers can get up to $50 off at Amazon by redeeming Citi ThankYou points, though offers vary by user.",
+   "take": "Points-for-discount promos show Citi using points as a shopping currency, but user-level variation limits their value.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Offer varies by user, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $50 off",
+    "125 Citi points",
+    "Up to 40% off"
+   ],
+   "also": []
+  },
+  {
+   "id": "af0f99785bac",
+   "title": "Instagram creators can now add Amazon affiliate links directly to Reels, posts",
+   "url": "https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T16:35:00Z",
+   "relevance": 2,
+   "why": "Instagram now lets creators tag up to 30 Amazon products per Reel and 20 per post, earning commission with no platform cut.",
+   "summary_ai": "Instagram now lets creators tag up to 30 Amazon products per Reel and 20 per post, earning commission with no platform cut.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Amazon",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30 products per Reel",
+    "20 products per post"
+   ],
+   "also": []
+  },
+  {
+   "id": "f2f5add917d5",
+   "title": "Tractor Supply boosts same-day delivery options",
+   "url": "https://www.retaildive.com/news/tractor-supply-uber-same-day-delivery/874748/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T15:55:00Z",
+   "relevance": 1,
+   "why": "Tractor Supply is expanding same-day delivery as Amazon grows its rural delivery network.",
+   "summary_ai": "Tractor Supply is expanding same-day delivery as Amazon grows its rural delivery network.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "5bb86ed35408",
+   "title": "Amazon Prime Adds Uber Eats: Free Delivery and $40 Savings",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jMlNWWDNubkNjQjN4TFZvNDg4TnVMTmxLVWtzNVVIeURmV0tJY2V2U0g0cjJZMjBMWjROaTVJTU52dVZtVjhTU1BlNXdLTEs1OXZ5OEwybGx1cmhIMTJhcHJCU3dMTTlpR0VzLVlQVXFNTmhOMUFNbXM0bw?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T13:56:34Z",
+   "relevance": 4,
+   "why": "Prime's Uber Eats bundle raises the bar for delivery perks, so test whether a dining delivery credit can stand out.",
+   "summary_ai": "Amazon Prime is adding Uber Eats, bringing free delivery and $40 in savings to members.",
+   "take": "Prime's Uber Eats bundle raises the bar for delivery perks, so test whether a dining delivery credit can stand out.",
+   "take_kind": "take",
+   "partner": "Uber Eats",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$40 savings"
+   ],
+   "also": []
   }
  ]
 }

@@ -1,0 +1,63 @@
+{
+ "name": "T-Mobile",
+ "slug": "t-mobile",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "436272b787ce",
+   "title": "T-Mobile Launches Credit Card With 2% Cashback, No FTF, 5% + $125, $5 Discount",
+   "url": "https://www.doctorofcredit.com/t-mobile-launches-credit-card-with-2-cashback-no-ftf-5-at-t-mobile-5-autopay-discount/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-20T21:05:45Z",
+   "relevance": 2,
+   "why": "Carriers are using co-brand cards to deepen ecosystem lock-in, a pattern worth tracking for telco-style partner pitches.",
+   "summary_ai": "T-Mobile launched a Visa card with 2% flat cash back, a per-line auto-pay discount, and 5% back on T-Mobile purchases.",
+   "take": "Carriers are using co-brand cards to deepen ecosystem lock-in, a pattern worth tracking for telco-style partner pitches.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2% flat cash back",
+    "$5 auto-pay discount per line",
+    "5% on T-Mobile purchases",
+    "No annual fee"
+   ],
+   "also": []
+  },
+  {
+   "id": "066d1781ad5d",
+   "title": "T-Mobile Chase Offer: Get up to $50 back on wireless payments",
+   "url": "https://frequentmiler.com/t-mobile-chase-offer-get-up-to-50-back-on-wireless-payments/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T19:45:16Z",
+   "relevance": 3,
+   "why": "A card-linked offer tied to a recurring telecom bill is a template for a wireless carrier partnership.",
+   "summary_ai": "Chase is offering a 15% cash back deal on T-Mobile wireless plan payments, capped at $50.",
+   "take": "A card-linked offer tied to a recurring telecom bill is a template for a wireless carrier partnership.",
+   "take_kind": "take",
+   "partner": "T-Mobile",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Expiry truncated, eligibility unknown",
+   "sections": [
+    "partnerships",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "15% cash back",
+    "$50 maximum"
+   ],
+   "also": []
+  }
+ ]
+}

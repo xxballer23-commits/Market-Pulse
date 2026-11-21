@@ -1,15 +1,15 @@
 {
  "days": {
   "2026-11-20": {
-   "input_tokens": 1064883,
-   "output_tokens": 404117,
+   "input_tokens": 1199807,
+   "output_tokens": 628573,
    "web_searches": 41,
-   "calls": 74,
+   "calls": 116,
    "by_task": {
     "enrich": {
-     "calls": 59,
-     "input_tokens": 260145,
-     "output_tokens": 348037,
+     "calls": 101,
+     "input_tokens": 395069,
+     "output_tokens": 572493,
      "web_searches": 0,
      "model": "claude-haiku-5-5"
     },

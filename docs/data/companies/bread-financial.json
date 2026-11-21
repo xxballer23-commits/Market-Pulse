@@ -1,0 +1,55 @@
+{
+ "name": "Bread Financial",
+ "slug": "bread-financial",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "529fe40dc57a",
+   "title": "Bread Financial Holdings, Inc. (BFH-PC) Q1 FY2026 earnings call transcript",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTURvZXRjYnUyUEdhbEozUFJxNWdackROSGFyM3d0OEFfOF9LNmtIbkVtRFAxYklZOThEcGF3aFRldzFQOHVxOFR1LTBHSWZGaFBiMUxwSGEtSHV1Z0dfbnNQNk5DZ21BMXFVbTZ2Y1RyTXhBdVlmUVgxek1URmlPWS1zaWtmU1ZiT3ptLWRTamtRZw?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-20T14:05:31Z",
+   "relevance": 3,
+   "why": "Co-brand lender commentary on partner economics and credit trends is worth scanning for partnership terms.",
+   "summary_ai": "Bread Financial's first-quarter fiscal 2026 earnings call transcript is now available.",
+   "take": "Co-brand lender commentary on partner economics and credit trends is worth scanning for partnership terms.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Title only, transcript content unverified",
+   "sections": [
+    "partnerships",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Q1 FY2026"
+   ],
+   "also": []
+  },
+  {
+   "id": "0530c37cd5b3",
+   "title": "Bread Financial Holdings, Inc. (BFH) Stock Price, News, Quote & History",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9lVWtIRnEtSlFwMXYxeWREa0cwMG1OcFEyWjhoOUphNG5CT29yMjZLc1h6V0oyZnIyUDZwT3hSbWIzZkRmQ2hPY3RPSEkwM0st?oc=5",
+   "source": "Yahoo! Finance Canada",
+   "source_type": "gnews",
+   "published": "2026-11-19T20:59:21Z",
+   "relevance": 1,
+   "why": "Stock quote page for Bread Financial with price history and a news feed, no specific news.",
+   "summary_ai": "Stock quote page for Bread Financial with price history and a news feed, no specific news.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Quote page, no substantive news",
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

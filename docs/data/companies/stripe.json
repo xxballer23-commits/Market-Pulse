@@ -1,0 +1,31 @@
+{
+ "name": "Stripe",
+ "slug": "stripe",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "88a233b4f879",
+   "title": "Google wallet returns to Apple",
+   "url": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T15:24:00Z",
+   "relevance": 3,
+   "why": "Wallet placement on iPhone matters for agentic checkout; consider how card credentials can sit inside these wallets.",
+   "summary_ai": "Google Wallet is returning to Apple iPhones, giving Google an early lead among agentic shoppers and competing with Stripe's Link wallet.",
+   "take": "Wallet placement on iPhone matters for agentic checkout; consider how card credentials can sit inside these wallets.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

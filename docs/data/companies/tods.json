@@ -1,0 +1,56 @@
+{
+ "name": "Tod's",
+ "slug": "tods",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d62ed59ac1be",
+   "title": "Tod’s Nears €400 Million Debt Refinancing Backed by Owners",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRlA3eTZ0bl9ETzFrbHhTWTZLWTlvd1czVFNNa0RpTjRiVlBLSHBmVXh4dVRSWmp6OXE4RlNmNDduT0hfbW5VR0Q1MDJ2RV9wWHRNTXBCZktUTHo0dFJpdldrMU4yaHhrMDJkUWNJaDc4RkR3YkJGUHhLWFNadkM3TTNiQ3YzaDBCQVcxNUR0R0RPd0Jzd2gwMmlQZmFmU3dZWFdIMlNn?oc=5",
+   "source": "The Business of Fashion",
+   "source_type": "gnews",
+   "published": "2026-11-19T21:43:57Z",
+   "relevance": 2,
+   "why": "Luxury shoemaker Tod's is nearing a roughly 400 million euro debt refinancing backed by its owners.",
+   "summary_ai": "Luxury shoemaker Tod's is nearing a roughly 400 million euro debt refinancing backed by its owners.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Deal reported as nearing, not closed",
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "€400 Million"
+   ],
+   "also": []
+  },
+  {
+   "id": "134ebbf81020",
+   "title": "Tod’s Nears €400 Million Debt Refinance Backed by Group’s Owners",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSHVBaTEwUEM5T1lrMXk3UlZ4N0xVV2NzOUtuU3o1bVV1Wm5hWHktX2Vua3BtOF9ldjR4b05YU0hlenpoSklEZFMyS09lNnZ2YW5OeVZ5Y0wxc2dGdjNialRNUEpJa3Vqc0lxdUh5dVoxUXFmbkdjSFV2TTRnTkVTUHZQQmhIZEsxV2ZyQkFQMWRSVk9CWmNqa1VONF9rRHJIbU1vY0xfc2RqYU5wVjJZVEt1a3I?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:12:57Z",
+   "relevance": 1,
+   "why": "Tod's is near a roughly €400 million debt refinancing backed by its owners, a capital structure story rather than a consumer one.",
+   "summary_ai": "Tod's is near a roughly €400 million debt refinancing backed by its owners, a capital structure story rather than a consumer one.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "€400 million"
+   ],
+   "also": []
+  }
+ ]
+}

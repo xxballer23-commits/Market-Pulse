@@ -1,0 +1,29 @@
+{
+ "name": "KFC",
+ "slug": "kfc",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1047451c055f",
+   "title": "Italy’s Ski Slopes Really Don’t Need a KFC at the Top",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTE2TVNVMVA1dnBaejVsYkQ1cGhBR1VHZjJ5d0xGR0JoVUcxaDEyMlNwTjZwMXJXV0ZDdlFXYnBPTTJuTVIyaUd5WHdTVFVEYktqVXpxZGtEcE5YQWpNdmMxTjRYZkRiV2ZHQUFseXNnX08zb2g2aDl5eUQ0ZEJITERGQXlWSmFNdW51am5nN2pBaE1lUGIwZmU1dURqVy00MmFZT0tOY1dRcTBs?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T05:00:00Z",
+   "relevance": 1,
+   "why": "A commentary piece argues Italy's ski slopes do not need a KFC restaurant at the summit.",
+   "summary_ai": "A commentary piece argues Italy's ski slopes do not need a KFC restaurant at the summit.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Title only, no summary",
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

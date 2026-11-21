@@ -1,0 +1,55 @@
+{
+ "name": "PayPo",
+ "slug": "paypo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b37e80f042e4",
+   "title": "PayPo Taps Citigroup and JPMorgan for Possible Warsaw IPO",
+   "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/paypo-taps-citigroup-and-jpmorgan-for-possible-warsaw-ipo/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-21T00:47:16Z",
+   "relevance": 3,
+   "why": "Public BNPL listings would provide valuation comps for installment partnership pricing discussions.",
+   "summary_ai": "Polish BNPL firm PayPo is reportedly preparing a Warsaw IPO with Citi, JPMorgan Chase and Ipopema as advisers.",
+   "take": "Public BNPL listings would provide valuation comps for installment partnership pricing discussions.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Based on Bloomberg report citing unnamed sources",
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2ea417333d6f",
+   "title": "Klarna Group (KLAR) Dips Amid PayPo IPO Buzz and New AI Payment Partnership",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQklMYkJKM0JEZ0VGYk10cEtGWnhiZjRCdWdoX3UxUDVSRUFVZXpxcEpmN19UT2R4cXdWXzJmNVJXVVZuZlNCT3hOdTN0bHZxODNtMWZVb3FIT1NKejdwaW1JdkxvcW0xTnhPVFpmNFU1NUxteGN2dTRYU3JvQVVNUEc2dVFYdUtKZ1pZbU9wLUU5YXB5MXNEWEpaSjRoc3hkSzRiVWZTR1VEUXA2MkFoYVBB?oc=5",
+   "source": "GuruFocus",
+   "source_type": "gnews",
+   "published": "2026-11-20T15:13:15Z",
+   "relevance": 3,
+   "why": "Klarna's AI payment tie-up signals BNPL players adding AI checkout; confirm the partner and terms from a primary source before acting.",
+   "summary_ai": "Klarna shares slipped amid IPO talk around PayPo and a newly reported AI payment partnership.",
+   "take": "Klarna's AI payment tie-up signals BNPL players adding AI checkout; confirm the partner and terms from a primary source before acting.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Thin stock-news source, partner unnamed",
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

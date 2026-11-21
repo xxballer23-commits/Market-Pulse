@@ -31,6 +31,52 @@
     "1-night nonrefundable deposit required"
    ],
    "also": []
+  },
+  {
+   "id": "10e687b76b88",
+   "title": "IHG Overhauls Chase-Issued Credit Cards: New Names, New Perks, and Higher Annual Fees",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hVUFTQ3FJV3BWekdjclZ5bUxHbHZabWo0eHJ6SHlSNEVtZFo3dnFBbXl5VGRjb2lBSFNzdnBUZl82Q3JuLWNqd0tfWi1QR0Jtbi1YMks1b3NRN2pjcjZrODJzQjlMSGo4SkdsSnh3?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:10:29Z",
+   "relevance": 5,
+   "why": "Benchmark our hotel co-brand fee and perk positioning against the IHG refresh before renewal talks.",
+   "summary_ai": "IHG is overhauling its Chase-issued credit cards with new names, new perks and higher annual fees.",
+   "take": "Benchmark our hotel co-brand fee and perk positioning against the IHG refresh before renewal talks.",
+   "take_kind": "take",
+   "partner": "IHG",
+   "benefit_move": true,
+   "benefit_type": "fee",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": true,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "342d3c40e564",
+   "title": "Chase and IHG Launch New Premium Card: the IHG One Rewards Premier Select Credit Card",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeDJLck1Tc2dBVm1lcjlPOGQ5Nnl0SWtCVUNiV0FYS2IwdWd2YnpCU2U3MDJUTE4xNW1zLXpwc1pXTE1qLVFCbUtrM05yUUcwQ3NxcWRoanpJVWlyOEh4dmViVmlnZlF4VXJJeW1vcEYzek54Uzlhd0NPbV9rVFhNeVNDb2Y?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T18:58:13Z",
+   "relevance": 4,
+   "why": "Chase keeps extending hotel co-brands; compare IHG's tier economics against our Marriott and Hilton options before the next renewal cycle.",
+   "summary_ai": "Chase launched the IHG One Rewards Premier Select credit card, a new hotel co-brand card.",
+   "take": "Chase keeps extending hotel co-brands; compare IHG's tier economics against our Marriott and Hilton options before the next renewal cycle.",
+   "take_kind": "take",
+   "partner": "IHG",
+   "benefit_move": true,
+   "benefit_type": "hotel",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
   }
  ]
 }

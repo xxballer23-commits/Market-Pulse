@@ -1,0 +1,31 @@
+{
+ "name": "Ipopema Securities",
+ "slug": "ipopema-securities",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b37e80f042e4",
+   "title": "PayPo Taps Citigroup and JPMorgan for Possible Warsaw IPO",
+   "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/paypo-taps-citigroup-and-jpmorgan-for-possible-warsaw-ipo/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-21T00:47:16Z",
+   "relevance": 3,
+   "why": "Public BNPL listings would provide valuation comps for installment partnership pricing discussions.",
+   "summary_ai": "Polish BNPL firm PayPo is reportedly preparing a Warsaw IPO with Citi, JPMorgan Chase and Ipopema as advisers.",
+   "take": "Public BNPL listings would provide valuation comps for installment partnership pricing discussions.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Based on Bloomberg report citing unnamed sources",
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

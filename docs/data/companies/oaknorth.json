@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "f9e6af35d1f6",
+   "title": "UK Digital Bank OakNorth Readies US Expansion After Securing National Banking Charter",
+   "url": "https://www.pymnts.com/news/banking/2026/uk-digital-bank-oaknorth-readies-united-states-expansion-after-securing-national-banking-charter/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-20T21:38:03Z",
+   "relevance": 2,
+   "why": "OakNorth's known focus is commercial lending, so watch whether it moves into consumer credit that could compete for borrowers.",
+   "summary_ai": "UK digital bank OakNorth received a US national bank charter and is preparing to expand into the American market.",
+   "take": "OakNorth's known focus is commercial lending, so watch whether it moves into consumer credit that could compete for borrowers.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Nov. 20 announcement"
+   ],
+   "also": []
+  },
+  {
    "id": "80dc4a4dfbd1",
    "title": "OakNorth gets Fed, OCC nod for US license",
    "url": "https://www.bankingdive.com/news/oaknorth-fed-occ-approve-charter-application-michigan-bank-acquisition-digital-uk/875357/",
@@ -27,6 +52,29 @@
    "data_points": [
     "Waited 20 months for approval"
    ],
+   "also": []
+  },
+  {
+   "id": "f16c55d811de",
+   "title": "UK SME lender OakNorth secures US banking licence",
+   "url": "https://www.finextra.com/newsarticle/48790/uk-sme-lender-oaknorth-secures-us-banking-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-20T14:07:00Z",
+   "relevance": 2,
+   "why": "UK SME lender OakNorth received a US national bank charter, opening a path beyond lending in the US.",
+   "summary_ai": "UK SME lender OakNorth received a US national bank charter, opening a path beyond lending in the US.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

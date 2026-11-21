@@ -74,6 +74,53 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "cafeef6427da",
+   "title": "PayPal CEO remakes team",
+   "url": "https://www.paymentsdive.com/news/paypal-ceo-remakes-team/875344/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-20T16:08:00Z",
+   "relevance": 1,
+   "why": "PayPal's CFO Jamie Miller will leave as CEO Enrique Lores brings in new managers.",
+   "summary_ai": "PayPal's CFO Jamie Miller will leave as CEO Enrique Lores brings in new managers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": [
+    {
+     "source": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/paypal-ceo-remakes-team-cfo-coo-venmo/875355/"
+    }
+   ]
+  },
+  {
+   "id": "0a740093b625",
+   "title": "PayPal Names New CFO Amid Push to Prove Standalone Growth",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWpXRFZhdUp4ZV9HU215dzg0R0piLXlMS0ZfZlA2a3RubnBEYVpTeXlFcmlPOEx5LVFDNENmR3k2SkZRRUF5cDhQcEdhUkEtbUpmWVFqSE9Xd0YyMGtwcE9EZjJEeFZIQlpqczEzQ29GYWFkWFRaUTgzVS1mNGtsRE1SVEtfRElRRFFQTFhlYmlhcUtCd0hpbG5OUm1YWTk1Y09HellGSzQ5U1k?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-20T15:08:00Z",
+   "relevance": 2,
+   "why": "PayPal has named a new chief financial officer as it works to show growth on its own.",
+   "summary_ai": "PayPal has named a new chief financial officer as it works to show growth on its own.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
   }
  ]
 }

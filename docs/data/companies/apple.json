@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "511aeb690cf0",
+   "title": "Apple Black Friday Event: Up To $300 Giftcard With Purchase",
+   "url": "https://www.doctorofcredit.com/apple-black-friday-event-up-to-300-giftcard-with-purchase/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-20T19:30:21Z",
+   "relevance": 2,
+   "why": "Apple's Black Friday event offers up to $300 in gift cards with select purchases from Nov 27 to 30.",
+   "summary_ai": "Apple's Black Friday event offers up to $300 in gift cards with select purchases from Nov 27 to 30.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $300 gift cards",
+    "Nov 27 to 30"
+   ],
+   "also": []
+  },
+  {
    "id": "2a62b0855ff5",
    "title": "Chase Ultimate Rewards: 10-15% off Select Gift Card Redemptions (Lowe’s, Apple, Uber, DoorDash & More)",
    "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-10-15-off-select-gift-card-redemptions-lowes-apple-uber-doordash-more/",
@@ -28,6 +54,29 @@
     "Lowe's gift cards at 15% off",
     "Apple, Uber, DoorDash and Choice at 10% off"
    ],
+   "also": []
+  },
+  {
+   "id": "88a233b4f879",
+   "title": "Google wallet returns to Apple",
+   "url": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T15:24:00Z",
+   "relevance": 3,
+   "why": "Wallet placement on iPhone matters for agentic checkout; consider how card credentials can sit inside these wallets.",
+   "summary_ai": "Google Wallet is returning to Apple iPhones, giving Google an early lead among agentic shoppers and competing with Stripe's Link wallet.",
+   "take": "Wallet placement on iPhone matters for agentic checkout; consider how card credentials can sit inside these wallets.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

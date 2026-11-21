@@ -1,0 +1,35 @@
+{
+ "name": "Wyndham Rewards",
+ "slug": "wyndham-rewards",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "aa6e951a9171",
+   "title": "Wyndham Rewards Cyber sale: Save up to 30% on paid stays",
+   "url": "https://frequentmiler.com/wyndham-rewards-cyber-sale-save-up-to-30-on-paid-stays-but-cardmember-rate-might-be-better/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T21:46:53Z",
+   "relevance": 2,
+   "why": "Wyndham's extra 5% for card holders is a card-linked offer template to benchmark against hotel partner promos.",
+   "summary_ai": "Wyndham Rewards launched a paid-stay sale with discounts rising by stay length, plus an extra 5% for Earner cardholders.",
+   "take": "Wyndham's extra 5% for card holders is a card-linked offer template to benchmark against hotel partner promos.",
+   "take_kind": "take",
+   "partner": "Wyndham Rewards",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "End date and eligibility not stated",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10% off one-night stays",
+    "Up to 30% off 4+ nights",
+    "Extra 5% for Earner cardholders"
+   ],
+   "also": []
+  }
+ ]
+}

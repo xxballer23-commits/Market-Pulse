@@ -1,0 +1,33 @@
+{
+ "name": "Aerolíneas Argentinas",
+ "slug": "aerol-neas-argentinas",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d49d51d88457",
+   "title": "Why Aerolíneas Argentinas Is Basically An Ultra Low Cost Carrier In Disguise",
+   "url": "https://onemileatatime.com/insights/aerolineas-argentinas-ultra-low-cost-carrier-disguise/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-20T15:05:57Z",
+   "relevance": 2,
+   "why": "A traveler reports that a Flying Blue award ticket's promised free checked bag was charged at check-in on Aerolíneas Argentinas.",
+   "summary_ai": "A traveler reports that a Flying Blue award ticket's promised free checked bag was charged at check-in on Aerolíneas Argentinas.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "23 kg checked bag"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -28,6 +28,55 @@
     "$6 billion deal value"
    ],
    "also": []
+  },
+  {
+   "id": "0ba570ab2771",
+   "title": "Bill sells for $6B to TPG, Corpay",
+   "url": "https://www.paymentsdive.com/news/bill-sells-for-6b-to-tpg-corpay/875331/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-20T15:54:00Z",
+   "relevance": 3,
+   "why": "Business payments are consolidating; check whether Bill's integrations with business card programs will change under new owners.",
+   "summary_ai": "Bill agreed to be sold to TPG and Corpay for $6 billion, adding to consolidation in business payments software.",
+   "take": "Business payments are consolidating; check whether Bill's integrations with business card programs will change under new owners.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$6B"
+   ],
+   "also": []
+  },
+  {
+   "id": "75d5943a572e",
+   "title": "Bill agrees to be acquired by TPG in $6bn deal",
+   "url": "https://www.finextra.com/pressarticle/111752/bill-agrees-to-be-acquired-by-tpg-in-6bn-deal?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-20T15:04:00Z",
+   "relevance": 2,
+   "why": "BILL agreed to be acquired by TPG, with Corpay as a partner, in a deal reported at about $6 billion.",
+   "summary_ai": "BILL agreed to be acquired by TPG, with Corpay as a partner, in a deal reported at about $6 billion.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$6bn deal",
+    "nearly 500,000 businesses"
+   ],
+   "also": []
   }
  ]
 }
