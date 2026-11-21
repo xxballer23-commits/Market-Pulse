@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T02:05:15Z",
+ "updated": "2026-11-21T02:25:00Z",
  "companies": [
   {
    "name": "Anthropic",
@@ -599,6 +599,21 @@
    "has_vet": false
   },
   {
+   "name": "Accor",
+   "slug": "accor",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-20T19:59:23Z",
+   "last_seen": "2026-11-21T02:19:52Z",
+   "sections": {
+    "luxury": 3
+   },
+   "top_relevance": 3,
+   "latest_summary": "Accor and Yavu signed a deal to add a 370-key hotel in Fiji near Nadi to the pipeline.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Uber",
    "slug": "uber",
    "count": 3,
@@ -886,17 +901,15 @@
    "has_vet": false
   },
   {
-   "name": "Accor",
-   "slug": "accor",
+   "name": "General Motors",
+   "slug": "general-motors",
    "count": 2,
    "count_30d": 2,
-   "first_seen": "2026-11-20T19:59:23Z",
-   "last_seen": "2026-11-20T21:17:29Z",
-   "sections": {
-    "luxury": 2
-   },
-   "top_relevance": 3,
-   "latest_summary": "Activist investor Parvus wants Accor's CEO removed, citing the Ennismore buyout and years of share underperformance.",
+   "first_seen": "2026-11-19T15:00:00Z",
+   "last_seen": "2026-11-20T21:21:26Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Reporting describes behind-the-scenes board discussions about GM's CEO succession plans.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3867,19 +3880,6 @@
    "sections": {},
    "top_relevance": 1,
    "latest_summary": "Janicki has secured $600 million in financing to expand aerospace and defense manufacturing in Washington and Montana.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "General Motors",
-   "slug": "general-motors",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-19T15:00:00Z",
-   "last_seen": "2026-11-19T15:00:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "An analysis profiles three candidates who could succeed Mary Barra as General Motors CEO.",
    "watch_status": null,
    "has_vet": false
   },

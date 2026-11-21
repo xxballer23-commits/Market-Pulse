@@ -3,7 +3,7 @@
   "2026-11"
  ],
  "feed_days": 45,
- "feed_count": 824,
+ "feed_count": 829,
  "sections": [
   {
    "id": "premium_cards",
@@ -50,11 +50,11 @@
   "curator_github": "xxballer23-commits",
   "url": "https://xxballer23-commits.github.io/Market-Pulse/"
  },
- "last_sweep": "2026-11-21T02:05:15Z",
+ "last_sweep": "2026-11-21T02:25:00Z",
  "last_sweep_stats": {
-  "new": 4,
+  "new": 5,
   "merged": 0,
-  "sources_ok": 49,
+  "sources_ok": 50,
   "sources": 53
  },
  "last_digest": "2026-11-21T01:14:27Z"
