@@ -29,7 +29,7 @@ jobs:
       - run: pip install -r requirements.txt
       - name: Collect, tag and rebuild
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.CLAUDE_API_KEY }}
         run: python -m pulse sweep
       - name: Commit data
         run: |
@@ -43,7 +43,7 @@ jobs:
       - name: Optional digest right after (push trigger file says daily, monday or friday)
         if: github.event_name == 'push'
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.CLAUDE_API_KEY }}
         run: |
           kind=$(head -c 20 .github/triggers/sweep 2>/dev/null | tr -cd 'a-z')
           case "$kind" in daily|monday|friday) python -m pulse digest "$kind";; *) echo "sweep only";; esac

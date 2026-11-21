@@ -48,7 +48,7 @@ jobs:
           echo "kind=$kind" >> "$GITHUB_OUTPUT"
       - name: Write digest
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.CLAUDE_API_KEY }}
         run: python -m pulse digest ${{ steps.pick.outputs.kind }}
       - name: Commit data
         run: |
