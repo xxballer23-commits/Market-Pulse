@@ -13,13 +13,14 @@ from . import config, llm, store
 from .common import allowed_sources, canon_company, has_source, items_block, slug, system_with_context, today_line
 
 INDICATORS = [
-    {"id": "citi_luxury_spend", "label": "US luxury credit card spend (Citi)", "unit": "% YoY"},
-    {"id": "olshan_4m", "label": "Manhattan $4M+ contracts signed (Olshan, weekly)", "unit": "contracts"},
-    {"id": "auction_sell_through", "label": "Major auction sell-through rate", "unit": "%"},
-    {"id": "earn_lvmh", "label": "LVMH organic revenue growth", "unit": "% YoY"},
-    {"id": "earn_hermes", "label": "Hermes organic revenue growth", "unit": "% YoY"},
-    {"id": "earn_kering", "label": "Kering comparable revenue growth", "unit": "% YoY"},
-    {"id": "earn_richemont", "label": "Richemont constant currency sales growth", "unit": "% YoY"},
+    {"id": "citi_luxury_spend", "group": "spend", "label": "US luxury credit card spend (Citi)", "unit": "% YoY"},
+    {"id": "olshan_4m", "group": "real_estate", "label": "Manhattan $4M+ contracts signed (Olshan, weekly)", "unit": "contracts"},
+    {"id": "auction_sell_through", "group": "auction", "label": "Major auction sell-through rate", "unit": "%"},
+    {"id": "auction_lots", "group": "auction", "label": "Auction headline lots", "unit": "text"},
+    {"id": "earn_lvmh", "group": "earnings", "label": "LVMH organic revenue growth", "unit": "% YoY"},
+    {"id": "earn_hermes", "group": "earnings", "label": "Hermes organic revenue growth", "unit": "% YoY"},
+    {"id": "earn_kering", "group": "earnings", "label": "Kering comparable revenue growth", "unit": "% YoY"},
+    {"id": "earn_richemont", "group": "earnings", "label": "Richemont constant currency sales growth", "unit": "% YoY"},
 ]
 
 CAL_COMPANIES = ("American Express, JPMorgan Chase, Capital One, Citi, Bank of America, Wells Fargo, "
@@ -174,7 +175,7 @@ def refresh_dashboard() -> None:
     by_id = {d["id"]: d for d in dash["indicators"]}
     for ind in INDICATORS:  # keep config and stored indicators in sync
         by_id.setdefault(ind["id"], {**ind, "readings": []}).update(
-            {"label": ind["label"], "unit": ind["unit"]})
+            {"label": ind["label"], "unit": ind["unit"], "group": ind["group"]})
     latest = {i: (d["readings"][-1] if d["readings"] else None) for i, d in by_id.items()}
     items = _week_items({"spending_data", "luxury"}, days=14)
     ind_text = "\n".join(f"- {i['id']}: {i['label']} ({i['unit']})" for i in INDICATORS)

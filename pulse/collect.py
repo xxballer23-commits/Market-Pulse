@@ -139,7 +139,12 @@ def sweep() -> dict:
             tk = tokens(it["title"])
             dup = next((k for t, k in known if similar(tk, t) >= threshold), None)
             if dup is not None:
-                if dup["source"] != it["source"] and all(a["source"] != it["source"] for a in dup["also"]):
+                if dup.get("source_type") == "gnews" and it["source_type"] == "rss":
+                    # Swap so the headline links to the original publisher, not the aggregator copy.
+                    dup["also"].append({"source": dup["source"], "url": dup["url"]})
+                    dup.update(url=it["url"], source=it["source"], source_type="rss", via=None)
+                    touched[dup["id"]] = dup
+                elif dup["source"] != it["source"] and all(a["source"] != it["source"] for a in dup["also"]):
                     dup["also"].append({"source": it["source"], "url": it["url"]})
                     touched[dup["id"]] = dup
                 continue

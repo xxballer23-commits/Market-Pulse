@@ -1,6 +1,8 @@
-name: Diligence Desk
-# Open an issue titled "Vet: Company Name". Only the repo owner and collaborators can trigger it,
-# so strangers on a public repo cannot spend your API credit.
+name: Team Desk
+# Issue commands (repo owner and collaborators only, so strangers can't spend API credit):
+#   Vet: Company        -> Diligence brief.  Body lines: "Requested by: Name", "Context: ..."
+#   Watch: Company      -> add to shared Watchlist.  Body lines: "Requested by:", "Why:", "Category:"
+#   Approve: <id|latest> -> curator marks an edition reviewed
 on:
   issues:
     types: [opened]
@@ -14,9 +16,11 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  vet:
+  desk:
     if: >-
-      startsWith(github.event.issue.title, 'Vet') || startsWith(github.event.issue.title, 'vet')
+      startsWith(github.event.issue.title, 'Vet') || startsWith(github.event.issue.title, 'vet') ||
+      startsWith(github.event.issue.title, 'Watch') || startsWith(github.event.issue.title, 'watch') ||
+      startsWith(github.event.issue.title, 'Approve') || startsWith(github.event.issue.title, 'approve')
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -35,23 +39,24 @@ jobs:
           cache: pip
       - if: steps.auth.outputs.ok == 'true'
         run: pip install -r requirements.txt
-      - name: Write brief
-        id: vet
+      - name: Run command
+        id: desk
         if: steps.auth.outputs.ok == 'true'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.CLAUDE_API_KEY }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_BODY: ${{ github.event.issue.body }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
           ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
-        run: python -m pulse vet-issue
+        run: python -m pulse desk-issue
       - name: Commit data
-        if: steps.vet.outputs.vetted == 'true'
+        if: steps.desk.outputs.action && steps.desk.outputs.action != 'none'
         run: |
           git config user.name "market-pulse-bot"
           git config user.email "actions@users.noreply.github.com"
           git add docs/data
           git diff --cached --quiet && exit 0
-          git commit -m "data: vet brief ${{ steps.vet.outputs.vet_id }}"
+          git commit -m "data: desk ${{ steps.desk.outputs.action }} (issue #${{ github.event.issue.number }})"
           for i in 1 2 3; do git pull --rebase -X theirs && git push && exit 0; sleep 5; done
           exit 1
       - name: Reply and close
@@ -59,15 +64,13 @@ jobs:
         env:
           GH_TOKEN: ${{ github.token }}
           NUM: ${{ github.event.issue.number }}
-          VETTED: ${{ steps.vet.outputs.vetted }}
-          VET_ID: ${{ steps.vet.outputs.vet_id }}
-          OWNER: ${{ github.repository_owner }}
-          REPO: ${{ github.event.repository.name }}
+          ACTION: ${{ steps.desk.outputs.action }}
+          MSG: ${{ steps.desk.outputs.message }}
+          LINK: ${{ steps.desk.outputs.link }}
         run: |
-          if [ "$VETTED" = "true" ]; then
-            url="https://${OWNER}.github.io/${REPO}/#/vet/${VET_ID}"
-            gh issue comment "$NUM" -R "$GITHUB_REPOSITORY" --body "Brief is ready (the site can take a minute or two to refresh): $url"
+          if [ -n "$ACTION" ] && [ "$ACTION" != "none" ]; then
+            gh issue comment "$NUM" -R "$GITHUB_REPOSITORY" --body "$MSG ${LINK:+(the site can take a minute or two to refresh): $LINK}"
             gh issue close "$NUM" -R "$GITHUB_REPOSITORY"
           else
-            gh issue comment "$NUM" -R "$GITHUB_REPOSITORY" --body "Could not write a brief. Use a title like \`Vet: Company Name\` and check the Actions log."
+            gh issue comment "$NUM" -R "$GITHUB_REPOSITORY" --body "${MSG:-Something went wrong, check the Actions log.}"
           fi

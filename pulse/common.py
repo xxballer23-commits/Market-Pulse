@@ -1,6 +1,7 @@
 """Helpers shared by digests, living pages and vet."""
 from __future__ import annotations
 
+import json
 import re
 
 from . import config
@@ -30,8 +31,24 @@ def item_line(i: dict) -> str:
     if i.get("sections"):
         parts.append("sections: " + ",".join(i["sections"]))
     parts.append(f"rel {i.get('relevance', '?')}" + (" BREAKING" if i.get("breaking") else ""))
-    if i.get("why"):
+    if i.get("companies"):
+        parts.append("companies: " + ", ".join(i["companies"]))
+    if i.get("summary_ai"):
+        parts.append("summary: " + i["summary_ai"])
+    if i.get("take"):
+        parts.append(f"{i.get('take_kind') or 'take'}: " + i["take"])
+    elif i.get("why"):
         parts.append("why: " + i["why"])
+    if i.get("partner"):
+        parts.append("partner: " + i["partner"])
+    if i.get("benefit_move"):
+        parts.append(f"benefit move ({i.get('benefit_type') or 'other'}, issuer {i.get('issuer') or '?'})")
+    if i.get("nyc"):
+        parts.append("nyc: " + json.dumps(i["nyc"], ensure_ascii=False))
+    if i.get("low_confidence"):
+        parts.append("LOW CONFIDENCE: " + i["low_confidence"])
+    if i.get("also"):
+        parts.append(f"also covered by {len(i['also'])} other outlet(s)")
     if i.get("data_points"):
         parts.append("data: " + "; ".join(i["data_points"]))
     parts.append(i["url"])

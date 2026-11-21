@@ -1,10 +1,14 @@
-"""Tag new items with sections, companies, relevance and a why-it-matters line."""
+"""Tag new items: sections, companies, relevance, summary, Take/Read, partner, benefit move,
+confidence and key-fact chips. Bump ENRICH_VERSION to re-tag recent items with a new schema."""
 from __future__ import annotations
 
 import json
 import re
 
 from . import config, llm, store
+
+ENRICH_VERSION = 2
+LOW_GRADE_SOURCES = ("reddit", "r/", "forum", "flyertalk", "quora")
 
 
 def _section_block() -> str:
@@ -36,31 +40,67 @@ def _mock_tags(batch: list[dict]) -> list[dict]:
             "id": it["id"], "sections": secs,
             "subcategory": "dining" if "restaurant" in text.lower() else None,
             "companies": found, "relevance": rel, "breaking": rel == 5 and i % 4 == 0,
-            "why": "Mock tag: relevant to premium card partnership strategy.",
-            "data_points": re.findall(r"\$[\d,.]+[MBK]?(?: billion| million)?", text)[:3],
+            "summary": f"Mock summary of {it['title'][:40]}.",
+            "take_kind": "take" if rel >= 4 else "read", "take": "Mock take for the BD team.",
+            "partner": "Resy" if "Resy" in text else None,
+            "benefit_move": "benefit" in text.lower(), "benefit_type": "dining" if "dining" in text.lower() else None,
+            "issuer": found[0] if found and "benefit" in text.lower() else None,
+            "confidence": "low" if "rumor" in text.lower() else "ok", "confidence_reason": None,
+            "nyc": {"venue": "Mock Venue", "neighborhood": "SoHo", "kind": "opening", "booking": "Resy, 30 days out"} if it.get("hint") == "nyc_dining" else None,
+            "data_points": re.findall(r"\$[\d,.]+[MBK]?(?: billion| million)?", text)[:4],
         })
     return out
+
+
+def _txt(v, limit: int = 300) -> str | None:
+    if not isinstance(v, str):
+        return None
+    v = v.replace("\u2014", ", ").replace("\u2013", "-").strip()
+    return v[:limit] or None
 
 
 def _apply(it: dict, tag: dict, valid: set[str]) -> None:
     it["sections"] = [s for s in (tag.get("sections") or []) if s in valid][:3]
     it["subcategory"] = tag.get("subcategory")
-    it["companies"] = [c.strip() for c in (tag.get("companies") or []) if c and c.strip()][:5]
+    it["companies"] = [c.strip() for c in (tag.get("companies") or []) if isinstance(c, str) and c.strip()][:5]
     try:
         it["relevance"] = max(1, min(5, int(tag.get("relevance", 2))))
     except (TypeError, ValueError):
         it["relevance"] = 2
     it["breaking"] = bool(tag.get("breaking")) and it["relevance"] >= 4
-    it["why"] = (tag.get("why") or "").strip()
-    it["data_points"] = [str(d) for d in (tag.get("data_points") or [])][:3]
+    it["summary_ai"] = _txt(tag.get("summary"))
+    kind = tag.get("take_kind")
+    it["take_kind"] = kind if kind in ("take", "read") else None
+    it["take"] = _txt(tag.get("take")) if it["take_kind"] else None
+    it["why"] = it["take"] or it["summary_ai"] or _txt(tag.get("why")) or ""
+    it["partner"] = _txt(tag.get("partner"), 80)
+    it["benefit_move"] = bool(tag.get("benefit_move"))
+    it["benefit_type"] = _txt(tag.get("benefit_type"), 30) if it["benefit_move"] else None
+    it["issuer"] = _txt(tag.get("issuer"), 60) if it["benefit_move"] else None
+    nyc = tag.get("nyc")
+    it["nyc"] = {k: _txt(nyc.get(k), 120) for k in ("venue", "neighborhood", "kind", "booking")} \
+        if isinstance(nyc, dict) and "nyc_dining" in it["sections"] else None
+    it["data_points"] = [str(d).strip() for d in (tag.get("data_points") or []) if str(d).strip()][:4]
+    # Confidence: the model's judgment plus a mechanical check for thin sourcing.
+    reasons = []
+    if tag.get("confidence") == "low":
+        reasons.append(_txt(tag.get("confidence_reason"), 80) or "Unconfirmed")
+    src = (it.get("source") or "").lower()
+    if not it.get("also") and any(k in src for k in LOW_GRADE_SOURCES):
+        reasons.append("Single community source")
+    it["low_confidence"] = "; ".join(dict.fromkeys(reasons)) or None
     it["enriched"] = True
+    it["enrich_v"] = ENRICH_VERSION
     # Publisher snippets are only used as tagging input; do not republish them on the site.
     it["summary"] = ""
 
 
 def run(limit: int | None = None) -> int:
-    pending = [i for i in store.load_recent(8) if not i.get("enriched")]
-    pending.sort(key=lambda x: x["published"], reverse=True)
+    recent = store.load_recent(8)
+    fresh = sorted((i for i in recent if not i.get("enriched")), key=lambda x: x["published"], reverse=True)
+    stale = sorted((i for i in recent if i.get("enriched") and i.get("enrich_v", 1) < ENRICH_VERSION),
+                   key=lambda x: (x.get("relevance", 0), x["published"]), reverse=True)
+    pending = fresh + stale
     limit = limit or config.settings()["enrich"].get("max_per_run", 400)
     pending = pending[:limit]
     if not pending:

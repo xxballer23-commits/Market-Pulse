@@ -84,13 +84,17 @@ def test_end_to_end():
 
     assert cli.main(["digest", "auto"]) == 0  # Monday -> weekly edition + living pages
     idx = store.read_json("digests/index.json", {})
-    assert idx["entries"][0]["type"] == "monday"
+    types = [e["type"] for e in idx["entries"]]
+    assert "monday" in types and "radar" in types, types
+    assert all(e["status"] == "draft" and e["curator"] for e in idx["entries"])
+    assert store.read_json("radar/index.json", {})["entries"][0]["kind"] == "weekly"
     assert store.read_json("living/watchlist.json", {})["entries"]
     assert store.read_json("living/dashboard.json", {})["indicators"]
 
     os.environ["PULSE_NOW"] = "2026-11-24T11:30:00+00:00"  # Tuesday
-    cli.main(["digest", "auto"])
-    assert store.read_json("digests/index.json", {})["entries"][0]["type"] == "daily"
+    n_before = len(store.read_json("digests/index.json", {})["entries"])
+    cli.main(["digest", "auto"])  # nothing new since Monday: publish nothing
+    assert len(store.read_json("digests/index.json", {})["entries"]) == n_before
     os.environ["PULSE_NOW"] = "2026-11-27T22:40:00+00:00"  # Friday evening
     cli.main(["digest", "friday"])
 
@@ -98,6 +102,18 @@ def test_end_to_end():
     assert vet.parse_title("vet - Blackbird Labs") == "Blackbird Labs"
     assert vet.parse_title("Bug report") is None
     cli.main(["vet", "Resy"])
+    from pulse import desk
+    r = desk.handle("Watch: Dorsia", "Requested by: Pete\nWhy: Members dining clubs", "someone", 7)
+    assert r["action"] == "watch"
+    wl = store.read_json("living/watchlist.json", {})["entries"]
+    assert any(e["name"] == "Dorsia" and e["added_by"] == "Pete" for e in wl)
+    assert desk.handle("Approve: latest", "", "stranger", 8)["action"] == "none"
+    r = desk.handle("Approve: latest", "", "xxballer23-commits", 9)
+    assert r["action"] == "approve"
+    assert any(e["status"] == "reviewed" for e in store.read_json("digests/index.json", {})["entries"])
+    r = desk.handle("Vet: Blackbird Labs", "Requested by: Pete\nContext: dining loyalty", "xxballer23-commits", 10)
+    assert r["action"] == "vet"
+    assert store.read_json("vet/index.json", {})["entries"][0]["requested_by"] == "Pete"
     comp = store.read_json("companies.json", {})["companies"]
     assert any(c["name"] == "American Express" for c in comp)
     resy = store.read_json("companies/resy.json", {})

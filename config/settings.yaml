@@ -2,8 +2,13 @@
 
 site:
   title: "Market Pulse"
-  subtitle: "Premium cards, luxury, partnerships and consumer credit"
+  subtitle: "Premium card and luxury intelligence for the Cards BD team"
   timezone: "America/New_York"
+  curator: "Jackson Cummiskey"
+  # GitHub username allowed to approve editions.
+  curator_github: "xxballer23-commits"
+  # Public site address (used in issue replies). Update if the repo moves.
+  url: "https://xxballer23-commits.github.io/Market-Pulse/"
 
 models:
   # Cheap, fast model for tagging every article.

@@ -15,7 +15,8 @@ def parse_title(title: str) -> str | None:
     return name or None
 
 
-def run(company: str, requested_by: str | None = None, issue: int | None = None) -> dict:
+def run(company: str, requested_by: str | None = None, issue: int | None = None,
+        context_note: str | None = None, submitted_by: str | None = None) -> dict:
     s = config.settings()
     company = canon_company(company)
     sl = slug(company)
@@ -27,7 +28,9 @@ def run(company: str, requested_by: str | None = None, issue: int | None = None)
     body, cites = llm.complete(
         model=s["models"]["writer"],
         system=system_with_context(config.prompt("vet").replace("{company}", company)),
-        user=f"{today_line()}\n\nCompany to vet: {company}\n\nWhat our own archive has on them:\n{context}",
+        user=(f"{today_line()}\n\nCompany to vet: {company}\n\n"
+              + (f"Requester's context or questions (use to focus the brief; never put it in a search query):\n{context_note}\n\n" if context_note else "")
+              + f"What our own archive has on them:\n{context}"),
         task="vet", max_tokens=4000, web_search_uses=s["web_search"]["max_uses"]["vet"],
         mock=lambda: f"# Part A: Facts\n## Business model\nMock facts for {company}.\n\n# Part B: Analyst take (internal only)\nMock take.")
     body, stats = finalize(body, allowed_sources(archive[:30], web=cites))
@@ -38,7 +41,8 @@ def run(company: str, requested_by: str | None = None, issue: int | None = None)
     idx = store.read_json("vet/index.json", {"entries": []})
     idx["entries"] = [e for e in idx["entries"] if e["id"] != vid]
     entry = {"id": vid, "company": company, "slug": sl, "date": date, "file": f"vet/{vid}.md",
-             "requested_by": requested_by, "issue": issue, "archive_items": len(archive),
+             "requested_by": requested_by, "submitted_by": submitted_by, "issue": issue,
+             "context": context_note, "archive_items": len(archive),
              "generated": config.iso(config.now_utc()), **stats}
     idx["entries"].insert(0, entry)
     store.write_json("vet/index.json", idx)
