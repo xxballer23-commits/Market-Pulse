@@ -7,7 +7,7 @@
    "date": "2026-11-20",
    "title": "Partnership Sourcing Radar, Fri Nov 20",
    "file": "digests/2026-11-20-radar.md",
-   "generated": "2026-11-21T02:27:52Z",
+   "generated": "2026-11-21T02:30:37Z",
    "item_count": 163,
    "high_signal": 30,
    "item_ids": [
@@ -178,9 +178,9 @@
    "curator": "Jackson Cummiskey",
    "status": "draft",
    "cut": "internal",
-   "sources": 8,
+   "sources": 7,
    "unverified_links_removed": 0,
-   "radar_count": 8
+   "radar_count": 7
   },
   {
    "id": "2026-11-20-monday",
@@ -189,7 +189,7 @@
    "date": "2026-11-20",
    "title": "Luxury Trends Briefing, Fri Nov 20",
    "file": "digests/2026-11-20-monday.md",
-   "generated": "2026-11-21T02:27:30Z",
+   "generated": "2026-11-21T02:30:15Z",
    "item_count": 190,
    "high_signal": 31,
    "item_ids": [
@@ -387,8 +387,8 @@
    "curator": "Jackson Cummiskey",
    "status": "draft",
    "cut": "internal",
-   "sources": 40,
-   "unverified_links_removed": 1
+   "sources": 43,
+   "unverified_links_removed": 0
   }
  ]
 }
