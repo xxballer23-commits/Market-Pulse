@@ -30,7 +30,7 @@ def _get_client():
             e = RuntimeError("ANTHROPIC_API_KEY is not set. Add it under repo Settings, Secrets and variables, Actions.")
             record_error("setup", e)
             raise e
-        _client = anthropic.Anthropic(timeout=900, max_retries=2)  # reads ANTHROPIC_API_KEY
+        _client = anthropic.Anthropic(timeout=420, max_retries=1)  # reads ANTHROPIC_API_KEY
     return _client
 
 
@@ -91,7 +91,7 @@ def complete(
     texts: list[str] = []
     cited: dict[str, dict] = {}
     for _turn in range(4):  # web search can pause long turns; resume a few times
-        for attempt in range(4):
+        for attempt in range(3):
             try:
                 kwargs = dict(model=model, max_tokens=max_tokens, system=system, messages=messages)
                 # No extended thinking: output budget goes to the written text, and runs stay fast.
@@ -106,7 +106,7 @@ def complete(
             except Exception as e:  # rate limits / overloads: back off and retry
                 status = getattr(e, "status_code", None)
                 fatal = status is not None and 400 <= status < 500 and status not in (408, 409, 429)
-                if fatal or attempt == 3 or type(e).__name__ in ("AuthenticationError", "PermissionDeniedError"):
+                if fatal or attempt == 2 or type(e).__name__ in ("AuthenticationError", "PermissionDeniedError"):
                     record_error(task, e)
                     raise
                 print(f"[llm] {task}: {type(e).__name__}: {e}; retrying")

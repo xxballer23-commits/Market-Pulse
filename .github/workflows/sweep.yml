@@ -19,6 +19,8 @@ concurrency:
 jobs:
   sweep:
     runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: \"1\"
     timeout-minutes: 40
     steps:
       - uses: actions/checkout@v4
@@ -42,13 +44,14 @@ jobs:
           exit 1
       - name: Optional digest right after (push trigger file says daily, monday or friday)
         if: github.event_name == 'push'
+        timeout-minutes: 20
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.CLAUDE_API_KEY }}
         run: |
           kind=$(head -c 20 .github/triggers/sweep 2>/dev/null | tr -cd 'a-z')
           case "$kind" in daily|monday|friday|briefing) python -m pulse digest "$kind";; *) echo "sweep only";; esac
       - name: Commit digest
-        if: github.event_name == 'push'
+        if: always() && github.event_name == 'push'
         run: |
           git config user.name "market-pulse-bot"
           git config user.email "actions@users.noreply.github.com"

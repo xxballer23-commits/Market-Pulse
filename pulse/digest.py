@@ -140,12 +140,25 @@ def monday(refresh_living: bool = True) -> dict | None:
                 "## Part 2: Luxury trends\n**Dining**\n- Mock\n\n### NYC dining\n- Mock NYC item\n\n## Part 3: One play to steal\n- Mock play\n\n"
                 "## Part 4: Booking windows\n- Mock\n\n## Part 5: Luxury spending dashboard\n- Mock\n\n## Part 6: Partnership watchlist\n- Mock")
 
-    body, cites = llm.complete(
+    # Step 1: a short, bounded web search pass for NYC dining and gaps (kept separate so the
+    # long write below never waits on searches).
+    notes, cites = "", []
+    try:
+        notes, cites = llm.complete(
+            model=s["models"]["writer"], system=system_with_context(RESEARCH_PROMPT),
+            user=f"{today_line()}\n\nWhat our sweeps already have (do not repeat these):\n{items_block([i for i in items if 'nyc_dining' in i.get('sections', [])], 30)}",
+            task="digest_monday_research", max_tokens=2500,
+            web_search_uses=s["web_search"]["max_uses"]["monday_digest"],
+            mock=lambda: "- Mock NYC research note")
+    except Exception as e:
+        print(f"[digest] research pass failed, writing from items only: {e}")
+    # Step 2: write the briefing from items, living pages and research notes. No tools.
+    body, _ = llm.complete(
         model=s["models"]["writer"], system=system_with_context(config.prompt("monday")),
         user=(f"{today_line()}\n\nLiving pages snapshot:\n{_living_snapshot()}\n\n"
-              f"This week's items ({len(items)}):\n{items_block(items, 160)}"),
-        task="digest_monday", max_tokens=16000,
-        web_search_uses=s["web_search"]["max_uses"]["monday_digest"], mock=mock)
+              f"Research notes from this morning's web search (use their links):\n{notes or '(none)'}\n\n"
+              f"This week's items ({len(items)}):\n{items_block(items, 140)}"),
+        task="digest_monday", max_tokens=9000, mock=mock)
     if len(body.strip()) < 200:
         llm.record_error("digest_monday", RuntimeError(f"Briefing came back empty or too short ({len(body.strip())} chars); not published"))
         print("[digest] monday briefing empty, not publishing")
@@ -266,6 +279,9 @@ def friday() -> dict:
 
 
 # ---------- Earnings recaps ----------
+
+RESEARCH_PROMPT = """Research pass for the Monday Luxury Trends Briefing. Use web search to find what happened in the last 7 days in NYC fine dining (openings, closings, chef moves, hard-to-book tables, reservation release windows, walk-in intel, dining events), plus any major premium credit card benefit launch from Amex, Chase, Capital One, Citi or Bank of America that is not already listed. Keep searches generic. Reply with up to 12 terse bullet notes, each ending with its source as a Markdown link. No intro, no conclusions."""
+
 
 RECAP_PROMPT = """Write a short earnings recap for {company} ({title}). Focus only on what matters for a card partnerships team: premium and affluent spend trends, card or loyalty program commentary, partnership news, credit quality, and anything said about benefits, travel, dining or luxury demand. 5 to 8 bullets, each with a source link. Use web search to find the results and call commentary. Keep searches generic. If results are not out yet, reply with exactly: NOT_YET"""
 

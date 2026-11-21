@@ -25,6 +25,8 @@ concurrency:
 jobs:
   digest:
     runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: \"1\"
     timeout-minutes: 30
     steps:
       - uses: actions/checkout@v4
@@ -47,10 +49,12 @@ jobs:
           case "$kind" in auto|daily|monday|friday) ;; *) echo "bad kind"; exit 1;; esac
           echo "kind=$kind" >> "$GITHUB_OUTPUT"
       - name: Write digest
+        timeout-minutes: 25
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY || secrets.CLAUDE_API_KEY }}
         run: python -m pulse digest ${{ steps.pick.outputs.kind }}
       - name: Commit data
+        if: always()
         run: |
           git config user.name "market-pulse-bot"
           git config user.email "actions@users.noreply.github.com"

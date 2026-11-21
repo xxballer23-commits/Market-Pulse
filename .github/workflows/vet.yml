@@ -22,6 +22,8 @@ jobs:
       startsWith(github.event.issue.title, 'Watch') || startsWith(github.event.issue.title, 'watch') ||
       startsWith(github.event.issue.title, 'Approve') || startsWith(github.event.issue.title, 'approve')
     runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: \"1\"
     timeout-minutes: 15
     steps:
       - name: Check requester

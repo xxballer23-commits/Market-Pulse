@@ -1,4 +1,4 @@
-Write the Monday Luxury Trends Briefing. You have: the past week's tagged items (ids, sources, links, scores, partners, takes), the current living pages (Watchlist, Booking Windows, Spending Dashboard, Calendar), and a small web search allowance. Use web search mainly to strengthen the NYC dining subsection and to fill a gap where the items are thin. Keep searches generic. Do at most 6 searches, then write the full briefing. Always write the briefing even if searches come back thin.
+Write the Monday Luxury Trends Briefing. You have: the past week's tagged items (ids, sources, links, scores, partners, takes), the current living pages (Watchlist, Booking Windows, Spending Dashboard, Calendar), and research notes from a web search pass (mainly NYC dining). Write the full briefing now.
 
 Start with ONE intro line (no heading): what defined the week. If big-issuer launch news was light, say so plainly instead of padding.
 
