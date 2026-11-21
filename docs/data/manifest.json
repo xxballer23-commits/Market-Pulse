@@ -57,5 +57,12 @@
   "sources_ok": 50,
   "sources": 53
  },
- "last_digest": "2026-11-21T01:14:27Z"
+ "last_digest": "2026-11-21T01:14:27Z",
+ "llm_error": {
+  "task": "digest_monday",
+  "type": "BadRequestError",
+  "status": 400,
+  "message": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'To turn thinking off on this model, send \"thinking\": {\"type\": \"between_tools\"} instead of {\"type\": \"disabled\"}. The model does not think before responding. The short updates it writes between tool calls come back as thinking blocks.'}, 'request_id': 'req_011ChFHCLmg9h7BCSsVLaT4n'}",
+  "at": "2026-11-21T02:25:02Z"
+ }
 }
