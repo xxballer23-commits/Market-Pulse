@@ -9,69 +9,113 @@
    "title": "Citi Shop offers an easier way to save when shopping online",
    "url": "https://thepointsguy.com/credit-cards/citi-shop/",
    "source": "The Points Guy",
+   "source_type": "rss",
    "published": "2026-11-20T19:00:19Z",
    "relevance": 2,
    "why": "Citi Shop's statement credit model is a useful reference for how issuers layer shopping perks onto cards.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   },
   {
    "id": "918e29d68faf",
    "title": "Citi Offers: $10 Off $200 At Best Buy (Limit 2)",
    "url": "https://www.doctorofcredit.com/citi-offers-15-off-150-at-best-buy-limit-2/",
    "source": "Doctor of Credit",
+   "source_type": "rss",
    "published": "2026-11-20T19:00:16Z",
    "relevance": 2,
    "why": "A merchant-specific Citi Offers deal signals ongoing issuer retail promotions that affect card engagement.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
     "$10 off $200 at Best Buy, limit 2"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "4891c89c2cdf",
    "title": "Citi Undercounted $35 Billion in Assets at U.K. Subsidiary",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQUt2OHExSjcwRHNmWnFlWTlYWU5sSmlVRmtSeURfa0pFMmZ5TEtTdGRlelEwLXV3SXI0TTU1SkZQNjhpMElnRzVidXdQWEdfdkRrbFdjYlppekVfc3pUMk1jUVdSODEzSzk1WXJ4QVJJSklkdEVEMnZGcXVDT2lLaUh6dGN4dVpYbWhpR0VqUlFRVkxraTJqR25NX1JKanRrcmNR?oc=5",
    "source": "WSJ",
+   "source_type": "gnews",
    "published": "2026-11-20T16:59:00Z",
    "relevance": 2,
    "why": "Asset reporting errors at a Citi subsidiary could bring added regulatory scrutiny that affects the bank's broader consumer business.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "regulatory"
    ],
    "breaking": false,
    "data_points": [
     "$35 billion in undercounted assets"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "62bd3e110fac",
    "title": "Citi underestimated risky assets by $35B after trade errors: Reuters (C:NYSE)",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2ZTWElMbjJRS1ZudlpMeGZWVi11ekIyaXB1SHlUckRieGVINzZVdGMza0E1c1dvdUwxMlMxNmJrLWdMdnp0WUYxWmFodzJFX2JtaU5ycm9oLVJya25RZTBkMGhnYTh3NkdBUmVPanpXeXlXSy1zekRkWXhhQjM2dkpqb1VZa2pFbnlnUEVKQ1RBX3Q1OXNRRE5lUGFtZ0drbmhzSGYwUQ?oc=5",
    "source": "Seeking Alpha",
+   "source_type": "gnews",
    "published": "2026-11-20T09:00:57Z",
    "relevance": 2,
    "why": "A Citi trade-error and risk-asset disclosure is a governance story, only tangentially relevant to card strategy.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [],
    "breaking": false,
    "data_points": [
     "$35B underestimated risky assets"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "1a93ecd1c41e",
    "title": "Rakuten offering $50 cashback or up to 5K Bilt points for three Citi cards",
    "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/",
    "source": "Frequent Miler",
+   "source_type": "rss",
    "published": "2026-11-19T23:45:33Z",
    "relevance": 4,
    "why": "Rakuten's approval bonuses across issuers show how card-linked offers are being used to drive acquisition, a model worth tracking.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "partnerships",
     "community"
@@ -80,21 +124,31 @@
    "data_points": [
     "$50 cashback or up to 5,000 Bilt points",
     "Offers span three Citi cards"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "a06c119571eb",
    "title": "Rakuten adds approval bonuses for three Citi cards",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcG50dnQ3MEZaTThRaWVNZVBOdkVTOEJFTGFUVEJFeWZZRW5Nem15Z1h3UXA1Q3NQWDRzTUUyX2dpRDdfRGpDbWJCYnVhem1NTXRuc1Y2S2JqS01uVEo0ODRGX3Q1M0tZRU5TMHo1LWttekJJVUdyMlNqa2JPZ3dDM2ZHSVM3RkNBUXpmMUln?oc=5",
    "source": "www.insideflyer.com",
+   "source_type": "gnews",
    "published": "2026-11-19T23:45:33Z",
    "relevance": 3,
    "why": "Rakuten approval bonuses on Citi cards signal issuers using third-party cashback portals for card acquisition.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "partnerships"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

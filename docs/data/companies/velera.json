@@ -9,14 +9,23 @@
    "title": "Debit Card Purchases Grew at Double the Rate of Credit in October, New Velera Data Reveal",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUXQ3V3pNbkJBOEZrSmU0Y1B1MXl1VFJ0MWR3dXViYWc0b1EtcFk4RXNjNTlhcGRBeHZMOE1KRjJoYjBBUUs5ODY3RE9Wd08tVl80SFY2OXpnV1BPWV90b3lPYTVBSzdRSFpBRmNHTC13VlF3cmkzV1ZFMzJhdTlhMm5vSWhkMF8xSkdxZ0dRR0FPMmM5elIzN01jWVRWdVM1SWt1N05aSUphUy03dzhvNV9n?oc=5",
    "source": "Credit Union Daily",
+   "source_type": "gnews",
    "published": "2026-11-20T10:42:47Z",
    "relevance": 3,
    "why": "Debit outpacing credit growth hints at consumers shifting payment mix, relevant to card spend forecasts.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "spending_data"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

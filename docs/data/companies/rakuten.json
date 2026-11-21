@@ -9,9 +9,17 @@
    "title": "Rakuten offering $50 cashback or up to 5K Bilt points for three Citi cards",
    "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/",
    "source": "Frequent Miler",
+   "source_type": "rss",
    "published": "2026-11-19T23:45:33Z",
    "relevance": 4,
    "why": "Rakuten's approval bonuses across issuers show how card-linked offers are being used to drive acquisition, a model worth tracking.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "partnerships",
     "community"
@@ -20,21 +28,31 @@
    "data_points": [
     "$50 cashback or up to 5,000 Bilt points",
     "Offers span three Citi cards"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "a06c119571eb",
    "title": "Rakuten adds approval bonuses for three Citi cards",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcG50dnQ3MEZaTThRaWVNZVBOdkVTOEJFTGFUVEJFeWZZRW5Nem15Z1h3UXA1Q3NQWDRzTUUyX2dpRDdfRGpDbWJCYnVhem1NTXRuc1Y2S2JqS01uVEo0ODRGX3Q1M0tZRU5TMHo1LWttekJJVUdyMlNqa2JPZ3dDM2ZHSVM3RkNBUXpmMUln?oc=5",
    "source": "www.insideflyer.com",
+   "source_type": "gnews",
    "published": "2026-11-19T23:45:33Z",
    "relevance": 3,
    "why": "Rakuten approval bonuses on Citi cards signal issuers using third-party cashback portals for card acquisition.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "partnerships"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

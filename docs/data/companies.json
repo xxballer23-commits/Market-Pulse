@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T00:28:17Z",
+ "updated": "2026-11-21T01:10:49Z",
  "companies": [
   {
    "name": "Anthropic",
@@ -12,6 +12,8 @@
     "luxury": 1,
     "spending_data": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "AI company IPO coverage is market news without direct relevance to card partnerships or consumer benefits.",
    "watch_status": null,
    "has_vet": false
   },
@@ -27,6 +29,8 @@
     "partnerships": 2,
     "regulatory": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Citi Shop's statement credit model is a useful reference for how issuers layer shopping perks onto cards.",
    "watch_status": null,
    "has_vet": false
   },
@@ -38,6 +42,8 @@
    "first_seen": "2026-11-20T00:01:00Z",
    "last_seen": "2026-11-20T23:59:07Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Tech executive drama has no bearing on card benefits or affluent consumer spending.",
    "watch_status": null,
    "has_vet": false
   },
@@ -52,6 +58,8 @@
     "community": 3,
     "premium_cards": 2
    },
+   "top_relevance": 3,
+   "latest_summary": "Shows premium perks like lounge access and elite status are reachable through cheaper cards, pressuring top-tier card value.",
    "watch_status": null,
    "has_vet": false
   },
@@ -66,6 +74,8 @@
     "community": 3,
     "premium_cards": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A targeted mid-tier bonus offer shows how Capital One is using acquisition offers to compete for entry-level cardholders.",
    "watch_status": null,
    "has_vet": false
   },
@@ -81,6 +91,8 @@
     "community": 2,
     "partnerships": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Bilt's bonus redemption and airline status match show how issuers use points promos and airline partners to drive engagement.",
    "watch_status": "signed",
    "has_vet": false
   },
@@ -96,6 +108,8 @@
     "partnerships": 1,
     "lending": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A capped food delivery reward from PayPal reflects how digital wallets use category offers to drive engagement.",
    "watch_status": null,
    "has_vet": false
   },
@@ -111,6 +125,8 @@
     "premium_cards": 1,
     "partnerships": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
    "watch_status": null,
    "has_vet": false
   },
@@ -125,6 +141,8 @@
     "wells": 2,
     "lending": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Generic 13F investor positioning piece that only mentions Wells Fargo as a ticker reference.",
    "watch_status": null,
    "has_vet": false
   },
@@ -139,6 +157,8 @@
     "community": 2,
     "partnerships": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Discussion of a Delta and Hyatt tie-up and Hyatt rewards changes signals loyalty alignment worth tracking for partner strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -154,6 +174,8 @@
     "premium_cards": 1,
     "partnerships": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A review of this airline co-brand card shows how members judge premium value beyond the core airline, which informs benefit design.",
    "watch_status": null,
    "has_vet": false
   },
@@ -168,6 +190,8 @@
     "premium_cards": 2,
     "community": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Bilt's bonus redemption and airline status match show how issuers use points promos and airline partners to drive engagement.",
    "watch_status": null,
    "has_vet": false
   },
@@ -181,6 +205,8 @@
    "sections": {
     "community": 2
    },
+   "top_relevance": 2,
+   "latest_summary": "A free retail membership offer is a minor example of perk promotions that cardholders compare against paid card benefits.",
    "watch_status": null,
    "has_vet": false
   },
@@ -194,6 +220,8 @@
    "sections": {
     "community": 2
    },
+   "top_relevance": 2,
+   "latest_summary": "Gift card bonus promotions are a recurring cardholder tactic and a possible reference for offer design.",
    "watch_status": null,
    "has_vet": false
   },
@@ -209,6 +237,8 @@
     "premium_cards": 1,
     "partnerships": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Higher Atmos card welcome offers signal aggressive acquisition tactics in the premium travel card segment.",
    "watch_status": null,
    "has_vet": false
   },
@@ -223,6 +253,8 @@
     "luxury": 2,
     "spending_data": 2
    },
+   "top_relevance": 3,
+   "latest_summary": "LVMH pulling back from Armani and softer French sales signal shifting luxury demand among affluent shoppers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -234,6 +266,8 @@
    "first_seen": "2026-11-20T11:30:43Z",
    "last_seen": "2026-11-20T11:30:45Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A retail job listing with no bearing on card partnerships or affluent consumer strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -245,6 +279,8 @@
    "first_seen": "2026-11-20T00:15:41Z",
    "last_seen": "2026-11-20T10:59:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Lender restrictions on AI chip shipments to orbit are unrelated to consumer card or lending strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -259,6 +295,8 @@
     "spending_data": 2,
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A soft 21st-century auction result gives a read on the appetite of high-net-worth buyers for art and collectibles.",
    "watch_status": null,
    "has_vet": false
   },
@@ -272,6 +310,8 @@
    "sections": {
     "premium_cards": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A data exposure touching premium reserve cardholders could raise security and trust questions for rival premium issuers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -286,6 +326,8 @@
     "partnerships": 2,
     "community": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Rakuten's approval bonuses across issuers show how card-linked offers are being used to drive acquisition, a model worth tracking.",
    "watch_status": null,
    "has_vet": false
   },
@@ -299,6 +341,8 @@
    "sections": {
     "spending_data": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Chargeback friction affects issuer costs and merchant relationships, a tangential but relevant card economics issue.",
    "watch_status": null,
    "has_vet": false
   },
@@ -312,6 +356,8 @@
    "sections": {
     "community": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Viral travel story that points and miles enthusiasts discuss, showing their attention to economy travel and seat experience.",
    "watch_status": null,
    "has_vet": false
   },
@@ -326,6 +372,8 @@
     "community": 1,
     "partnerships": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Discussion of a Delta and Hyatt tie-up and Hyatt rewards changes signals loyalty alignment worth tracking for partner strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -337,6 +385,8 @@
    "first_seen": "2026-11-20T22:50:00Z",
    "last_seen": "2026-11-20T22:50:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Enterprise software fundraising is unrelated to consumer card benefits or loyalty partners.",
    "watch_status": null,
    "has_vet": false
   },
@@ -351,6 +401,8 @@
     "community": 1,
     "premium_cards": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A review of this airline co-brand card shows how members judge premium value beyond the core airline, which informs benefit design.",
    "watch_status": null,
    "has_vet": false
   },
@@ -365,6 +417,8 @@
     "community": 1,
     "premium_cards": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A review of this airline co-brand card shows how members judge premium value beyond the core airline, which informs benefit design.",
    "watch_status": null,
    "has_vet": false
   },
@@ -376,6 +430,8 @@
    "first_seen": "2026-11-20T20:54:31Z",
    "last_seen": "2026-11-20T20:54:31Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "An operational airline incident with no effect on premium card partnerships or affluent spending trends.",
    "watch_status": null,
    "has_vet": false
   },
@@ -387,6 +443,8 @@
    "first_seen": "2026-11-20T20:45:47Z",
    "last_seen": "2026-11-20T20:45:47Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Enterprise software pricing changes do not touch card benefits, loyalty partners or affluent consumer spending.",
    "watch_status": null,
    "has_vet": false
   },
@@ -398,6 +456,8 @@
    "first_seen": "2026-11-20T20:45:47Z",
    "last_seen": "2026-11-20T20:45:47Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Enterprise software pricing changes do not touch card benefits, loyalty partners or affluent consumer spending.",
    "watch_status": null,
    "has_vet": false
   },
@@ -409,6 +469,8 @@
    "first_seen": "2026-11-20T20:41:00Z",
    "last_seen": "2026-11-20T20:41:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Video game sales have little overlap with premium card benefits or affluent luxury spending.",
    "watch_status": null,
    "has_vet": false
   },
@@ -420,6 +482,8 @@
    "first_seen": "2026-11-20T20:32:00Z",
    "last_seen": "2026-11-20T20:32:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A local delivery regulation fight is unrelated to card economics, benefits or affluent consumer partnerships.",
    "watch_status": null,
    "has_vet": false
   },
@@ -431,6 +495,8 @@
    "first_seen": "2026-11-20T20:30:00Z",
    "last_seen": "2026-11-20T20:30:00Z",
    "sections": {},
+   "top_relevance": 2,
+   "latest_summary": "A home-market banking license for a major fintech card issuer is tangential but shows continued expansion of digital card players.",
    "watch_status": null,
    "has_vet": false
   },
@@ -444,6 +510,8 @@
    "sections": {
     "premium_cards": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "A foreign premium airline entering the US card market adds a new high-fee competitor and possible co-brand benefit model to track.",
    "watch_status": "signed",
    "has_vet": false
   },
@@ -457,6 +525,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Airline cost cuts may erode premium cabin and lounge quality that card partners rely on for travel benefits.",
    "watch_status": null,
    "has_vet": false
   },
@@ -470,6 +540,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Price-matching on short-term rentals could shift affluent travel booking habits and affect hotel-focused card benefits.",
    "watch_status": null,
    "has_vet": false
   },
@@ -483,6 +555,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Branded residences tied to a hotel brand show affluent buyers are spending on hospitality-linked property.",
    "watch_status": null,
    "has_vet": false
   },
@@ -496,6 +570,8 @@
    "sections": {
     "community": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Targeted airline point drops reveal how co-brand and loyalty partners use bonus points to re-engage members.",
    "watch_status": null,
    "has_vet": false
   },
@@ -507,6 +583,8 @@
    "first_seen": "2026-11-20T18:25:29Z",
    "last_seen": "2026-11-20T18:25:29Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Private AI startup funding in China has no bearing on US card or affluent consumer partnerships.",
    "watch_status": null,
    "has_vet": false
   },
@@ -518,6 +596,8 @@
    "first_seen": "2026-11-20T18:19:00Z",
    "last_seen": "2026-11-20T18:19:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Routine marketing executive appointment at an identity verification vendor with no partnership relevance.",
    "watch_status": null,
    "has_vet": false
   },
@@ -531,6 +611,8 @@
    "sections": {
     "community": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Brokerage transfer bonuses are a reference point for cash-bonus offers, though outside the card space.",
    "watch_status": null,
    "has_vet": false
   },
@@ -544,6 +626,8 @@
    "sections": {
     "community": 1
    },
+   "top_relevance": 1,
+   "latest_summary": "Discounted gift card purchase deal is routine deal-hunting content with little partnership value.",
    "watch_status": null,
    "has_vet": false
   },
@@ -557,6 +641,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 1,
+   "latest_summary": "Product feature on an electric camper van with no direct link to card benefits or affluent spending data.",
    "watch_status": null,
    "has_vet": false
   },
@@ -570,6 +656,8 @@
    "sections": {
     "lending": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "AI underwriting providers like Pagaya are potential embedded lending partners for installment and loan products.",
    "watch_status": null,
    "has_vet": false
   },
@@ -583,6 +671,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Private aviation sponsorship at a premier sporting event points to a possible concierge or flight benefit partner.",
    "watch_status": "emerging",
    "has_vet": false
   },
@@ -594,6 +684,8 @@
    "first_seen": "2026-11-20T17:41:00Z",
    "last_seen": "2026-11-20T17:41:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Retailer website outage update with no bearing on card partnerships or affluent consumer strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -607,6 +699,8 @@
    "sections": {
     "community": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
    "watch_status": null,
    "has_vet": false
   },
@@ -620,6 +714,8 @@
    "sections": {
     "community": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
    "watch_status": null,
    "has_vet": false
   },
@@ -633,6 +729,8 @@
    "sections": {
     "community": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
    "watch_status": null,
    "has_vet": false
   },
@@ -646,6 +744,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Highlights a gap in US premium air products that a boutique first class offering could fill for high-end cardholders.",
    "watch_status": null,
    "has_vet": false
   },
@@ -659,6 +759,8 @@
    "sections": {
     "spending_data": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Retail comparable sales trends offer modest context on mainstream apparel spending, which is less relevant to affluent card strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -672,6 +774,8 @@
    "sections": {
     "spending_data": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Retail comparable sales trends offer modest context on mainstream apparel spending, which is less relevant to affluent card strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -685,6 +789,8 @@
    "sections": {
     "lending": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "A new US charter for a digital lender adds a potential future competitor or embedded lending partner in the US market.",
    "watch_status": null,
    "has_vet": false
   },
@@ -698,6 +804,8 @@
    "sections": {
     "spending_data": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Large lending into Manhattan luxury condos signals continued capital flowing into high-end real estate for affluent buyers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -711,6 +819,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Resale platforms expanding into livestream selling show shifting channels for secondhand goods among value-minded shoppers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -724,6 +834,8 @@
    "sections": {
     "partnerships": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Private equity takeover of a payments platform signals consolidation among fintech infrastructure providers that could affect future partner options.",
    "watch_status": null,
    "has_vet": false
   },
@@ -737,6 +849,8 @@
    "sections": {
     "partnerships": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Private equity takeover of a payments platform signals consolidation among fintech infrastructure providers that could affect future partner options.",
    "watch_status": null,
    "has_vet": false
   },
@@ -750,6 +864,8 @@
    "sections": {
     "partnerships": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Private equity takeover of a payments platform signals consolidation among fintech infrastructure providers that could affect future partner options.",
    "watch_status": null,
    "has_vet": false
   },
@@ -761,6 +877,8 @@
    "first_seen": "2026-11-20T17:01:00Z",
    "last_seen": "2026-11-20T17:01:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Industrial automation news with no link to card benefits, lending or affluent consumer spending.",
    "watch_status": null,
    "has_vet": false
   },
@@ -774,6 +892,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A luxury watch and supercar brand collaboration shows how automotive partnerships drive collectible appeal among affluent buyers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -787,6 +907,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A luxury watch and supercar brand collaboration shows how automotive partnerships drive collectible appeal among affluent buyers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -800,6 +922,8 @@
    "sections": {
     "nyc_dining": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A pastry chef's favorite NYC spots give useful insight into where chefs dine and which venues appeal to insiders.",
    "watch_status": null,
    "has_vet": false
   },
@@ -813,6 +937,8 @@
    "sections": {
     "lending": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "New mortgage pricing flexibility from credit scoring partners may influence how lenders use credit data in underwriting.",
    "watch_status": null,
    "has_vet": false
   },
@@ -826,6 +952,8 @@
    "sections": {
     "lending": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "New mortgage pricing flexibility from credit scoring partners may influence how lenders use credit data in underwriting.",
    "watch_status": null,
    "has_vet": false
   },
@@ -837,6 +965,8 @@
    "first_seen": "2026-11-20T14:49:39Z",
    "last_seen": "2026-11-20T14:49:39Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Asset manager interview on ETFs and government savings accounts with no clear link to card partnerships.",
    "watch_status": null,
    "has_vet": false
   },
@@ -850,6 +980,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Hilton's first LXR in Rome extends its luxury brand tier, a possible angle for hotel partner benefits.",
    "watch_status": null,
    "has_vet": false
   },
@@ -861,6 +993,8 @@
    "first_seen": "2026-11-20T14:39:00Z",
    "last_seen": "2026-11-20T14:39:00Z",
    "sections": {},
+   "top_relevance": 2,
+   "latest_summary": "Payments firm scandal over cash advances and supplier payments may affect payment partner risk assessments.",
    "watch_status": null,
    "has_vet": false
   },
@@ -874,6 +1008,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Mass retailer earnings and value brand competition hint at affluent shoppers trading between premium and value goods.",
    "watch_status": null,
    "has_vet": false
   },
@@ -887,6 +1023,8 @@
    "sections": {
     "partnerships": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Bank blockchain rewards platform expanding to corporates may signal emerging loyalty tech worth monitoring.",
    "watch_status": null,
    "has_vet": false
   },
@@ -900,6 +1038,8 @@
    "sections": {
     "spending_data": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Rising share of rate-linked mortgages signals household rate sensitivity that could spill into credit health.",
    "watch_status": null,
    "has_vet": false
   },
@@ -913,6 +1053,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Aeromexico's new premium economy and business cabins may matter for airline partner benefits and affluent travel demand.",
    "watch_status": null,
    "has_vet": false
   },
@@ -927,6 +1069,8 @@
     "luxury": 1,
     "spending_data": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A record-setting watch auction result shows strong demand at the top of the collectibles market among UHNW buyers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -941,6 +1085,8 @@
     "luxury": 1,
     "spending_data": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A record-setting watch auction result shows strong demand at the top of the collectibles market among UHNW buyers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -955,6 +1101,8 @@
     "luxury": 1,
     "spending_data": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A large jewelry sale reveals which categories collectors prize, useful for affluent spending and collectibles strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -968,6 +1116,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "New resort openings from Four Seasons and Miraval expand luxury hotel options that premium card travel benefits could feature.",
    "watch_status": null,
    "has_vet": false
   },
@@ -979,6 +1129,8 @@
    "first_seen": "2026-11-20T11:13:58Z",
    "last_seen": "2026-11-20T11:13:58Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A stock analysis of an information services firm with no link to card or lending partnerships.",
    "watch_status": null,
    "has_vet": false
   },
@@ -993,6 +1145,8 @@
     "partnerships": 1,
     "community": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Rove's personalized offers and in-store earning expansion show a loyalty program that could be a transfer or offer partner.",
    "watch_status": "emerging",
    "has_vet": false
   },
@@ -1004,6 +1158,8 @@
    "first_seen": "2026-11-20T10:57:00Z",
    "last_seen": "2026-11-20T10:57:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "An analysis of apparel advertising culture with no direct link to premium card or affluent spend.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1017,6 +1173,8 @@
    "sections": {
     "spending_data": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Debit outpacing credit growth hints at consumers shifting payment mix, relevant to card spend forecasts.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1030,6 +1188,8 @@
    "sections": {
     "premium_cards": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A rewards rule change on a premium business card shows how Indian issuers are tuning earn structures for high spenders.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1043,6 +1203,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Shows affluent households mixing ultra-high-end watches with streetwear, a useful signal for premium spending profiles.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1056,6 +1218,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Shows affluent households mixing ultra-high-end watches with streetwear, a useful signal for premium spending profiles.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1067,6 +1231,8 @@
    "first_seen": "2026-11-20T09:49:30Z",
    "last_seen": "2026-11-20T09:49:30Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Labor disputes at German auto plants are macro industrial news with no connection to card or luxury consumer strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1080,6 +1246,8 @@
    "sections": {
     "spending_data": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Ally's return on equity commentary offers some read on consumer lender profitability, though it is not card specific.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1093,6 +1261,8 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A new large St. Regis in India expands a top luxury hotel brand that premium card hotel perks often feature.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1104,6 +1274,8 @@
    "first_seen": "2026-11-20T09:09:11Z",
    "last_seen": "2026-11-20T09:09:11Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "An insider share sale filing at an asset manager has no bearing on card benefits or affluent spending.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1118,6 +1290,8 @@
     "partnerships": 1,
     "premium_cards": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Revolut adding Velocity as a points currency shows fintechs buying into airline loyalty ecosystems, a direct partner model to watch.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1132,6 +1306,8 @@
     "partnerships": 1,
     "premium_cards": 1
    },
+   "top_relevance": 4,
+   "latest_summary": "Revolut adding Velocity as a points currency shows fintechs buying into airline loyalty ecosystems, a direct partner model to watch.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1145,6 +1321,8 @@
    "sections": {
     "partnerships": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Marqeta's card-issuing infrastructure push hints at new embedded card products that could become partner channels.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1159,6 +1337,8 @@
     "community": 1,
     "premium_cards": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A top-tier benefit cut on co-branded cards is a cautionary example for partners on devaluation risk and cardholder sentiment.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1170,6 +1350,8 @@
    "first_seen": "2026-11-20T03:00:00Z",
    "last_seen": "2026-11-20T03:00:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Automaker product news for Asia with no relevance to card benefits or affluent consumer strategy.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1181,6 +1363,8 @@
    "first_seen": "2026-11-20T01:34:34Z",
    "last_seen": "2026-11-20T01:34:34Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Corporate lender group formation at Hertz, with no read-through to consumer card or loan partnerships.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1195,6 +1379,8 @@
     "community": 1,
     "partnerships": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "A loyalty promo showing how airline programs use bonus earning to win travel spend, a useful benchmark for perk design.",
    "watch_status": "signed",
    "has_vet": false
   },
@@ -1208,6 +1394,8 @@
    "sections": {
     "regulatory": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "UK AI oversight in financial services is tangential to US card economics but hints at broader AI governance trends.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1219,6 +1407,8 @@
    "first_seen": "2026-11-20T00:00:00Z",
    "last_seen": "2026-11-20T00:00:00Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Bank analyst view on AI capital spending with no consumer card or lending relevance.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1230,6 +1420,8 @@
    "first_seen": "2026-11-19T23:57:41Z",
    "last_seen": "2026-11-19T23:57:41Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Airline diversity publicity stunt with no card benefit or partnership implication.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1241,6 +1433,8 @@
    "first_seen": "2026-11-19T23:53:00Z",
    "last_seen": "2026-11-19T23:53:00Z",
    "sections": {},
+   "top_relevance": 2,
+   "latest_summary": "Software M&A with only indirect relevance to fintech or card ecosystem partners.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1252,6 +1446,8 @@
    "first_seen": "2026-11-19T23:53:00Z",
    "last_seen": "2026-11-19T23:53:00Z",
    "sections": {},
+   "top_relevance": 2,
+   "latest_summary": "Software M&A with only indirect relevance to fintech or card ecosystem partners.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1263,6 +1459,8 @@
    "first_seen": "2026-11-19T23:31:19Z",
    "last_seen": "2026-11-19T23:31:19Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Gaming REIT bond pricing with no link to card partnerships or consumer lending.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1277,6 +1475,8 @@
     "luxury": 1,
     "community": 1
    },
+   "top_relevance": 3,
+   "latest_summary": "Hotel loyalty sale mechanics show how hotel programs compete on points and discounts that premium card benefits often mirror.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1288,6 +1488,8 @@
    "first_seen": "2026-11-19T22:40:37Z",
    "last_seen": "2026-11-19T22:40:37Z",
    "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Retail job posting at a luxury group with no partnership or spending intelligence.",
    "watch_status": null,
    "has_vet": false
   }

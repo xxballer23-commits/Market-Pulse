@@ -9,35 +9,61 @@
    "title": "13Fs show active managers at most defensive stance ever - Wells Fargo (SPY:NYSEARCA)",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOTBDVVE3MXhhRWEwRFpuZFphRUI3eDZfRFN2SjBhVUVCOWh6WUdiOXhQR0ZjdzVvdmVBeVlORGg3dXVwV1BxcGZaNUt6NlFZWTQ2MjladVRMSWR4c3AwbENrQmR6NVNpZFJFQ2ttOUNCWElwTXJaalZwZHdmQnJmRlp2UDNsVmowYWxzSG5VMWFuY0RxbnFxdjdzemtVWEZ6bV8xeXJGckM?oc=5",
    "source": "Seeking Alpha",
+   "source_type": "gnews",
    "published": "2026-11-20T14:35:49Z",
    "relevance": 1,
    "why": "Generic 13F investor positioning piece that only mentions Wells Fargo as a ticker reference.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   },
   {
    "id": "4f956317b922",
    "title": "Who Owns Wells Fargo? List of Major Shareholders",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51R0lraDBCdmpGbXhNeUcxaHdRRnVRZ0daY0pNQkR2RmVFZmItOVZLZi1LejJmOWxNeDhORVgwYTdMY3Y2VDI4YWViMm9CNGtSUW5GNS1OZE8ydmFONlFvaTNXTWIwT3lscFlnSTAtN3ZHWkNnWDVFbUhTSUNoUQ?oc=5",
    "source": "The Motley Fool",
+   "source_type": "gnews",
    "published": "2026-11-20T14:33:00Z",
    "relevance": 1,
    "why": "Shareholder list for Wells Fargo offers no insight into its card or partnership business.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "wells"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   },
   {
    "id": "467cbc9fd78f",
    "title": "Wells Fargo Personal Loan Review – No Origination Fee and Same-Day Funding for Customers",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82UF90OS1VNzIwX3pWSnJNR1NzLTZtZFVsMHRpSWRmaVB6eHc2WUlQQkVTN1oxWDdkOHNqZ0xSSmVmMW93ZHhBWUFNX21NLTRyaGxGX1pqVXdwUXV6YmFReVF6LVBkZGxXc1lHU2RpNG4?oc=5",
    "source": "Money Crashers",
+   "source_type": "gnews",
    "published": "2026-11-19T23:20:00Z",
    "relevance": 3,
    "why": "Third-party review of a Wells Fargo personal loan highlights fee and funding speed positioning vs. competitors.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "lending",
     "wells"
@@ -46,7 +72,8 @@
    "data_points": [
     "No origination fee",
     "Same-day funding"
-   ]
+   ],
+   "also": []
   }
  ]
 }

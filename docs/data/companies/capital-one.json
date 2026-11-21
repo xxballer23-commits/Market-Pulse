@@ -9,58 +9,94 @@
    "title": "New Targeted Offer on the Capital One VentureOne Card [40K Miles]",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVC1fdWdUMG1OUnhYR1k1RDNqclZ4N3lTSlhjbGpBRTdscXY2TUxaZy1NbEdCc3IwUTNVQ0tfaFNuekM5aHNqU2F5X2JBWlZ6ay1wN2toeGNYUkpCOFA3VDljZW1VUGVoQmVRWXZrb2ZPVFd1Q0xSTk1jX1VJNzJ2SkhxUjk?oc=5",
    "source": "Upgraded Points",
+   "source_type": "gnews",
    "published": "2026-11-20T19:04:21Z",
    "relevance": 2,
    "why": "A targeted mid-tier bonus offer shows how Capital One is using acquisition offers to compete for entry-level cardholders.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
     "40K miles bonus offer"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "77e92fe17dbd",
    "title": "Capital One VentureOne Rewards Credit Card review: Simple travel rewards without an annual fee",
    "url": "https://thepointsguy.com/credit-cards/reviews/credit-card-review-the-capital-one-ventureone-rewards-credit-card/",
    "source": "The Points Guy",
+   "source_type": "rss",
    "published": "2026-11-20T17:00:56Z",
    "relevance": 2,
    "why": "A review of a no-fee Capital One card offers entry-level context on competitor benefits for budget-conscious travelers.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   },
   {
    "id": "5a9fb12a31b9",
    "title": "VentureOne offers transferable miles without an annual fee",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdGpNX3lpSWVpcmpSNUtiZ0ZDRWFIS09YWWkzVDhtZlQzbWFYYUJwMzFxT2ZybnNrY3NTVjZSa0ljTlVxZ1EyeUR4M01Fa0M5OEc4aTBoZ0N4bXRzLTgtRHpGYThmVTllaWctbi1Sc2wySWNWenJYNHVtU0pSdnhuTXpydENUeFA4ak9IR2RWdzBaZGxrXzFUYg?oc=5",
    "source": "www.insideflyer.com",
+   "source_type": "gnews",
    "published": "2026-11-20T17:00:56Z",
    "relevance": 3,
    "why": "A no-fee card with transferable miles raises the bar for entry-level rewards cards and pressures premium value propositions.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   },
   {
    "id": "8714addd9f49",
    "title": "Capital One Shopping vs Capital One Offers: Choose your own opportunity cost",
    "url": "https://frequentmiler.com/capital-one-shopping-vs-capital-one-offers-choose-your-own-opportunity-cost/",
    "source": "Frequent Miler",
+   "source_type": "rss",
    "published": "2026-11-20T11:45:45Z",
    "relevance": 3,
    "why": "Cardholder comparison of Capital One shopping perks shows how members value issuer offer programs against alternatives.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

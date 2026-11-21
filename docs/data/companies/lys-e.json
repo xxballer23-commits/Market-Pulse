@@ -9,14 +9,23 @@
    "title": "Dining Out in NYC With Pastry Chef Eunji Lee of Lysée",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZ01FQ3pBNlVfUWQ3b21sNjV4aGZudmFiUWVyTXR3NTZnbDRZbDRxNGNtMmM4bnZ6bFN3QUlkdWNMQVR5Y3g3aWpMQm1xazR2Zk5SMDJ6V18xbHVuZkhaNk56SXVPUjg2U2VfUC1sUkJHQjlpdG1kSTAydVlodE5zZUR5d2RVVGFIWWdOaUVB?oc=5",
    "source": "DiningOut",
+   "source_type": "gnews",
    "published": "2026-11-20T17:00:00Z",
    "relevance": 3,
    "why": "A pastry chef's favorite NYC spots give useful insight into where chefs dine and which venues appeal to insiders.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "nyc_dining"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

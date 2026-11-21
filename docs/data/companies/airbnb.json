@@ -9,14 +9,23 @@
    "title": "Airbnb Floats Price-Matching: A Skift Test Shows Where Direct Booking Wins",
    "url": "https://skift.com/2026/11/20/airbnb-floats-price-matching-a-skift-test-shows-where-direct-booking-wins/",
    "source": "Skift",
+   "source_type": "rss",
    "published": "2026-11-20T20:19:23Z",
    "relevance": 2,
    "why": "Price-matching on short-term rentals could shift affluent travel booking habits and affect hotel-focused card benefits.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "luxury"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

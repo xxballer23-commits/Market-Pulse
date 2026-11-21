@@ -9,16 +9,25 @@
    "title": "(Upcoming 11/26) Costco.com: $100 inKind Giftcard For $64.99 (Limit 5)",
    "url": "https://www.doctorofcredit.com/costco-100-inkind-giftcard-for-69-99/",
    "source": "Doctor of Credit",
+   "source_type": "rss",
    "published": "2026-11-20T18:00:01Z",
    "relevance": 1,
    "why": "Discounted gift card purchase deal is routine deal-hunting content with little partnership value.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
     "$100 inKind gift card for $64.99, limit 5"
-   ]
+   ],
+   "also": []
   }
  ]
 }

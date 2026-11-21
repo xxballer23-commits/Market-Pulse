@@ -9,14 +9,23 @@
    "title": "FCA opens AI Spotlight Observatory",
    "url": "https://www.finextra.com/newsarticle/48787/fca-opens-ai-spotlight-observatory?utm_medium=rssfinextra&utm_source=finextrafeed",
    "source": "Finextra",
+   "source_type": "rss",
    "published": "2026-11-20T00:01:00Z",
    "relevance": 2,
    "why": "UK AI oversight in financial services is tangential to US card economics but hints at broader AI governance trends.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "regulatory"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

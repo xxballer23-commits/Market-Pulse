@@ -9,15 +9,24 @@
    "title": "Revolut unlocks Velocity Points",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQWpQZTBhVGZtRnlMcndGZUFjX0ZPbGFlZWZCMG11NjluVzNvQ2ZLcXBycy1GWUp5MjZ1S2w2OUVDY19mSkhvUjlTZ2QyeERNRHVYSnJidjlaNkdFdXgtaA?oc=5",
    "source": "Executive Traveller",
+   "source_type": "gnews",
    "published": "2026-11-20T08:20:10Z",
    "relevance": 4,
    "why": "Revolut adding Velocity as a points currency shows fintechs buying into airline loyalty ecosystems, a direct partner model to watch.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "partnerships",
     "premium_cards"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

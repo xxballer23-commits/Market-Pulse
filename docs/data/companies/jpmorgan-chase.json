@@ -9,28 +9,46 @@
    "title": "JPMorgan Chase data leak exposes contact information of 16,000 reserve customers",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tTTmFoQ1dibGRSeDg5SWlQdThuY0pGRF9fc2xySXpMYWc0dDBEajZYNlBfeEpBVnBCM0sxTXJnbGJ4ZkVzcHk1eVk4OXNfN0NJbmFuX29fYTNqWFQtQVB1Wk5wVDhjcUVYMDlTUmF5aUVQWmdyRWVGWWNHNW5zTDhaTUdzdW9JTDhKSFd1YkpsY29lSko5Sk1vTllNTFNEOHI3VmhEVQ?oc=5",
    "source": "KuCoin",
+   "source_type": "gnews",
    "published": "2026-11-20T00:37:27Z",
    "relevance": 3,
    "why": "A data exposure touching premium reserve cardholders could raise security and trust questions for rival premium issuers.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
    "breaking": false,
    "data_points": [
     "Exposure of contact information for 16,000 reserve customers"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "1992e9ce880b",
    "title": "Watch JPMorgan’s Katrina Dudley Sees Opportunities Beyond Big Tech",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbzZ1Y1dEb3g3MHhVRTh6Y2FHeUNEZWhIbXR2dVdHZ1k4QVpqNUhBWnk0NFpuYXdPVUpvc3p6MU51QkctdUFfeTBManlqS3YwMHAwZUI1VWpER1ZWVnVaQnRtTEI0dDBxbUJiMm8xeTJjUDVOdjhRaDV6M2ljNjUtUHh4M1FhdHBRUmd1N3Q0RmJnVG44Rlg1cW9kcmhQNGdTN2V6VjBlaC1vS3c?oc=5",
    "source": "Bloomberg.com",
+   "source_type": "gnews",
    "published": "2026-11-20T00:00:00Z",
    "relevance": 1,
    "why": "Bank investment commentary with no direct card or affluent consumer angle.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

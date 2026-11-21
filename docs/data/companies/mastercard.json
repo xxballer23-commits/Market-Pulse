@@ -9,14 +9,23 @@
    "title": "Closing the Dispute Gap: How Closer Collaboration Can Reduce Chargebacks",
    "url": "https://www.finextra.com/event-info/646/closing-the-dispute-gap-how-closer-collaboration-can-reduce-chargebacks?utm_medium=rssfinextra&utm_source=finextrafeed",
    "source": "Finextra",
+   "source_type": "rss",
    "published": "2026-11-21T00:04:57Z",
    "relevance": 2,
    "why": "Chargeback friction affects issuer costs and merchant relationships, a tangential but relevant card economics issue.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "spending_data"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

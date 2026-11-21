@@ -9,9 +9,17 @@
    "title": "Bilt Rent Day: Up to a 100% bonus when using points for a statement credit, JetBlue status match",
    "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/",
    "source": "Frequent Miler",
+   "source_type": "rss",
    "published": "2026-11-20T20:45:38Z",
    "relevance": 4,
    "why": "Bilt's bonus redemption and airline status match show how issuers use points promos and airline partners to drive engagement.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "premium_cards",
     "community"
@@ -21,16 +29,25 @@
     "Up to a 100% bonus on points redeemed for statement credits",
     "Statement credit redemption normally 0.55 cents per point",
     "JetBlue Mosaic status match"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "5bbf1336c466",
    "title": "Bilt offers tiered redemption bonus and JetBlue status match",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZlgwdGJISkFVMDZ1akpnQjhQdTFCcGVRRW42VUJOZkFTbmRELVpuZmUzWUxodHFORkZ1MnNURllKZHlyckhOYjY2UmpJazB6VExqMlRQZXU1M3JmQm9aUEFMY1oyQXdlSTAzY28xT3Q0bFdfR0NCT0o0N01jZHNCeW5pNW5IRDdmZDNqTFZneXlmTGxoMkZRU1hXdw?oc=5",
    "source": "InsideFlyer",
+   "source_type": "gnews",
    "published": "2026-11-20T20:45:38Z",
    "relevance": 4,
    "why": "A tiered redemption bonus paired with an airline status match is a concrete benchmark for benefit design on rent-focused premium cards.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
@@ -38,7 +55,8 @@
    "data_points": [
     "Tiered redemption bonus",
     "JetBlue status match"
-   ]
+   ],
+   "also": []
   }
  ]
 }

@@ -9,16 +9,25 @@
    "title": "A $150,000 Patek for Me, and a Chrome Hearts Hoodie for My Teen",
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZVp3cXFCMERHU2FISFRNbVB1anNOcXBLN1RyR1MxdXY2Wk5Qazc5V3JUcl8ySXRlTER2TVYwa1RobE5UWlRBbWN4bF9tNTlKSWU3YXRadmZpNXpEQkxUNXpMTllZemIwV0twcEZmMjZwZFgwbGZYR3RxWnR5WFNsckE5bDZQTzFaa3g4cWR3VmRXOHQ1eFZkMDFRY2taNHI0ZnJ2cmNodUw0amc?oc=5",
    "source": "Bloomberg.com",
+   "source_type": "gnews",
    "published": "2026-11-20T10:00:00Z",
    "relevance": 3,
    "why": "Shows affluent households mixing ultra-high-end watches with streetwear, a useful signal for premium spending profiles.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "luxury"
    ],
    "breaking": false,
    "data_points": [
     "$150,000 watch"
-   ]
+   ],
+   "also": []
   }
  ]
 }

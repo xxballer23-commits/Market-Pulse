@@ -9,12 +9,21 @@
    "title": "Watch UBS's Lovell Sees AI CapEx at Risk of 5%-10% Cut",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEsxOVZvYUJsSE1VanJuR05WWVpEVzdpcWoyd0M1bWcwSmRQeGd5ckk1OW1BQUJXRFB3TFZ1RnNrZU8yZmZ4Q2FmT2hvZDdSZW9xWk8wa0hVbFF5MmRpaTlTRHg3aGNlMmtWcHhzWjRuMUx0MkdIVENYSkxUUF9yWFQ3aFhGUFVRN1R5SW4zT2ZFeFhQTDBvOUxnck1NdGdTYWtv?oc=5",
    "source": "Bloomberg.com",
+   "source_type": "gnews",
    "published": "2026-11-20T00:00:00Z",
    "relevance": 1,
    "why": "Bank analyst view on AI capital spending with no consumer card or lending relevance.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

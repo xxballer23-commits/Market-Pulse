@@ -9,14 +9,23 @@
    "title": "Intuit Selling Mailchimp for $3.68 Billion to Berkshire Hathaway-Backed Bending Spoons",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUFlmLXRMU01PMnc0NWFXWXhPck5ad1pSR2xQMUdlTEhvam9pZmdXamg4eFlqaktJX2RvZWtYVjR5ZW9Xd0IxdHNSNHdBeHpnQkhQVjBvVzVLSjM0Y2d1Ukg5SS03V0hxV2hzRWptTTJFTEJqeGcyekZUQjVhdjJxRC1wcHNUeUR1N19fMEkzYTc3UQ?oc=5",
    "source": "WSJ",
+   "source_type": "gnews",
    "published": "2026-11-19T23:53:00Z",
    "relevance": 2,
    "why": "Software M&A with only indirect relevance to fintech or card ecosystem partners.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [],
    "breaking": false,
    "data_points": [
     "$3.68 billion sale price"
-   ]
+   ],
+   "also": []
   }
  ]
 }

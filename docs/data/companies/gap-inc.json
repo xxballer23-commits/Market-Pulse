@@ -9,16 +9,25 @@
    "title": "Warm weather thwarts Old Navy recovery, as Gap continues to shine",
    "url": "https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/",
    "source": "Retail Dive",
+   "source_type": "rss",
    "published": "2026-11-20T17:28:00Z",
    "relevance": 2,
    "why": "Retail comparable sales trends offer modest context on mainstream apparel spending, which is less relevant to affluent card strategy.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "spending_data"
    ],
    "breaking": false,
    "data_points": [
     "12th straight quarter of comparable sales growth"
-   ]
+   ],
+   "also": []
   }
  ]
 }

@@ -44,13 +44,16 @@
  ],
  "site": {
   "title": "Market Pulse",
-  "subtitle": "Premium cards, luxury, partnerships and consumer credit",
-  "timezone": "America/New_York"
+  "subtitle": "Premium card and luxury intelligence for the Cards BD team",
+  "timezone": "America/New_York",
+  "curator": "Jackson Cummiskey",
+  "curator_github": "xxballer23-commits",
+  "url": "https://xxballer23-commits.github.io/Market-Pulse/"
  },
- "last_sweep": "2026-11-21T00:24:59Z",
+ "last_sweep": "2026-11-21T01:10:49Z",
  "last_sweep_stats": {
-  "new": 12,
-  "merged": 0,
+  "new": 54,
+  "merged": 1,
   "sources_ok": 50,
   "sources": 53
  },

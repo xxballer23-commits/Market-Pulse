@@ -9,9 +9,17 @@
    "title": "[Targeted] Increased Bank Of America Atmos Offers (125k Summit, 90k Ascent)",
    "url": "https://www.doctorofcredit.com/targeted-increased-bank-of-america-atmos-offers-125k-summit-90k-ascent/",
    "source": "Doctor of Credit",
+   "source_type": "rss",
    "published": "2026-11-20T17:00:56Z",
    "relevance": 4,
    "why": "Higher Atmos card welcome offers signal aggressive acquisition tactics in the premium travel card segment.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "premium_cards",
     "community"
@@ -20,16 +28,25 @@
    "data_points": [
     "125,000 point Atmos Summit offer",
     "90,000 point Atmos Ascent offer"
-   ]
+   ],
+   "also": []
   },
   {
    "id": "1a93ecd1c41e",
    "title": "Rakuten offering $50 cashback or up to 5K Bilt points for three Citi cards",
    "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/",
    "source": "Frequent Miler",
+   "source_type": "rss",
    "published": "2026-11-19T23:45:33Z",
    "relevance": 4,
    "why": "Rakuten's approval bonuses across issuers show how card-linked offers are being used to drive acquisition, a model worth tracking.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "partnerships",
     "community"
@@ -38,7 +55,8 @@
    "data_points": [
     "$50 cashback or up to 5,000 Bilt points",
     "Offers span three Citi cards"
-   ]
+   ],
+   "also": []
   }
  ]
 }

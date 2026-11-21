@@ -26,9 +26,17 @@
    "title": "Earn double Atmos Points on Hawaii flights this winter",
    "url": "https://frequentmiler.com/earn-double-atmos-points-on-hawaii-flights-this-winter/",
    "source": "Frequent Miler",
+   "source_type": "rss",
    "published": "2026-11-20T00:45:51Z",
    "relevance": 3,
    "why": "A loyalty promo showing how airline programs use bonus earning to win travel spend, a useful benchmark for perk design.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community",
     "partnerships"
@@ -38,7 +46,8 @@
     "Double Atmos points on Hawaii flights",
     "Promo valid through March 10, 2027",
     "Blackout December 18 to January 4"
-   ]
+   ],
+   "also": []
   }
  ]
 }

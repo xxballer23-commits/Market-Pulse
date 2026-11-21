@@ -9,14 +9,23 @@
    "title": "Volkswagen’s ID. Buzz Camper Van Can Run for 48 Hours Off-the-Grid",
    "url": "https://robbreport.com/motors/cars/volkswagen-id-buzz-beach-camper-van-variant-1238851951/",
    "source": "Robb Report",
+   "source_type": "rss",
    "published": "2026-11-20T18:00:00Z",
    "relevance": 1,
    "why": "Product feature on an electric camper van with no direct link to card benefits or affluent spending data.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "luxury"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   }
  ]
 }

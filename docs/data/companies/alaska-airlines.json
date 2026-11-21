@@ -9,24 +9,41 @@
    "title": "Atmos Rewards Summit Visa card review: Stellar value beyond Alaska and Hawaiian",
    "url": "https://thepointsguy.com/credit-cards/reviews/atmos-rewards-summit-card-review/",
    "source": "The Points Guy",
+   "source_type": "rss",
    "published": "2026-11-20T21:00:50Z",
    "relevance": 3,
    "why": "A review of this airline co-brand card shows how members judge premium value beyond the core airline, which informs benefit design.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community",
     "premium_cards"
    ],
    "breaking": false,
-   "data_points": []
+   "data_points": [],
+   "also": []
   },
   {
    "id": "3c9294a9462f",
    "title": "Earn double Atmos Points on Hawaii flights this winter",
    "url": "https://frequentmiler.com/earn-double-atmos-points-on-hawaii-flights-this-winter/",
    "source": "Frequent Miler",
+   "source_type": "rss",
    "published": "2026-11-20T00:45:51Z",
    "relevance": 3,
    "why": "A loyalty promo showing how airline programs use bonus earning to win travel spend, a useful benchmark for perk design.",
+   "summary_ai": null,
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": null,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "community",
     "partnerships"
@@ -36,7 +53,8 @@
     "Double Atmos points on Hawaii flights",
     "Promo valid through March 10, 2027",
     "Blackout December 18 to January 4"
-   ]
+   ],
+   "also": []
   }
  ]
 }
