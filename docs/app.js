@@ -700,7 +700,7 @@
     try { localStorage.setItem("mp-theme", root.dataset.theme); } catch {}
     syncMeta();
   });
-  const paintPalette = () => document.querySelectorAll(".palette-pick button").forEach((b) => b.classList.toggle("on", b.dataset.palette === (root.dataset.palette || "editorial")));
+  const paintPalette = () => document.querySelectorAll(".palette-pick button").forEach((b) => b.classList.toggle("on", b.dataset.palette === (root.dataset.palette || "bank")));
   document.querySelectorAll(".palette-pick button").forEach((b) => b.addEventListener("click", () => {
     root.dataset.palette = b.dataset.palette;
     try { localStorage.setItem("mp-palette", b.dataset.palette); } catch {}
