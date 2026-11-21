@@ -11,24 +11,23 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-19T22:57:42Z",
-   "relevance": 3,
-   "why": "Hotel loyalty sale mechanics show how hotel programs compete on points and discounts that premium card benefits often mirror.",
-   "summary_ai": null,
+   "relevance": 2,
+   "why": "IHG's Cyber Sale offers 500 bonus points and discounts of up to 30% on hotel stays.",
+   "summary_ai": "IHG's Cyber Sale offers 500 bonus points and discounts of up to 30% on hotel stays.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury",
-    "community"
+    "community",
+    "luxury"
    ],
    "breaking": false,
    "data_points": [
-    "Up to 30% off paid stays",
-    "500 points for app download",
-    "1-night nonrefundable deposit required"
+    "500 free points",
+    "Up to 30% off"
    ],
    "also": []
   },

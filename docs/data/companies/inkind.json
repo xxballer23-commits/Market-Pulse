@@ -11,39 +11,13 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T18:50:33Z",
-   "relevance": 2,
-   "why": "Gift card bonus promotions are a recurring cardholder tactic and a possible reference for offer design.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": null,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "community"
-   ],
-   "breaking": false,
-   "data_points": [
-    "$150 for $100",
-    "$20 off $40+"
-   ],
-   "also": []
-  },
-  {
-   "id": "ba312b872e9b",
-   "title": "(Upcoming 11/26) Costco.com: $100 inKind Giftcard For $64.99 (Limit 5)",
-   "url": "https://www.doctorofcredit.com/costco-100-inkind-giftcard-for-69-99/",
-   "source": "Doctor of Credit",
-   "source_type": "rss",
-   "published": "2026-11-20T18:00:01Z",
    "relevance": 1,
-   "why": "Discounted gift card purchase deal is routine deal-hunting content with little partnership value.",
-   "summary_ai": null,
+   "why": "inKind is offering a 50% bonus, with $150 of credit for every $100 paid.",
+   "summary_ai": "inKind is offering a 50% bonus, with $150 of credit for every $100 paid.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -51,7 +25,8 @@
    ],
    "breaking": false,
    "data_points": [
-    "$100 inKind gift card for $64.99, limit 5"
+    "50% bonus",
+    "$150 for $100"
    ],
    "also": []
   }

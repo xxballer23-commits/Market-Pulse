@@ -1,0 +1,31 @@
+{
+ "name": "Etihad Airways",
+ "slug": "etihad-airways",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "15a7ba092cc9",
+   "title": "Etihad Is Launching Its First Credit Cards on the U.S. Market",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hSVo4ZlY4VkNsZzFPSWR3M00zOHpLZlppN1o4SHJod2dqODVGSE1PNWNlZy0wQ0pyN0VKZWYzdTQ4SkN2OU5EWW5tWGt1SXRXRVlkd3psYWhlMXJxd1laSGhVR1I4UQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-20T20:28:13Z",
+   "relevance": 4,
+   "why": "New airline-issued cards add a US competitor for premium travelers, so check issuer and transfer partner details once published.",
+   "summary_ai": "Etihad Airways is launching its first credit cards in the US market.",
+   "take": "New airline-issued cards add a US competitor for premium travelers, so check issuer and transfer partner details once published.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

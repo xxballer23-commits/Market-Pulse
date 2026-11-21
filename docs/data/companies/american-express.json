@@ -12,17 +12,17 @@
    "source_type": "rss",
    "published": "2026-11-20T23:00:31Z",
    "relevance": 3,
-   "why": "Shows premium perks like lounge access and elite status are reachable through cheaper cards, pressuring top-tier card value.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Shows cardholder demand for Centurion-style perks, a gap a non-invite premium card could target.",
+   "summary_ai": "Guide to the perks of the Amex Centurion card and ways to reach similar benefits without holding it.",
+   "take": "Shows cardholder demand for Centurion-style perks, a gap a non-invite premium card could target.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community",
-    "premium_cards"
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
    "data_points": [],
@@ -87,12 +87,12 @@
    "source_type": "gnews",
    "published": "2026-11-20T17:12:24Z",
    "relevance": 3,
-   "why": "A points discount on gift card purchases shows how Amex uses limited-time offers to shape Membership Rewards redemption value.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Amex is discounting points redemptions to move inventory; use it as a benchmark for our own redemption pricing talks.",
+   "summary_ai": "American Express is letting cardholders redeem fewer Membership Rewards points for some gift cards during a sale.",
+   "take": "Amex is discounting points redemptions to move inventory; use it as a benchmark for our own redemption pricing talks.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -100,7 +100,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "20% fewer points on some gift cards"
+    "20% fewer points"
    ],
    "also": []
   },
@@ -111,15 +111,15 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-20T14:45:09Z",
-   "relevance": 3,
-   "why": "Tracks Amex merchant offers that cardholders actively use, useful for benchmarking card-linked offer programs.",
-   "summary_ai": null,
+   "relevance": 2,
+   "why": "Frequent Miler is listing current American Express card offers, though the headline gives no specific details.",
+   "summary_ai": "Frequent Miler is listing current American Express card offers, though the headline gives no specific details.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Targeted offers, eligibility unknown",
    "sections": [
     "community"
    ],
@@ -135,21 +135,19 @@
    "source_type": "rss",
    "published": "2026-11-20T10:57:17Z",
    "relevance": 2,
-   "why": "Amex's default paperless billing switch will draw member reaction and may affect statement engagement.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Default paperless enrollment can change how cardholders see statements and notices, which affects servicing and engagement.",
+   "summary_ai": "American Express is automatically enrolling cardholders into paperless billing, prompting reader reaction.",
+   "take": "Default paperless enrollment can change how cardholders see statements and notices, which affects servicing and engagement.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
-   "data_points": [
-    "Paperless billing starts February 2027"
-   ],
+   "data_points": [],
    "also": []
   },
   {
@@ -354,6 +352,105 @@
    "data_points": [
     "$99 Oura Ring 5",
     "Through November 30"
+   ],
+   "also": []
+  },
+  {
+   "id": "a686aebefb5c",
+   "title": "AXP (NYSE:AXP) Card Fee Growth and Premium Spending Lift American Express Outlook",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPazNpbUpneFcxX0hRaWpCSHRoODJWNzdia3Bld0IyVy1rdTZYVVZjQlpnWHZuTTRCLWJLR1h4d01hbXhMM0NfZERDVDJadzFoLVRSOF83Q0puQUpraHVYLXdoSDNIb3lpR3BhY3JFS2drZHpHcXB4X3doV2JOemtpNzV6NmZiNmxJMTlHRG52OUtQUnpoUnlyZUN4a2tPbF84cmVMSzk5djhqMnVZLVJiUVotV24wMFhhbDFKdUxKR2E?oc=5",
+   "source": "Kalkine Media",
+   "source_type": "gnews",
+   "published": "2026-11-19T11:44:00Z",
+   "relevance": 3,
+   "why": "Fee growth at Amex suggests premium card value still sells, which supports rivals keeping their own annual-fee benefit investments.",
+   "summary_ai": "An investment analysis credits American Express's card fee growth and premium spending for a stronger outlook.",
+   "take": "Fee growth at Amex suggests premium card value still sells, which supports rivals keeping their own annual-fee benefit investments.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "bdb33a060a6b",
+   "title": "Amex Graphite Business Cash Unlimited Card Review: Is The $295 Fee Worth It?",
+   "url": "https://onemileatatime.com/reviews/credit-cards/american-express/amex-graphite-business-cash-unlimited-card/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-19T09:37:36Z",
+   "relevance": 3,
+   "why": "Community scrutiny of the fee versus flat 2% cash back shows how business card value is being benchmarked.",
+   "summary_ai": "A review of Amex's Graphite Business Cash Unlimited card asks whether its fee is justified by 2% cash back.",
+   "take": "Community scrutiny of the fee versus flat 2% cash back shows how business card value is being benchmarked.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$295 annual fee",
+    "2% cash back"
+   ],
+   "also": []
+  },
+  {
+   "id": "87e390b12883",
+   "title": "The Guild Hotel San Diego Downtown",
+   "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxNY292LXlWMFQ0dGViN24zQ2N4TlVLYnNwUWY0TnBvSXlUaGpzNHppZVRmLWlTNmVQckxEclgtZ0tZS3BJeld2cnYzNE51VmxqYmprSjBNcnNKZVo4VmNvbFFyUWJZS1AteHFGdDUtUUE0MDNJUFBLOVBPN19FdTQxTW1oSG1neTdnSFRSN1ptT1R5MmYtVUJXSGZ1dHowOGdzaVQ4WndCVjNuYjl4eUF0amZWa3I3bHUwMEhyODE5aWFraUJ5S2p0NG5NOGNQZW1HcG11QkJnaE5RTE16UGRNcUVCZElfTU13Y2x3bkN3OG1jaDN6MlpRYjZ3bVpvcEFsZXJveWxMTWlkMjZxcGZ1REttdk9pR0ZlNVB1c0hObUpWVXhYYThTVjBWYXF2SzBQbUw0MDVYTEp5VjFzTGdrY3lMak1Ja05IS2ZhaGxDM3NpZVlyZ0xlY01TeFFtNmMzdFpQTGhOVDBDc3d1VDZMZ25heDhoNlVPWHpzcjdNYmRRS0pYWWMxUTd5SUIwcUJ0bFNz?oc=5",
+   "source": "American Express",
+   "source_type": "gnews",
+   "published": "2026-11-19T00:09:03Z",
+   "relevance": 2,
+   "why": "American Express features The Guild Hotel San Diego Downtown, a hotel item with no stated card change.",
+   "summary_ai": "American Express features The Guild Hotel San Diego Downtown, a hotel item with no stated card change.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c4a026bbde94",
+   "title": "Amex Gold Card Credits: How To Maximize $424 In Uber, Dining, Resy, & Dunkin’ Value",
+   "url": "https://onemileatatime.com/reviews/credit-cards/american-express/amex-gold-card-credits/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-18T15:41:55Z",
+   "relevance": 4,
+   "why": "Gold's dining and Uber credits are the bundle to benchmark against when pitching perk partners.",
+   "summary_ai": "An explainer on the Amex Gold card's annual credits for Uber Cash, dining, Resy and Dunkin', with a per-credit value breakdown.",
+   "take": "Gold's dining and Uber credits are the bundle to benchmark against when pitching perk partners.",
+   "take_kind": "read",
+   "partner": "Resy",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$424 in annual credits"
    ],
    "also": []
   }

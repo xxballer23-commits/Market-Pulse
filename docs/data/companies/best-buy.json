@@ -38,21 +38,19 @@
    "source_type": "rss",
    "published": "2026-11-20T20:32:05Z",
    "relevance": 2,
-   "why": "A free retail membership offer is a minor example of perk promotions that cardholders compare against paid card benefits.",
-   "summary_ai": null,
+   "why": "A community post describes a way to get a free Best Buy Plus membership.",
+   "summary_ai": "A community post describes a way to get a free Best Buy Plus membership.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Forum post, offer terms unverified",
    "sections": [
     "community"
    ],
    "breaking": false,
-   "data_points": [
-    "Offer valid until 12/6/26"
-   ],
+   "data_points": [],
    "also": []
   },
   {
@@ -62,21 +60,22 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T19:00:16Z",
-   "relevance": 2,
-   "why": "A merchant-specific Citi Offers deal signals ongoing issuer retail promotions that affect card engagement.",
-   "summary_ai": null,
+   "relevance": 1,
+   "why": "Citi is offering $10 off a $200 Best Buy purchase, limited to two uses.",
+   "summary_ai": "Citi is offering $10 off a $200 Best Buy purchase, limited to two uses.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Offer eligibility varies by cardholder",
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "$10 off $200 at Best Buy, limit 2"
+    "$10 off $200",
+    "Limit 2"
    ],
    "also": []
   }

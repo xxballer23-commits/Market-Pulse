@@ -5,19 +5,19 @@
  "vets": [],
  "items": [
   {
-   "id": "1edc77f172d1",
-   "title": "Sotheby’s $39.8 Million Jewelry Sale Reveals What Collectors Value Most",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFViQlFlbzJER3lJRUJySXhkd2hhSnV5OVlMMm0tSVpZTE5OZkQxcmF4RDVWUzEtV1hXaXlaaTA1bnFqUDFDYVpYN196NkwtQXVFR0lLeHBzQXJ0X2s2VEstS2lOa1BXSF9wNlE0NmZBWFVNTnJQQWYwQkRZZy1EYjRtTHc3bVJCcDVHcVUwdTVnbEF0VkVYdlNaRXJlTThPYkRZWExGM1JNY3dJUGhoS1Z0aEdpbTYtc1hWNlFsNHkzRDg?oc=5",
-   "source": "Forbes",
+   "id": "a625629b8d28",
+   "title": "Beyond the Record Prices: What New York’s November Auctions Tell Us About the Art Market",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSklpYTQyOUpyRldCNkt6SmdCbzVpVnVGcTBsdHdlZlB2MW1wV2pZSUdHR3k0NEVBbXl5cXV0SU01UDRFcHZQOTMzaEZoY3BaUDFISm1TY3cxWldXSlZCZmZTOXVKVnk2Zi1ZSzVFbDBUNDhyeU12LU41Q0R1a19IUEozdDNRUEpPdTQ4bTFwTFVoVHAtdmc?oc=5",
+   "source": "Observer",
    "source_type": "gnews",
-   "published": "2026-11-20T12:00:00Z",
+   "published": "2026-11-20T20:34:23Z",
    "relevance": 3,
-   "why": "A large jewelry sale reveals which categories collectors prize, useful for affluent spending and collectibles strategy.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Auction softness or strength at the top end is a useful read on UHNW spending appetite for collectibles.",
+   "summary_ai": "Analysis of New York's November auctions looks beyond record prices to the wider state of the art market.",
+   "take": "Auction softness or strength at the top end is a useful read on UHNW spending appetite for collectibles.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -25,8 +25,32 @@
     "spending_data"
    ],
    "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "1edc77f172d1",
+   "title": "Sotheby’s $39.8 Million Jewelry Sale Reveals What Collectors Value Most",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFViQlFlbzJER3lJRUJySXhkd2hhSnV5OVlMMm0tSVpZTE5OZkQxcmF4RDVWUzEtV1hXaXlaaTA1bnFqUDFDYVpYN196NkwtQXVFR0lLeHBzQXJ0X2s2VEstS2lOa1BXSF9wNlE0NmZBWFVNTnJQQWYwQkRZZy1EYjRtTHc3bVJCcDVHcVUwdTVnbEF0VkVYdlNaRXJlTThPYkRZWExGM1JNY3dJUGhoS1Z0aEdpbTYtc1hWNlFsNHkzRDg?oc=5",
+   "source": "Forbes",
+   "source_type": "gnews",
+   "published": "2026-11-20T12:00:00Z",
+   "relevance": 3,
+   "why": "Strong jewelry auction demand signals UHNW appetite, a case for auction-access perks as a premium differentiator.",
+   "summary_ai": "A Sotheby's jewelry sale brought in $39.8 million, offering a view of what collectors prize most.",
+   "take": "Strong jewelry auction demand signals UHNW appetite, a case for auction-access perks as a premium differentiator.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data",
+    "luxury"
+   ],
+   "breaking": false,
    "data_points": [
-    "$39.8 million jewelry sale"
+    "$39.8 million"
    ],
    "also": []
   },
@@ -154,6 +178,84 @@
    "breaking": false,
    "data_points": [
     "$190.4 million"
+   ],
+   "also": []
+  },
+  {
+   "id": "976768767e5e",
+   "title": "Van Gogh painting sells for record $190m at Sotheby’s following Nazi loot claims",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZFRCU19Xa1IzWUFaLVJxSVhEZUw4YWlOTkR0YUx2SGFwOENjM3RONjNFNWk3Y1lqUDNTMFBmbkFScUJyMjJ6U2V3bVFSRUxRRnRpejUwNHpPUUgtV0dUenktQUdrY1dlZmtsX2NRVUhKbWdpUXZxWWlQdFhEYThTRDB6QXN6VmllRHhhZjBweW1nay1oNHBhVVZpM0xTUnBNZkplT18tYVRiQQ?oc=5",
+   "source": "The Art Newspaper",
+   "source_type": "gnews",
+   "published": "2026-11-19T06:42:33Z",
+   "relevance": 3,
+   "why": "Record ultra-wealth art prices point to demand for art-finance and private-client perks, while provenance claims add diligence risk.",
+   "summary_ai": "A Van Gogh painting sold for a record $190 million at Sotheby's amid Nazi-loot claims.",
+   "take": "Record ultra-wealth art prices point to demand for art-finance and private-client perks, while provenance claims add diligence risk.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$190m record"
+   ],
+   "also": []
+  },
+  {
+   "id": "01134c435a14",
+   "title": "Sotheby’s Notches $778M Night, $190M Van Gogh, But Bidding Is Thin for Blaquier-Arrieta Works",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaFBaaG5pekZhYmFIV0ZTUG5PSEZsUGFUQW1sbXlIcUtmWEwyWFRVY2FkS1ltcWNUTmxNbGhoRXFrR2JRU3cybDUzN3R0VVBPdDRiNFI1cENoQWVCWm9ucFllbEVmNHZGdHNBQTBWRWRpSlpIWkJVajhkeGxpajlHMjBNb1hOaDluMS1uVUcwQU5Wc2JtbkIxdkVvV3hqRkJlS1ZtMzZlNlBPaERxM0paVjNyWFR5aXU3R0w5VVp0REg0M1R6S2NTU0JYbVAxZ9IB1gFBVV95cUxNQnVfQnA2dEJoRm1uNzlid2xxeXJGYWdwX3V0azRIMmpPUHJNZGRERXNEOEJNYS1ab3BXSjBsNzZLYnNiTUFuazNzMEhzaHlESlRSLVlhc19WR0ZicXpROUJmYzlWbk95cHFDekZlOE95Z29TM3BkekQtNUZfM3VtTVVpa3JCcDRCMFVWNlBOakc4ZmVYOHdkT1hlWFlzNVV4ekJhNjRuRGk3ajF6VXR1M18xZnJDTWlHOE15NEQ1QXp5VUVBaWJqN0hvdGtlSEJNVjBlV0FB?oc=5",
+   "source": "Artnet News",
+   "source_type": "gnews",
+   "published": "2026-11-19T05:30:30Z",
+   "relevance": 3,
+   "why": "Top-end demand is holding while some works get thin bids; pitch auction access perks to top spenders, not broad art fans.",
+   "summary_ai": "Sotheby's evening sales brought in $778 million, led by a $190 million Van Gogh, though Blaquier-Arrieta works drew thin bidding.",
+   "take": "Top-end demand is holding while some works get thin bids; pitch auction access perks to top spenders, not broad art fans.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$778M",
+    "$190M"
+   ],
+   "also": []
+  },
+  {
+   "id": "6b2d4e266f7c",
+   "title": "Led by Record-Breaking $190.4 M. van Gogh, Sotheby’s Impressionist and Modern Art Sales Rake in $777.8 M.",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX0I5OFVjWlZGcXlQU1JfVjBzUHBYbnJkREtmMGUycjJVUHVCTERfNFNHbUxfMktpdWlhY0pfV18zVFJoRTR5M1FiWnRXdWFEbEtUX1k0Nkl0N0xPaTN4MkFiUmhUekFZZUFpMkRnT2ZtcW1hMVdIZWJfZFlZMk9VQlFvT1Bucm5sV2VkOU5LWmxQSE9jR2FIQXIzTmFhTHF3LXJSZQ?oc=5",
+   "source": "ARTnews.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T05:13:00Z",
+   "relevance": 3,
+   "why": "Strong top-end art demand points to ultra-wealthy spending appetite worth reflecting in ultra-premium card offers.",
+   "summary_ai": "Sotheby's Impressionist and Modern art sales reached $777.8M, led by a record $190.4M van Gogh.",
+   "take": "Strong top-end art demand points to ultra-wealthy spending appetite worth reflecting in ultra-premium card offers.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$190.4M van Gogh record",
+    "$777.8M total sales"
    ],
    "also": []
   }

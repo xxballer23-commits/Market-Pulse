@@ -37,21 +37,20 @@
    "source_type": "rss",
    "published": "2026-11-20T17:21:54Z",
    "relevance": 2,
-   "why": "A new US charter for a digital lender adds a potential future competitor or embedded lending partner in the US market.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "A new US charter adds a commercial-focused lender, a possible embedded-lending partner or competitor to track.",
+   "summary_ai": "OakNorth has received Federal Reserve and OCC approval for a US banking license.",
+   "take": "A new US charter adds a commercial-focused lender, a possible embedded-lending partner or competitor to track.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "lending"
+    "lending",
+    "regulatory"
    ],
    "breaking": false,
-   "data_points": [
-    "Waited 20 months for approval"
-   ],
+   "data_points": [],
    "also": []
   },
   {

@@ -1,0 +1,32 @@
+{
+ "name": "British Airways",
+ "slug": "british-airways",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0a940802dbc9",
+   "title": "British Airways Announces New Routes, Cabin Upgrades and Heathrow Lounge Plans",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pUHp2WlNFcDRfZzhBOWF1Q3VwYkFDSGRtNl85dlM3dHFBT0x3X3I4b0d2RU51bjByclFEc0xVMWcyTDFzcHU0enVYVlpEem9SaWc3bVVZdVBoOGg0WS12Mk15bF9FRElkYXN2RmV4NXZKS3BkdWEwa0xyQXFJZw?oc=5",
+   "source": "https://safariindia.com/",
+   "source_type": "gnews",
+   "published": "2026-11-19T05:18:24Z",
+   "relevance": 3,
+   "why": "If Heathrow lounge plans hold, check card lounge access terms with BA before the next partner renewal cycle.",
+   "summary_ai": "British Airways reportedly plans new routes, cabin upgrades and Heathrow lounge changes, sourced from an unverified site.",
+   "take": "If Heathrow lounge plans hold, check card lounge access terms with BA before the next partner renewal cycle.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Unverified aggregator source",
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

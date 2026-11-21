@@ -1,0 +1,31 @@
+{
+ "name": "Tunisair",
+ "slug": "tunisair",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a419bacf6eb0",
+   "title": "Dear Tunisair: How About A Refund For My Downgrade, Please?",
+   "url": "https://onemileatatime.com/insights/tunisair-refund/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-18T16:49:21Z",
+   "relevance": 2,
+   "why": "A traveler moved to an all-economy plane days before departure is seeking a refund after weeks without a reply from Tunisair.",
+   "summary_ai": "A traveler moved to an all-economy plane days before departure is seeking a refund after weeks without a reply from Tunisair.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Hyundai Card",
+ "slug": "hyundai-card",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "88c202caa782",
+   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+   "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-18T06:18:11Z",
+   "relevance": 3,
+   "why": "Issuer-led agent payment pilots are a live template; check whether Chase plans to bring this model to US cardholders.",
+   "summary_ai": "JPMorgan and Hyundai Card are developing financial transactions that AI agents initiate without a human in the loop.",
+   "take": "Issuer-led agent payment pilots are a live template; check whether Chase plans to bring this model to US cardholders.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

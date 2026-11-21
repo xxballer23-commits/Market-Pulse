@@ -12,19 +12,19 @@
    "source_type": "rss",
    "published": "2026-11-20T14:39:00Z",
    "relevance": 2,
-   "why": "Payments firm scandal over cash advances and supplier payments may affect payment partner risk assessments.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Cash advance scrutiny could chill embedded lending partnerships; watch for regulatory follow-up.",
+   "summary_ai": "Worldline shares fell sharply after a Financial Times report on its cash advance business.",
+   "take": "Cash advance scrutiny could chill embedded lending partnerships; watch for regulatory follow-up.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
-   "sections": [],
-   "breaking": false,
-   "data_points": [
-    "Shares fell as much as 20%"
+   "low_confidence": "Unconfirmed press report",
+   "sections": [
+    "lending"
    ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

@@ -1,0 +1,29 @@
+{
+ "name": "World Bank",
+ "slug": "world-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2f1ed093fa79",
+   "title": "World Bank warns of fresh food-price shocks",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSDVibEhNMkRGTzRLTl8tWXNXcnBjOF9tVjdIcnNsTC1wNmZNeGpMQmNqSmVjR1B4YnQ5TTdwdEZnT2dQN3N3Qlp1UWxDenp2eEM1bGtCM1BNRzJhMTh2MDdXekZlSS1QbjA4blNHX3FxVEk5bXBGLUwtbTdOcDQzTURZVkpvdUlDTF9ReUV6c1k0NldGNmJDWjloRDlzQ2d4c2dHbDRUWdIBrAFBVV95cUxOSGVOcWswVnQxM21BRC0xcXZXejhrQ2NGaDRPZ1laeXFkSmtrMmRKZU84TDQ1RWYwMG5VeUNfLW50akh0eUUzZ21OREMxcENpaG5NWWM3c3ZHSFRYcElWbWpmR3RjS1RKbUZ2MEtfVjU1d0I1MWN6bV90eHE2RWwtSXBpcWcxVmFaQjlhSHRXc2V0NmpyMGN4cGZHWHhhWlNWWkE4allTX3M0YldF?oc=5",
+   "source": "bfsi.economictimes.indiatimes.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T07:05:00Z",
+   "relevance": 1,
+   "why": "The World Bank warns that food prices may face fresh sudden shocks.",
+   "summary_ai": "The World Bank warns that food prices may face fresh sudden shocks.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

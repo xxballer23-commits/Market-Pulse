@@ -12,12 +12,12 @@
    "source_type": "rss",
    "published": "2026-11-20T20:22:19Z",
    "relevance": 2,
-   "why": "Airline cost cuts may erode premium cabin and lounge quality that card partners rely on for travel benefits.",
-   "summary_ai": null,
+   "why": "Lufthansa plans to cut about 1,000 jobs.",
+   "summary_ai": "Lufthansa plans to cut about 1,000 jobs.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Cut 1,000 jobs"
+    "1,000 jobs"
    ],
    "also": []
   },

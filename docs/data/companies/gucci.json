@@ -1,0 +1,31 @@
+{
+ "name": "Gucci",
+ "slug": "gucci",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d19c50f20c12",
+   "title": "After price cuts at Gucci, Kering appoints a group director of pricing",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbFM2QklzbUM4emNPdWVyVmN6UE9uUjRrWTcwcndMYWk4dExUSTV6MGNIYXoxcF9vb2ZqYXNxUkg3NlE3Rm1Hek1OOWRGd2dCMEJidmttcmc2VU5hY3M1LS1yUUFnaU94cUU0VFduUVRSQ25fN2RvalB0d2YyUnV5MnREcTlERDk5OUl0ZDBnbU5fM2N4QUpuci1HRTA?oc=5",
+   "source": "Luxus Plus",
+   "source_type": "gnews",
+   "published": "2026-11-19T10:31:52Z",
+   "relevance": 2,
+   "why": "Luxury price cuts may signal softer demand at the top end, which affects affluent spending outlooks.",
+   "summary_ai": "Kering has appointed a group director of pricing after Gucci cut prices.",
+   "take": "Luxury price cuts may signal softer demand at the top end, which affects affluent spending outlooks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "Raffles",
+ "slug": "raffles",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4eb4e3ee0017",
+   "title": "Raffles Residences River Oaks, the first Raffles in Texas: 114 Houston homes from €2.27m ($2.5m)",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1lpSS1tdDFPLWNMRHFCZHRMYS14U251MXduVjQ5QTFaTWhsX09Qdl9ZVWFHeUpmcXpBeWwyQU1vNVhjWFVCTHdlNDJvZFNRajR0RkQ0c000dGNTa3VRbzVreWpPS1Nud1lKRkNtZ1VzRjN5dmdnVk1NRUlESVhSSnM0bw?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-20T14:50:59Z",
+   "relevance": 2,
+   "why": "Raffles is opening its first Texas property, a residences project with 114 Houston homes priced from about $2.5 million.",
+   "summary_ai": "Raffles is opening its first Texas property, a residences project with 114 Houston homes priced from about $2.5 million.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "114 homes",
+    "From $2.5m"
+   ],
+   "also": []
+  }
+ ]
+}

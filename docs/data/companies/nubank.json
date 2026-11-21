@@ -12,15 +12,17 @@
    "source_type": "gnews",
    "published": "2026-11-20T20:30:00Z",
    "relevance": 2,
-   "why": "A home-market banking license for a major fintech card issuer is tangential but shows continued expansion of digital card players.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Fintech issuers gaining full bank status signals rising competition for card economics in key overseas markets.",
+   "summary_ai": "Nubank has received a full banking license in Brazil, its home market.",
+   "take": "Fintech issuers gaining full bank status signals rising competition for card economics in key overseas markets.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "premium_cards"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

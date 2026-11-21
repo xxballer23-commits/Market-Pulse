@@ -11,20 +11,22 @@
    "source": "Robb Report",
    "source_type": "rss",
    "published": "2026-11-20T18:00:00Z",
-   "relevance": 1,
-   "why": "Product feature on an electric camper van with no direct link to card benefits or affluent spending data.",
-   "summary_ai": null,
+   "relevance": 2,
+   "why": "Volkswagen's ID. Buzz camper van can run for 48 hours without a grid connection.",
+   "summary_ai": "Volkswagen's ID. Buzz camper van can run for 48 hours without a grid connection.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "luxury"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "48 hours off-grid"
+   ],
    "also": []
   }
  ]

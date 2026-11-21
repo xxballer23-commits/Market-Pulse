@@ -28,6 +28,29 @@
    "also": []
   },
   {
+   "id": "2e90c86f9380",
+   "title": "Editors' Top Reads: News from L'Oréal, Revieve and more...",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ0QxenZTbVNyRllKOE85dGJILUtqcVVlWTExdG1GTmhjRXVpSjd3RW12dU9Db1ZDS1ZzMFhHVXVLcTJ0RlRvSlcwbUpCUl9Vc3JKVjVmdjdDUGtFT3drNEJwdzdldDFZWDY1QmlmNWdPTWctLS1CbHJUM3dwMS1maVZtT2FxUQ?oc=5",
+   "source": "TheIndustry.beauty",
+   "source_type": "gnews",
+   "published": "2026-11-20T15:01:13Z",
+   "relevance": 2,
+   "why": "A beauty trade roundup highlights recent news from L'Oréal and AI beauty tech firm Revieve.",
+   "summary_ai": "A beauty trade roundup highlights recent news from L'Oréal and AI beauty tech firm Revieve.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "ac9c27f60de7",
    "title": "L'Oréal and EssilorLuxottica in talks to buy a 15% stake in Giorgio Armani as LVMH drops out",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbVIwM1VuWk5kNC1XbzU0MF9QY25PZjZycHhwTUVmVTRfUktEWldIOGM5UTEyS3VCcUxPMXRTNUdYcXJBM1pZRTBCeHdZaE4tN0J2a0Z2UjdEdzJ6ZVZacy0zTWZYVnpSZ091Nm1uUDBzTV9FMWx1WWh2QXBTdlUyOFloUDhVM3RSeVZxM05JcjRQWHlKaXc0enl3Y3VmbzZoOG9TWXdDcnFOa3pENHo0NQ?oc=5",
@@ -99,6 +122,61 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "4f290840ab24",
+   "title": "L’Oréal leads bid for 15% Armani stake as LVMH drops out",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQnEwdlFXMWNERVo5S0pZOVBmWnlVdlNFYkl0RmZPSjN6SFA0YWp5UEMzREFmeHY3NWkyMWRfWk96T2FKRzNhc0N5cVFxLW9ObDdEb2Z6aTE4LXZ5aVJOUU4xNkp0bXFKNHYzdTJ1WWFMN2o0S2x6em5XOTU0Si1EaU5ITDg0UDZPTkd1RmIyRGY4MVNac3RaMGdKVFo1YnFuRXc?oc=5",
+   "source": "Retail Gazette",
+   "source_type": "gnews",
+   "published": "2026-11-19T08:09:45Z",
+   "relevance": 2,
+   "why": "L'Oréal is reportedly leading a bid for a 15% stake in Armani after LVMH dropped out.",
+   "summary_ai": "L'Oréal is reportedly leading a bid for a 15% stake in Armani after LVMH dropped out.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "15% stake"
+   ],
+   "also": []
+  },
+  {
+   "id": "0c9211a0b00c",
+   "title": "L'Oreal looks to buy 10% Armani stake, LVMH out of the race, report says",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOTZOekg5emZScGpTNHdjNHk2dWI2T21BSXdPVVl4cnZqSzJRRE5tSjFMTHZJM2FmcFVhc2JDczBZTGpMazcwYUd4X2doU3BpNXRXRFpxYWFLTWx4RmJSd1RwV0dvajVrUXhrcExIRVdabUFzaE1kVTljalhqdk41RHlMR3ZZdDdQWEtYcUxLYW9sV3ctbk9NOUxKRW4zNTFmSWdMVHpCekM2dw?oc=5",
+   "source": "Reuters",
+   "source_type": "gnews",
+   "published": "2026-11-19T07:01:00Z",
+   "relevance": 2,
+   "why": "Coverage conflicts on stake size, 10% here versus 15% elsewhere. Treat as unconfirmed until a deal is announced.",
+   "summary_ai": "Reuters reports L'Oréal is looking to buy a 10% Armani stake after LVMH exited the race.",
+   "take": "Coverage conflicts on stake size, 10% here versus 15% elsewhere. Treat as unconfirmed until a deal is announced.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported, not confirmed by parties",
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10% stake"
+   ],
+   "also": [
+    {
+     "source": "The Business of Fashion",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbE1HaVNGdXFDOW1TRE5TQTBkRGk1MGcya1R5VHBtQUJmc2x5bUlHV3pDS0VVN2JSVFh6dWlVQ2UwT2pPV2tnYTZLTlh3WUNzUzVtbTloNmduU0ZkZllkczN3ZENYUFFmb0J1VWplOVFBbEplZjhXSnhrSkY4d0VDbVV1VGpKZFJ1bDR2VlZUUnlfVmlkeFRIVw?oc=5"
+    }
+   ]
   }
  ]
 }

@@ -1,0 +1,33 @@
+{
+ "name": "Minor Hotels",
+ "slug": "minor-hotels",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "83c47cfe9a62",
+   "title": "Minor Hotels Announces Luxury Openings in 2027",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG9uemczakUwUk92LUExUTJ5c2tlZ1dJTG9QbjZQVWE1NkdkMUw2N2dVeDAzVGFER2dWUVNPdGo1Rzg3eWRTR0J2TTZCc2Z6TW9tYjRwRGRXN1JGYVNsUEFHSTNLU3AwQ2NKdjNpaEJMcjZzcmxGVkJlQjVuN3F5eXBzejEtVUoxcU4wRzZwWVo5bURfQ2V6U2V5dTJWdy1Fc3lFem5PVQ?oc=5",
+   "source": "The Register-Guard",
+   "source_type": "gnews",
+   "published": "2026-11-19T11:31:04Z",
+   "relevance": 3,
+   "why": "Minor Hotels has announced a slate of luxury hotel openings planned for 2027.",
+   "summary_ai": "Minor Hotels has announced a slate of luxury hotel openings planned for 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Openings in 2027"
+   ],
+   "also": []
+  }
+ ]
+}

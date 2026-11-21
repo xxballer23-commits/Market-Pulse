@@ -1,0 +1,31 @@
+{
+ "name": "Vintage Modern",
+ "slug": "vintage-modern",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "60b593f85127",
+   "title": "What Movie Inspired Vintage Modern’s First Muscle Car? We’ll Give You 60 Seconds to Decide",
+   "url": "https://robbreport.com/motors/cars/vintage-moderns-vintage-fastback-eleanor-1238853311/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-21T00:00:00Z",
+   "relevance": 1,
+   "why": "A short quiz asks readers to identify the film that inspired a vintage-style muscle car from Vintage Modern.",
+   "summary_ai": "A short quiz asks readers to identify the film that inspired a vintage-style muscle car from Vintage Modern.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

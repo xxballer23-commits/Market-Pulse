@@ -12,18 +12,18 @@
    "source_type": "gnews",
    "published": "2026-11-20T22:50:00Z",
    "relevance": 1,
-   "why": "Enterprise software fundraising is unrelated to consumer card benefits or loyalty partners.",
-   "summary_ai": null,
+   "why": "Databricks is reportedly in early talks to raise funds at a $225 billion valuation.",
+   "summary_ai": "Databricks is reportedly in early talks to raise funds at a $225 billion valuation.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [],
    "breaking": false,
    "data_points": [
-    "Talks at a $225 billion valuation"
+    "$225 billion valuation"
    ],
    "also": []
   }

@@ -12,20 +12,22 @@
    "source_type": "rss",
    "published": "2026-11-20T23:45:15Z",
    "relevance": 3,
-   "why": "Discussion of a Delta and Hyatt tie-up and Hyatt rewards changes signals loyalty alignment worth tracking for partner strategy.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Milestone changes at Hyatt can shift co-brand card value perception, so track sentiment before partner renewal talks.",
+   "summary_ai": "A podcast episode debates whether Hyatt's changes to its milestone rewards are positive or negative for members.",
+   "take": "Milestone changes at Hyatt can shift co-brand card value perception, so track sentiment before partner renewal talks.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "community",
-    "partnerships"
+    "luxury"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "Episode 384"
+   ],
    "also": []
   },
   {
@@ -72,6 +74,108 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "ab5a38db6f2e",
+   "title": "12 Best Ways To Earn Lots of World of Hyatt Points [2026]",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42cmZsY1ROMWJMS1k0WV94ZG0wVlAtUTBuQjAzMnh4d3dfdmxuYnR6Y2V1ZHFWV2hyTzQyWlBsMkRKX1lTOWllSGFILV9NUDBvdDIzMHRDVDFZTkkya29zenhhZHozLU5rOFg1anVhNDk4Z2pQZnc0REhiYw?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T17:20:11Z",
+   "relevance": 2,
+   "why": "Earning guides show which Hyatt paths enthusiasts prioritize, useful for spotting gaps in partner earning options.",
+   "summary_ai": "A points blog lists ways to earn World of Hyatt points, reflecting current enthusiast earning strategies.",
+   "take": "Earning guides show which Hyatt paths enthusiasts prioritize, useful for spotting gaps in partner earning options.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c75f19f3ac6a",
+   "title": "Hyatt’s 2027 changes ranked from best to worst",
+   "url": "https://frequentmiler.com/hyatts-2027-changes-ranked-from-best-to-worst/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T02:45:12Z",
+   "relevance": 4,
+   "why": "Hyatt's Milestone changes shift the value of Hyatt transfers from Chase, Bilt and Amex; review how partner value is messaged.",
+   "summary_ai": "Hyatt will change its Milestone Rewards and Globalist benefits from 2027, including faster Milestone earning and longer-lasting free night certificates.",
+   "take": "Hyatt's Milestone changes shift the value of Hyatt transfers from Chase, Bilt and Amex; review how partner value is messaged.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10 nights",
+    "2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "ac340846c9c5",
+   "title": "Hyatt to launch stackable awards, new Milestone Rewards and Delta perks in 2027",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3BNMG4yU3p2M2gzbW5rcjdwZC1tRFRaQTRSUWNwamRyS3RGZTZBU3lCcmdMME4xRWd5YnozYlVpVjVvT0p4WmdYR2VnQ2Jpd0dmeV9CbnhYWUN3T3ViR0J6MElfMWN3TzBtUHMtdnVOUEJiWW80VE1sMGowalhfeDVVWE52X056bXFVeHFJQlZNcVk?oc=5",
+   "source": "The Points Guy",
+   "source_type": "gnews",
+   "published": "2026-11-19T00:52:06Z",
+   "relevance": 4,
+   "why": "The Hyatt and Delta tie-up is a concrete loyalty partnership signal; pitch complementary co-brand benefits before the 2027 rollout.",
+   "summary_ai": "Hyatt plans stackable awards, new Milestone Rewards and Delta perks, all slated to launch in 2027.",
+   "take": "The Hyatt and Delta tie-up is a concrete loyalty partnership signal; pitch complementary co-brand benefits before the 2027 rollout.",
+   "take_kind": "take",
+   "partner": "Delta",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Launches 2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "e9b4594f8a62",
+   "title": "Park Hyatt Brisbane Opening 2031, As Brand’s Fourth Australia Hotel",
+   "url": "https://onemileatatime.com/news/park-hyatt-brisbane/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-18T17:49:06Z",
+   "relevance": 2,
+   "why": "Hyatt will open a 201-room Park Hyatt in Brisbane in 2031, its fourth Australian hotel.",
+   "summary_ai": "Hyatt will open a 201-room Park Hyatt in Brisbane in 2031, its fourth Australian hotel.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "201 keys",
+    "2031"
+   ],
    "also": []
   }
  ]

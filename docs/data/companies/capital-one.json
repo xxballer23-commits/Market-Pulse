@@ -39,20 +39,20 @@
    "source_type": "gnews",
    "published": "2026-11-20T19:04:21Z",
    "relevance": 2,
-   "why": "A targeted mid-tier bonus offer shows how Capital One is using acquisition offers to compete for entry-level cardholders.",
-   "summary_ai": null,
+   "why": "Capital One is showing a targeted 40,000-mile offer on its VentureOne card.",
+   "summary_ai": "Capital One is showing a targeted 40,000-mile offer on its VentureOne card.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
-    "community"
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [
-    "40K miles bonus offer"
+    "40K miles"
    ],
    "also": []
   },
@@ -64,19 +64,21 @@
    "source_type": "rss",
    "published": "2026-11-20T17:00:56Z",
    "relevance": 2,
-   "why": "A review of a no-fee Capital One card offers entry-level context on competitor benefits for budget-conscious travelers.",
-   "summary_ai": null,
+   "why": "The Points Guy reviews Capital One's VentureOne card as a simple travel rewards option with no annual fee.",
+   "summary_ai": "The Points Guy reviews Capital One's VentureOne card as a simple travel rewards option with no annual fee.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "No annual fee"
+   ],
    "also": []
   },
   {
@@ -87,19 +89,21 @@
    "source_type": "gnews",
    "published": "2026-11-20T17:00:56Z",
    "relevance": 3,
-   "why": "A no-fee card with transferable miles raises the bar for entry-level rewards cards and pressures premium value propositions.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Transferable points on a no-fee card pressure fee-tier premium cards to justify their annual fees with clearer benefits.",
+   "summary_ai": "A card offers transferable miles to partner programs with no annual fee.",
+   "take": "Transferable points on a no-fee card pressure fee-tier premium cards to justify their annual fees with clearer benefits.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "No annual fee"
+   ],
    "also": []
   },
   {
@@ -133,12 +137,12 @@
    "source_type": "rss",
    "published": "2026-11-20T11:45:45Z",
    "relevance": 3,
-   "why": "Cardholder comparison of Capital One shopping perks shows how members value issuer offer programs against alternatives.",
-   "summary_ai": null,
+   "why": "An analysis weighing the cost of Capital One Shopping against the value returned by Capital One Offers.",
+   "summary_ai": "An analysis weighing the cost of Capital One Shopping against the value returned by Capital One Offers.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [

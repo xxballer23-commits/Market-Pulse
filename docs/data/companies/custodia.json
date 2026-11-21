@@ -1,0 +1,31 @@
+{
+ "name": "Custodia",
+ "slug": "custodia",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "175b4dc22bc4",
+   "title": "Supreme Court spurns Custodia’s master-account fight",
+   "url": "https://www.bankingdive.com/news/custodia-supreme-court-deny-petition-fed-master-account-access-waller/875102/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-18T19:48:34Z",
+   "relevance": 2,
+   "why": "The Supreme Court declined Custodia's petition for direct Federal Reserve payment rail access, keeping the existing barrier in place.",
+   "summary_ai": "The Supreme Court declined Custodia's petition for direct Federal Reserve payment rail access, keeping the existing barrier in place.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

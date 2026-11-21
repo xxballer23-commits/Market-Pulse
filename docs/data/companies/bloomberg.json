@@ -1,0 +1,29 @@
+{
+ "name": "Bloomberg",
+ "slug": "bloomberg",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0cc139edb866",
+   "title": "Bloomberg Businessweek - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZzA3NW15dWxmZzV5aFBXWGtHVWNPa2w1Uzd5MXBHZkRMTDV1aEIyMFI1c1lXdTF2MVNfaFRVbVFPTDdOM2dKV3JvLWNKdE0?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T12:41:35Z",
+   "relevance": 1,
+   "why": "Generic Bloomberg Businessweek page with no specific story attached in the headline.",
+   "summary_ai": "Generic Bloomberg Businessweek page with no specific story attached in the headline.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

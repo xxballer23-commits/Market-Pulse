@@ -12,21 +12,19 @@
    "source_type": "rss",
    "published": "2026-11-20T17:28:00Z",
    "relevance": 2,
-   "why": "Retail comparable sales trends offer modest context on mainstream apparel spending, which is less relevant to affluent card strategy.",
-   "summary_ai": null,
+   "why": "Old Navy's recovery stalled amid warm weather, while Gap's results remained strong.",
+   "summary_ai": "Old Navy's recovery stalled amid warm weather, while Gap's results remained strong.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "spending_data"
    ],
    "breaking": false,
-   "data_points": [
-    "12th straight quarter of comparable sales growth"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

@@ -12,20 +12,22 @@
    "source_type": "rss",
    "published": "2026-11-20T18:30:16Z",
    "relevance": 2,
-   "why": "A capped food delivery reward from PayPal reflects how digital wallets use category offers to drive engagement.",
-   "summary_ai": null,
+   "why": "PayPal is offering 15% back on food delivery orders, capped at $15.",
+   "summary_ai": "PayPal is offering 15% back on food delivery orders, capped at $15.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
-    "community"
+    "community",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "15% back, up to $15"
+    "15% back",
+    "Up to $15"
    ],
    "also": []
   },
@@ -37,17 +39,15 @@
    "source_type": "rss",
    "published": "2026-11-20T18:17:00Z",
    "relevance": 2,
-   "why": "A new CFO at a major payments partner could shift priorities on partnership and co-brand strategy.",
-   "summary_ai": null,
+   "why": "PayPal has named Claire Bramley as its chief financial officer.",
+   "summary_ai": "PayPal has named Claire Bramley as its chief financial officer.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "partnerships"
-   ],
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []
@@ -59,13 +59,13 @@
    "source": "TradingView",
    "source_type": "gnews",
    "published": "2026-11-20T17:08:00Z",
-   "relevance": 3,
-   "why": "PayPal's growth in buy now, pay later competes directly with Affirm and Klarna and shapes installment options at checkout.",
-   "summary_ai": null,
+   "relevance": 2,
+   "why": "An analysis asks whether PayPal's buy now, pay later business can speed up its growth.",
+   "summary_ai": "An analysis asks whether PayPal's buy now, pay later business can speed up its growth.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -120,6 +120,32 @@
    "sections": [],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "bb2156dd4a45",
+   "title": "Italy Pay in 3 Credit Checks at Klarna, Scalapay, PayPal May Come After November 20 Deadline",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTl9BWDFENVZoMlVxYWVzRmV6WTVGUDJSVEdhbWJ6V3N0QTUyb01jaHNNNG1GYklZd3FsbEpibUQtSDVrQzJSWE00X1lzQlVlNUg3bElKUjYwN1JBUi1XbWx1TzAxXzZHYlJlOG1UeXNzYlFZOHUtWU55MXNQTlFrMFR2Vi14aTRaalVNNlUwQ2RhcVJUMk51X2xYOFBuT1JHR3AwLU5IdEFQTWFsclBydGs3YUkxY2g4US1PRTN3WWtwWDVocmozQVRfdmh3VTU5ckEtV09n?oc=5",
+   "source": "Tech Times",
+   "source_type": "gnews",
+   "published": "2026-11-19T06:25:20Z",
+   "relevance": 3,
+   "why": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "summary_ai": "Italy's credit checks for Pay in 3 products at Klarna, Scalapay and PayPal may begin after a November 20 deadline.",
+   "take": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "November 20"
+   ],
    "also": []
   }
  ]

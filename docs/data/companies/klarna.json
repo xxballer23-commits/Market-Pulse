@@ -177,6 +177,81 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "f7229f90830a",
+   "title": "Apple prepares to launch a new device leasing program in collaboration with Klarna by the end of July",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGlGX0UtdllzQUIyLWNCLWtBTTQxLVI3RkFkY1N5Q3V4ZFJtdjlCWWtkQ1MxSGN5S0Z6Wi1Vbm00cWZPS0pGZWdlUUJNQnJfOEtFXzQ4azRjVlpJajhRclNGT1ozeVhyaXY1Tk02c04yX09qeUN6d25WWUdpdHhna1paejhZVldOaEtwVEV3ZHc1eFNwUDRidmVJSnA5Vy12ZkJ0VFBGSFVucW96dHh4eVd4MFVpaU9OOUxQb1Q2UFp3eDduQ290RDQyLVV0cHliV01ZVm1zaVltcGdPbDhIYVRkYWpjZTA?oc=5",
+   "source": "آي-فون إسلام",
+   "source_type": "gnews",
+   "published": "2026-11-19T08:24:36Z",
+   "relevance": 3,
+   "why": "Track Apple and Klarna's device financing as a BNPL benchmark that could pressure card installment features.",
+   "summary_ai": "Apple reportedly plans a device leasing program with Klarna, targeted to launch by the end of July.",
+   "take": "Track Apple and Klarna's device financing as a BNPL benchmark that could pressure card installment features.",
+   "take_kind": "take",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported by secondary outlet, unconfirmed",
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "End of July"
+   ],
+   "also": []
+  },
+  {
+   "id": "bb2156dd4a45",
+   "title": "Italy Pay in 3 Credit Checks at Klarna, Scalapay, PayPal May Come After November 20 Deadline",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTl9BWDFENVZoMlVxYWVzRmV6WTVGUDJSVEdhbWJ6V3N0QTUyb01jaHNNNG1GYklZd3FsbEpibUQtSDVrQzJSWE00X1lzQlVlNUg3bElKUjYwN1JBUi1XbWx1TzAxXzZHYlJlOG1UeXNzYlFZOHUtWU55MXNQTlFrMFR2Vi14aTRaalVNNlUwQ2RhcVJUMk51X2xYOFBuT1JHR3AwLU5IdEFQTWFsclBydGs3YUkxY2g4US1PRTN3WWtwWDVocmozQVRfdmh3VTU5ckEtV09n?oc=5",
+   "source": "Tech Times",
+   "source_type": "gnews",
+   "published": "2026-11-19T06:25:20Z",
+   "relevance": 3,
+   "why": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "summary_ai": "Italy's credit checks for Pay in 3 products at Klarna, Scalapay and PayPal may begin after a November 20 deadline.",
+   "take": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "November 20"
+   ],
+   "also": []
+  },
+  {
+   "id": "3afcfd3d1aae",
+   "title": "Klarna launches AI ‘concierge’",
+   "url": "https://www.paymentsdive.com/news/klarna-launches-ai-concierge/875033/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-18T15:45:00Z",
+   "relevance": 3,
+   "why": "Klarna's move into agentic shopping could make it a rival or a partner for card-linked installment features.",
+   "summary_ai": "Klarna launched an AI concierge tool as it pushes into agentic commerce and plans to grow its longer-term loan portfolio.",
+   "take": "Klarna's move into agentic shopping could make it a rival or a partner for card-linked installment features.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
   }
  ]
 }

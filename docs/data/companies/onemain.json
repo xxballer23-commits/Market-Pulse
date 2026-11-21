@@ -1,0 +1,31 @@
+{
+ "name": "OneMain",
+ "slug": "onemain",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9230cae86aea",
+   "title": "OneMain gets FDIC green light for ILC charter",
+   "url": "https://www.bankingdive.com/news/onemain-fdic-approves-ilc-charter-subprime-lender-cfpb-13-ag-lawsuit-ncrc/875075/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-18T17:28:08Z",
+   "relevance": 3,
+   "why": "An ILC charter gives a subprime installment lender a funding and product path that could reshape embedded lending partner options.",
+   "summary_ai": "The FDIC approved OneMain's industrial loan company charter despite a CFPB order and opposition from state attorneys general.",
+   "take": "An ILC charter gives a subprime installment lender a funding and product path that could reshape embedded lending partner options.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,30 @@
  "vets": [],
  "items": [
   {
+   "id": "a625629b8d28",
+   "title": "Beyond the Record Prices: What New York’s November Auctions Tell Us About the Art Market",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSklpYTQyOUpyRldCNkt6SmdCbzVpVnVGcTBsdHdlZlB2MW1wV2pZSUdHR3k0NEVBbXl5cXV0SU01UDRFcHZQOTMzaEZoY3BaUDFISm1TY3cxWldXSlZCZmZTOXVKVnk2Zi1ZSzVFbDBUNDhyeU12LU41Q0R1a19IUEozdDNRUEpPdTQ4bTFwTFVoVHAtdmc?oc=5",
+   "source": "Observer",
+   "source_type": "gnews",
+   "published": "2026-11-20T20:34:23Z",
+   "relevance": 3,
+   "why": "Auction softness or strength at the top end is a useful read on UHNW spending appetite for collectibles.",
+   "summary_ai": "Analysis of New York's November auctions looks beyond record prices to the wider state of the art market.",
+   "take": "Auction softness or strength at the top end is a useful read on UHNW spending appetite for collectibles.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "13b08e94dcfb",
    "title": "Christie’s Measured $145.9M Finale Brought Solid Results But Few Surprises",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2JmcV9IdWZ6cWFCUTlXQTZwT25xVW1aMDdaUUNFbF9hSXpaR3p1Wm5fS2REeThDRnlDam5ObWR2STFFcnI2U3Yya1dqTjNsMG9hNU1Ialh4bzFiZUtpS3NpYkpYZ1NrekpiX214MFJ2QXZyUTA1ZGRKY1MtUFZCQk9aREJYd1RfeWZFbXhnczVlZHpnRDJrcWVWWWNSNzRaQXc?oc=5",
@@ -61,12 +85,12 @@
    "source_type": "gnews",
    "published": "2026-11-20T07:12:18Z",
    "relevance": 3,
-   "why": "A soft 21st-century auction result gives a read on the appetite of high-net-worth buyers for art and collectibles.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "A soft mid-tier sale beside strong top-end results suggests affluent demand is concentrating at the very top.",
+   "summary_ai": "Christie's 21st-century sale came in soft, closing out a week of major New York auctions.",
+   "take": "A soft mid-tier sale beside strong top-end results suggests affluent demand is concentrating at the very top.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -135,13 +159,13 @@
    "source": "Boston Herald",
    "source_type": "gnews",
    "published": "2026-11-19T23:10:21Z",
-   "relevance": 2,
-   "why": "Auction disruption shows how high-value art collecting is tied to geopolitics and provenance, a niche affluent signal.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "Government heritage claims can pull high-value works from sales, so provenance checks matter for art-linked offers.",
+   "summary_ai": "Christie's pulled a Frida Kahlo painting from auction after Mexico requested a halt.",
+   "take": "Government heritage claims can pull high-value works from sales, so provenance checks matter for art-linked offers.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -174,6 +198,55 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "0a23d5d4a307",
+   "title": "Christie's Sells Roger Therond Photography Collection",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc21qZmFYRkgwVVRLc1dIS1N6UW44cS1fcmRCczU0R0pEZ2x5YUMxa3gtZVk1b0lYYmlTd2hzMDJDRU9uTHJnRE53M1pYMU0xRlNJeVJSMF9mVGxLTVBWS2YtZVRyWXBWYUpIOERvWEVfbC1VZXlKYS1rbUVLcE5rYzE5Z2xKZDkwSUg0cDc4clgzLUZtLVE?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-19T04:49:04Z",
+   "relevance": 3,
+   "why": "Christie's has sold the Roger Therond photography collection at auction.",
+   "summary_ai": "Christie's has sold the Roger Therond photography collection at auction.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "29caff22559d",
+   "title": "Christie’s New York marquee week continues, exceeding $700 million and counting, led by Klimt and Kandinsky",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNzR4UDZFUkp5d3ltZHc4UGFHbFgxYVViRTNVUG1GTEVraHp1WFFDWlhHeDQ0NDdOZHpkTHh6MjdMZXZWOUdRdGQ3Qks2OFY4RzJsMm1TS3R5bGZ6VXpXYmo3SXE5bTQ0U2g4ZDBiX0JmUjlkaWVJdE5fMS1oc0ZQc1VNLUNNVnVkblFtMjBmTGRXUVRLdFdhZmlUYksyXzBaSTAxeXdydC1PMVpXVy15b2ZvSlNheEtycW11cHE0b3JKcFp3?oc=5",
+   "source": "Christie’s",
+   "source_type": "gnews",
+   "published": "2026-11-19T01:00:00Z",
+   "relevance": 3,
+   "why": "Strong top-end art auction volume signals continued ultra-high-net-worth spending appetite that premium card lifestyle perks could target.",
+   "summary_ai": "Christie's New York marquee auction week has topped $700 million, led by Klimt and Kandinsky works.",
+   "take": "Strong top-end art auction volume signals continued ultra-high-net-worth spending appetite that premium card lifestyle perks could target.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$700 million"
+   ],
    "also": []
   }
  ]

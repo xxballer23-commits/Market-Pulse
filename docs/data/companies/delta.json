@@ -5,24 +5,24 @@
  "vets": [],
  "items": [
   {
-   "id": "65f5a5dc7a06",
-   "title": "Hyatt’s Milestone Modifications: Awesome or Awful? | Frequent Miler on the Air Ep384 | 11-20-26",
-   "url": "https://frequentmiler.com/hyatts-milestone-modifications-awesome-or-awful-frequent-miler-on-the-air-ep384-11-20-26/",
-   "source": "Frequent Miler",
+   "id": "536fd5ee40db",
+   "title": "Why International First Class Has Failed At US Airlines (But Shouldn’t)",
+   "url": "https://onemileatatime.com/insights/international-first-class-failed-us-airlines/",
+   "source": "One Mile at a Time",
    "source_type": "rss",
-   "published": "2026-11-20T23:45:15Z",
-   "relevance": 3,
-   "why": "Discussion of a Delta and Hyatt tie-up and Hyatt rewards changes signals loyalty alignment worth tracking for partner strategy.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "published": "2026-11-20T17:30:20Z",
+   "relevance": 2,
+   "why": "Premium cabin demand is a key lever for airline and card partnership value, so cabin strategy affects our travel offers.",
+   "summary_ai": "An opinion piece argues that US airlines have dropped international first class and should bring it back.",
+   "take": "Premium cabin demand is a key lever for airline and card partnership value, so cabin strategy affects our travel offers.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community",
-    "partnerships"
+    "luxury",
+    "community"
    ],
    "breaking": false,
    "data_points": [],
@@ -36,15 +36,16 @@
    "source_type": "rss",
    "published": "2026-11-20T17:30:09Z",
    "relevance": 3,
-   "why": "A accelerated miles promotion on cruises shows how airline loyalty programs use travel bookings to drive mileage earning.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": null,
+   "why": "Airline loyalty programs are paying for non-air travel spend, a model worth testing for travel partner offers.",
+   "summary_ai": "Delta is offering bonus SkyMiles on cruise bookings for a limited time.",
+   "take": "Airline loyalty programs are paying for non-air travel spend, a model worth testing for travel partner offers.",
+   "take_kind": "read",
+   "partner": "Delta",
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Limited-time offer, end date unknown",
    "sections": [
+    "partnerships",
     "community"
    ],
    "breaking": false,
@@ -98,6 +99,32 @@
    "breaking": false,
    "data_points": [
     "January 2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "ac340846c9c5",
+   "title": "Hyatt to launch stackable awards, new Milestone Rewards and Delta perks in 2027",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY3BNMG4yU3p2M2gzbW5rcjdwZC1tRFRaQTRSUWNwamRyS3RGZTZBU3lCcmdMME4xRWd5YnozYlVpVjVvT0p4WmdYR2VnQ2Jpd0dmeV9CbnhYWUN3T3ViR0J6MElfMWN3TzBtUHMtdnVOUEJiWW80VE1sMGowalhfeDVVWE52X056bXFVeHFJQlZNcVk?oc=5",
+   "source": "The Points Guy",
+   "source_type": "gnews",
+   "published": "2026-11-19T00:52:06Z",
+   "relevance": 4,
+   "why": "The Hyatt and Delta tie-up is a concrete loyalty partnership signal; pitch complementary co-brand benefits before the 2027 rollout.",
+   "summary_ai": "Hyatt plans stackable awards, new Milestone Rewards and Delta perks, all slated to launch in 2027.",
+   "take": "The Hyatt and Delta tie-up is a concrete loyalty partnership signal; pitch complementary co-brand benefits before the 2027 rollout.",
+   "take_kind": "take",
+   "partner": "Delta",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Launches 2027"
    ],
    "also": []
   }

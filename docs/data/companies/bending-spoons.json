@@ -11,19 +11,19 @@
    "source": "WSJ",
    "source_type": "gnews",
    "published": "2026-11-19T23:53:00Z",
-   "relevance": 2,
-   "why": "Software M&A with only indirect relevance to fintech or card ecosystem partners.",
-   "summary_ai": null,
+   "relevance": 1,
+   "why": "Intuit is selling Mailchimp to Bending Spoons in a deal valued at about $3.68 billion.",
+   "summary_ai": "Intuit is selling Mailchimp to Bending Spoons in a deal valued at about $3.68 billion.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [],
    "breaking": false,
    "data_points": [
-    "$3.68 billion sale price"
+    "$3.68 billion deal value"
    ],
    "also": []
   }

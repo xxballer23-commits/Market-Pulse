@@ -76,6 +76,83 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "dbbb26ff8303",
+   "title": "Emirates Finally Revamping Dubai Lounges: Temporary New First Class Lounge Now Open",
+   "url": "https://onemileatatime.com/news/emirates-revamping-dubai-lounges/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-19T12:02:34Z",
+   "relevance": 3,
+   "why": "Watch whether these lounge upgrades get folded into card lounge-access programs, since premium cards depend on airline lounge partners.",
+   "summary_ai": "Emirates opened a temporary first class lounge in Dubai and plans new first and business lounges over the next two years.",
+   "take": "Watch whether these lounge upgrades get folded into card lounge-access programs, since premium cards depend on airline lounge partners.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$109 million lounge investment",
+    "Plans over next two years"
+   ],
+   "also": []
+  },
+  {
+   "id": "5226cec46683",
+   "title": "Emirates Opens New First Class Lounge at Dubai International Airport Terminal 3",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96WHJuYVZobEh6VlA0NGFDYVJNYkZweVlUaDhyYTUtZUdnNFNYNWF1dHdHOFFXdWQzZVRtZm5CVkRETDNBd3BiWHJ4WmUyUXhsdWY1RA?oc=5",
+   "source": "TRAICY Global",
+   "source_type": "gnews",
+   "published": "2026-11-19T10:04:18Z",
+   "relevance": 2,
+   "why": "Emirates has opened a new First Class lounge at Dubai International's Terminal 3.",
+   "summary_ai": "Emirates has opened a new First Class lounge at Dubai International's Terminal 3.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "52bfb03c89bf",
+   "title": "Emirates commits to a new era of First Class Lounges with AED 400 million commitment",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnBvVU9YWkNaUVdDMkc5RXdTajBIeXpzTzBaZzBSNVlzRTN0eUJ0VXNDYUZjWUpBQ29OdjI5SE5JU2F3VlZHYWUwUlJrUGRqNk80Z3lfekJ2cVVVNU5MZlUyQVZuZk1rRHd6UlhkR05UNk9NLXhJZXBhVC05dFRhUnltQlctXzI3OUNrelhXU3d4STN3amNLOHQxV2JZWV91ZzM3UEkydWpiVEFONzhQX3ZYdw?oc=5",
+   "source": "Live From A Lounge",
+   "source_type": "gnews",
+   "published": "2026-11-19T10:03:40Z",
+   "relevance": 2,
+   "why": "Emirates has pledged AED 400 million to build a new generation of First Class lounges.",
+   "summary_ai": "Emirates has pledged AED 400 million to build a new generation of First Class lounges.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "AED 400 million lounge commitment"
+   ],
+   "also": []
   }
  ]
 }

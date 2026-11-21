@@ -1,0 +1,31 @@
+{
+ "name": "Square",
+ "slug": "square",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "369be1d5ec9c",
+   "title": "NAB partners with rival Square in payments offensive",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNDIwNzVqOU5OWVd1QTdLaU9ObE1kVUxaanVHVjdQSWJKZGE3NXI5cWxmN0UyYXZpaWxrU1RjZ3FTOE1idGR2cG1CS1YtaTl5NHRlOERKaWVnVkJYSDJheUU2OVlPQnBEYmJmSXBwTHE4bHN5OEZINTdTTmIwenBKYUVMMzU3cWNnSE8tRkg3Vkt0YUJfY3NhR0tiRWNTb3drRVhqVkFuQXpGZFlUa0puWkdGc2dIbGpf?oc=5",
+   "source": "AFR",
+   "source_type": "gnews",
+   "published": "2026-11-19T05:00:00Z",
+   "relevance": 2,
+   "why": "National Australia Bank is partnering with Square as part of a push to expand its payments offering.",
+   "summary_ai": "National Australia Bank is partnering with Square as part of a push to expand its payments offering.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

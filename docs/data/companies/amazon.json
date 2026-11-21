@@ -12,12 +12,12 @@
    "source_type": "gnews",
    "published": "2026-11-20T20:32:00Z",
    "relevance": 1,
-   "why": "A local delivery regulation fight is unrelated to card economics, benefits or affluent consumer partnerships.",
-   "summary_ai": null,
+   "why": "Amazon is urging New York City customers to oppose a delivery bill backed by Mamdani.",
+   "summary_ai": "Amazon is urging New York City customers to oppose a delivery bill backed by Mamdani.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [],
@@ -122,6 +122,29 @@
    "data_points": [
     "$40 savings"
    ],
+   "also": []
+  },
+  {
+   "id": "ff6bb72fc37b",
+   "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
+   "url": "https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "source": "Modern Retail",
+   "source_type": "rss",
+   "published": "2026-11-19T05:00:00Z",
+   "relevance": 2,
+   "why": "Agent checkout could change how card-linked offers reach shoppers, but adoption is still early.",
+   "summary_ai": "OpenAI, Google, Amazon and Walmart are pushing agent-led holiday shopping, though adoption remains limited.",
+   "take": "Agent checkout could change how card-linked offers reach shoppers, but adoption is still early.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

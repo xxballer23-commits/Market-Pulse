@@ -1,0 +1,31 @@
+{
+ "name": "NextEra",
+ "slug": "nextera",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "61a69dc6fde3",
+   "title": "NextEra’s AI Saves Florida Customers $20 Million",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nexteras-ai-saves-florida-customers-20-million/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-21T00:01:29Z",
+   "relevance": 1,
+   "why": "A utility reports its AI tools saved Florida customers about $20 million.",
+   "summary_ai": "A utility reports its AI tools saved Florida customers about $20 million.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$20 Million"
+   ],
+   "also": []
+  }
+ ]
+}

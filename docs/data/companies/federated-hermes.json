@@ -58,12 +58,12 @@
    "source_type": "gnews",
    "published": "2026-11-20T09:09:11Z",
    "relevance": 1,
-   "why": "An insider share sale filing at an asset manager has no bearing on card benefits or affluent spending.",
-   "summary_ai": null,
+   "why": "A routine SEC Form 144 insider sale notice filed by Federated Hermes, the asset manager, not the luxury house.",
+   "summary_ai": "A routine SEC Form 144 insider sale notice filed by Federated Hermes, the asset manager, not the luxury house.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [],
@@ -140,6 +140,27 @@
    "data_points": [
     "$331K"
    ],
+   "also": []
+  },
+  {
+   "id": "8d44c6ec511b",
+   "title": "Federated Hermes, Inc. (FHI) - What Are Investment Firms Thinking About This Stock?",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQzN6Tk5aZEEtamhkanNLd1FjTVdUZ0RIM0hTcGU2RUQwX0VTaG5KUUtYcDNTZjdtM1dMeXJ2UlF0ZzhIdE5PV3V3LW1jek1aYVVIUXFtTW12YnRmcGtIWTBVSVVqcVNpdk1ianV3My1nTHdrN3gyeEN4WTYwTkdNd20yQWsxNU4zZ0dBNHFMTmo4ZFU3ZnhXMzJyTDNydkpjV3cwWHZmVzBNdDFKd1F1X0diWkpiWWpscnpyUWdDcDY3NWhBU1E0MlFBREV3eS1SX2FPaGNzVQ?oc=5",
+   "source": "MarketBeat",
+   "source_type": "gnews",
+   "published": "2026-11-19T09:37:59Z",
+   "relevance": 1,
+   "why": "A MarketBeat roundup of institutional investor activity in Federated Hermes stock.",
+   "summary_ai": "A MarketBeat roundup of institutional investor activity in Federated Hermes stock.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

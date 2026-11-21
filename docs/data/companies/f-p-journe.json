@@ -11,24 +11,20 @@
    "source": "Robb Report",
    "source_type": "rss",
    "published": "2026-11-20T12:00:00Z",
-   "relevance": 3,
-   "why": "A record-setting watch auction result shows strong demand at the top of the collectibles market among UHNW buyers.",
-   "summary_ai": null,
+   "relevance": 2,
+   "why": "An F.P. Journe watch set a record as the most expensive timepiece ever sold at auction in France.",
+   "summary_ai": "An F.P. Journe watch set a record as the most expensive timepiece ever sold at auction in France.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury",
-    "spending_data"
+    "luxury"
    ],
    "breaking": false,
-   "data_points": [
-    "Hammered down for $11.03 million",
-    "Most expensive watch ever sold at auction in France"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

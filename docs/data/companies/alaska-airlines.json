@@ -12,17 +12,17 @@
    "source_type": "rss",
    "published": "2026-11-20T21:00:50Z",
    "relevance": 3,
-   "why": "A review of this airline co-brand card shows how members judge premium value beyond the core airline, which informs benefit design.",
-   "summary_ai": null,
+   "why": "Review assesses how much value the Atmos Rewards Summit Visa offers beyond Alaska and Hawaiian travel.",
+   "summary_ai": "Review assesses how much value the Atmos Rewards Summit Visa offers beyond Alaska and Hawaiian travel.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community",
-    "premium_cards"
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
    "data_points": [],
@@ -35,24 +35,21 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-20T00:45:51Z",
-   "relevance": 3,
-   "why": "A loyalty promo showing how airline programs use bonus earning to win travel spend, a useful benchmark for perk design.",
-   "summary_ai": null,
+   "relevance": 2,
+   "why": "Alaska Airlines' Atmos Rewards is offering double points on Hawaii flights this winter.",
+   "summary_ai": "Alaska Airlines' Atmos Rewards is offering double points on Hawaii flights this winter.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community",
-    "partnerships"
+    "community"
    ],
    "breaking": false,
    "data_points": [
-    "Double Atmos points on Hawaii flights",
-    "Promo valid through March 10, 2027",
-    "Blackout December 18 to January 4"
+    "Double Atmos Points"
    ],
    "also": []
   },

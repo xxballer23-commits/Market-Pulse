@@ -12,12 +12,12 @@
    "source_type": "gnews",
    "published": "2026-11-20T14:45:42Z",
    "relevance": 3,
-   "why": "Hilton's first LXR in Rome extends its luxury brand tier, a possible angle for hotel partner benefits.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "LXR expansion shows Hilton pushing its luxury tier, a natural target for premium card hotel credit partnerships.",
+   "summary_ai": "Hilton's first LXR hotel in Rome is set to open in 2028 across six 19th-century buildings.",
+   "take": "LXR expansion shows Hilton pushing its luxury tier, a natural target for premium card hotel credit partnerships.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -25,8 +25,8 @@
    ],
    "breaking": false,
    "data_points": [
-    "Opens in 2028",
-    "Six 19th-century buildings"
+    "Opens 2028",
+    "Six buildings"
    ],
    "also": []
   },

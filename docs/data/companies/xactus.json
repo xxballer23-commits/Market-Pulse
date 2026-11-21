@@ -12,17 +12,15 @@
    "source_type": "gnews",
    "published": "2026-11-20T16:51:39Z",
    "relevance": 2,
-   "why": "New mortgage pricing flexibility from credit scoring partners may influence how lenders use credit data in underwriting.",
-   "summary_ai": null,
+   "why": "FICO and Xactus have partnered to give mortgage lenders more flexible credit score pricing.",
+   "summary_ai": "FICO and Xactus have partnered to give mortgage lenders more flexible credit score pricing.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "lending"
-   ],
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []

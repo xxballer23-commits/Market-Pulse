@@ -1,0 +1,54 @@
+{
+ "name": "IDBI Bank",
+ "slug": "idbi-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "94b04983d1a6",
+   "title": "Three PSU bank unions threaten nationwide strike on Dec 3 against IDBI Bank sale",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMUdSVlU5NGQzenNMdkJha05HVHdpQzJtdWpYcXRkNXBsU3VudVhham9sUkNnOEpxTW5tdTlfWXNHeGNfd2lnbm5sZHZLd20xRmI3eDRDRVhISF94N2hXa0c2Nmhfbm12THkwTXNaeFBaaU1wQzhlQWNzbGpKZkNseEVPY2ZUa1A2SUlRcWpKTjhaT0gwdUx6emVWOWx4ekRuWGc2Wk9fSHhEYnk2VU5JYmZ3cVF5X0c4VGJuWHNvNFhPVjVfR050T1NBNmFNdHFkRTNDd2VwUFDSAd4BQVVfeXFMT3VoVFl0cUk5bnFxYm1QWG01ZERxX1BFQ0FyQzNyaUVtdUR2d08yNjZuV1ZGMUVGa2lVMnoxbTRLZHFGeWJtXzJFRXltSG5vOGE3Y21LdHpRSWZ2QjVtLVVodkNNcWk1cUpJZ19YMU9FbjBPS2VRWEVRbFQ5dTAzV1MxYmtkRk9ZWWVRelNLUHE2TEtrdkdJNlNNMlBjVXNYTk9TdXRuYzZFUEJ5ZkM1cHZnSlN5YUlFenJ4dF9wQ3NZcU5zZ2R6OWljX1BjRmtpTHh4VjJuNHctWURNYWFn?oc=5",
+   "source": "bfsi.economictimes.indiatimes.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T11:49:35Z",
+   "relevance": 1,
+   "why": "Three public sector bank unions plan a nationwide strike on December 3 to oppose the sale of IDBI Bank.",
+   "summary_ai": "Three public sector bank unions plan a nationwide strike on December 3 to oppose the sale of IDBI Bank.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Strike on Dec 3"
+   ],
+   "also": []
+  },
+  {
+   "id": "a59d80e9547c",
+   "title": "Bank unions call for nationwide strike on December 3 against IDBI Bank sale to Fairfax",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUF9SMEllaWVFU2hSR3hKZEF1Nmx1dkVYaE1YazlOYjZLVHlRVjlIMmFZRG9QTVBodU5GYkxRUGUtTnN0eHdQMzduYV9HcEFrZDU0RWw5T3E1R0FlckR3aTBHaXEwNmRlV0hqdkNpTEhyLS00R3ZOVUwtR3pqTzdqLVlqOHRmZjVqdDd3eHRCamYzSnZJWFNRVGxhakIwRU9Sek16Q2g0MkhsTjh1Z082UHRGa2U4TXVjbWNQY0xwbzZpRnBvOE9qbFkyM2xsSTdOMmRUY2FxeExxQjlxS3AwOdIB5gFBVV95cUxPXzBMSGRWUjlESGlHYWZrRkFyWGtUNWxjcFY4a1pSeW9sU1I0NUJPem9qYjVBQ1JfZERwMmE3LXJEZUE3YnUwVWhyQ1ZhUWtTbTNfRTkxZzZTRDNybjdGVGJ2RDJ2T1dPUC0zMGpmMTN3RzN5NXVRbkM1cmYyYmtKRWJSb0dqMU1HdzE0LUpNOWpqbEhFLUM0c3J1cHpMZkZOQmctaHN2YndOYjdzM2ZETUVMQ3djM01iR0xSaTQ3MUNZYzVIU01EWnctbG9hRVlreU1Id183RktydlJHTndRYmtzWHlnZw?oc=5",
+   "source": "bfsi.economictimes.indiatimes.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T05:32:06Z",
+   "relevance": 1,
+   "why": "Indian bank unions plan a nationwide strike on December 3 over the proposed sale of IDBI Bank to Fairfax.",
+   "summary_ai": "Indian bank unions plan a nationwide strike on December 3 over the proposed sale of IDBI Bank to Fairfax.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "December 3"
+   ],
+   "also": []
+  }
+ ]
+}

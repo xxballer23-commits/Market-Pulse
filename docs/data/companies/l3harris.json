@@ -1,0 +1,31 @@
+{
+ "name": "L3Harris",
+ "slug": "l3harris",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e110eb4f6d65",
+   "title": "FAA Technician Only Unlocked The Door: Inside The Oversight Gap Behind The Nationwide Ground Stop",
+   "url": "https://onemileatatime.com/news/faa-technician-only-unlocked-door-oversight-gap-behind-nationwide-ground-stop/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-19T13:14:03Z",
+   "relevance": 2,
+   "why": "Ground stops can strand cardholders, so travel-disruption benefits stay relevant, but this is not a partnership lever.",
+   "summary_ai": "CNN reports an FAA technician only unlocked the door for an L3Harris contractor, tied to a March 2025 policy that cut maintenance oversight.",
+   "take": "Ground stops can strand cardholders, so travel-disruption benefits stay relevant, but this is not a partnership lever.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

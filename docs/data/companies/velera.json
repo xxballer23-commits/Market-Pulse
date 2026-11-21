@@ -12,19 +12,21 @@
    "source_type": "gnews",
    "published": "2026-11-20T10:42:47Z",
    "relevance": 3,
-   "why": "Debit outpacing credit growth hints at consumers shifting payment mix, relevant to card spend forecasts.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Debit outpacing credit may signal affluent users avoiding revolving debt; watch whether premium card spend keeps pace.",
+   "summary_ai": "Velera data show October debit card purchases grew at roughly twice the pace of credit card purchases.",
+   "take": "Debit outpacing credit may signal affluent users avoiding revolving debt; watch whether premium card spend keeps pace.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "spending_data"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "Double the credit growth rate, October"
+   ],
    "also": []
   }
  ]

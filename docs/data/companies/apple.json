@@ -31,32 +31,6 @@
    "also": []
   },
   {
-   "id": "2a62b0855ff5",
-   "title": "Chase Ultimate Rewards: 10-15% off Select Gift Card Redemptions (Lowe’s, Apple, Uber, DoorDash & More)",
-   "url": "https://www.doctorofcredit.com/chase-ultimate-rewards-10-15-off-select-gift-card-redemptions-lowes-apple-uber-doordash-more/",
-   "source": "Doctor of Credit",
-   "source_type": "rss",
-   "published": "2026-11-20T17:30:48Z",
-   "relevance": 3,
-   "why": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": null,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "community"
-   ],
-   "breaking": false,
-   "data_points": [
-    "Lowe's gift cards at 15% off",
-    "Apple, Uber, DoorDash and Choice at 10% off"
-   ],
-   "also": []
-  },
-  {
    "id": "88a233b4f879",
    "title": "Google wallet returns to Apple",
    "url": "https://www.paymentsdive.com/news/google-wallet-returns-to-apple/875182/",
@@ -77,6 +51,32 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "f7229f90830a",
+   "title": "Apple prepares to launch a new device leasing program in collaboration with Klarna by the end of July",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGlGX0UtdllzQUIyLWNCLWtBTTQxLVI3RkFkY1N5Q3V4ZFJtdjlCWWtkQ1MxSGN5S0Z6Wi1Vbm00cWZPS0pGZWdlUUJNQnJfOEtFXzQ4azRjVlpJajhRclNGT1ozeVhyaXY1Tk02c04yX09qeUN6d25WWUdpdHhna1paejhZVldOaEtwVEV3ZHc1eFNwUDRidmVJSnA5Vy12ZkJ0VFBGSFVucW96dHh4eVd4MFVpaU9OOUxQb1Q2UFp3eDduQ290RDQyLVV0cHliV01ZVm1zaVltcGdPbDhIYVRkYWpjZTA?oc=5",
+   "source": "آي-فون إسلام",
+   "source_type": "gnews",
+   "published": "2026-11-19T08:24:36Z",
+   "relevance": 3,
+   "why": "Track Apple and Klarna's device financing as a BNPL benchmark that could pressure card installment features.",
+   "summary_ai": "Apple reportedly plans a device leasing program with Klarna, targeted to launch by the end of July.",
+   "take": "Track Apple and Klarna's device financing as a BNPL benchmark that could pressure card installment features.",
+   "take_kind": "take",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported by secondary outlet, unconfirmed",
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "End of July"
+   ],
    "also": []
   }
  ]

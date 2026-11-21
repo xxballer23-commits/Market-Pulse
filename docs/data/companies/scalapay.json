@@ -1,0 +1,34 @@
+{
+ "name": "Scalapay",
+ "slug": "scalapay",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "bb2156dd4a45",
+   "title": "Italy Pay in 3 Credit Checks at Klarna, Scalapay, PayPal May Come After November 20 Deadline",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTl9BWDFENVZoMlVxYWVzRmV6WTVGUDJSVEdhbWJ6V3N0QTUyb01jaHNNNG1GYklZd3FsbEpibUQtSDVrQzJSWE00X1lzQlVlNUg3bElKUjYwN1JBUi1XbWx1TzAxXzZHYlJlOG1UeXNzYlFZOHUtWU55MXNQTlFrMFR2Vi14aTRaalVNNlUwQ2RhcVJUMk51X2xYOFBuT1JHR3AwLU5IdEFQTWFsclBydGs3YUkxY2g4US1PRTN3WWtwWDVocmozQVRfdmh3VTU5ckEtV09n?oc=5",
+   "source": "Tech Times",
+   "source_type": "gnews",
+   "published": "2026-11-19T06:25:20Z",
+   "relevance": 3,
+   "why": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "summary_ai": "Italy's credit checks for Pay in 3 products at Klarna, Scalapay and PayPal may begin after a November 20 deadline.",
+   "take": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "November 20"
+   ],
+   "also": []
+  }
+ ]
+}

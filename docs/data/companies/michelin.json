@@ -1,0 +1,56 @@
+{
+ "name": "Michelin",
+ "slug": "michelin",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0efd6dad7bad",
+   "title": "At Rocca, Chef Bryce Bonsack Brings Michelin-Starred Italian Dining to Tampa",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0OE5fNlFOcnpHNlZlZFpwMVNrSmRjby1NZkRodmt1c3RENHZFM1NnaVdMaVVEdVJjYnNXbTZLRFYtS2R0aFR4X1RmX0txUjhBLVF2ZVQyVlMxd1BjX19rSDVud0VPcy1FRWlfamd6SQ?oc=5",
+   "source": "Flamingo Magazine",
+   "source_type": "gnews",
+   "published": "2026-11-19T01:29:35Z",
+   "relevance": 2,
+   "why": "Chef Bryce Bonsack is bringing Michelin-starred Italian dining to Rocca in Tampa.",
+   "summary_ai": "Chef Bryce Bonsack is bringing Michelin-starred Italian dining to Rocca in Tampa.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "a8916003d155",
+   "title": "Michelin tips its hand on 6 Chicago restaurants that could land a star",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWUpPbDFQZVdEcnQ2V3NKN29qWTVZV2ZaNWVaNm1PSUs0WVJYSDdPeDF5aVg4WmZQRjd5anhVeHdhSW5HQ0lCbVZCZVpONW9RMFZRS2xMN3gyLWhWZW9qcV9NTEFFakNpZDdPaElpa0tQSVJMRUNhZ0NaNXNlby1PWTJDajVlSm5jc2dGVkFIUkk4OWFm?oc=5",
+   "source": "Crain's Chicago Business",
+   "source_type": "gnews",
+   "published": "2026-11-19T00:46:12Z",
+   "relevance": 2,
+   "why": "Michelin has hinted that six Chicago restaurants could earn stars in an upcoming guide.",
+   "summary_ai": "Michelin has hinted that six Chicago restaurants could earn stars in an upcoming guide.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Star predictions, unconfirmed",
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "6 Chicago restaurants"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "name": "Taittinger",
+ "slug": "taittinger",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1984ae597bc4",
+   "title": "Champagne Maker Taittinger Sells More to a World That’s Drinking Less",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNa3hLOXVwUU9JTjVjZk80bnczVkhZVWJyMVoybFQ4ZUtmSUs1LVQ3eW42SlNsUi1JQ2JYT0gwVUJlSTRGYWVUWHdIRDl4Y1JKa3FFQl9MV2NKU2NVRjNUNDRpSExBd3lLMUpUNUxUbHo2RzdPRkhxcWtQbVYzMWJRTWYzQkpzaDJadkVPejJwNUk1dE1UWFV4WEVEWWxKVmFWSlYtTXRBUUlLamZkX0o4d3BmS1Bna0RlRlFyMVFpYjhxTHNaUDlN?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T09:00:02Z",
+   "relevance": 2,
+   "why": "Premium champagne demand is holding up better than overall drinking trends, a signal for affluent spend on indulgent categories.",
+   "summary_ai": "Taittinger reports continued sales growth even as global alcohol consumption declines.",
+   "take": "Premium champagne demand is holding up better than overall drinking trends, a signal for affluent spend on indulgent categories.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

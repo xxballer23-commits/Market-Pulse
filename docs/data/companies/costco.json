@@ -11,22 +11,69 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T18:00:01Z",
-   "relevance": 1,
-   "why": "Discounted gift card purchase deal is routine deal-hunting content with little partnership value.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "relevance": 2,
+   "why": "Discounted merchant gift cards keep drawing points-community attention, a signal of demand for cheap, flexible spend credits.",
+   "summary_ai": "Costco has an upcoming deal selling $100 inKind gift cards for $64.99, capped at five per person.",
+   "take": "Discounted merchant gift cards keep drawing points-community attention, a signal of demand for cheap, flexible spend credits.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Upcoming deal, eligibility and end date unknown",
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "$100 inKind gift card for $64.99, limit 5"
+    "$100 inKind gift card",
+    "$64.99 price",
+    "Limit 5",
+    "Nov 26 start"
    ],
+   "also": []
+  },
+  {
+   "id": "0796e2f1a52d",
+   "title": "Dave Ramsey Admits He Still Makes This Common Costco Mistake",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHbDVIblpTeENlZ0ZtVzg1MjFXTkJFR1FqZmNON1U1aUg3ZkxveWVNcDg3YklNSV91SjIzekxFTGp1WG4wMU9KbFlyV1h4cVZFNWFDQ1kzcm52M3RvZjF6b1M4VzVocnM2VVpsOEdn?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-20T12:05:00Z",
+   "relevance": 1,
+   "why": "Personal finance columnist admits a common shopping mistake at Costco, a general consumer tip with no card news.",
+   "summary_ai": "Personal finance columnist admits a common shopping mistake at Costco, a general consumer tip with no card news.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "337e67395a7e",
+   "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+   "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-18T16:33:14Z",
+   "relevance": 2,
+   "why": "Outage-driven stockpiling shifts wallet share toward bulk warehouse channels, a shift worth tracking in category spend data.",
+   "summary_ai": "Tech outages are driving panic buying, with Costco seeing higher shopper spending, according to Mizuho.",
+   "take": "Outage-driven stockpiling shifts wallet share toward bulk warehouse channels, a shift worth tracking in category spend data.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

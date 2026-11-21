@@ -1,0 +1,31 @@
+{
+ "name": "Depop",
+ "slug": "depop",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1a414204ef54",
+   "title": "Depop - Vogue Business",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUU5OHZlaDBRcmM0WGlSa05zY2IzQjgwSVJYNHNaOWZiZkZrY19DR1FlTlNHb0dPTGlBcnpDOV83ZnNtWGFPSW5zeW5iUnU0b2RWYXVITElDYU5BOWplZXdsU2RKR1AzbWljb2ROVGVUSTFSdHRGS0piNEJ3RUVXSmNRYnoxbm12ejVzcjlpM1pYX3Nqb2xlb29odTE0NTJvSndRYWpwUFdNYkY1LWc?oc=5",
+   "source": "Vogue",
+   "source_type": "gnews",
+   "published": "2026-11-19T12:02:44Z",
+   "relevance": 2,
+   "why": "Vogue Business has published coverage of Depop, the resale fashion marketplace, though the headline gives few specifics.",
+   "summary_ai": "Vogue Business has published coverage of Depop, the resale fashion marketplace, though the headline gives few specifics.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

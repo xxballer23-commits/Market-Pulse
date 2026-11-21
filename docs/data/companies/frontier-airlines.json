@@ -1,0 +1,33 @@
+{
+ "name": "Frontier Airlines",
+ "slug": "frontier-airlines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fe63f7a68c83",
+   "title": "Frontier Airlines' GoWild flight pass is back for 2027",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWFByeWo3Y1oyVU1HRVd1Zi1jUkZPdlhjZExQQkk3aDVSVEs2UWxYT3NoRUNjZWtaUUFqT0cxUno3UTJ3RFVMLU5JM1NtMUhmYkNpZU9MS2hzLTFWbW5nd2NqVmpOVmhhVFNxUjc1YzJ2Z3A1WDdOSTczeU5FLS1nMGYtR2wzdXNZTHhrd3pyQzVhU00?oc=5",
+   "source": "The Points Guy",
+   "source_type": "gnews",
+   "published": "2026-11-19T03:53:33Z",
+   "relevance": 2,
+   "why": "Frontier Airlines is bringing back its GoWild flight pass for 2027.",
+   "summary_ai": "Frontier Airlines is bringing back its GoWild flight pass for 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2027"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "name": "HomeGoods",
+ "slug": "homegoods",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1a7ab61d58e7",
+   "title": "Big-Box Briefing: Target faces off with Trader Joe’s, Quince and HomeGoods",
+   "url": "https://www.modernretail.co/operations/big-box-briefing-targets-retail-reset-means-facing-off-with-trader-joes-quince-and-homegoods/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "source": "Modern Retail",
+   "source_type": "rss",
+   "published": "2026-11-20T14:30:00Z",
+   "relevance": 1,
+   "why": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
+   "summary_ai": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

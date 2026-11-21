@@ -1,0 +1,43 @@
+{
+ "name": "Sunbit",
+ "slug": "sunbit",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "31a5f8360f74",
+   "title": "360 Payments Adds Sunbit Financing Across More Than 5,000 Independent Auto Repair Shops",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPamxnQy1odkNGQktfaGQ3aElQYXNHcjBzQzlOWjFFcjktXzFuNXZCSnJXVGZmVEpRb1E2UTJlUkVtaU90RXlaXzRPOHNWYXJkVnRTQzNtcXJ6RnowSF9RdUt6U0dHZ0tSa1haQTVIcGlJMU90SEg0UTlmblVPSkRFTFB2cUtNaHQ5Y3N3WFZrNEViWjZqZGNjZlpuVlRTV2Y1MEt6VDFvZHVjd216cHVFS3dZM1p4RXRQdDdQT0xOODFvcWJRZE9hZUpmdHRuc2RnVnFUaGUwM3JpNlNnOTVjZmZ3?oc=5",
+   "source": "Morningstar",
+   "source_type": "gnews",
+   "published": "2026-11-19T13:00:00Z",
+   "relevance": 3,
+   "why": "Point-of-sale installment spend is moving into service verticals; a candidate for embedded lending conversations.",
+   "summary_ai": "360 Payments is adding Sunbit financing at more than 5,000 independent auto repair shops.",
+   "take": "Point-of-sale installment spend is moving into service verticals; a candidate for embedded lending conversations.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5,000+ auto repair shops"
+   ],
+   "also": [
+    {
+     "source": "Ratchet and Wrench",
+     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcGlLMFVTUVFBYjVzOS05dUc1WmZoRzJIekxDN2RpeE5OWFpOcndlcHVTN1BfMThtT0Q2WnY5M29LOHV5MWk0ZUREdnNGdHQxcGR1VWFhcXdOOVNhSWVHdWdQdHlkN1N3ekVzaEZUUWs2VzVNSmQyLVdfMnZjanJYSl9CdUJaTkFnYVFOczlTTEVpbFUyRlpzRmJoN1FzTGxpMjZEWTV1ZVpIdnNwZjlGNkJkZHM4SmdPSDhIalpJeHZOdWFrYy1CUldfUFkxUXVwN1kzdGJ4emEtM2hqb1pUeVlOWW9pN3l2cl9jSlpyYnVOUQ?oc=5"
+    },
+    {
+     "source": "Traction News",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRjNUMV8wTVVPS1dmWWtJUXBmemE4N0pyakRVcWczLUllOExfNHBEakpLZHQwN1FKTUMzbnFrZ250YVZVbHgtZ05HYXdQc3NMeG9wa2ZzWWVYRS04U2loOTEydFRxcGVac053ZVJzaGhxUHBqRlI1YkRvOHJJVVlMNlV4dDRRdXpma1VZM1JvRktJa00?oc=5"
+    }
+   ]
+  }
+ ]
+}

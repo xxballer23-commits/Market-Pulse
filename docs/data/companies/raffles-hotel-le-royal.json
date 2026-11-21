@@ -1,0 +1,33 @@
+{
+ "name": "Raffles Hotel Le Royal",
+ "slug": "raffles-hotel-le-royal",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5815b4060d70",
+   "title": "Raffles Hotel Le Royal in Phnom Penh serves a jewelled afternoon tea: a real citrine to keep for €51",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHZGaXE2YVc4NGtIdngxMWl1alRGN0NuMkJlcHpsLTRPMFY2VG51V2R3SjZQS2tvOGctZnZ3OUVBTm5YUUY1djhOWWV0TTAzWXY0bjJNY2RQb2RJbU11ajU1cFl4dXNDQ3lLajBtVnRsdkVqSWJrdUZmejY0U2NsWmhzMG9aS0ZJ?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-20T14:52:14Z",
+   "relevance": 2,
+   "why": "Raffles Hotel Le Royal in Phnom Penh serves a jewelled afternoon tea that includes a real citrine, priced at €51.",
+   "summary_ai": "Raffles Hotel Le Royal in Phnom Penh serves a jewelled afternoon tea that includes a real citrine, priced at €51.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "€51 afternoon tea"
+   ],
+   "also": []
+  }
+ ]
+}

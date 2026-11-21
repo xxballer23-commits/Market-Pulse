@@ -31,6 +31,54 @@
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLXFLUk52aUgyX0VmR1VneXFGaGpUUVZBTktiazlCZnNUaVlyX0lkZXBHRGo2YXhFRmczOVRtV3lfc3FkT3YxY1doXzZTWVZfM011RHNfMkNEVWRtNkgzM2lmN2ltdDdlNnpPZUp5YTlPanlJdG5tZzc2OXFubjRKYnRZTDJTeE93WUdnYXpHV2M4R3dZUmlhOXZYMm9lLVZ0STJpMURYVG0tanQ2NVRzQmhWS3JuTFprdnc?oc=5"
     }
    ]
+  },
+  {
+   "id": "cc6b543e0a3f",
+   "title": "How Could Sezzle Anywhere's (NASDAQ:SEZL) Canadian Launch Reshape Buy Now, Pay Later?",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPYnB2S1h0QjhCVGhORHY4UDE2S2piOGw4aEtjaHppbWZXUjJ2ZHh0Qk5JLXFBclI1WHpPdDVHcXRvaklFU3hDd2NJNTJfakpESy1zZ1hJcVFCUVFlbnNiQUFGTDFiQ0ptREx0YU9LYlV6cVM4eWFGTEZPUFRPcUE3Vm54eEZqQ2VLOTdkWXBwbkZzZENwNWFCUDZ2OFdTUXJ1bVhBTnpiR0lLcF9ZYUprSXE5aXRCcUE4?oc=5",
+   "source": "Kalkine",
+   "source_type": "gnews",
+   "published": "2026-11-19T10:41:00Z",
+   "relevance": 3,
+   "why": "Watch Canadian BNPL entrants, since they may pressure card-based pay-over-time features.",
+   "summary_ai": "Sezzle Anywhere is planning a Canadian launch that could change how buy now, pay later works there.",
+   "take": "Watch Canadian BNPL entrants, since they may pressure card-based pay-over-time features.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "aecb14d6f97a",
+   "title": "Sezzle’s Journey: From Buy Now, Pay Later to $5 Billion Market Cap and Becoming a Bank",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmotUTdjeTRRZFUxTWlHak1aWkFUYXF6M1dXV204Y0Z2S0kxWC1QMlFRMm9JNHN5b0w1cWhVWE1NWmVmRWlsZlFIajdtTDFoZXJKdTl2OE5DQkY3MUVtQk43cnJRRGdhMXd3dW4xcm9uLVRYSXdndmEwVkNSUHE1TnZLU1pkMmhNWkNJZWxFQ05FXzNEZ1JnMzVubHJIZXd1anJtRGI2cXJmOVhuMzZyeg?oc=5",
+   "source": "Twin Cities Business",
+   "source_type": "gnews",
+   "published": "2026-11-19T04:06:39Z",
+   "relevance": 3,
+   "why": "A bank charter could let BNPL lenders fund loans more cheaply, a shift worth tracking for card lending partnerships.",
+   "summary_ai": "Sezzle's path from buy now, pay later provider to a $5 billion market cap company pursuing a bank charter is profiled.",
+   "take": "A bank charter could let BNPL lenders fund loans more cheaply, a shift worth tracking for card lending partnerships.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$5 billion market cap"
+   ],
+   "also": []
   }
  ]
 }

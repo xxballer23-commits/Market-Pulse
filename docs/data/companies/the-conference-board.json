@@ -1,0 +1,31 @@
+{
+ "name": "The Conference Board",
+ "slug": "the-conference-board",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3cf13c3ea2a5",
+   "title": "The Conference Board Says CEOs Should Be Prepared to Defend Algorithmic Pricing",
+   "url": "https://www.pymnts.com/news/retail/2026/the-conference-board-says-ceos-should-be-prepared-to-defend-algorithmic-pricing/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-21T01:39:20Z",
+   "relevance": 2,
+   "why": "The Conference Board advises companies using algorithmic pricing to prepare plain explanations of the practice in case it becomes public.",
+   "summary_ai": "The Conference Board advises companies using algorithmic pricing to prepare plain explanations of the practice in case it becomes public.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

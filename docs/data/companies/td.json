@@ -12,12 +12,12 @@
    "source_type": "gnews",
    "published": "2026-11-20T12:33:34Z",
    "relevance": 2,
-   "why": "Rising share of rate-linked mortgages signals household rate sensitivity that could spill into credit health.",
-   "summary_ai": null,
+   "why": "TD reports a record share of mortgages, 35%, now reprice in step with the policy rate.",
+   "summary_ai": "TD reports a record share of mortgages, 35%, now reprice in step with the policy rate.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "A record 35% of mortgages now move with the policy rate"
+    "35% of mortgages"
    ],
    "also": []
   }

@@ -12,12 +12,12 @@
    "source_type": "gnews",
    "published": "2026-11-20T17:10:00Z",
    "relevance": 2,
-   "why": "Private equity takeover of a payments platform signals consolidation among fintech infrastructure providers that could affect future partner options.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Consolidation in B2B spend management could shift which commercial card and payables partners are available.",
+   "summary_ai": "BILL agreed to go private in a roughly $6 billion deal with TPG and Corpay.",
+   "take": "Consolidation in B2B spend management could shift which commercial card and payables partners are available.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "$6 billion deal value"
+    "$6 billion"
    ],
    "also": []
   },

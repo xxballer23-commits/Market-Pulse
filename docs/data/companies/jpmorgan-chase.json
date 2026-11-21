@@ -63,20 +63,20 @@
    "source_type": "gnews",
    "published": "2026-11-20T00:37:27Z",
    "relevance": 3,
-   "why": "A data exposure touching premium reserve cardholders could raise security and trust questions for rival premium issuers.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Confirm the facts with Chase and our security team before any premium cardholder outreach; a leak at a rival reserve tier affects trust in invite-only programs.",
+   "summary_ai": "A reported data leak exposed contact details of 16,000 reserve-tier customers, per a single unverified source.",
+   "take": "Confirm the facts with Chase and our security team before any premium cardholder outreach; a leak at a rival reserve tier affects trust in invite-only programs.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Single unverified source, details unconfirmed",
    "sections": [
     "premium_cards"
    ],
    "breaking": false,
    "data_points": [
-    "Exposure of contact information for 16,000 reserve customers"
+    "16,000 customers"
    ],
    "also": []
   },
@@ -206,6 +206,75 @@
    "benefit_type": null,
    "low_confidence": "Reported via thin source, vendors unnamed",
    "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "e28744eeb471",
+   "title": "Wells Fargo reportedly hires JP Morgan card services chief Allison Beer as next COO",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM2J0V21QUURaNDBwU2MwY0lYUE1IT2s1ZEE3UXRnWTR6cXc4ODFrX3BBb2JiaC1JMjhJUFBzTTJsWktpWjBDRk83ajZ5cWlLVXU1MVN3ckNVeVNBcGpTVkd0dnVfRElyakV4eUg2MThoQzBvZTB0clJMWFNDU2U5RFNSODc4YTZ3S1p3ZE01bE16cEtra3k5SExrSnUtZ0k?oc=5",
+   "source": "FinTech Futures",
+   "source_type": "gnews",
+   "published": "2026-11-19T10:20:58Z",
+   "relevance": 3,
+   "why": "Beer ran Chase card services, so watch for signals of Wells premium card refreshes under her influence.",
+   "summary_ai": "Report says Wells Fargo has hired JPMorgan's card services chief Allison Beer as its next chief operating officer.",
+   "take": "Beer ran Chase card services, so watch for signals of Wells premium card refreshes under her influence.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported hire, not confirmed",
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c8fab31d4887",
+   "title": "Wells Fargo to name JPMorgan's Allison Beer as new COO - Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTgzVFoxZXhtTGZWWXg4a2R3d0pRZUNxcGd0enhHVFpuMkJ0QWR6MTFuUnZDYnhIYk5OTDVXay04bGlMZ2p3MFFEemV0cUR0YWVtdllZTkk3NTJzekhNdnA0SjloMkdraTVWamVxdkhOWEZpZWR1eGtHWjdzeXl5S2EtUVMzVURjODI2elVZUEtSckVWczdFWlA2ZTktcDA1dFZyWW04bi1sMjFBckN5UUU5V0VYWk03Uk1ueElPbzcybXZJ?oc=5",
+   "source": "StreetInsider",
+   "source_type": "gnews",
+   "published": "2026-11-19T02:03:45Z",
+   "relevance": 2,
+   "why": "Wells Fargo is set to name JPMorgan executive Allison Beer as its new chief operating officer.",
+   "summary_ai": "Wells Fargo is set to name JPMorgan executive Allison Beer as its new chief operating officer.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "88c202caa782",
+   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+   "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-18T06:18:11Z",
+   "relevance": 3,
+   "why": "Issuer-led agent payment pilots are a live template; check whether Chase plans to bring this model to US cardholders.",
+   "summary_ai": "JPMorgan and Hyundai Card are developing financial transactions that AI agents initiate without a human in the loop.",
+   "take": "Issuer-led agent payment pilots are a live template; check whether Chase plans to bring this model to US cardholders.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

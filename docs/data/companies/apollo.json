@@ -12,20 +12,20 @@
    "source_type": "gnews",
    "published": "2026-11-20T17:18:56Z",
    "relevance": 2,
-   "why": "Large lending into Manhattan luxury condos signals continued capital flowing into high-end real estate for affluent buyers.",
-   "summary_ai": null,
+   "why": "Apollo is providing $305 million in financing for a luxury condominium project in Tribeca.",
+   "summary_ai": "Apollo is providing $305 million in financing for a luxury condominium project in Tribeca.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "spending_data"
+    "luxury"
    ],
    "breaking": false,
    "data_points": [
-    "$305 million loan"
+    "$305 million"
    ],
    "also": []
   }

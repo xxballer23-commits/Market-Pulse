@@ -22,19 +22,44 @@
  "vets": [],
  "items": [
   {
+   "id": "f02d875d88ef",
+   "title": "Which Bilt Members Get JetBlue Mosaic Free on Dec. 1?",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWxNOThFYVhjMG5LS1VvWllGOXRWcEFNV3pWNUxiVTJpcWdJOV95OU44WEZoc0hCSEtPME10NFJJbk1DUHNVbjZ1eWF3QUEyMDA0ZVdUN2lhZ1lBV01fU2FJWTJVbUowQXNXZXVzYTNuWHpWUERjVmpiUTBUYlJ4Zjk5RXE5akNib2tQekRVc2t3RHVPYnc?oc=5",
+   "source": "deeparrival.com",
+   "source_type": "gnews",
+   "published": "2026-11-21T01:15:44Z",
+   "relevance": 4,
+   "why": "Confirm which Bilt tiers qualify; a JetBlue status perk is a usable airline pairing for the card lineup.",
+   "summary_ai": "Some Bilt members will reportedly receive JetBlue Mosaic status for free starting December 1.",
+   "take": "Confirm which Bilt tiers qualify; a JetBlue status perk is a usable airline pairing for the card lineup.",
+   "take_kind": "take",
+   "partner": "JetBlue",
+   "benefit_move": true,
+   "benefit_type": "airline",
+   "low_confidence": "Eligibility unclear from headline",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Dec. 1"
+   ],
+   "also": []
+  },
+  {
    "id": "c76355162a07",
    "title": "Bilt Rent Day: Up to a 100% bonus when using points for a statement credit, JetBlue status match",
    "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/",
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-20T20:45:38Z",
-   "relevance": 4,
-   "why": "Bilt's bonus redemption and airline status match show how issuers use points promos and airline partners to drive engagement.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": null,
+   "relevance": 3,
+   "why": "Partner-funded status matches and redemption bonuses are a template to test for our own rent and statement-credit promos.",
+   "summary_ai": "Bilt's Rent Day promo offers up to a 100% bonus when points are used for statement credits, plus a JetBlue status match.",
+   "take": "Partner-funded status matches and redemption bonuses are a template to test for our own rent and statement-credit promos.",
+   "take_kind": "take",
+   "partner": "JetBlue",
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -43,9 +68,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Up to a 100% bonus on points redeemed for statement credits",
-    "Statement credit redemption normally 0.55 cents per point",
-    "JetBlue Mosaic status match"
+    "Up to 100% bonus"
    ],
    "also": []
   },
@@ -56,23 +79,20 @@
    "source": "InsideFlyer",
    "source_type": "gnews",
    "published": "2026-11-20T20:45:38Z",
-   "relevance": 4,
-   "why": "A tiered redemption bonus paired with an airline status match is a concrete benchmark for benefit design on rent-focused premium cards.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": null,
+   "relevance": 3,
+   "why": "Appears to be the same Bilt promotion as the Rent Day story, so track it as one event.",
+   "summary_ai": "Bilt has introduced a tiered redemption bonus alongside a JetBlue status match, based on InsideFlyer coverage.",
+   "take": "Appears to be the same Bilt promotion as the Rent Day story, so track it as one event.",
+   "take_kind": "read",
+   "partner": "JetBlue",
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
    "breaking": false,
-   "data_points": [
-    "Tiered redemption bonus",
-    "JetBlue status match"
-   ],
+   "data_points": [],
    "also": []
   },
   {
@@ -248,6 +268,33 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "90947753a4ed",
+   "title": "Buy JetBlue TrueBlue Points With 125% Bonus (1.43 Cents Each): Worth It?",
+   "url": "https://onemileatatime.com/deals/buy-jetblue-trueblue-points/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-19T10:53:57Z",
+   "relevance": 2,
+   "why": "Buying TrueBlue points rarely pays off on JetBlue flights, so value depends on partner award redemptions.",
+   "summary_ai": "JetBlue TrueBlue is selling points with a bonus of up to 125%, bringing the price as low as 1.43 cents each.",
+   "take": "Buying TrueBlue points rarely pays off on JetBlue flights, so value depends on partner award redemptions.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "125% bonus",
+    "1.43 cents each"
+   ],
    "also": []
   }
  ]

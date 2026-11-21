@@ -36,21 +36,20 @@
    "source_type": "rss",
    "published": "2026-11-20T17:30:48Z",
    "relevance": 3,
-   "why": "Shows how Chase Ultimate Rewards uses discounted gift card redemptions to add perceived value, a tactic partners could help fund.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Redemption-value promos like this show how issuers use points pricing to steer spend toward partner merchants.",
+   "summary_ai": "Chase Ultimate Rewards is offering partial discounts on several popular gift card redemptions.",
+   "take": "Redemption-value promos like this show how issuers use points pricing to steer spend toward partner merchants.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community"
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [
-    "Lowe's gift cards at 15% off",
-    "Apple, Uber, DoorDash and Choice at 10% off"
+    "10-15% off"
    ],
    "also": []
   },
@@ -98,58 +97,6 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
-  },
-  {
-   "id": "1a75ef1ce2d6",
-   "title": "JPMorgan Chase data leak exposes contact information of 16,000 reserve customers",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tTTmFoQ1dibGRSeDg5SWlQdThuY0pGRF9fc2xySXpMYWc0dDBEajZYNlBfeEpBVnBCM0sxTXJnbGJ4ZkVzcHk1eVk4OXNfN0NJbmFuX29fYTNqWFQtQVB1Wk5wVDhjcUVYMDlTUmF5aUVQWmdyRWVGWWNHNW5zTDhaTUdzdW9JTDhKSFd1YkpsY29lSko5Sk1vTllNTFNEOHI3VmhEVQ?oc=5",
-   "source": "KuCoin",
-   "source_type": "gnews",
-   "published": "2026-11-20T00:37:27Z",
-   "relevance": 3,
-   "why": "A data exposure touching premium reserve cardholders could raise security and trust questions for rival premium issuers.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": null,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "premium_cards"
-   ],
-   "breaking": false,
-   "data_points": [
-    "Exposure of contact information for 16,000 reserve customers"
-   ],
-   "also": []
-  },
-  {
-   "id": "1a93ecd1c41e",
-   "title": "Rakuten offering $50 cashback or up to 5K Bilt points for three Citi cards",
-   "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/",
-   "source": "Frequent Miler",
-   "source_type": "rss",
-   "published": "2026-11-19T23:45:33Z",
-   "relevance": 4,
-   "why": "Rakuten's approval bonuses across issuers show how card-linked offers are being used to drive acquisition, a model worth tracking.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": null,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "partnerships",
-    "community"
-   ],
-   "breaking": false,
-   "data_points": [
-    "$50 cashback or up to 5,000 Bilt points",
-    "Offers span three Citi cards"
-   ],
    "also": []
   },
   {
@@ -287,6 +234,30 @@
    "low_confidence": null,
    "sections": [
     "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2c1a8ef5788e",
+   "title": "Chase Adds Qantas and Cathay Pacific as Transfer Partners",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Oa0lGb2ItLUx6bWpCdFB0QTR3UUx5YTFkLTRqWEdOaU5MTnhvVndRdW1WT2ZTVkFZT2dmZHloeGRjOU1icnBzSWMza1dOSERVRTdfbmpmZG9BOUJNRzlzRHZWVmpsLVV4ZDUwNlpTN1FaUU0?oc=5",
+   "source": "cwibc.co.id",
+   "source_type": "gnews",
+   "published": "2026-11-19T06:35:41Z",
+   "relevance": 4,
+   "why": "Chase is widening Asia-Pacific airline transfer reach; check whether our points program has matching carrier partners.",
+   "summary_ai": "Chase is adding Qantas and Cathay Pacific as transfer partners for its points program.",
+   "take": "Chase is widening Asia-Pacific airline transfer reach; check whether our points program has matching carrier partners.",
+   "take_kind": "take",
+   "partner": "Qantas, Cathay Pacific",
+   "benefit_move": true,
+   "benefit_type": "travel",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],

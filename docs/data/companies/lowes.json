@@ -24,6 +24,29 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "ea1ca0398887",
+   "title": "Lowe's posts strong online sales, raises outlook despite slow housing market",
+   "url": "https://www.cnbc.com/2026/11/18/lowes-low-q3-2026-earnings.html",
+   "source": "CNBC Retail",
+   "source_type": "rss",
+   "published": "2026-11-18T18:27:52Z",
+   "relevance": 2,
+   "why": "Lowe's reported strong online sales and raised its full-year outlook despite a sluggish housing market.",
+   "summary_ai": "Lowe's reported strong online sales and raised its full-year outlook despite a sluggish housing market.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
   }
  ]
 }

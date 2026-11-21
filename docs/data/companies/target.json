@@ -11,18 +11,16 @@
    "source": "Modern Retail",
    "source_type": "rss",
    "published": "2026-11-20T14:30:00Z",
-   "relevance": 2,
-   "why": "Mass retailer earnings and value brand competition hint at affluent shoppers trading between premium and value goods.",
-   "summary_ai": null,
+   "relevance": 1,
+   "why": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
+   "summary_ai": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "luxury"
-   ],
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []
@@ -71,6 +69,50 @@
    "data_points": [
     "Half the West Elm price"
    ],
+   "also": []
+  },
+  {
+   "id": "466ba3243aba",
+   "title": "12 Things Retirees Should Never Buy at Target",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VdlJVRG93Y0Q3dk12ZjlZQUFQb0w0MGc5ZHRDd3lJSkJNN1dYTkFkak5LMlEtZV9hcUI0MGdxY0pTcHRWTGFFNWtHeEN5cDFMTWVRT0s3VnBWTXlKdGpzSExfR3NMRHV6YnhwT3FkY1VuQQ?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-19T10:00:00Z",
+   "relevance": 1,
+   "why": "A consumer listicle covering items retirees should avoid buying at Target.",
+   "summary_ai": "A consumer listicle covering items retirees should avoid buying at Target.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "5296b6f36502",
+   "title": "Target shares rise 7% as retailer posts best sales growth in five years, hikes guidance",
+   "url": "https://www.cnbc.com/2026/11/18/target-tgt-q3-2026-earnings.html",
+   "source": "CNBC Retail",
+   "source_type": "rss",
+   "published": "2026-11-18T17:56:50Z",
+   "relevance": 2,
+   "why": "Target's turnaround signals mass-market spend is firming, a useful backdrop for mid-tier cardholder spend forecasts.",
+   "summary_ai": "Target's shares climbed after its best third-quarter sales growth in five years and a raised outlook.",
+   "take": "Target's turnaround signals mass-market spend is firming, a useful backdrop for mid-tier cardholder spend forecasts.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

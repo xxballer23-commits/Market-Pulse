@@ -53,6 +53,32 @@
     "6 restaurants"
    ],
    "also": []
+  },
+  {
+   "id": "cad6c7395491",
+   "title": "Michelin Guide Adds 12 More NYC Restaurants Ahead of December Awards",
+   "url": "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
+   "source": "Eater NY",
+   "source_type": "rss",
+   "published": "2026-11-18T19:26:15Z",
+   "relevance": 3,
+   "why": "Fresh Michelin recognitions tend to drive reservation demand, which matters for dining perk and booking planning.",
+   "summary_ai": "Michelin added 12 more New York City restaurants to its guide ahead of the December 14 awards ceremony.",
+   "take": "Fresh Michelin recognitions tend to drive reservation demand, which matters for dining perk and booking planning.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [
+    "12 restaurants added",
+    "Dec 14 awards"
+   ],
+   "also": []
   }
  ]
 }

@@ -1,0 +1,31 @@
+{
+ "name": "Paymentology",
+ "slug": "paymentology",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "73025ab897f2",
+   "title": "How Stablecoin-Linked Cards Could Change the Future of Everyday Payment Funding",
+   "url": "https://www.finextra.com/videoarticle/3647/how-stablecoin-linked-cards-could-change-the-future-of-everyday-payment-funding?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-18T13:00:00Z",
+   "relevance": 3,
+   "why": "Stablecoin funding is a new card-funding rail that issuers should track as a possible partnership category.",
+   "summary_ai": "Paymentology's Jeff Parker discusses demand for stablecoin-linked cards and how issuers manage their funding.",
+   "take": "Stablecoin funding is a new card-funding rail that issuers should track as a possible partnership category.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}
