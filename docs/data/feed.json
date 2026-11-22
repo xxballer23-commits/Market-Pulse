@@ -254,7 +254,12 @@
   "fetched": "2026-11-21T01:07:09Z",
   "summary": "",
   "hint": null,
-  "also": [],
+  "also": [
+   {
+    "source": "PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmFKc1ItaU5DM3Z3UkMxRVh4QkxiMnAwRXd5SE5aUm5BYzNFNnN0aXRNSTMyblNIZmN1Vnppd3BHWmZmaGMxcFpMQ2VQR0FwN0gwT0tvWWxNdGNLTmFvTU8wbVJZcnBjWFhDakF3QndGdl9DTkNyNGFsMnJEaXljQUhzaVA3TS1jVDVvQzU2Slh3dGFOZGRUcERLOWhXQ2o4YVdEX3VGVnJuSTIzZGxZWHJ0Uk8?oc=5"
+   }
+  ],
   "enriched": true,
   "sections": [
    "lending"
@@ -1824,7 +1829,12 @@
   "fetched": "2026-11-21T00:04:59Z",
   "summary": "",
   "hint": "wells",
-  "also": [],
+  "also": [
+   {
+    "source": "The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSUNjOWJSN3VYTnlKMjZuSGt0anR6M1pCNWo0SDgxaTU1V01hMmppRmZ2ZDhyZnZLbldVZ2d4TE9hSElYWUZzSzNhZ0tPaXRhSWZDUnQ1M3lhYzFXdXc1SFNJNHNJQTN4akFzSkpMaFl0T2FfRWxfcDg2d2tMbHU3U3diZ2VoVjBkWTkyVDlkcUZtcDVoYUE4d3NXclBTMFpCZGdXOVlJX0lpSFROTnRycWpUNzFpaVN6ZW9MZDBreVMyelVrMG9heE1iV0FHMjdaNWNZeHNXMV9uWlM4?oc=5"
+   }
+  ],
   "enriched": true,
   "sections": [],
   "subcategory": null,
@@ -6867,7 +6877,12 @@
   "fetched": "2026-11-21T00:04:58Z",
   "summary": "",
   "hint": "luxury",
-  "also": [],
+  "also": [
+   {
+    "source": "The Courier-Journal",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdURETUVxUXZyNG95SGxEdTBheElkVTBaOHBhclZNNDdtejB0YnZQWHNNdi1vVHQ1QUpOc29Oell5TVlGMEZJbkxFUlFGVm9lQ1JKcGFyVm9BQ0J6UFJlTkYwMUxLS3h4TllUZ1h0alY3NmY3Y011NHlESTU0Y3oxb3AyMG0xUmpISE1VZURCMHdZVDhxYml1bGp2WW4wWWVYenhLX25NWXNYNm1UaFVJZFlkVkFFSkxuRWZlYk9keXB6NEk4STJv?oc=5"
+   }
+  ],
   "enriched": true,
   "sections": [
    "luxury"
@@ -15456,7 +15471,12 @@
   "fetched": "2026-11-21T00:04:58Z",
   "summary": "",
   "hint": "spending_data",
-  "also": [],
+  "also": [
+   {
+    "source": "San Bernardino Sun",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZRjJRclR6TXRIdTk2S2ZMeEs0bmtXVHZFNzU3Y25YYVBzZ0hYbDlFdHVMNXdiX2JjMnlRWXB4R0hRSldvMEJvX1lWRTJxWDZUaE13cmx5VWl6Rm05eXNOWHZzR2dqUnR5M21ISQ?oc=5"
+   }
+  ],
   "enriched": true,
   "sections": [
    "luxury",

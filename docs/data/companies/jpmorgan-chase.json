@@ -25,7 +25,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmFKc1ItaU5DM3Z3UkMxRVh4QkxiMnAwRXd5SE5aUm5BYzNFNnN0aXRNSTMyblNIZmN1Vnppd3BHWmZmaGMxcFpMQ2VQR0FwN0gwT0tvWWxNdGNLTmFvTU8wbVJZcnBjWFhDakF3QndGdl9DTkNyNGFsMnJEaXljQUhzaVA3TS1jVDVvQzU2Slh3dGFOZGRUcERLOWhXQ2o4YVdEX3VGVnJuSTIzZGxZWHJ0Uk8?oc=5"
+    }
+   ]
   },
   {
    "id": "b7928358df87",

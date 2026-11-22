@@ -174,7 +174,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "San Bernardino Sun",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZRjJRclR6TXRIdTk2S2ZMeEs0bmtXVHZFNzU3Y25YYVBzZ0hYbDlFdHVMNXdiX2JjMnlRWXB4R0hRSldvMEJvX1lWRTJxWDZUaE13cmx5VWl6Rm05eXNOWHZzR2dqUnR5M21ISQ?oc=5"
+    }
+   ]
   },
   {
    "id": "1f62b2a693f6",
