@@ -6,12 +6,12 @@
    "benefit": "JetBlue Mosaic status match",
    "partner": "JetBlue",
    "category": "travel",
-   "status": "announced",
+   "status": "live",
    "announced": "2026-11-20",
-   "note": "Now tied to the Bilt Rent Day promo alongside a tiered redemption bonus. The source URL calls it a Mosaic challenge, so terms may require activity. Full terms and dates are not stated in the items.",
-   "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/",
+   "note": "Tied to the Dec. 1 Rent Day. Reportedly offered as a status challenge with a fast track to keep status through 2027 and reduced retention targets. Eligibility appears gated (some members only), so details are not fully confirmed.",
+   "url": "https://thepointsguy.com/news/bilt-rent-day-promo/",
    "added": "2026-11-20",
-   "updated": "2026-11-20"
+   "updated": "2026-11-23"
   },
   {
    "issuer": "Etihad",
@@ -19,12 +19,12 @@
    "benefit": "US co-brand card launch",
    "partner": null,
    "category": "travel",
-   "status": "announced",
+   "status": "live",
    "announced": "2026-11-20",
-   "note": "First Etihad cards for the US market, flagged as a new high-fee premium competitor. Issuer, benefits and launch date not given in the items, so watch for details.",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hSVo4ZlY4VkNsZzFPSWR3M00zOHpLZlppN1o4SHJod2dqODVGSE1PNWNlZy0wQ0pyN0VKZWYzdTQ4SkN2OU5EWW5tWGt1SXRXRVlkd3psYWhlMXJxd1laSGhVR1I4UQ?oc=5",
+   "note": "Launched as two cards issued by FNBO, one reportedly offering instant airline status and lounge access. Fees and earn not stated in the items.",
+   "url": "https://www.doctorofcredit.com/fnbo-etihad-launches-two-new-credit-cards/",
    "added": "2026-11-20",
-   "updated": "2026-11-20"
+   "updated": "2026-11-23"
   },
   {
    "issuer": "Bilt",
@@ -34,11 +34,115 @@
    "category": "other",
    "status": "announced",
    "announced": "2026-11-20",
-   "note": "Up to a 100% bonus when points are redeemed for statement credits, which normally redeem at 0.55 cents per point. Take: a time limited redemption boost is a cheap way to lift engagement, and Wells Fargo could counter with a similar promo on a premium card.",
-   "url": "https://frequentmiler.com/bilt-rent-day-up-to-a-100-bonus-when-using-points-a-statement-credit-jetblue-mosaic-challenge/",
+   "note": "December Rent Day (Dec. 1) offers up to a 100% bonus when points are used for statement credits.",
+   "url": "https://thepointsguy.com/news/bilt-rent-day-promo/",
    "added": "2026-11-20",
-   "updated": "2026-11-20"
+   "updated": "2026-11-23"
+  },
+  {
+   "issuer": "Chase",
+   "card": "Chase Ultimate Rewards cards",
+   "benefit": "Qantas and Cathay Pacific transfer partners",
+   "partner": "Qantas and Cathay Pacific",
+   "category": "travel",
+   "status": "announced",
+   "announced": "2026-11-19",
+   "note": "Take: widens Chase's Oneworld and Asia-Pacific transfer set. Worth checking our own airline transfer coverage for gaps.",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFBzekwyUF9WY0QtNXlzcTE4Tm5hMmczTmhPdjVwVU85YXJIand3ZFo0blV3YnhGRmRuejFUYVJ2RTctSEVrNVNUYWJqaDJDN2ZSNERCQUY0dmJfQ3U0VU9ka3hqc0tNQ2YxeEUyZDRyVFRoRkl6R0UzTFdiQXpKc9IBhgFBVV95cUxQSHJfQmJ3WXV6MjAxYkVoeF9XU0JyRVF0SjJ5dGJqQTlOQ0xZX3pSeUJJVEdYNzcwZ0ZBeDVMU2RlLUoxbkZSTUtvRmUyNHhUNTRMb1VGMDVoQ09kYTFuTlFqZnZTNVB4ZUprVGIzVmxZa3V1bk1GcG90TnNoc2tWRDBCaGdIdw?oc=5",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "issuer": "Chase",
+   "card": "IHG One Rewards Premier Select Credit Card (new)",
+   "benefit": "IHG co-brand overhaul: new card names, new perks, higher annual fees",
+   "partner": "IHG",
+   "category": "hotel",
+   "status": "announced",
+   "announced": "2026-11-19",
+   "note": "Take: watch whether rival hotel co-brands follow with fee increases, and use it to test our own premium hotel positioning.",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hVUFTQ3FJV3BWekdjclZ5bUxHbHZabWo0eHJ6SHlSNEVtZFo3dnFBbXl5VGRjb2lBSFNzdnBUZl82Q3JuLWNqd0tfWi1QR0Jtbi1YMks1b3NRN2pjcjZrODJzQjlMSGo4SkdsSnh3?oc=5",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "issuer": "American Express",
+   "card": "Platinum Card",
+   "benefit": "$600 hotel credit (new condition from 2027)",
+   "partner": null,
+   "category": "hotel",
+   "status": "announced",
+   "announced": "2026-11-19",
+   "note": "Take: a new catch on the credit starting 2027 may draw cardholder pushback. A hotel credit without strings could be a differentiator for our premium pitch. Details of the condition not stated in the item.",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSzdWcDQzdUN1OFZVX2Y0QkpCVnFSbXM0cFNBSHM1dzJ0OUF2V3pubS14S29IcEpZQ0pRNWFOSDJXb3VCS0FGdW5XRThyWThlME5MUlNINVltMkJRalVrc3UzbTE5emtuUXRJdmh0Z3NWNUl2dzBNMTR3dFB0TlRXN2MyWktSYmdiVktpcUlDOW5fblplNDdLb0dDUlFUSVBib3JicEg5cHFacmxENGlYckZ3cjFIZw?oc=5",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "issuer": "American Express",
+   "card": "Platinum Card (Membership Rewards, eligible cardholders)",
+   "benefit": "Resy Rewards extra 4X Membership Rewards on dining",
+   "partner": "Resy",
+   "category": "dining",
+   "status": "live",
+   "announced": "2026-11-20",
+   "note": "Take: direct benchmark for our restaurant partnership asks. Model how much a 4X dining earn would lift card spend.",
+   "url": "https://frequentmiler.com/resy-rewards-earn-an-additional-4x-membership-rewards-points-on-dining/",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "issuer": "Citi",
+   "card": "Citi/AAdvantage co-brand cards",
+   "benefit": "AAdvantage status points earned on flight segments",
+   "partner": "American Airlines",
+   "category": "travel",
+   "status": "live",
+   "announced": "2026-11-22",
+   "note": "Take: concrete retention lever. Benchmark against the status earn on our airline co-brand.",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0laNkV2RHFtMHZLX29Qa3BRVmZTQkxGU3hZS2wyYlhUVWktS2JCZXU5bmp4YUtLVlMxLWVJYlNpM3JidmZMZXBmdWhtdzkxT2MxQU5tQVFjc3htYzU1NXhsdHd5bVNtUEM2TXBCQTlzS3BFVWFpbFpsVUk5a0dfR016NUpBbWtBdFBPQzVodDlKRjktWW9xQjFn?oc=5",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "issuer": "Bank of America",
+   "card": "Atmos Rewards Business Card",
+   "benefit": "Added perks (lounge passes, travel credits, free checked bag) but companion fare dropped",
+   "partner": "Alaska Airlines",
+   "category": "lounge",
+   "status": "announced",
+   "announced": "2026-11-19",
+   "note": "Take: lounge passes added alongside a fee increase to $195, while the companion fare was removed. A useful test of what business cardholders will pay for access.",
+   "url": "https://onemileatatime.com/reviews/credit-cards/bank-of-america/atmos-rewards-business-card/",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "issuer": "US Bank",
+   "card": "Altitude Connect",
+   "benefit": "GigSky eSIM data (5GB/15 days)",
+   "partner": "GigSky",
+   "category": "travel",
+   "status": "announced",
+   "announced": "2026-11-21",
+   "note": "Benefit may end 11/30/26 per US Bank confirmation. Take: opens a travel connectivity gap; eSIM data partners could be worth pitching to premium card teams.",
+   "url": "https://frequentmiler.com/us-bank-altitude-connect-gigsky-benefit-may-end-11-30-26/",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
+  },
+  {
+   "issuer": "Bilt",
+   "card": "Bilt Palladium Card",
+   "benefit": "Palladium earn structure change in 2027 (current system kept if applied by 12/31/26)",
+   "partner": null,
+   "category": "other",
+   "status": "announced",
+   "announced": "2026-11-21",
+   "note": "Take: the grandfather deadline creates a near-term acquisition push. A competing offer timed to Dec 31 could capture Palladium-curious applicants.",
+   "url": "https://onemileatatime.com/reviews/credit-cards/bilt/apply-bilt-palladium-card/",
+   "added": "2026-11-23",
+   "updated": "2026-11-23"
   }
  ],
- "updated": "2026-11-21T01:11:47Z"
+ "updated": "2026-11-23T12:18:51Z"
 }

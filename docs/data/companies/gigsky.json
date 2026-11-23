@@ -1,7 +1,24 @@
 {
  "name": "GigSky",
  "slug": "gigsky",
- "watch": null,
+ "watch": {
+  "name": "GigSky",
+  "slug": "gigsky",
+  "category": "travel",
+  "what": "eSIM travel data provider that powers a prepaid international data perk on a rival premium card.",
+  "why_fit": "Low-cost, high-use travel benefit that fills the gap if US Bank's Altitude Connect perk ends, and could be pitched to premium card teams.",
+  "status": "emerging",
+  "added": "2026-11-23",
+  "updated": "2026-11-23",
+  "history": [
+   {
+    "date": "2026-11-23",
+    "status": "emerging",
+    "note": "US Bank confirmed its Altitude Connect GigSky benefit (15 days / 5GB eSIM data) may end 11/30/26, which could open a travel data benefit gap.",
+    "url": "https://frequentmiler.com/us-bank-altitude-connect-gigsky-benefit-may-end-11-30-26/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

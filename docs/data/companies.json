@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:17:44Z",
+ "updated": "2026-11-23T12:21:25Z",
  "companies": [
   {
    "name": "Anthropic",
@@ -836,7 +836,7 @@
    },
    "top_relevance": 4,
    "latest_summary": "Bodai's vegan tasting menu draws on the historic royal court cuisine of China, according to Resy.",
-   "watch_status": null,
+   "watch_status": "emerging",
    "has_vet": false
   },
   {
@@ -1343,7 +1343,7 @@
    },
    "top_relevance": 4,
    "latest_summary": "Amex Platinum cardholders can use their card credit on a limited-time Oura Ring discount.",
-   "watch_status": null,
+   "watch_status": "emerging",
    "has_vet": false
   },
   {
@@ -2595,7 +2595,7 @@
    },
    "top_relevance": 3,
    "latest_summary": "Radisson is launching a paid membership aimed at local diners rather than frequent travelers, with generous discounts.",
-   "watch_status": null,
+   "watch_status": "emerging",
    "has_vet": false
   },
   {
@@ -3734,7 +3734,7 @@
    },
    "top_relevance": 4,
    "latest_summary": "US Bank has confirmed its Altitude Connect GigSky eSIM benefit may end on November 30, 2026.",
-   "watch_status": null,
+   "watch_status": "emerging",
    "has_vet": false
   },
   {

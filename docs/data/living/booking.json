@@ -1,25 +1,36 @@
 {
- "updated": "2026-11-21T01:12:34Z",
+ "updated": "2026-11-23T12:19:24Z",
  "entries": [
+  {
+   "name": "Art Basel Miami Beach",
+   "type": "event",
+   "location": "Miami Beach, FL",
+   "window": "Public days run December 4 to 6, 11am to 6pm. Tickets are sold online through Art Basel's official shop, and one guide says onsite purchase is also possible. December 2 and 3 are invitation only VIP preview days, with a vernissage on December 3.",
+   "next_open": null,
+   "event_date": "2026-12-04",
+   "cadence": null,
+   "url": "https://www.artbasel.com/miami-beach",
+   "note": "Listed prices: day ticket $92, First Access $105, weekend $170, Art Basel plus Design Miami combo $132. Art Basel does not sell through third-party listings, and hotels and tickets tighten as the week gets closer."
+  },
   {
    "name": "Carbone",
    "type": "restaurant",
    "location": "New York, NY",
-   "window": "Tables are released online 30 days ahead at 10am. Release day is the best shot.",
+   "window": "Tables are released on Resy 30 days ahead at 10am. Release day is the best shot. Lunch is a softer target (Tuesday to Sunday, per the restaurant's site as cited by one roundup).",
    "next_open": null,
    "event_date": null,
-   "cadence": "30 days out at 10am (online)",
+   "cadence": "30 days out at 10am ET (Resy)",
    "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
-   "note": "The Infatuation guide was updated about 16 days ago. Re-check the release time before relying on it."
+   "note": "The Infatuation guide was updated about 18 days ago and still lists 30 days at 10am."
   },
   {
    "name": "Torrisi Bar & Restaurant",
    "type": "restaurant",
    "location": "New York, NY",
-   "window": "Tables are released online 30 days ahead at 10am. Walk-in waits can run very long, and lunch is easier to book.",
+   "window": "Tables are released online 30 days ahead at 10am. Walk-in waits can run very long (a four hour quote was reported), and lunch is easier to book.",
    "next_open": null,
    "event_date": null,
-   "cadence": "30 days out at 10am (online)",
+   "cadence": "30 days out at 10am ET (online)",
    "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
    "note": "Try lunch if dinner is gone."
   },
@@ -32,18 +43,18 @@
    "event_date": null,
    "cadence": "21 days out at 9am ET (Resy)",
    "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
-   "note": "Verification comes from dining there and asking to be added to the list. This is a relationship lever."
+   "note": "Verification comes from dining there and asking to be added to the list. This is a relationship lever. Holiday season demand is high."
   },
   {
    "name": "Tatiana",
    "type": "restaurant",
    "location": "New York, NY",
-   "window": "Tables are released four weeks ahead at noon.",
+   "window": "New tables drop on Resy 28 days ahead at noon.",
    "next_open": null,
    "event_date": null,
-   "cadence": "28 days out at 12pm ET",
-   "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
-   "note": null
+   "cadence": "28 days out at 12pm ET (Resy)",
+   "url": "https://diningout.com/new-york/nycs-impossible-reservations/",
+   "note": "Confirmed by multiple roundups. If dinner is gone, a source suggests showing up before the 5pm opening."
   },
   {
    "name": "The Four Horsemen",
@@ -98,7 +109,7 @@
    "event_date": null,
    "cadence": "21 days out at 12pm PT (OpenTable)",
    "url": "https://restomojo.com/blog/hardest-reservations-san-francisco-2026",
-   "note": "Check the release time after daylight saving changes. Cancellations and a limited counter line are the backup."
+   "note": "Not re-verified this run. Check the release time after daylight saving changes. Cancellations and a limited counter line are the backup."
   },
   {
    "name": "State Bird Provisions",
@@ -109,7 +120,7 @@
    "event_date": null,
    "cadence": "30 days out at 12pm PT (OpenTable)",
    "url": "https://restomojo.com/blog/hardest-reservations-san-francisco-2026",
-   "note": null
+   "note": "Not re-verified this run."
   },
   {
    "name": "Bavette's Bar & Boeuf",
@@ -120,7 +131,7 @@
    "event_date": null,
    "cadence": "21 days out at 9am (Resy)",
    "url": "https://pursuitist.com/the-hardest-restaurant-reservations-in-chicago-and-how-to-actually-get-them/",
-   "note": "The bar is often the easiest way in."
+   "note": "Not re-verified this run. The bar is often the easiest way in."
   },
   {
    "name": "Kasama",
@@ -131,18 +142,7 @@
    "event_date": null,
    "cadence": "6 weeks out at 12pm CT (OpenTable)",
    "url": "https://pursuitist.com/the-hardest-restaurant-reservations-in-chicago-and-how-to-actually-get-them/",
-   "note": null
-  },
-  {
-   "name": "Art Basel Miami Beach",
-   "type": "event",
-   "location": "Miami Beach, FL",
-   "window": "Public days run December 4 to 6. Tickets are sold only through Art Basel's official online shop. December 2 and 3 are invitation only VIP preview days.",
-   "next_open": null,
-   "event_date": "2026-12-04",
-   "cadence": null,
-   "url": "https://www.artbasel.com/miami-beach",
-   "note": "One source lists day tickets from $92, and a Design Miami combination ticket at $132. Art Basel does not sell through third parties. Hotels and tickets tighten as the week gets closer."
+   "note": "Not re-verified this run."
   },
   {
    "name": "Park Hyatt Riviera Maya Cancun",
@@ -170,12 +170,12 @@
    "name": "Super Bowl LXI",
    "type": "event",
    "location": "SoFi Stadium, Inglewood, CA",
-   "window": "There is no public sale. The NFL distributes tickets to clubs and partners. Official hospitality packages come from On Location, and resale runs through the NFL Ticket Exchange by Ticketmaster.",
+   "window": "On Location, the NFL's official hospitality provider, is the official source for ticket and hospitality packages, which went on general sale September 9 after a presale. All On Location packages include hospitality. Resale runs through secondary channels.",
    "next_open": null,
    "event_date": "2027-02-14",
    "cadence": null,
-   "url": "https://biggameweek.com/super-bowl-2027-tickets-prices-packages/",
-   "note": "A November 5 check put resale from $5,356 and On Location packages from $7,350 per person. A separate guide mentions a refundable $2,500 per person deposit for priority access to packages. That guide is about 49 days old, so verify it."
+   "url": "https://www.nfl.com/news/on-location-super-bowl-lxi-hospitality-packages",
+   "note": "On Location's Beach House is at Shutters on the Beach and Casa del Mar, and Studio 61 concerts run Feb 12 to 13. One source says the On The Fifty package sold out in presales. Earlier price points (resale from $5,356, packages from $7,350 per person) are from a November 5 check, so verify."
   },
   {
    "name": "Omni Pontoque Resort at Punta de Mita",
@@ -208,7 +208,7 @@
    "event_date": "2027-04-09",
    "cadence": null,
    "url": "https://www.japan.gp/en/tickets",
-   "note": "Race weekend is April 9 to 11. The promoter's listings show low stock in several grandstands."
+   "note": "Race weekend is April 9 to 11. Not re-verified this run."
   },
   {
    "name": "F1 Miami Grand Prix 2027",
@@ -230,7 +230,18 @@
    "event_date": "2027-06-04",
    "cadence": null,
    "url": "https://grandprixevents.com/",
-   "note": "Race weekend is June 4 to 6. That page was about 79 days old when found, so confirm current availability."
+   "note": "Race weekend is June 4 to 6. Not re-verified this run, so confirm current availability."
+  },
+  {
+   "name": "Royal Ascot 2027",
+   "type": "event",
+   "location": "Ascot, UK",
+   "window": "Tickets are on sale for the five day meeting, Tuesday June 15 to Saturday June 19, 2027. Restaurant and private box packages are offered by hospitality sellers. Resale listings also exist on secondary sites.",
+   "next_open": null,
+   "event_date": "2027-06-15",
+   "cadence": null,
+   "url": "https://www.sportonspec.co.uk/event/horse-racing-royal-ascot/",
+   "note": "Ticket plus luxury hotel bundles are being sold from £159pp (per The Sun). Royal Enclosure access is priced on application in one price guide. Confirm 2027 prices with Ascot."
   },
   {
    "name": "F1 British Grand Prix 2027",
@@ -253,6 +264,28 @@
    "cadence": null,
    "url": "https://circuitoftheamericas.com/event/f1/tickets/",
    "note": "Race weekend is October 22 to 24."
+  },
+  {
+   "name": "F1 Las Vegas Grand Prix 2027",
+   "type": "event",
+   "location": "Las Vegas, NV",
+   "window": "The official site is accepting deposits for 2027 to access the best available ticket pricing. The official ticket store lists grandstand, VIP hospitality and Paddock Club options, while a ticket partner page shows a waitlist.",
+   "next_open": null,
+   "event_date": "2027-11-18",
+   "cadence": null,
+   "url": "https://www.f1lasvegasgp.com/",
+   "note": "Race weekend is November 18 to 20. Placing a deposit is the earliest way in. Grand Prix Plaza reopens January 8, 2027."
+  },
+  {
+   "name": "F1 Abu Dhabi Grand Prix 2027",
+   "type": "event",
+   "location": "Yas Island, Abu Dhabi",
+   "window": "Official F1 ticketing lists grandstand, VIP hospitality and Paddock Club for the December 10 to 12 weekend. A partner hospitality page shows a waitlist and F1 Experiences shows a deposit option.",
+   "next_open": null,
+   "event_date": "2027-12-10",
+   "cadence": null,
+   "url": "https://ticketing.formula1.com/abu-dhabi/",
+   "note": "Season finale held at sunset into floodlights. Availability varies by channel, so confirm which package tiers are live."
   }
  ]
 }

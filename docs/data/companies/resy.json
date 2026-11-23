@@ -1,7 +1,24 @@
 {
  "name": "Resy",
  "slug": "resy",
- "watch": null,
+ "watch": {
+  "name": "Resy",
+  "slug": "resy",
+  "category": "dining",
+  "what": "Restaurant reservation platform tied to Amex through its Resy Rewards program.",
+  "why_fit": "Reservation access plus dining earn is a core affluent-client benefit, and Resy's 4X dining earn is a direct benchmark for our restaurant partnership asks.",
+  "status": "emerging",
+  "added": "2026-11-23",
+  "updated": "2026-11-23",
+  "history": [
+   {
+    "date": "2026-11-23",
+    "status": "emerging",
+    "note": "Resy Rewards adds an extra 4X Membership Rewards points on dining for eligible Amex cardholders, so Resy is already in a competitor's ecosystem.",
+    "url": "https://frequentmiler.com/resy-rewards-earn-an-additional-4x-membership-rewards-points-on-dining/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

@@ -1,7 +1,24 @@
 {
  "name": "Oura",
  "slug": "oura",
- "watch": null,
+ "watch": {
+  "name": "Oura",
+  "slug": "oura",
+  "category": "retail",
+  "what": "Wellness wearable maker (Oura Ring) now used as a statement-credit merchant on Amex Platinum.",
+  "why_fit": "Wellness hardware bought with card credits is a template for premium merchant tie-ins that resonate with affluent buyers.",
+  "status": "emerging",
+  "added": "2026-11-23",
+  "updated": "2026-11-23",
+  "history": [
+   {
+    "date": "2026-11-23",
+    "status": "emerging",
+    "note": "Amex Platinum cardholders can apply their card credit to a 25% off Oura Ring sale. Sale end date and credit terms were not stated.",
+    "url": "https://thepointsguy.com/deals/oura-ring-black-friday-2026-sale/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

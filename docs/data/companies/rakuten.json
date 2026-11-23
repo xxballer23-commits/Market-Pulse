@@ -9,13 +9,19 @@
   "why_fit": "Shows a third-party portal acting as an acquisition channel for card issuers, which Wells Fargo could use or counter.",
   "status": "signed",
   "added": "2026-11-20",
-  "updated": "2026-11-20",
+  "updated": "2026-11-23",
   "history": [
    {
     "date": "2026-11-20",
     "status": "signed",
     "note": "Added approval bonuses on three Citi cards this week: $50 cashback or up to 5,000 Bilt points.",
     "url": "https://frequentmiler.com/rakuten-offering-cashback-on-citi-cards/"
+   },
+   {
+    "date": "2026-11-23",
+    "status": "signed",
+    "note": "Running a $50 two-sided referral bonus through Dec 31, 2026, plus up to 100% back on select subscriptions.",
+    "url": "https://onemileatatime.com/deals/rakuten-new-member-bonus/"
    }
   ]
  },

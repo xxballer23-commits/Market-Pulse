@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T01:12:55Z",
+ "updated": "2026-11-23T12:19:39Z",
  "indicators": [
   {
    "id": "citi_luxury_spend",
@@ -86,6 +86,24 @@
      "added": "2026-11-20"
     },
     {
+     "period": "Sotheby's Blaquier-Arrieta Collection Evening Sale, Nov 18 2026",
+     "date": "2026-11-18",
+     "value": 100.0,
+     "display": "100% sell-through",
+     "note": "12 of 12 lots sold, total $411.98M per MutualArt. Artnet noted thin bidding on the Blaquier-Arrieta works.",
+     "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
+     "added": "2026-11-23"
+    },
+    {
+     "period": "Sotheby's Modern Evening Sale, Nov 18 2026",
+     "date": "2026-11-18",
+     "value": 97.9,
+     "display": "97.9% sell-through",
+     "note": "One lot unsold after three were withdrawn. Rate is 92% once withdrawals are counted. Total $365.8M with fees.",
+     "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
+     "added": "2026-11-23"
+    },
+    {
      "period": "Christie's 21st Century Evening Sale, Nov 19 2026",
      "date": "2026-11-19",
      "value": 91.0,
@@ -104,6 +122,15 @@
    "unit": "text",
    "readings": [
     {
+     "period": "Christie's 20th Century Evening Sale, Nov 17 2026",
+     "date": "2026-11-17",
+     "value": null,
+     "display": "Kandinsky, Betonte Ecken, $85.8M, Christie's",
+     "note": "Artist record, up from $44.8M. Klimt's Litzlbergkeller followed at $82.3M. Sale totaled $626.6M with fees, at the low end of its estimate range.",
+     "url": "https://www.artsy.net/article/artsy-editorial-record-breaking-858-million-kandinsky-leads-christie-s-november-2026-new-york-evening-sale",
+     "added": "2026-11-23"
+    },
+    {
      "period": "Sotheby's Blaquier-Arrieta evening sale, Nov 18 2026",
      "date": "2026-11-18",
      "value": null,
@@ -111,6 +138,24 @@
      "note": "Auction record for the artist. $165M hammer. Cézanne's Arlequin made $111M in the same sale. Sotheby's evening total was $777.8M.",
      "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
      "added": "2026-11-20"
+    },
+    {
+     "period": "Sotheby's Blaquier-Arrieta Collection Evening Sale, Nov 18 2026",
+     "date": "2026-11-18",
+     "value": null,
+     "display": "Van Gogh, Chataigniers en Fleurs, $190.4M, Sotheby's",
+     "note": "Artist auction record. Hammered at $165M, bought by dealer William Acquavella. Sale had 12 of 12 lots sold, and came after a Nazi-era claim was settled the day before.",
+     "url": "https://www.cnbc.com/2026/11/19/sothebys-van-gogh-painting-record-auction.html",
+     "added": "2026-11-23"
+    },
+    {
+     "period": "Sotheby's Modern Evening Sale, Nov 18 2026",
+     "date": "2026-11-18",
+     "value": null,
+     "display": "Hopper, The Martha McKeen of Wellfleet, $47.8M, Sotheby's",
+     "note": "Hammered at $41M against a $20M to $30M estimate. Sale totaled $365.8M with fees. The Art Newspaper cites a Magritte as top lot, so sources conflict; Artnet's Hopper is used here.",
+     "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
+     "added": "2026-11-23"
     },
     {
      "period": "Christie's 21st Century Evening Sale, Nov 19 2026",

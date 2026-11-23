@@ -1,7 +1,24 @@
 {
  "name": "Radisson",
  "slug": "radisson",
- "watch": null,
+ "watch": {
+  "name": "Radisson",
+  "slug": "radisson",
+  "category": "dining",
+  "what": "Hotel group launching its first paid membership, aimed at local diners rather than hotel guests.",
+  "why_fit": "A locals-focused dining membership opens a partnership angle beyond traveler perks, such as card-linked dining access or discounts.",
+  "status": "emerging",
+  "added": "2026-11-23",
+  "updated": "2026-11-23",
+  "history": [
+   {
+    "date": "2026-11-23",
+    "status": "emerging",
+    "note": "Skift reports Radisson is launching a paid membership targeting diners with generous discounts.",
+    "url": "https://skift.com/2026/11/23/radissons-first-paid-membership-targets-diners-not-guests-exclusive/"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

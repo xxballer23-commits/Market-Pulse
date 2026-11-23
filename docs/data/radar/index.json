@@ -1,6 +1,119 @@
 {
  "entries": [
   {
+   "digest_id": "2026-11-23-radar",
+   "kind": "weekly",
+   "date": "2026-11-23",
+   "generated": "2026-11-23T12:21:25Z",
+   "intro": "Thin week for net-new sourcing. The strongest names are Rove (building its own loyalty stack), Revolut (airline currency links for fintech wallets), Etihad (new US co-brand), plus a few experience and dining plays. Most Bilt and Chase stories are competitor moves to benchmark, not partner leads.",
+   "items": [
+    {
+     "company": "Rove",
+     "what": "Travel rewards platform with its own points currency, travel portal, dining program and a growing list of transfer partners (launched about 18 months ago).",
+     "signal": "Launched an elite status program with up to every third hotel night free, plus shopping and transfer bonuses.",
+     "why_fit": "It is assembling a full loyalty stack quickly, which makes it a candidate for hotel perks, transfer access or offers aimed at affluent travelers.",
+     "angle": "Hotel night or portal benefit for premium cardholders, or a transfer-partner link into its currency.",
+     "partner_type": "loyalty",
+     "item_id": "fe3bb6ca0ccb",
+     "url": "https://thepointsguy.com/news/rove-elite-status/",
+     "source": "The Points Guy",
+     "published": "2026-11-23T11:00:54Z",
+     "relevance": 4
+    },
+    {
+     "company": "Revolut x Velocity Points",
+     "what": "Fintech account provider that now gives customers access to the Velocity airline loyalty currency.",
+     "signal": "Revolut customers can now access Velocity Points, linking the fintech to an airline loyalty program.",
+     "why_fit": "Shows non-bank wallets are getting direct airline loyalty links, which is a competitive route to affluent travelers and a model for transfer-style deals.",
+     "angle": "Track how the Revolut link is structured and consider whether a similar airline loyalty tie-in could sit alongside our rewards currency.",
+     "partner_type": "fintech",
+     "item_id": "873c16f5328d",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQWpQZTBhVGZtRnlMcndGZUFjX0ZPbGFlZWZCMG11NjluVzNvQ2ZLcXBycy1GWUp5MjZ1S2w2OUVDY19mSkhvUjlTZ2QyeERNRHVYSnJidjlaNkdFdXgtaA?oc=5",
+     "source": "Executive Traveller",
+     "published": "2026-11-20T08:20:10Z",
+     "relevance": 4
+    },
+    {
+     "company": "Etihad",
+     "what": "Gulf airline with a premium long-haul product and loyalty program.",
+     "signal": "Launched its first US credit cards, one with instant airline status and airport lounge access. Issuer not stated in the item.",
+     "why_fit": "A premium international carrier entering the US card market signals appetite for US issuer partnerships and a status-plus-lounge value proposition.",
+     "angle": "Etihad status or lounge benefit for a premium card, or a Gulf and Middle East travel perk. Confirm the issuer and exclusivity first.",
+     "partner_type": "travel",
+     "item_id": "6d827cf89276",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaXl0UHl5SnEzTm8zU0MyVGlGVlMtbWxET1dYUVAyMEVvclZuMG5SWnBBTzFVOHc5VVFJQUJVNVY1NFh0WmpnTXhHMGRuTmNObk9wbjU3MHZEbWtQZXY5bWZOY0xNM2hPUlF0enYwZU1nQnAtZ3ZRU1pvbDFZQ0NsalkyM050SWxoWnVoVE1BMWczTG9HXzZiT3Y3OTl3ZkpPWFBFUlUzMzZuMGlfN2hfRlpZbjVueDNiQWhfWlhaRGg5WGFmem1pTTkyVzN5NXQwdWxKRg?oc=5",
+     "source": "Parade Magazine",
+     "published": "2026-11-23T03:10:00Z",
+     "relevance": 4
+    },
+    {
+     "company": "Radisson",
+     "what": "Global hotel group launching its first paid membership.",
+     "signal": "The paid membership targets local diners rather than hotel guests, with generous discounts.",
+     "why_fit": "A hotel brand building a local-spend product opens card-linked dining and local-experience angles, not just travel.",
+     "angle": "Complimentary or discounted membership as a cardholder dining and hotel benefit, tied to everyday local spend.",
+     "partner_type": "hotel",
+     "item_id": "79d65c26aa6b",
+     "url": "https://skift.com/2026/11/23/radissons-first-paid-membership-targets-diners-not-guests-exclusive/",
+     "source": "Skift",
+     "published": "2026-11-23T10:02:05Z",
+     "relevance": 3
+    },
+    {
+     "company": "Ikon Pass x Atmos Unlocked",
+     "what": "Ski pass product now redeemable with Alaska Atmos points (65K for Ikon Base, 100K for the full pass).",
+     "signal": "Alaska's Atmos Unlocked lets members spend points on Ikon ski passes.",
+     "why_fit": "Points-for-experience redemption in a high-income lifestyle category (skiing) is a template for non-travel redemption options.",
+     "angle": "Ski or outdoor pass as a redemption or statement-credit style benefit for affluent cardholders.",
+     "partner_type": "sporting",
+     "item_id": "774a1b1d4835",
+     "url": "https://frequentmiler.com/buy-ikon-pass-with-alaska-atmos-points-65k-base-100k-full-ikon-pass/",
+     "source": "Frequent Miler",
+     "published": "2026-11-21T18:45:48Z",
+     "relevance": 3
+    },
+    {
+     "company": "Disney x Visa (Hong Kong Disneyland)",
+     "what": "Network-level entertainment partnership between Disney and Visa.",
+     "signal": "Visa cardholders get early entry to Hong Kong Disneyland under the new deal.",
+     "why_fit": "Early-entry access is a low-cost, high-perceived-value perk that appeals to affluent families, and it is a competitor-network play worth countering.",
+     "angle": "Theme-park early entry or priority access benefit negotiated at the issuer level in US destinations. Confirm which networks and cards are covered.",
+     "partner_type": "entertainment",
+     "item_id": "f336126a96a3",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEhBSEFFSDdvdDlVTTJHSk9HNUFIRVN3ZFlBM01lZ2VtOXlrNGxUNUVTZ2RVM2taT2ZmMFMyeUlPY3ZUd1Nnazl0SFc4MGZhdEZKVFdhUExHVlhxRmtyV2JqX1RPZ0YtTlVGR1hJOEliNjNYdllxRnBjSkNfWjRodnVwQklObkZ1TDcxNWZkclZDWEk5bkwyTk13?oc=5",
+     "source": "Pirates and Princesses",
+     "published": "2026-11-21T06:09:11Z",
+     "relevance": 4
+    },
+    {
+     "company": "Resy Rewards",
+     "what": "Restaurant reservation platform whose rewards program pays an extra 4X Membership Rewards points on dining.",
+     "signal": "Resy Rewards now adds 4X Membership Rewards points on dining for eligible cardholders.",
+     "why_fit": "It is an active issuer-linked dining program and a direct benchmark for what a restaurant reservation partner can do for card spend.",
+     "angle": "Reservation-platform dining earn or credit for Wells Fargo cardholders, or a competing arrangement with another reservation platform.",
+     "partner_type": "dining",
+     "item_id": "da5b529f3e92",
+     "url": "https://frequentmiler.com/resy-rewards-earn-an-additional-4x-membership-rewards-points-on-dining/",
+     "source": "Frequent Miler",
+     "published": "2026-11-20T22:45:47Z",
+     "relevance": 4
+    },
+    {
+     "company": "GigSky",
+     "what": "Travel eSIM data provider behind a card-linked benefit (15 days, 5GB).",
+     "signal": "US Bank confirmed its Altitude Connect GigSky eSIM benefit may end on November 30, 2026.",
+     "why_fit": "A benefit sunset leaves a gap for travel-data perks, and eSIM roaming is a practical, low-cost benefit for international travelers.",
+     "angle": "eSIM travel data allowance as a lower-cost international travel perk on a premium card.",
+     "partner_type": "other",
+     "item_id": "66e0d7b008c5",
+     "url": "https://frequentmiler.com/us-bank-altitude-connect-gigsky-benefit-may-end-11-30-26/",
+     "source": "Frequent Miler",
+     "published": "2026-11-21T16:45:10Z",
+     "relevance": 4
+    }
+   ]
+  },
+  {
    "digest_id": "2026-11-20-radar",
    "kind": "weekly",
    "date": "2026-11-20",
