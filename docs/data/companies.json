@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T22:24:17Z",
+ "updated": "2026-11-23T22:58:06Z",
  "companies": [
   {
    "name": "American Express",
@@ -95,7 +95,7 @@
    },
    "top_relevance": 4,
    "latest_summary": "Klarna has expanded its Visa partnership, giving merchants on Visa's acceptance platform access to newer Klarna features.",
-   "watch_status": null,
+   "watch_status": "emerging",
    "has_vet": false
   },
   {

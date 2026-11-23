@@ -1,7 +1,24 @@
 {
  "name": "Klarna",
  "slug": "klarna",
- "watch": null,
+ "watch": {
+  "name": "Klarna",
+  "slug": "klarna",
+  "category": "fintech",
+  "what": "BNPL provider expanding checkout reach through Visa's acceptance platform, Adyen's AI checkout and premium fashion retailers like Revolve and FWRD.",
+  "why_fit": "Pay-over-time inside card checkout flows is a possible feature for affluent cardholders, who are increasingly adopting BNPL.",
+  "status": "emerging",
+  "added": "2026-11-23",
+  "updated": "2026-11-23",
+  "history": [
+   {
+    "date": "2026-11-23",
+    "status": "emerging",
+    "note": "Expanded its Visa partnership to merchants on Visa Acceptance Platform, and was added to Adyen's AI agent checkout this week.",
+    "url": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership?utm_medium=rssfinextra&utm_source=finextrafeed"
+   }
+  ]
+ },
  "vets": [],
  "items": [
   {

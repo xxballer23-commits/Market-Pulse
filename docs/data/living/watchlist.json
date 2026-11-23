@@ -317,7 +317,43 @@
      "url": "https://skift.com/2026/11/23/radissons-first-paid-membership-targets-diners-not-guests-exclusive/"
     }
    ]
+  },
+  {
+   "name": "Klarna",
+   "slug": "klarna",
+   "category": "fintech",
+   "what": "BNPL provider expanding checkout reach through Visa's acceptance platform, Adyen's AI checkout and premium fashion retailers like Revolve and FWRD.",
+   "why_fit": "Pay-over-time inside card checkout flows is a possible feature for affluent cardholders, who are increasingly adopting BNPL.",
+   "status": "emerging",
+   "added": "2026-11-23",
+   "updated": "2026-11-23",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "status": "emerging",
+     "note": "Expanded its Visa partnership to merchants on Visa Acceptance Platform, and was added to Adyen's AI agent checkout this week.",
+     "url": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership?utm_medium=rssfinextra&utm_source=finextrafeed"
+    }
+   ]
+  },
+  {
+   "name": "Accor ALL",
+   "slug": "accor-all",
+   "category": "travel",
+   "what": "Global hotel group whose ALL loyalty program sells paid Signature subscriptions, and whose MGallery brand is adding boutique luxury hotels.",
+   "why_fit": "Paid loyalty subscriptions and a growing luxury hotel footprint could be bundled into premium card hotel perks.",
+   "status": "emerging",
+   "added": "2026-11-23",
+   "updated": "2026-11-23",
+   "history": [
+    {
+     "date": "2026-11-23",
+     "status": "emerging",
+     "note": "Running a Black Friday sale of up to 40% off new ALL Signature subscriptions; MGallery also plans a boutique beachfront hotel in Greece.",
+     "url": "https://frequentmiler.com/save-up-to-40-on-accor-all-signature-subscriptions/"
+    }
+   ]
   }
  ],
- "updated": "2026-11-23T12:18:05Z"
+ "updated": "2026-11-23T22:54:36Z"
 }

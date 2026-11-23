@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:19:39Z",
+ "updated": "2026-11-23T22:55:46Z",
  "indicators": [
   {
    "id": "citi_luxury_spend",
@@ -86,6 +86,15 @@
      "added": "2026-11-20"
     },
     {
+     "period": "Phillips Modern & Contemporary Evening Sale, Nov 17 2026",
+     "date": "2026-11-17",
+     "value": 91.3,
+     "display": "91.3% sell-through",
+     "note": "Artnet figure includes one withdrawn lot. 95.4% excluding withdrawals (ARTnews reports 95% by lot, 99% by value).",
+     "url": "https://news.artnet.com/market/phillips-contemporary-auction-modigliani-2026-2838121",
+     "added": "2026-11-23"
+    },
+    {
      "period": "Sotheby's Blaquier-Arrieta Collection Evening Sale, Nov 18 2026",
      "date": "2026-11-18",
      "value": 100.0,
@@ -100,6 +109,15 @@
      "value": 97.9,
      "display": "97.9% sell-through",
      "note": "One lot unsold after three were withdrawn. Rate is 92% once withdrawals are counted. Total $365.8M with fees.",
+     "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
+     "added": "2026-11-23"
+    },
+    {
+     "period": "Sotheby's Legendary: The Blaquier-Arrieta Collection, Nov 18 2026",
+     "date": "2026-11-18",
+     "value": 100.0,
+     "display": "100% sell-through",
+     "note": "All 12 lots sold, but the sale was heavily guaranteed and bidding was described as thin. The same night's modern art sale was 97.9% (92% after withdrawals).",
      "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
      "added": "2026-11-23"
     },
@@ -131,6 +149,15 @@
      "added": "2026-11-23"
     },
     {
+     "period": "Phillips Modern & Contemporary Evening Sale, Nov 17 2026",
+     "date": "2026-11-17",
+     "value": null,
+     "display": "Modigliani, Tete, $44.6M, Phillips",
+     "note": "Sold above its $28M to $35M estimate. Sale totaled $104.4M with fees on 22 lots.",
+     "url": "https://news.artnet.com/market/phillips-contemporary-auction-modigliani-2026-2838121",
+     "added": "2026-11-23"
+    },
+    {
      "period": "Sotheby's Blaquier-Arrieta evening sale, Nov 18 2026",
      "date": "2026-11-18",
      "value": null,
@@ -154,6 +181,15 @@
      "value": null,
      "display": "Hopper, The Martha McKeen of Wellfleet, $47.8M, Sotheby's",
      "note": "Hammered at $41M against a $20M to $30M estimate. Sale totaled $365.8M with fees. The Art Newspaper cites a Magritte as top lot, so sources conflict; Artnet's Hopper is used here.",
+     "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
+     "added": "2026-11-23"
+    },
+    {
+     "period": "Sotheby's Legendary: The Blaquier-Arrieta Collection, Nov 18 2026",
+     "date": "2026-11-18",
+     "value": null,
+     "display": "Van Gogh, Chataigniers en fleurs, $190.4M, Sotheby's",
+     "note": "Auction record for Van Gogh and second-highest price ever at Sotheby's. Collection totaled $412M; the full evening with the modern sale reached $778M.",
      "url": "https://news.artnet.com/art-world/sothebys-notches-777-8m-night-190-4m-van-gogh-but-bidding-is-thin-for-blaquier-arrieta-work-2838772",
      "added": "2026-11-23"
     },

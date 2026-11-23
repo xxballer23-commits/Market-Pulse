@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T12:19:54Z",
+ "updated": "2026-11-23T22:56:08Z",
  "entries": [
   {
    "date": "2026-11-30",
@@ -74,6 +74,38 @@
    "confirmed": true
   },
   {
+   "date": "2027-01-14",
+   "title": "Citi Q4 2026 earnings (release about 8am ET, call 11:00am ET). Just outside the 6-week window",
+   "type": "earnings",
+   "company": "Citi",
+   "url": "https://www.citigroup.com/global/news/press-release/2025/citi-third-fourth-quarter-2025-and-2026-earnings-calls",
+   "confirmed": true
+  },
+  {
+   "date": "2027-01-15",
+   "title": "Bank of America Q4 2026 earnings (release about 6:45am ET, call 8:30am ET). Just outside the 6-week window",
+   "type": "earnings",
+   "company": "Bank of America",
+   "url": "https://www.stocktitan.net/news/BAC/bank-of-america-announces-fourth-quarter-2026-and-quarterly-2027-8i4xd8fgz18h.html",
+   "confirmed": true
+  },
+  {
+   "date": "2027-01-22",
+   "title": "American Express Q4 2026 earnings (aggregator-projected date; other aggregators show Jan 29, so treat as unconfirmed). Outside the 6-week window",
+   "type": "earnings",
+   "company": "American Express",
+   "url": "https://www.investing.com/equities/american-express-earnings",
+   "confirmed": false
+  },
+  {
+   "date": "2027-01-26",
+   "title": "Capital One Q4 2026 earnings (tentative per aggregators, other sources show Jan 21; not company-confirmed). Outside the 6-week window",
+   "type": "earnings",
+   "company": "Capital One",
+   "url": "https://www.tipranks.com/stocks/cof/earnings",
+   "confirmed": false
+  },
+  {
    "date": "2027-02-01",
    "title": "Capri Holdings fiscal Q3 2027 earnings (estimated by aggregator, not company-confirmed). Outside the 6-week window",
    "type": "earnings",
@@ -96,6 +128,14 @@
    "company": "Affirm",
    "url": "https://finance.yahoo.com/quote/AFRM/",
    "confirmed": false
+  },
+  {
+   "date": "2027-02-12",
+   "title": "Hermes 2026 annual results (8:00am CET, per company calendar). Outside the 6-week window",
+   "type": "earnings",
+   "company": "Hermes",
+   "url": "https://finance.hermes.com/en/calendar/",
+   "confirmed": true
   }
  ]
 }

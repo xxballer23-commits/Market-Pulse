@@ -94,10 +94,10 @@
    }
   },
   "2026-11-23": {
-   "input_tokens": 845811,
-   "output_tokens": 410420,
-   "web_searches": 18,
-   "calls": 89,
+   "input_tokens": 1502589,
+   "output_tokens": 440833,
+   "web_searches": 36,
+   "calls": 98,
    "by_task": {
     "enrich": {
      "calls": 80,
@@ -107,58 +107,58 @@
      "model": "claude-haiku-5-5"
     },
     "living_watchlist": {
-     "calls": 1,
-     "input_tokens": 47144,
-     "output_tokens": 2299,
+     "calls": 2,
+     "input_tokens": 92262,
+     "output_tokens": 3206,
      "web_searches": 0,
      "model": "claude-sonnet-5-5"
     },
     "living_benefits": {
-     "calls": 2,
-     "input_tokens": 84669,
-     "output_tokens": 5820,
+     "calls": 3,
+     "input_tokens": 127086,
+     "output_tokens": 8262,
      "web_searches": 0,
      "model": "claude-sonnet-5-5"
     },
     "living_booking": {
-     "calls": 1,
-     "input_tokens": 104699,
-     "output_tokens": 5484,
-     "web_searches": 5,
+     "calls": 2,
+     "input_tokens": 210635,
+     "output_tokens": 11389,
+     "web_searches": 10,
      "model": "claude-sonnet-5-5"
     },
     "living_dashboard": {
-     "calls": 1,
-     "input_tokens": 159936,
-     "output_tokens": 2100,
-     "web_searches": 5,
+     "calls": 2,
+     "input_tokens": 378519,
+     "output_tokens": 4083,
+     "web_searches": 10,
      "model": "claude-sonnet-5-5"
     },
     "living_calendar": {
-     "calls": 1,
-     "input_tokens": 57431,
-     "output_tokens": 2440,
-     "web_searches": 4,
+     "calls": 2,
+     "input_tokens": 119643,
+     "output_tokens": 5758,
+     "web_searches": 8,
      "model": "claude-sonnet-5-5"
     },
     "digest_monday_research": {
-     "calls": 1,
-     "input_tokens": 46637,
-     "output_tokens": 1835,
-     "web_searches": 4,
+     "calls": 2,
+     "input_tokens": 93895,
+     "output_tokens": 3734,
+     "web_searches": 8,
      "model": "claude-sonnet-5-5"
     },
     "digest_monday": {
-     "calls": 1,
-     "input_tokens": 44497,
-     "output_tokens": 8050,
+     "calls": 2,
+     "input_tokens": 90110,
+     "output_tokens": 16359,
      "web_searches": 0,
      "model": "claude-sonnet-5-5"
     },
     "radar_radar": {
-     "calls": 1,
-     "input_tokens": 46869,
-     "output_tokens": 2814,
+     "calls": 3,
+     "input_tokens": 136510,
+     "output_tokens": 8464,
      "web_searches": 0,
      "model": "claude-sonnet-5-5"
     }

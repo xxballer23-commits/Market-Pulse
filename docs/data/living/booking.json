@@ -1,27 +1,49 @@
 {
- "updated": "2026-11-23T12:19:24Z",
+ "updated": "2026-11-23T22:55:26Z",
  "entries": [
   {
    "name": "Art Basel Miami Beach",
    "type": "event",
    "location": "Miami Beach, FL",
-   "window": "Public days run December 4 to 6, 11am to 6pm. Tickets are sold online through Art Basel's official shop, and one guide says onsite purchase is also possible. December 2 and 3 are invitation only VIP preview days, with a vernissage on December 3.",
+   "window": "Public days run December 4 to 6, 11am to 6pm, at the Miami Beach Convention Center. Tickets are sold online only through Art Basel's official shop, with limited availability. December 2 and 3 are invitation only VIP days.",
    "next_open": null,
    "event_date": "2026-12-04",
    "cadence": null,
-   "url": "https://www.artbasel.com/miami-beach",
-   "note": "Listed prices: day ticket $92, First Access $105, weekend $170, Art Basel plus Design Miami combo $132. Art Basel does not sell through third-party listings, and hotels and tickets tighten as the week gets closer."
+   "url": "https://www.artbasel.com/miami-beach/buy-tickets",
+   "note": "Listed prices: day ticket $92, First Access $105 (11am entry), weekend $170, Art Basel plus Design Miami combo $132. Art Basel says tickets are exclusively online, so skip third-party listings."
+  },
+  {
+   "name": "Six Senses The Palm, Dubai",
+   "type": "hotel",
+   "location": "Palm Jumeirah, Dubai, UAE",
+   "window": "Opened November 23, 2026, and reservations are open. The resort has 61 suites and 172 private residences on the West Crescent, and a 5,500 sq m spa and longevity clinic.",
+   "next_open": null,
+   "event_date": "2026-11-23",
+   "cadence": null,
+   "url": "https://www.ihgplc.com/en/news-and-media/news-releases/2026/six-senses-the-palm-dubai-opens-on-palm-jumeirah",
+   "note": "First Six Senses in the UAE, part of IHG. A launch package called Discover Six Senses The Palm is on offer, but no rates were published in the sources found."
+  },
+  {
+   "name": "Park Hyatt Riviera Maya Cancun",
+   "type": "hotel",
+   "location": "Riviera Maya, Mexico",
+   "window": "Reservations are open. It is Park Hyatt's first all-inclusive, with 148 rooms and suites in the AMAI enclave between Cancun and Puerto Morelos.",
+   "next_open": null,
+   "event_date": "2026-12-03",
+   "cadence": null,
+   "url": "https://larevuedeshotels.com/en/park-hyatt-riviera-maya-first-all-inclusive-opening-2026",
+   "note": "Sources conflict on the opening date: December 3, 2026 (La Revue des Hotels, The Opening List) versus January 8, 2027 (Caribbean Journal). Confirm the first bookable date on hyatt.com. One source cites opening offers from about $1,105 per night for two (checked October 5)."
   },
   {
    "name": "Carbone",
    "type": "restaurant",
    "location": "New York, NY",
-   "window": "Tables are released on Resy 30 days ahead at 10am. Release day is the best shot. Lunch is a softer target (Tuesday to Sunday, per the restaurant's site as cited by one roundup).",
+   "window": "Tables are released on Resy 30 days ahead at 10am. Release day is the best shot. Lunch is a softer target (Tuesday to Sunday, 11:30am to 2pm, per the restaurant's site as cited by one roundup).",
    "next_open": null,
    "event_date": null,
    "cadence": "30 days out at 10am ET (Resy)",
-   "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
-   "note": "The Infatuation guide was updated about 18 days ago and still lists 30 days at 10am."
+   "url": "https://happy-hour.nyc/deals/hardest-reservations-nyc",
+   "note": "Older guides say 7 days out, but the current roundup citing The Infatuation (October 2026) says 30 days at 10am. Treat 30 days as current."
   },
   {
    "name": "Torrisi Bar & Restaurant",
@@ -43,7 +65,7 @@
    "event_date": null,
    "cadence": "21 days out at 9am ET (Resy)",
    "url": "https://www.theinfatuation.com/new-york/guides/toughest-restaurant-reservations-nyc",
-   "note": "Verification comes from dining there and asking to be added to the list. This is a relationship lever. Holiday season demand is high."
+   "note": "Verification comes from dining there and asking to be added to the list. This is a relationship lever. Holiday season demand is high, and a recent roundup says tables vanish within seconds."
   },
   {
    "name": "Tatiana",
@@ -54,7 +76,7 @@
    "event_date": null,
    "cadence": "28 days out at 12pm ET (Resy)",
    "url": "https://diningout.com/new-york/nycs-impossible-reservations/",
-   "note": "Confirmed by multiple roundups. If dinner is gone, a source suggests showing up before the 5pm opening."
+   "note": "Confirmed again by multiple roundups, including Restomojo and Tasting Table. If dinner is gone, a source suggests showing up before the 5pm opening."
   },
   {
    "name": "The Four Horsemen",
@@ -145,17 +167,6 @@
    "note": "Not re-verified this run."
   },
   {
-   "name": "Park Hyatt Riviera Maya Cancun",
-   "type": "hotel",
-   "location": "Riviera Maya, Mexico",
-   "window": "Reservations are shown as open. It is Park Hyatt's first all inclusive, with plunge pool penthouses about 20 minutes south of Cancun airport.",
-   "next_open": null,
-   "event_date": null,
-   "cadence": null,
-   "url": "https://fat.voyage/openings",
-   "note": "Expected opening is January 2027. One listing shows stays bookable from February 2027. Confirm the first bookable date."
-  },
-  {
    "name": "Cambridge House, Auberge Collection",
    "type": "hotel",
    "location": "Mayfair, London, UK",
@@ -170,12 +181,12 @@
    "name": "Super Bowl LXI",
    "type": "event",
    "location": "SoFi Stadium, Inglewood, CA",
-   "window": "On Location, the NFL's official hospitality provider, is the official source for ticket and hospitality packages, which went on general sale September 9 after a presale. All On Location packages include hospitality. Resale runs through secondary channels.",
+   "window": "On Location, the NFL's official hospitality provider, is the only official source for ticket and hospitality packages, which went on general sale September 9 after a presale. All On Location packages include hospitality. Resale runs through secondary channels.",
    "next_open": null,
    "event_date": "2027-02-14",
    "cadence": null,
    "url": "https://www.nfl.com/news/on-location-super-bowl-lxi-hospitality-packages",
-   "note": "On Location's Beach House is at Shutters on the Beach and Casa del Mar, and Studio 61 concerts run Feb 12 to 13. One source says the On The Fifty package sold out in presales. Earlier price points (resale from $5,356, packages from $7,350 per person) are from a November 5 check, so verify."
+   "note": "On The Fifty sold out in presales, and On Location's own site now shows its Elite tier as sold out. Studio 61 concerts run Feb 12 to 13 at the Hollywood Palladium. Earlier price points (resale from $5,356, packages from $7,350 per person) date from a November 5 check, so verify."
   },
   {
    "name": "Omni Pontoque Resort at Punta de Mita",
