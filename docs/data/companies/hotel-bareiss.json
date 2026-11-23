@@ -1,0 +1,33 @@
+{
+ "name": "Hotel Bareiss",
+ "slug": "hotel-bareiss",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e5e828fe17a0",
+   "title": "Hotel Bareiss named Germany's best hotel for 2027: other winners of the prestigious ranking also revealed",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMER3d200N2xwYkNkd2trUUlfZGhuVnRzUEtXSGIyRTBBeFdBVDY0dUl3b1lwTzkxYnFubXdQNjhxYlBySGdaUXlfSWpFY3QzTUNYcDRiSmpKcEZiWTNYLUFTNFVsUkJKOE9CQmlaQTVJcEFCdWp5bWRWQXczQnc5cDJRSHZFYjdMNWxHVXo0T0lrc1Y2dHhQQjh1WU9aRk00Zk5BY3dRNXJKN2pRWmVuMFZCbHVISXZO?oc=5",
+   "source": "KarloBag.eu",
+   "source_type": "gnews",
+   "published": "2026-11-23T17:35:01Z",
+   "relevance": 2,
+   "why": "Hotel Bareiss was named Germany's best hotel for 2027 in a new ranking that also lists other winners.",
+   "summary_ai": "Hotel Bareiss was named Germany's best hotel for 2027 in a new ranking that also lists other winners.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2027 ranking"
+   ],
+   "also": []
+  }
+ ]
+}

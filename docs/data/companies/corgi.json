@@ -1,0 +1,31 @@
+{
+ "name": "Corgi",
+ "slug": "corgi",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9d266a8fab35",
+   "title": "AI-forward insurance startup Corgi applies for bank charter",
+   "url": "https://www.bankingdive.com/news/corgi-applies-occ-fdic-national-bank-charter-ai-insurance-fintech/875453/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-23T14:41:23Z",
+   "relevance": 2,
+   "why": "AI-focused insurance startup Corgi has applied for a national bank charter, which would bring its holding company under Federal Reserve oversight.",
+   "summary_ai": "AI-focused insurance startup Corgi has applied for a national bank charter, which would bring its holding company under Federal Reserve oversight.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

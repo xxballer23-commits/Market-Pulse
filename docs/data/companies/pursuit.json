@@ -1,0 +1,34 @@
+{
+ "name": "Pursuit",
+ "slug": "pursuit",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "501209e2cec3",
+   "title": "What Pursuit’s $485 Million Business Says About the Economics of Attractions",
+   "url": "https://skift.com/2026/11/23/what-pursuits-485-million-business-says-about-the-economics-of-attractions/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-23T13:30:00Z",
+   "relevance": 3,
+   "why": "Per-guest yield at experiential operators matters when we assess experience-credit partner economics.",
+   "summary_ai": "Pursuit's $485 million business is earning more per visitor, but reinvestment will determine how much cash remains.",
+   "take": "Per-guest yield at experiential operators matters when we assess experience-credit partner economics.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$485 million"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,77 @@
  "vets": [],
  "items": [
   {
+   "id": "577ecd07177e",
+   "title": "Citi AAdvantage Executive Card Review: Better Lounges And More Status Credit",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdUZBa2hQUENoTUZRTHdfbUd6aVVFZ2xfaHlfRGVnS294NFRKTk5RWFRDZHdXYTZJRTg5Wl9MTTRIcDhnNVRRckUwWGM2QXhzYWhjMk9paEd6Y1VlaUhfeWFDZjN3R19pNHhoZmgwQzJMcjNoZXIwM1ZweUN3QVpMRXZZeUlNUWpEOFNRYW9vTkg5b1ByeFNhbUdTRUdHRTdINmJvVmdGYw?oc=5",
+   "source": "View from the Wing",
+   "source_type": "gnews",
+   "published": "2026-11-23T19:04:41Z",
+   "relevance": 3,
+   "why": "Benchmark this lounge and status upgrade against your airline co-brand offers before the next refresh.",
+   "summary_ai": "A review of the Citi AAdvantage Executive Card highlights better lounge access and additional status credit.",
+   "take": "Benchmark this lounge and status upgrade against your airline co-brand offers before the next refresh.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "lounge",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2edf57f55392",
+   "title": "American Blocking Domestic Saver Awards Close To Departure (Within Six Days)",
+   "url": "https://onemileatatime.com/news/american-blocking-domestic-saver-awards-close-departure/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-23T13:07:07Z",
+   "relevance": 3,
+   "why": "Tighter saver availability lowers redemption value for points-focused cardholders, so expect sentiment to sour on airline-linked earning.",
+   "summary_ai": "American now blocks saver award seats on domestic flights within six days of departure, hitting Alaska and British Airways redemptions hardest.",
+   "take": "Tighter saver availability lowers redemption value for points-focused cardholders, so expect sentiment to sour on airline-linked earning.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Within six days of departure"
+   ],
+   "also": []
+  },
+  {
+   "id": "2ce596a5f847",
+   "title": "American Goes Bigger in Los Angeles",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB3dUQtSU1IQkxhMUlQMUxXdlR0QUFELWRXRVROeEZuT1NqeFV1UzVZX2V0Y3pQWThIOHVZeHl2d1gwVXBEYUR5WjFXd1pDS3VLWlNldklIckVkcDJzaU9ZX3ZjOXQzemZITVpkTmVrUDBuR3JZdXdZNjU5NA?oc=5",
+   "source": "Cranky Flier",
+   "source_type": "gnews",
+   "published": "2026-11-23T11:45:00Z",
+   "relevance": 2,
+   "why": "Cranky Flier reports American Airlines is expanding its footprint in Los Angeles.",
+   "summary_ai": "Cranky Flier reports American Airlines is expanding its footprint in Los Angeles.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "0d8263b134fa",
    "title": "American AAdvantage Business Program: How To Earn Bonus Loyalty Points & Miles",
    "url": "https://onemileatatime.com/guides/american-aadvantage-business-program/",

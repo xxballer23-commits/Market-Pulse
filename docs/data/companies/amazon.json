@@ -5,6 +5,53 @@
  "vets": [],
  "items": [
   {
+   "id": "79b5ee3807a1",
+   "title": "Major Retailers: Apple Airpods Pro 3 for $149 (reg. $249)",
+   "url": "https://www.doctorofcredit.com/major-retailers-apple-airpods-pro-3-for-149-reg-249/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T16:56:12Z",
+   "relevance": 1,
+   "why": "Amazon, Walmart and Best Buy are selling AirPods Pro 3 for $149, down from $249 at Apple.",
+   "summary_ai": "Amazon, Walmart and Best Buy are selling AirPods Pro 3 for $149, down from $249 at Apple.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$149",
+    "$249"
+   ],
+   "also": []
+  },
+  {
+   "id": "13732ad642aa",
+   "title": "Amazon enlists customers in fight against NYC delivery worker bill",
+   "url": "https://www.retaildive.com/news/amazon-enlists-customers-in-fight-against-nyc-delivery-protection-act/875451/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-23T16:33:00Z",
+   "relevance": 1,
+   "why": "Amazon is urging NYC customers to oppose a delivery worker bill it says could raise order costs.",
+   "summary_ai": "Amazon is urging NYC customers to oppose a delivery worker bill it says could raise order costs.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Up to $5 higher order costs"
+   ],
+   "also": []
+  },
+  {
    "id": "b76fdd1242a9",
    "title": "Amazon Nears $7.5 Billion Purchase of AI Startup Decart",
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/",
@@ -166,29 +213,6 @@
    "data_points": [
     "$40 savings"
    ],
-   "also": []
-  },
-  {
-   "id": "ff6bb72fc37b",
-   "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
-   "url": "https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-   "source": "Modern Retail",
-   "source_type": "rss",
-   "published": "2026-11-19T05:00:00Z",
-   "relevance": 2,
-   "why": "Agent checkout could change how card-linked offers reach shoppers, but adoption is still early.",
-   "summary_ai": "OpenAI, Google, Amazon and Walmart are pushing agent-led holiday shopping, though adoption remains limited.",
-   "take": "Agent checkout could change how card-linked offers reach shoppers, but adoption is still early.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "partnerships"
-   ],
-   "breaking": false,
-   "data_points": [],
    "also": []
   }
  ]

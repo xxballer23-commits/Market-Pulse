@@ -5,6 +5,50 @@
  "vets": [],
  "items": [
   {
+   "id": "32432adcf2a7",
+   "title": "Google Adds Grocery Giants to Connected Apps Feature",
+   "url": "https://www.pymnts.com/news/retail/2026/google-adds-grocery-giants-to-connected-apps-feature/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T20:09:45Z",
+   "relevance": 2,
+   "why": "Grocers plugging into AI assistants could open future card-linked offer routes worth monitoring.",
+   "summary_ai": "Google's new Connected Apps feature lets users shop grocery chains such as Albertsons, Safeway, Shaw's and Target through Search and Gemini.",
+   "take": "Grocers plugging into AI assistants could open future card-linked offer routes worth monitoring.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "4a9518c79cb8",
+   "title": "How to use Google Flights Explore to find cheap flights and hotel deals",
+   "url": "https://thepointsguy.com/airline/google-explore/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-23T19:00:32Z",
+   "relevance": 1,
+   "why": "A guide explains how to use Google Flights Explore to find flight and hotel deals.",
+   "summary_ai": "A guide explains how to use Google Flights Explore to find flight and hotel deals.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "adad3d36e0bc",
    "title": "Google Brings Its Wallet to the iPhone as Apple Pay Gets a New Leader",
    "url": "https://www.pymnts.com/big-tech/2026/google-brings-wallet-iphone-apple-pay-gets-new-leader/",
@@ -117,29 +161,6 @@
    "data_points": [
     "$12M raise"
    ],
-   "also": []
-  },
-  {
-   "id": "ff6bb72fc37b",
-   "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
-   "url": "https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-   "source": "Modern Retail",
-   "source_type": "rss",
-   "published": "2026-11-19T05:00:00Z",
-   "relevance": 2,
-   "why": "Agent checkout could change how card-linked offers reach shoppers, but adoption is still early.",
-   "summary_ai": "OpenAI, Google, Amazon and Walmart are pushing agent-led holiday shopping, though adoption remains limited.",
-   "take": "Agent checkout could change how card-linked offers reach shoppers, but adoption is still early.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "partnerships"
-   ],
-   "breaking": false,
-   "data_points": [],
    "also": []
   }
  ]

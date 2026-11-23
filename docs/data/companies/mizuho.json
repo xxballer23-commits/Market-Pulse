@@ -1,0 +1,31 @@
+{
+ "name": "Mizuho",
+ "slug": "mizuho",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "337e67395a7e",
+   "title": "Tech outages are causing people to panic-buy. Costco is benefiting, Mizuho says",
+   "url": "https://www.cnbc.com/2026/11/18/tech-outage-costco-panic-buying.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-18T16:33:14Z",
+   "relevance": 2,
+   "why": "Outage-driven stockpiling shows how sudden disruptions shift spend toward warehouse clubs and away from other channels.",
+   "summary_ai": "Mizuho says tech outages are driving panic buying that benefits Costco.",
+   "take": "Outage-driven stockpiling shows how sudden disruptions shift spend toward warehouse clubs and away from other channels.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

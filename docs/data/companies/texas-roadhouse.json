@@ -1,0 +1,31 @@
+{
+ "name": "Texas Roadhouse",
+ "slug": "texas-roadhouse",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e89623daadf7",
+   "title": "8 Reasons to Never Eat at Texas Roadhouse",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1STFE4WlpvY25Ld2NfR04wQ1BXc0wtWHJEbjd1RldsdU1IUGNHNHEtSzhxb1FBNmZELUc2TmYwaHQ1WnJqbnBmM3BBWk5iUTZmdUhSQ1dIYXcyNm9VMS0xbjNXcWZ2bVlHSDdwQkFLWnItb1U?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-23T12:00:00Z",
+   "relevance": 1,
+   "why": "A listicle lists reasons to avoid Texas Roadhouse, a casual steakhouse chain.",
+   "summary_ai": "A listicle lists reasons to avoid Texas Roadhouse, a casual steakhouse chain.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "8 reasons"
+   ],
+   "also": []
+  }
+ ]
+}

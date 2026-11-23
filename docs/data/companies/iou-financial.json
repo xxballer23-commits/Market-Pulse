@@ -1,0 +1,34 @@
+{
+ "name": "IOU Financial",
+ "slug": "iou-financial",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "69a23b8a660a",
+   "title": "IOU Financial Originated $243M in Loans Over the Last 12 Months",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQU1VYUVMRmVucFczdmRwVFFRR2NRS096TnhWSjM0Y2ZNcFFRRzlSLTkwb0x2ZzAxVkJselFNdHpWZWJHZlBBMmR0Tk9CTlVfMWxKVmUwWkh2bDlHY2U3QWRQU0lyYi1mb1puREFPdHItdzhnOXBnZHVBU2YyU3JEeDc3WDZHM2pjcGNoWExydERyYktnT3Qw?oc=5",
+   "source": "deBanked",
+   "source_type": "gnews",
+   "published": "2026-11-23T21:33:39Z",
+   "relevance": 2,
+   "why": "IOU Financial reports it originated $243 million in loans over the past 12 months.",
+   "summary_ai": "IOU Financial reports it originated $243 million in loans over the past 12 months.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$243M originated",
+    "12 months"
+   ],
+   "also": []
+  }
+ ]
+}

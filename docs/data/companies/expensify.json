@@ -1,0 +1,29 @@
+{
+ "name": "Expensify",
+ "slug": "expensify",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "931d0d95c083",
+   "title": "Expensify rolls out AI-powered analytics feature",
+   "url": "https://www.finextra.com/pressarticle/111762/expensify-rolls-out-ai-powered-analytics-feature?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T16:37:00Z",
+   "relevance": 1,
+   "why": "Expensify has launched Insights, an AI feature that analyzes expense data for business users.",
+   "summary_ai": "Expensify has launched Insights, an AI feature that analyzes expense data for business users.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

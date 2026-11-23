@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "d0213fbb5e25",
+   "title": "Armani: LVMH bows out, L’Oréal and Essilux negotiate for 15% stake",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTVVOam1zcmR1bVJjSkhDTUE5M0E0bEV6YkRxd29jUDVtN0JiY2ExRVU1bGNNNl9valEyVy1RcHdJWlVUYTc3a2ZsM1kwSzBrRm1YS0hVWFFTRUVSTEJ5bHhqR0F1d1VoM0llUUROY1hIeEFIUUtkZ0tHZGVtRWFQQzMwcnRjZGRsNXZsY1RSM1k1S2VGM19qa2hITlJ2NTBx?oc=5",
+   "source": "La conceria.it",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:27:07Z",
+   "relevance": 2,
+   "why": "Ownership shifts at a major fashion house can change which luxury partners are available for card perks.",
+   "summary_ai": "LVMH has reportedly stepped back from a stake in Armani, with L'Oréal and Essilux now negotiating for 15%.",
+   "take": "Ownership shifts at a major fashion house can change which luxury partners are available for card perks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported talks, unconfirmed",
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "15% stake"
+   ],
+   "also": []
+  },
+  {
    "id": "ffe4383fc290",
    "title": "LVMH Steps Back From Armani as Rivals Circle and French Sales Slip",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOHVFdTN6bUVLTXdsT3RZRVFseTFjcG5xeEowYkhOUVA3cTNlbUh2eFZ2RWwzVU1xWFBCVlZCaW9XSTJZMEthVXRrQWJoanlzbHZpT3VvNXFrNXF2bzM2UFJ5eWpHX1dUREVoY29IaHc5VmhTb01hVllqME9TM0RfMUV3bTUwVmEweUs0ajV5QkMtaEd4NmVmZGFjR0hwaExxUUozb1phSERmT20tZmg4bDB0SnNZcXpwOUxWX3ZCWWtCVHpON3oxTkpsVFVCbTFpSHRPZg?oc=5",
@@ -60,14 +85,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T08:09:45Z",
    "relevance": 2,
-   "why": "L'Oréal is reportedly leading a bid for a 15% stake in Armani after LVMH dropped out.",
-   "summary_ai": "L'Oréal is reportedly leading a bid for a 15% stake in Armani after LVMH dropped out.",
-   "take": null,
-   "take_kind": null,
+   "why": "Luxury brand stake deals reshape ownership, but there is no direct premium card angle yet.",
+   "summary_ai": "L'Oréal reportedly leads the race for a 15 percent Armani stake after LVMH dropped out.",
+   "take": "Luxury brand stake deals reshape ownership, but there is no direct premium card angle yet.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Unconfirmed bid, reported only",
    "sections": [
     "luxury"
    ],
@@ -85,14 +110,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T07:01:00Z",
    "relevance": 2,
-   "why": "Coverage conflicts on stake size, 10% here versus 15% elsewhere. Treat as unconfirmed until a deal is announced.",
-   "summary_ai": "Reuters reports L'Oréal is looking to buy a 10% Armani stake after LVMH exited the race.",
-   "take": "Coverage conflicts on stake size, 10% here versus 15% elsewhere. Treat as unconfirmed until a deal is announced.",
+   "why": "Reports conflict on stake size (10% versus 15%), so wait for confirmation before acting.",
+   "summary_ai": "Reuters reports L'Oréal is looking to buy a 10 percent Armani stake now that LVMH is out.",
+   "take": "Reports conflict on stake size (10% versus 15%), so wait for confirmation before acting.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Reported, not confirmed by parties",
+   "low_confidence": "Unconfirmed report, stake size conflicts with other coverage",
    "sections": [
     "luxury"
    ],

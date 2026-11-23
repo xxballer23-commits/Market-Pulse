@@ -1,0 +1,34 @@
+{
+ "name": "David's Bridal",
+ "slug": "davids-bridal",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b3866ee9586c",
+   "title": "David’s Bridal tests dress rental",
+   "url": "https://www.retaildive.com/news/davids-bridal-tests-dress-rental-something-borrowed/875262/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-23T15:37:00Z",
+   "relevance": 1,
+   "why": "David's Bridal is piloting a dress rental program called Something Borrowed at 11 Pennsylvania stores.",
+   "summary_ai": "David's Bridal is piloting a dress rental program called Something Borrowed at 11 Pennsylvania stores.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "11 pilot stores",
+    "Pennsylvania pilot"
+   ],
+   "also": []
+  }
+ ]
+}

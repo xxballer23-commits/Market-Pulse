@@ -1,0 +1,33 @@
+{
+ "name": "Blulabs",
+ "slug": "blulabs",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "61f117fd830a",
+   "title": "Blulabs Secures $80 Million Credit Facility from Wells Fargo",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb3lHVEZVTm1XVzd4QWlQRWdjdi1yQ1hvRXRadndZa0NuNndfMm1LczBJbzlaTnpuMWZ5SGxBRFpfczlNTDN0dFRwbWpRd2FRalRCMXhWa25oQjZTS0NldWJua0cySVhmX21pYm0wRTF1Yy1LTlJHMWs5QXQzazJNYlBmdm1CamtQZVZwcDE1RkkwZmFfS00wdFg1NE8wams?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-23T14:00:00Z",
+   "relevance": 2,
+   "why": "Corporate lending to a fintech is context for Wells's commercial book, not a direct consumer card partnership.",
+   "summary_ai": "Wells Fargo has provided an $80 million credit facility to Blulabs.",
+   "take": "Corporate lending to a fintech is context for Wells's commercial book, not a direct consumer card partnership.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$80 million"
+   ],
+   "also": []
+  }
+ ]
+}

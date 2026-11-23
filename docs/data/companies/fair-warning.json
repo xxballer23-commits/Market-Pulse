@@ -1,0 +1,34 @@
+{
+ "name": "Fair Warning",
+ "slug": "fair-warning",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "12ac747fff22",
+   "title": "This Yoshitomo Nara Painting Just Sold for $15.9 Million at Auction",
+   "url": "https://robbreport.com/shelter/art-collectibles/yoshitomo-nara-painting-fair-warning-sells-1238858424/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-23T17:00:00Z",
+   "relevance": 2,
+   "why": "Top-end art demand is holding up, which points to collectibles and auction access as possible affluent card perks.",
+   "summary_ai": "A Yoshitomo Nara painting sold for $15.9 million at Fair Warning, just above its high estimate.",
+   "take": "Top-end art demand is holding up, which points to collectibles and auction access as possible affluent card perks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$15.9 million"
+   ],
+   "also": []
+  }
+ ]
+}

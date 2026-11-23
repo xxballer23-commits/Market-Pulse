@@ -5,6 +5,83 @@
  "vets": [],
  "items": [
   {
+   "id": "acc5756392d1",
+   "title": "(Targeted) Paypal Rewards: Get 25% Back On Purchases With Pay-in-4, Up To $25 Back (11/23-12/6)",
+   "url": "https://www.doctorofcredit.com/targeted-paypal-rewards-get-25-back-on-purchases-with-pay-in-4-up-to-25-back-11-23-12-6/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T20:34:07Z",
+   "relevance": 3,
+   "why": "Pay-in-4 rewards used as a targeted acquisition lever are worth benchmarking against our own installment features.",
+   "summary_ai": "PayPal is offering targeted users 25% back on Pay in 4 purchases, capped at $25 in rewards through December 6.",
+   "take": "Pay-in-4 rewards used as a targeted acquisition lever are worth benchmarking against our own installment features.",
+   "take_kind": "take",
+   "partner": "PayPal",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community",
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "25% back",
+    "Up to $25 back",
+    "Valid 11/23 - 12/6"
+   ],
+   "also": []
+  },
+  {
+   "id": "b0d9c9e2e2f9",
+   "title": "PayPal Sets Virtual Card Rules for Agentic Commerce",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/paypal-sets-virtual-card-rules-for-agentic-commerce/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T20:30:29Z",
+   "relevance": 2,
+   "why": "Agent-initiated virtual card payments are an emerging rail; track how terms shape issuer and wallet roles.",
+   "summary_ai": "PayPal's new terms for a virtual card payment type built for agentic commerce took effect on Monday.",
+   "take": "Agent-initiated virtual card payments are an emerging rail; track how terms shape issuer and wallet roles.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Effective Nov. 23"
+   ],
+   "also": []
+  },
+  {
+   "id": "3bc30bd7b24a",
+   "title": "PayPal’s new CFO lands big pay",
+   "url": "https://www.paymentsdive.com/news/incoming-paypal-cfo-30m-stock-bonuses-comp-turnaround-strategy/875474/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-23T15:39:00Z",
+   "relevance": 1,
+   "why": "PayPal hired Claire Bramley, formerly of HP, as CFO starting in February with a $30 million pay package.",
+   "summary_ai": "PayPal hired Claire Bramley, formerly of HP, as CFO starting in February with a $30 million pay package.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$30 million pay package",
+    "February start"
+   ],
+   "also": []
+  },
+  {
    "id": "a232a7cd62a5",
    "title": "[YMMV] PayPal: Earn 15% Back On Food Delivery (Up To $15)",
    "url": "https://www.doctorofcredit.com/ymmv-paypal-earn-15-back-on-food-delivery-up-to-15/",

@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "2068f20527f2",
+   "title": "Hilton Is Opening a New 34-Room Boutique Hotel With a Rooftop Bar in Mexico City’s Polanco",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45LUFGMzk4dHc5RE5EZ0pIWkpzOG5QOU4zcmlpZlg0a1k2b2F5S21iRFdPRFZIN25pcjF3ck1oUW94aU9uekhiWG9QQTNwTHhCZ0w2V0VKMTh5LUNqSUxSOHl6LVA0SHBHWmJiME40bUVrUDJFQVE?oc=5",
+   "source": "Caribbean Journal",
+   "source_type": "gnews",
+   "published": "2026-11-23T19:11:57Z",
+   "relevance": 2,
+   "why": "Hilton is opening a 34-room boutique hotel with a rooftop bar in Mexico City's Polanco district.",
+   "summary_ai": "Hilton is opening a 34-room boutique hotel with a rooftop bar in Mexico City's Polanco district.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "34 rooms"
+   ],
+   "also": []
+  },
+  {
    "id": "f6a465668e3b",
    "title": "Hilton’s new luxury hotels set to open in 2026–2027",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkxXNThFZmJlWE5tNXdlRGs3RncweFBxMWRQclZMcDFKcGdPR3M0eEFmWENvd21NWWhvMG1CcTg2UmZWcktsWnpIdVkxTkJjdkNPc0NxbS10ODhlLTV6RWR5X2NIYzJyTXpOWE1NOTQxU0lFZm45ck85RVlTQmFBcWFJZ2ZkRDhMVV9fdA?oc=5",
@@ -53,7 +78,12 @@
     "125k points",
     "$199 price"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "Frequent Miler",
+     "url": "https://frequentmiler.com/hilton-timeshare-offer-125k-points-3-nights-starting-at-199/"
+    }
+   ]
   },
   {
    "id": "979d4dd94d0e",

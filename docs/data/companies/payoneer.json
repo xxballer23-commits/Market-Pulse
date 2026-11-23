@@ -1,0 +1,75 @@
+{
+ "name": "Payoneer",
+ "slug": "payoneer",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "6226bb5f0db4",
+   "title": "Payoneer Lands Conditional Approval to Open Stablecoin Bank",
+   "url": "https://www.pymnts.com/news/banking/2026/payoneer-lands-conditional-approval-to-open-stablecoin-bank/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T20:01:40Z",
+   "relevance": 1,
+   "why": "Payoneer received preliminary conditional approval from the OCC to set up a stablecoin-focused digital bank.",
+   "summary_ai": "Payoneer received preliminary conditional approval from the OCC to set up a stablecoin-focused digital bank.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "b1530d5b1164",
+   "title": "Payoneer gets conditional approval for trust bank",
+   "url": "https://www.bankingdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875506/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-23T17:23:28Z",
+   "relevance": 2,
+   "why": "Payoneer received conditional OCC approval for a trust bank charter it applied for in February.",
+   "summary_ai": "Payoneer received conditional OCC approval for a trust bank charter it applied for in February.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c276b76610dd",
+   "title": "Payoneer scores preliminarily OCC approval for stablecoin bank",
+   "url": "https://www.finextra.com/newsarticle/48798/payoneer-scores-preliminarily-occ-approval-for-stablecoin-bank?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T15:39:00Z",
+   "relevance": 2,
+   "why": "Stablecoin trust charters show regulators opening bank-like status to fintechs, which could reshape the payments partners a card program relies on.",
+   "summary_ai": "Payoneer received preliminary conditional approval from US regulators to form a stablecoin national trust bank.",
+   "take": "Stablecoin trust charters show regulators opening bank-like status to fintechs, which could reshape the payments partners a card program relies on.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

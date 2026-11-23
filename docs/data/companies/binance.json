@@ -1,0 +1,32 @@
+{
+ "name": "Binance",
+ "slug": "binance",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1e88e88bf577",
+   "title": "DOJ Aims To Recover $1.1 Billion From Binance Theft",
+   "url": "https://www.pymnts.com/news/2026/doj-aims-to-recover-1-1-billion-from-binance-theft/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T20:33:52Z",
+   "relevance": 1,
+   "why": "The DOJ is seeking forfeiture of over $1 billion in crypto stolen from Binance as part of a wider $6.3 billion recovery effort.",
+   "summary_ai": "The DOJ is seeking forfeiture of over $1 billion in crypto stolen from Binance as part of a wider $6.3 billion recovery effort.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$1.1 billion",
+    "$6.3 billion"
+   ],
+   "also": []
+  }
+ ]
+}

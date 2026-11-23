@@ -1,0 +1,31 @@
+{
+ "name": "Hotel Cala",
+ "slug": "hotel-cala",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "eb4ebac7d7e1",
+   "title": "Hotel Cala appoints general manager ahead of launch",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMzlQWVB4c19GMXZTQWtfdzNjaXZBSGYweTlQVFB2eWFrWGY1NWVwZTNvSDItb1ZaUElHOFNfXzJlLUFXeFZPaGtYWl9fQktjSTNadkpuTmo4QkZycDFjWFhKVHhBM3h4NmpYWG9FeHlsR2dwaVNELTZoX2VKb1haQVB3S01xVXF1M25raW9B?oc=5",
+   "source": "Boutique Hotelier USA",
+   "source_type": "gnews",
+   "published": "2026-11-23T15:58:59Z",
+   "relevance": 2,
+   "why": "Hotel Cala has named a general manager ahead of its opening.",
+   "summary_ai": "Hotel Cala has named a general manager ahead of its opening.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

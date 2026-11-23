@@ -1,0 +1,31 @@
+{
+ "name": "Trust Payments",
+ "slug": "trust-payments",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a37167c23c55",
+   "title": "Trust Payments partners OKTO Payments in LatAm",
+   "url": "https://www.finextra.com/pressarticle/111757/trust-payments-partners-okto-payments-in-latam?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T13:05:00Z",
+   "relevance": 1,
+   "why": "Trust Payments partnered with OKTO Payments to offer merchants local payment methods across six Latin American markets.",
+   "summary_ai": "Trust Payments partnered with OKTO Payments to offer merchants local payment methods across six Latin American markets.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Six Latin American markets"
+   ],
+   "also": []
+  }
+ ]
+}

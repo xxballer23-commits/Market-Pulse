@@ -1,0 +1,34 @@
+{
+ "name": "Palisociety",
+ "slug": "palisociety",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "bd92f0f1325b",
+   "title": "What is Palisociety? Your guide to one of Marriott’s newest boutique collections",
+   "url": "https://thepointsguy.com/hotel/palisociety-hotels/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-23T16:00:59Z",
+   "relevance": 3,
+   "why": "Marriott is pulling independent boutique hotels into Bonvoy, a loyalty expansion worth tracking for hotel perk partnerships.",
+   "summary_ai": "Palisociety, a California boutique hotel collection with more than 20 U.S. sites, is now partly participating in Marriott Bonvoy.",
+   "take": "Marriott is pulling independent boutique hotels into Bonvoy, a loyalty expansion worth tracking for hotel perk partnerships.",
+   "take_kind": "read",
+   "partner": "Marriott",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20+ U.S. locations"
+   ],
+   "also": []
+  }
+ ]
+}

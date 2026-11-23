@@ -1,0 +1,31 @@
+{
+ "name": "Plaza Marine",
+ "slug": "plaza-marine",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2302d000b5e7",
+   "title": "Plaza Marine increases credit line with Wells Fargo Bank",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPckMwZnl5c0F4ZlY5QUZIMF9fd2lNVUlUVDhaYW81dmVNdWdmUEoxOVVxbktqNmNNWG5KUnBBZTRYRjc5WTdkQWVWMXVsS1ZrVlh1RjdxWGo1RVNGbFBNSDNJTnRjOUQ4aDduSmYtTFFWTUJjQU9YZmVHMjZLZjd3S3dEVHVUQXlMekxiX2k4ZUtwbjQ?oc=5",
+   "source": "ship.energy",
+   "source_type": "gnews",
+   "published": "2026-11-23T14:45:54Z",
+   "relevance": 1,
+   "why": "Plaza Marine has increased its credit line with Wells Fargo Bank, a commercial shipping finance item.",
+   "summary_ai": "Plaza Marine has increased its credit line with Wells Fargo Bank, a commercial shipping finance item.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

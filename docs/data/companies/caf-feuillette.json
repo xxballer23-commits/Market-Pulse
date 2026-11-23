@@ -1,0 +1,31 @@
+{
+ "name": "Café Feuillette",
+ "slug": "caf-feuillette",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c96e32ed62d6",
+   "title": "Café Feuillette Now Open in Houston’s River Oaks District, Marking U.S. Debut",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHI1Nm1BUEc4eDRBZThWYjBsS0o0Q2h2SjNxdnlJVlF0MmhyUXhFVVAzUHlfNlhVdEVyTTg1VUFOb1dJbjkyeVYxZ3dxQV9CazlxZlFucnBjOWVwdGxobldqT1RORGlOdTlBYkEtWXNYT3BUZWNqOFljM1VvSnlZdWhxdVEyRkNQanBHQTZtdF9ITEdmWElhUEZBcVRRLXJHV1pfeGtxV0w?oc=5",
+   "source": "DiningOut",
+   "source_type": "gnews",
+   "published": "2026-11-23T17:29:00Z",
+   "relevance": 1,
+   "why": "Café Feuillette opened its first US location in Houston's River Oaks district.",
+   "summary_ai": "Café Feuillette opened its first US location in Houston's River Oaks district.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

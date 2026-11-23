@@ -5,6 +5,27 @@
  "vets": [],
  "items": [
   {
+   "id": "b9af44db211a",
+   "title": "OpenAI Pitches Perplexity Score to Set AI Safety Limits",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-pitches-perplexity-score-to-set-ai-safety-limits/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T21:46:52Z",
+   "relevance": 1,
+   "why": "OpenAI's chief scientist proposes a single intelligence metric that developers would use to set AI safety limits.",
+   "summary_ai": "OpenAI's chief scientist proposes a single intelligence metric that developers would use to set AI safety limits.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "163032ceddde",
    "title": "LVMH's OpenAI Media Deal Lands as Armani Talks End and Paris Backs Vuitton Flagship Financing",
    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNWFE4RFFnNjZUc0JXSnBrLTFoZ0U3ZER0bnd3ZXUyLUdMZmQ4VmZCSW1xTHB4NmhYVG01VERHLXdJajNyRFNoeDk3NGY2YzhVOGRpd1FrMGE5SFEzVVNtR3RES2M5aGhZRHRNZzBnTnFpcmdsVVNRbmJOVmtySThobGpsMFZacktwYVZOU2tCRE5pTk1WU1c5VHhFRG5uZDR6NEF5WTN6ek9Lcmo1cUR3ekFlU256emhtZnFJTlNzaUdLakEySjBiUEhmbTBlUFdVOG5VbE16bHUxdGdiSmQ5RF9MUXdDN3U2LXRuM1kwbERnNVFaTUV2UA?oc=5",
@@ -22,29 +43,6 @@
    "low_confidence": null,
    "sections": [
     "luxury"
-   ],
-   "breaking": false,
-   "data_points": [],
-   "also": []
-  },
-  {
-   "id": "ff6bb72fc37b",
-   "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
-   "url": "https://www.modernretail.co/technology/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-   "source": "Modern Retail",
-   "source_type": "rss",
-   "published": "2026-11-19T05:00:00Z",
-   "relevance": 2,
-   "why": "Agent checkout could change how card-linked offers reach shoppers, but adoption is still early.",
-   "summary_ai": "OpenAI, Google, Amazon and Walmart are pushing agent-led holiday shopping, though adoption remains limited.",
-   "take": "Agent checkout could change how card-linked offers reach shoppers, but adoption is still early.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "partnerships"
    ],
    "breaking": false,
    "data_points": [],

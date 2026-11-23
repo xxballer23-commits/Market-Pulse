@@ -1,0 +1,33 @@
+{
+ "name": "Codex",
+ "slug": "codex",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4c96392cd498",
+   "title": "Stablecoin FX platform Codex raises $30m",
+   "url": "https://www.finextra.com/newsarticle/48797/stablecoin-fx-platform-codex-raises-30m?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T15:21:00Z",
+   "relevance": 2,
+   "why": "Codex raised $30 million in Series A funding for a platform that converts, receives and sends fiat and stablecoins at institutional FX rates.",
+   "summary_ai": "Codex raised $30 million in Series A funding for a platform that converts, receives and sends fiat and stablecoins at institutional FX rates.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$30M Series A"
+   ],
+   "also": []
+  }
+ ]
+}

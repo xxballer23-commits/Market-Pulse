@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "9098e8a32ef4",
+   "title": "Kering shares recover, but still lose 31.5% over the quarter",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSDNQZF8wbU04ck5GeGRqWkExYUlvWkdzQ3djVDNHNEpfeV8xek43ZHducDAtYW5uSko2UjhJWVN5UXdnVEdkYjdDQnQxendJYkU2eGFFb2NaQ0dwQkxCMHBpSEhaMG05MW5ScFlHZFJIWlJaVFFhSC1wemxmcHZZenN3eHpVVlY4cm5lbnF3OFBRUkt6SDlkdVpiYVJ1VWdNOENVaU96QnFNbmdMR2tiZXZPZzdTeVRO?oc=5",
+   "source": "Idéal Investisseur",
+   "source_type": "gnews",
+   "published": "2026-11-23T13:16:00Z",
+   "relevance": 2,
+   "why": "Sustained luxury stock weakness hints at softer affluent discretionary spend heading into the holiday season.",
+   "summary_ai": "Kering shares rebounded somewhat but still fell sharply over the quarter.",
+   "take": "Sustained luxury stock weakness hints at softer affluent discretionary spend heading into the holiday season.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "31.5% quarterly share decline"
+   ],
+   "also": []
+  },
+  {
    "id": "4d8123423f5d",
    "title": "Miley Cyrus and Maxx Morando Got Married in Matching Saint Laurent",
    "url": "https://robbreport.com/style/fashion/miley-cyrus-maxx-morando-wedding-saint-laurent-chopard-1238858377/",
@@ -196,10 +221,10 @@
    "source_type": "gnews",
    "published": "2026-11-19T05:30:00Z",
    "relevance": 2,
-   "why": "Kering has appointed a group pricing director, a role Vogue examines for its implications on luxury pricing.",
-   "summary_ai": "Kering has appointed a group pricing director, a role Vogue examines for its implications on luxury pricing.",
-   "take": null,
-   "take_kind": null,
+   "why": "Pricing leadership moves hint at margin focus at luxury groups, with no direct card action yet.",
+   "summary_ai": "Kering has hired a group pricing director, which Vogue says matters for its pricing approach.",
+   "take": "Pricing leadership moves hint at margin focus at luxury groups, with no direct card action yet.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,

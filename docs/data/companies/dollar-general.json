@@ -1,0 +1,29 @@
+{
+ "name": "Dollar General",
+ "slug": "dollar-general",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "898b2410426d",
+   "title": "Majority of states now battling Dollar General over pricing practices",
+   "url": "https://www.retaildive.com/news/dollar-general-battles-states-ftc-pricing-practices/875454/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-23T16:42:00Z",
+   "relevance": 1,
+   "why": "Ten states joined the FTC and 20 other states in a complaint alleging Dollar General's pricing is deceptive.",
+   "summary_ai": "Ten states joined the FTC and 20 other states in a complaint alleging Dollar General's pricing is deceptive.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

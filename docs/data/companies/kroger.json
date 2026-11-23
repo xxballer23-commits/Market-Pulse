@@ -5,6 +5,85 @@
  "vets": [],
  "items": [
   {
+   "id": "a3b97b9f3c75",
+   "title": "Get up to 10% back at Kroger brands with new Chase Offer",
+   "url": "https://frequentmiler.com/get-up-to-10-back-at-kroger-brands-with-new-chase-offer/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-23T20:45:26Z",
+   "relevance": 2,
+   "why": "Card-linked merchant offers still drive engagement, and per-card spend caps keep the cost of these promotions contained.",
+   "summary_ai": "A returning Chase Offer gives 10% back at Kroger brands on some cards and 5% on others, capped at $90 in spend per card.",
+   "take": "Card-linked merchant offers still drive engagement, and per-card spend caps keep the cost of these promotions contained.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10% back",
+    "5% back",
+    "$90 spend cap"
+   ],
+   "also": []
+  },
+  {
+   "id": "68183c36c1d0",
+   "title": "Kroger Is Buying Giant Eagle for $1.65 Billion - Is Your Store Affected?",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtY0VPdmR6VHpVcWhaa1FFUnBaQUVGYXdBbzdTd1ZwXy14ckdVejZ1cUVPeXo4S3ZfTHFfS0JWbUsxZFNub3FjR0RSQWxac1B2TkQ4SGx6OHNYM20yYVVHN1U2TG9FTlNzZmhuUXN3?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:00:00Z",
+   "relevance": 1,
+   "why": "Kroger is reported to be buying Giant Eagle in a $1.65 billion grocery deal.",
+   "summary_ai": "Kroger is reported to be buying Giant Eagle in a $1.65 billion grocery deal.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$1.65 billion"
+   ],
+   "also": []
+  },
+  {
+   "id": "9a36252b48dc",
+   "title": "Chase Offers/USB: Get Up To 10% Back at Kroger Brands, Harris Teeter ($9 Cashback Max)",
+   "url": "https://www.doctorofcredit.com/chase-offers-get-10-back-at-kroger-up-to-7-cashback/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T14:30:57Z",
+   "relevance": 3,
+   "why": "Targeted grocery card-linked offers are a benchmark for our own merchant offer economics and cap structures.",
+   "summary_ai": "Some Chase cardholders may be targeted for 5% back at Kroger brands, capped at $4.50 per offer.",
+   "take": "Targeted grocery card-linked offers are a benchmark for our own merchant offer economics and cap structures.",
+   "take_kind": "take",
+   "partner": "Kroger",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10% back",
+    "5% back",
+    "$4.50 max",
+    "$9 cashback max"
+   ],
+   "also": []
+  },
+  {
    "id": "2245fb9f5ff3",
    "title": "Wonder Shops Grubhub to Walmart and Other Potential Buyers",
    "url": "https://www.pymnts.com/news/delivery/2026/wonder-shops-grubhub-to-walmart-and-other-potential-buyers/",

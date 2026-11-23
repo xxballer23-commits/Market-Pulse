@@ -1,0 +1,33 @@
+{
+ "name": "CSC Generation",
+ "slug": "csc-generation",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9407cb46ac5f",
+   "title": "Backcountry acquires winter sports retailer Christy Sports",
+   "url": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-23T15:44:00Z",
+   "relevance": 2,
+   "why": "Backcountry is buying Christy Sports, creating a combined retail footprint of over 60 locations and adding a large ski rental network.",
+   "summary_ai": "Backcountry is buying Christy Sports, creating a combined retail footprint of over 60 locations and adding a large ski rental network.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "60+ combined locations"
+   ],
+   "also": []
+  }
+ ]
+}

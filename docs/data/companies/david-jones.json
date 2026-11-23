@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T03:39:00Z",
    "relevance": 2,
-   "why": "Australian department store David Jones faces a A$459 million shortfall and must show it can recover.",
-   "summary_ai": "Australian department store David Jones faces a A$459 million shortfall and must show it can recover.",
+   "why": "Bloomberg examines whether the Australian department store David Jones can recover from a large loss.",
+   "summary_ai": "Bloomberg examines whether the Australian department store David Jones can recover from a large loss.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "A$459 million"
+    "A$459 million loss"
    ],
    "also": []
   }

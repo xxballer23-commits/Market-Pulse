@@ -5,6 +5,30 @@
  "vets": [],
  "items": [
   {
+   "id": "79b5ee3807a1",
+   "title": "Major Retailers: Apple Airpods Pro 3 for $149 (reg. $249)",
+   "url": "https://www.doctorofcredit.com/major-retailers-apple-airpods-pro-3-for-149-reg-249/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T16:56:12Z",
+   "relevance": 1,
+   "why": "Amazon, Walmart and Best Buy are selling AirPods Pro 3 for $149, down from $249 at Apple.",
+   "summary_ai": "Amazon, Walmart and Best Buy are selling AirPods Pro 3 for $149, down from $249 at Apple.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$149",
+    "$249"
+   ],
+   "also": []
+  },
+  {
    "id": "88b797fb06c1",
    "title": "10 Weird Little Hacks Costco Shoppers Should Know",
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zS2VSUnZLYkNQVkw1Tm9ZNXNZZUhjcUNzU3RkbXhTYUNwUFBzejJ5V2FiUzJIX0I1SXRXQmplR2hFVW12ejRaV05DeWE5Q2pfZEFHc3JNVi1TeTA?oc=5",
@@ -81,9 +105,9 @@
    "source_type": "rss",
    "published": "2026-11-18T16:33:14Z",
    "relevance": 2,
-   "why": "Outage-driven stockpiling shifts wallet share toward bulk warehouse channels, a shift worth tracking in category spend data.",
-   "summary_ai": "Tech outages are driving panic buying, with Costco seeing higher shopper spending, according to Mizuho.",
-   "take": "Outage-driven stockpiling shifts wallet share toward bulk warehouse channels, a shift worth tracking in category spend data.",
+   "why": "Outage-driven stockpiling shows how sudden disruptions shift spend toward warehouse clubs and away from other channels.",
+   "summary_ai": "Mizuho says tech outages are driving panic buying that benefits Costco.",
+   "take": "Outage-driven stockpiling shows how sudden disruptions shift spend toward warehouse clubs and away from other channels.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,

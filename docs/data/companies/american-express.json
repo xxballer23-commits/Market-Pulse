@@ -5,6 +5,143 @@
  "vets": [],
  "items": [
   {
+   "id": "0eebdba2406b",
+   "title": "American Express Platinum: Valuable benefits and an offer as high as 175,000 bonus points",
+   "url": "https://thepointsguy.com/credit-cards/amex-platinum-current-offer/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-23T22:00:59Z",
+   "relevance": 4,
+   "why": "Benchmark this 175k welcome offer against our Platinum-tier acquisition targets before setting our own bonus levels.",
+   "summary_ai": "The Amex Platinum is promoted with statement credits, lounge access and elite hotel status, plus a welcome offer up to 175,000 points.",
+   "take": "Benchmark this 175k welcome offer against our Platinum-tier acquisition targets before setting our own bonus levels.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "175,000 bonus points"
+   ],
+   "also": []
+  },
+  {
+   "id": "95151d271699",
+   "title": "Walmart.com Amex Offer: Save $20 on $60 in purchases",
+   "url": "https://frequentmiler.com/walmart-com-amex-offer-save-20-on-60-in-purchases/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-23T18:05:56Z",
+   "relevance": 3,
+   "why": "Watch whether Amex keeps testing retail spend offers on Platinum, a benchmark for our own targeted retail credits.",
+   "summary_ai": "Readers report targeted Walmart.com Amex offers for Platinum cardholders, including $20 off a $60 minimum purchase.",
+   "take": "Watch whether Amex keeps testing retail spend offers on Platinum, a benchmark for our own targeted retail credits.",
+   "take_kind": "take",
+   "partner": "Walmart",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$20 off",
+    "$60 minimum",
+    "25 to 33% off"
+   ],
+   "also": []
+  },
+  {
+   "id": "5f39e096f3d8",
+   "title": "AmEx Offers: Save 35% On Sam’s Club Membership",
+   "url": "https://www.doctorofcredit.com/amex-offers-save-35-on-sams-club-membership/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T16:30:16Z",
+   "relevance": 3,
+   "why": "Benchmark this membership offer against our own card-linked merchant deals before year end.",
+   "summary_ai": "American Express Offers gives 35% back on Sam's Club membership, capped at $42, through year end for targeted cardholders.",
+   "take": "Benchmark this membership offer against our own card-linked merchant deals before year end.",
+   "take_kind": "take",
+   "partner": "Sam's Club",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "partnerships",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "35% back",
+    "Up to $42 back",
+    "Valid through 12/31"
+   ],
+   "also": []
+  },
+  {
+   "id": "2aa790ad247e",
+   "title": "AmEx Offers (Platinum): Walmart.com, $20 Off $60 (2x) Or 25% Back (Up to $25)",
+   "url": "https://www.doctorofcredit.com/amex-offers-platinum-walmart-com-20-off-60-2x-or-25-back-up-to-25/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T15:59:30Z",
+   "relevance": 3,
+   "why": "Card-linked merchant offers like this are a low-cost way to test retail partner economics before a co-brand deal.",
+   "summary_ai": "Personal Platinum cardmembers have Amex Offers for Walmart.com, either 25% back up to $25 or $20 off $60.",
+   "take": "Card-linked merchant offers like this are a low-cost way to test retail partner economics before a co-brand deal.",
+   "take_kind": "take",
+   "partner": "Walmart",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "25% back up to $25",
+    "$20 off $60",
+    "Valid through 12/31"
+   ],
+   "also": []
+  },
+  {
+   "id": "0c41918567e8",
+   "title": "Amex Platinum Card: How To Use the $400 Resy Credit [2026]",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZHpTblozcy1nellvdmZLOV9FOV9FR1k5MDE2QVp0ZE8zY1hQTWhXa2x6RjNTRVNDeEZBcXF4c0kyYWJzXy1OMkJKNEJYemVKR2QyZmwzZDcxZjBmZHR3SnBTQ2ZPSWtxODFuU2NaMVBSTzZ2eWs3bnE1bW1NMEhNUHVpX1FibE1tYWlJemtmV1E1ZXN6NHBWWlJMRU54TEE?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-22T15:43:45Z",
+   "relevance": 3,
+   "why": "Cardholder redemption guides show how the Resy credit is used; benchmark our dining credit against Amex's $400 structure.",
+   "summary_ai": "A guide explains how Amex Platinum cardholders can use the $400 Resy dining credit in 2026.",
+   "take": "Cardholder redemption guides show how the Resy credit is used; benchmark our dining credit against Amex's $400 structure.",
+   "take_kind": "take",
+   "partner": "Resy",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$400 Resy credit",
+    "2026"
+   ],
+   "also": []
+  },
+  {
    "id": "0d2c1a21f59c",
    "title": "Man Makes Offer On His Dream Car. Then He Tries To Pay With His American Express: 'Not A Credit Card'",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObDRXSmlWY0FuNDU2dUp3VjU1MHhIZ2kxT2x5MXd6MGI4UmIwUi1GaDZnZ3A3empvYTJ2SDJEOWJWbnp3dVFUb3RxVkktM3pBZXhvX2xCT1BsTmh5NFc2RFIzcTFQSUktMExzNHZYak1EN0VzUVpPdV95a3FnaVVCZlNsTlc1ZFcwbXFn?oc=5",
@@ -800,18 +937,17 @@
    "source": "American Express",
    "source_type": "gnews",
    "published": "2026-11-19T00:09:03Z",
-   "relevance": 2,
-   "why": "American Express features The Guild Hotel San Diego Downtown, a hotel item with no stated card change.",
-   "summary_ai": "American Express features The Guild Hotel San Diego Downtown, a hotel item with no stated card change.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "Hotel additions to Amex travel programs show how the issuer grows its premium hotel inventory, a benchmark for partner hotel deals.",
+   "summary_ai": "American Express has listed The Guild Hotel in downtown San Diego through its travel channels.",
+   "take": "Hotel additions to Amex travel programs show how the issuer grows its premium hotel inventory, a benchmark for partner hotel deals.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards",
-    "luxury"
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [],

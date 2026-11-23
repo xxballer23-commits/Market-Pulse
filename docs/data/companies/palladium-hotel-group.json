@@ -1,0 +1,34 @@
+{
+ "name": "Palladium Hotel Group",
+ "slug": "palladium-hotel-group",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "968cfade1517",
+   "title": "Palladium Hotel Group announces five new opening for 2027",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYjNXZlpVRkttVW1wYlBJdGZvUmJEekpmTmh3RUZmQndpTG9lQUltOUdta0NReGVKNFhUWG5fRTdFOFdoM1kwb1pDVzl4d2ZGYkR3ckFWNGRBOWZiZXIxbnFwdy1ia2VHMkNuZkNSMzhkRjVxSHJ0MU00SFBnY1hBVXluQkJEMmtUdzNEOUtBV1p4WmZDZDZXQ29lOWlGZGdy?oc=5",
+   "source": "Travelling for Business",
+   "source_type": "gnews",
+   "published": "2026-11-23T14:10:21Z",
+   "relevance": 3,
+   "why": "Hotel group pipelines like this are candidates for travel credit or hotel partner conversations ahead of launch.",
+   "summary_ai": "Palladium Hotel Group plans five new hotel openings for 2027.",
+   "take": "Hotel group pipelines like this are candidates for travel credit or hotel partner conversations ahead of launch.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5 new openings",
+    "2027"
+   ],
+   "also": []
+  }
+ ]
+}

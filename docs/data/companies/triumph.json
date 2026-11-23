@@ -1,0 +1,31 @@
+{
+ "name": "Triumph",
+ "slug": "triumph",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f9b19ff89bdf",
+   "title": "Triumph’s New Sportbike Packs an Even More Powerful Punch",
+   "url": "https://robbreport.com/motors/motorcycles/2027-triumph-street-triple-798-rs-more-power-1238858521/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-23T18:00:00Z",
+   "relevance": 1,
+   "why": "Triumph's new 798 RS sportbike is the most advanced version of that model so far.",
+   "summary_ai": "Triumph's new 798 RS sportbike is the most advanced version of that model so far.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Cross River",
+ "slug": "cross-river",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "53f4a6104740",
+   "title": "LendingUSA and Cross River Launch Bitcoin-Secured Loans, Giving Bitcoin Holders Access to Funds Without Selling",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVHJKUnN4OWxscHh4bHNURVVNOVdHVkNGbllQYnFCQ3p5OVY4TG9BWE8zS1FPbVdkRzNHNWt5U2x1UzA4TXU1T3RpTl9xT0dVTno0cWVGM2VDakRGcnZ6WGd1QzVFRUdFWXI0bE5RNWpDaHNVcjI1R0ZKeXM3YVJUV2p6d3FFaFRWQ1VSN05YQlB6ckFBd3pKNWVubWNXeXJYTTREelpoanowYnFHSEY5R0ZHQkFZUQ?oc=5",
+   "source": "TMCnet",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:02:42Z",
+   "relevance": 3,
+   "why": "Crypto-collateral lending is a new embedded model for affluent holders, with Cross River as the bank partner.",
+   "summary_ai": "LendingUSA and Cross River have launched loans secured by bitcoin, letting holders borrow without selling their coins.",
+   "take": "Crypto-collateral lending is a new embedded model for affluent holders, with Cross River as the bank partner.",
+   "take_kind": "read",
+   "partner": "Cross River",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

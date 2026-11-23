@@ -1,0 +1,29 @@
+{
+ "name": "European Central Bank",
+ "slug": "european-central-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "6bfc3e1e17ae",
+   "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
+   "url": "https://www.finextra.com/pressarticle/111765/ecb-expands-acceptance-of-dlt-based-assets-as-eligible-eurosystem-collateral?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T18:05:00Z",
+   "relevance": 1,
+   "why": "The ECB will accept marketable assets issued on licensed DLT platforms as eligible Eurosystem collateral.",
+   "summary_ai": "The ECB will accept marketable assets issued on licensed DLT platforms as eligible Eurosystem collateral.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

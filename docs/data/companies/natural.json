@@ -1,0 +1,31 @@
+{
+ "name": "Natural",
+ "slug": "natural",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7ff38d5de386",
+   "title": "Natural Enables Voice Agents to Accept Payments Over the Phone",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/natural-enables-voice-agents-to-accept-payments-over-the-phone/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T21:50:03Z",
+   "relevance": 2,
+   "why": "Natural lets AI voice agents hand live calls to a payment agent so card details never pass through the AI.",
+   "summary_ai": "Natural lets AI voice agents hand live calls to a payment agent so card details never pass through the AI.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

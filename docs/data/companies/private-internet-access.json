@@ -11,23 +11,21 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T21:46:04Z",
-   "relevance": 1,
-   "why": "Topcashback is offering a cashback bonus on Private Internet Access VPN plans of one and two years.",
-   "summary_ai": "Topcashback is offering a cashback bonus on Private Internet Access VPN plans of one and two years.",
+   "relevance": 2,
+   "why": "Topcashback is advertising a 120% cash back offer on Private Internet Access, a shopping portal promotion.",
+   "summary_ai": "Topcashback is advertising a 120% cash back offer on Private Internet Access, a shopping portal promotion.",
    "take": null,
    "take_kind": null,
-   "partner": null,
+   "partner": "Topcashback",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Title and summary conflict on cashback rate",
+   "low_confidence": "Time-limited offer, end date unknown",
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "120% back (title)",
-    "105% back (summary)",
-    "1 and 2 year plans"
+    "120% cash back"
    ],
    "also": []
   }

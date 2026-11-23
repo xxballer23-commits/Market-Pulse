@@ -1,0 +1,31 @@
+{
+ "name": "Custodia Bank",
+ "slug": "custodia-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "175b4dc22bc4",
+   "title": "Supreme Court spurns Custodia’s master-account fight",
+   "url": "https://www.bankingdive.com/news/custodia-supreme-court-deny-petition-fed-master-account-access-waller/875102/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-18T19:48:34Z",
+   "relevance": 1,
+   "why": "The Supreme Court declined to hear Custodia's challenge seeking a Federal Reserve master account.",
+   "summary_ai": "The Supreme Court declined to hear Custodia's challenge seeking a Federal Reserve master account.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

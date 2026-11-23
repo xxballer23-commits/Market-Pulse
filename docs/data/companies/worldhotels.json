@@ -1,0 +1,34 @@
+{
+ "name": "WorldHotels",
+ "slug": "worldhotels",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "691505366ffb",
+   "title": "Save 30% on Stays of at Least 3 Nights With WorldHotels (Formerly Best Western)",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMXVKckRITklWbVItV1BPREVYSGFrenFHckRScU9iSkVYTkN3a0t3TzZKeEVZMlZEWFBRbmRILTJod2M1LWN4SFpLQlhYaWF2ZHEwRV8wZG5zVzhrYW13bmpTa1J1bjBJbmVFSDdubTZoOWhta2p5VjliOWxSQmFYbzdNWEJyWXM?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-23T17:00:45Z",
+   "relevance": 2,
+   "why": "WorldHotels, formerly Best Western, is offering 30% off stays of three or more nights.",
+   "summary_ai": "WorldHotels, formerly Best Western, is offering 30% off stays of three or more nights.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30% off",
+    "3+ night stays"
+   ],
+   "also": []
+  }
+ ]
+}

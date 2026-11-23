@@ -1,0 +1,31 @@
+{
+ "name": "Seabourn",
+ "slug": "seabourn",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4e7ccba62af8",
+   "title": "The best Caribbean cruise for every type of traveler",
+   "url": "https://thepointsguy.com/cruise/best-caribbean-cruises/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-23T18:00:02Z",
+   "relevance": 2,
+   "why": "A guide ranks Caribbean cruise lines by traveler type, from mass-market brands to luxury Seabourn.",
+   "summary_ai": "A guide ranks Caribbean cruise lines by traveler type, from mass-market brands to luxury Seabourn.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

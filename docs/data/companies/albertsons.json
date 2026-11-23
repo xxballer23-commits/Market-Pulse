@@ -1,0 +1,31 @@
+{
+ "name": "Albertsons",
+ "slug": "albertsons",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "32432adcf2a7",
+   "title": "Google Adds Grocery Giants to Connected Apps Feature",
+   "url": "https://www.pymnts.com/news/retail/2026/google-adds-grocery-giants-to-connected-apps-feature/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T20:09:45Z",
+   "relevance": 2,
+   "why": "Grocers plugging into AI assistants could open future card-linked offer routes worth monitoring.",
+   "summary_ai": "Google's new Connected Apps feature lets users shop grocery chains such as Albertsons, Safeway, Shaw's and Target through Search and Gemini.",
+   "take": "Grocers plugging into AI assistants could open future card-linked offer routes worth monitoring.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

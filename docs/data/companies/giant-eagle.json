@@ -1,0 +1,31 @@
+{
+ "name": "Giant Eagle",
+ "slug": "giant-eagle",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "68183c36c1d0",
+   "title": "Kroger Is Buying Giant Eagle for $1.65 Billion - Is Your Store Affected?",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtY0VPdmR6VHpVcWhaa1FFUnBaQUVGYXdBbzdTd1ZwXy14ckdVejZ1cUVPeXo4S3ZfTHFfS0JWbUsxZFNub3FjR0RSQWxac1B2TkQ4SGx6OHNYM20yYVVHN1U2TG9FTlNzZmhuUXN3?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:00:00Z",
+   "relevance": 1,
+   "why": "Kroger is reported to be buying Giant Eagle in a $1.65 billion grocery deal.",
+   "summary_ai": "Kroger is reported to be buying Giant Eagle in a $1.65 billion grocery deal.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$1.65 billion"
+   ],
+   "also": []
+  }
+ ]
+}

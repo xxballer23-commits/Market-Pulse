@@ -5,6 +5,258 @@
  "vets": [],
  "items": [
   {
+   "id": "a597c748f159",
+   "title": "The Push for Payment Independence Could Make Global Trade More Expensive",
+   "url": "https://www.pymnts.com/news/cross-border-payments/2026/the-push-for-payment-independence-could-make-global-trade-more-expensive/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T21:48:58Z",
+   "relevance": 1,
+   "why": "An ECB policymaker warned that governments pursuing payment independence could raise costs for cross-border trade.",
+   "summary_ai": "An ECB policymaker warned that governments pursuing payment independence could raise costs for cross-border trade.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c61155293f00",
+   "title": "Klarna expands Visa partnership",
+   "url": "https://www.finextra.com/pressarticle/111763/klarna-expands-visa-partnership?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T16:40:00Z",
+   "relevance": 3,
+   "why": "Deeper BNPL placement inside Visa's merchant stack adds checkout competition for card installment features.",
+   "summary_ai": "Klarna has expanded its Visa partnership, giving merchants on Visa's acceptance platform access to newer Klarna features.",
+   "take": "Deeper BNPL placement inside Visa's merchant stack adds checkout competition for card installment features.",
+   "take_kind": "read",
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": [
+    {
+     "source": "Wisevoter",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmo0OWVxbkRtLV9mR050cGxjZzBnLXJIYzVzNjIyTjNvZVNtN19fUlNCalRHaEJHeWVReml1aU1BMVprQ1JkcjNnczc5R0g3bFplRk5QbXNKV1BTUGVEMU9Nbk9QRXNmTHZWc1cwYkxCY2VZeUFPTDlra3VKMENlaF9YQkY5dGc?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "2dae193b45f2",
+   "title": "Klarna stock surges on Visa partnership expansion",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaEQzVEhLZnZ5ZmplbkZCQVhBbDlxWGZrOE9KbVhkZFVWNGkycTVWQmk5Y2FmaWQwS3NQdW5YZDdCejF6bFQ5RkE4NmVmVGczZzlWQTlVTk1LRlJqQWVmN1BzQkZfUzlCTl96SlQwLVI3ODY0M3RtLWdjWlpyNlROSFB2SzItaXhaLXd5QWFtUDNmZEI3dmQ5YS1iV010SEw1SkFwTXVROE44UQ?oc=5",
+   "source": "Investing.com",
+   "source_type": "gnews",
+   "published": "2026-11-23T15:30:11Z",
+   "relevance": 4,
+   "why": "Klarna gaining Visa distribution could lift BNPL at checkout; assess whether issuers can embed it on co-brand cards.",
+   "summary_ai": "Klarna shares jumped after news of an expanded partnership with Visa.",
+   "take": "Klarna gaining Visa distribution could lift BNPL at checkout; assess whether issuers can embed it on co-brand cards.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "cdc5564e0be3",
+   "title": "Klarna (KLAR) Expands Visa Partnership, Shares Rise Above $12.60",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVVcxWGtxNDNMNHJCTjc3RmR1bWRtTkwwM3NsbW44TktpRDBWN1pHUkV4V3hiWDFWSnJKcXFtMVFNZXExQjJRTHJzVzE0UmM3ZjB6RkhBalZRU2tneVhsZDlxTUNKQ09tSXZOQ1U0eXRyQzh3WkJPVVRfUzhVampRcUpuVEVsRHNYWC1pbjZ1NHluVk55OXB4ekpBc3ZmMVk?oc=5",
+   "source": "GuruFocus",
+   "source_type": "gnews",
+   "published": "2026-11-23T15:19:18Z",
+   "relevance": 2,
+   "why": "Klarna expanded its Visa partnership, and its shares rose above $12.60 on the news.",
+   "summary_ai": "Klarna expanded its Visa partnership, and its shares rose above $12.60 on the news.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$12.60 share price"
+   ],
+   "also": []
+  },
+  {
+   "id": "0953be61cc1a",
+   "title": "Klarna Expands Visa Partnership to Offer Flexible Payment Options Across Four Major Markets",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWlVRdURXS2FmRTZ1UEtHSFlxZFZPcHY2cGlqYVNyNE5CX292NGlHN3AtRlM1cm5aa05TRUZUWGp1dmlfTENkTEhveGZrU3JWMVJvYndMVU5wSm04OERCN1lpVUUtOW5pMmZuYThmbTFTUmdQRmdBODFfa1RwRkdTT1dIeUZWemlRWkgtTnFoWW10V0NLbUttLXp6ZE1jSWIzYUY2NA?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-23T15:01:46Z",
+   "relevance": 4,
+   "why": "Visa is pushing installment checkout internationally; premium issuers could test Klarna-powered pay-over-time features on their cards.",
+   "summary_ai": "Klarna and Visa are expanding flexible payment options for shoppers across four major markets.",
+   "take": "Visa is pushing installment checkout internationally; premium issuers could test Klarna-powered pay-over-time features on their cards.",
+   "take_kind": "take",
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Four major markets"
+   ],
+   "also": []
+  },
+  {
+   "id": "e5e6f60125ce",
+   "title": "Klarna Expands Collaboration With Visa, Bringing Flexible Payments to Merchants Using Visa Acceptance Platform",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZXBsVzVzTjBoRFdtSjBRaVpMS0ZTV2pRb3ZqWmY1WXQyOVUwaHZpRmZJOXNJa0sxNnFWc0JHME1CZ290a0RlME5td0dzdkdqcWZCLWFXX24tdElMdW5ILVFjbzNqUHN6TUtYYmVUdkxubzJRRkwzQTViaVJLN2VseVBwY096b0VIWTdscUdXdWhBd3U4R1pKUmxSLUM5UVh0bFZuUUNlZ3pJTk5waUg3NDBxdlpjY180MVpHUUU4NG5fdmFvM1Q3MVJ0aElEcDRodmZvb2MycHpjeU81dGFVdlFSSnEyYU9EQm9NWmQ0cXNid3Y3dmhlMnBqWXIyVjQ?oc=5",
+   "source": "StreetInsider",
+   "source_type": "gnews",
+   "published": "2026-11-23T14:44:59Z",
+   "relevance": 3,
+   "why": "Klarna and Visa are extending their collaboration so merchants on Visa Acceptance Platform can offer flexible payments.",
+   "summary_ai": "Klarna and Visa are extending their collaboration so merchants on Visa Acceptance Platform can offer flexible payments.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "27cc462191c9",
+   "title": "Klarna stock rises as Visa partnership expands checkout reach",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZE8tQ3U3R2ZReTh3YnRqZkRFOVhCLTJBcVd4WXNSYlE5MWRVRUtYdGctMmJmZ2d4Q2FfTFdSWDdKQWFMRkZzWjZIOEF4M3A1UmtMRWszd01wWnhPWGNBbW81d0xLMy0xeDc2MU5FcXc0S1BYYkl2Ym5ENU1BSWlwVGUyRVIwOWw0dXI5QnZWMUFRQURjbHU5X0hSSDRCTXRWWnNUNHZORmhlQ3BsWm9yQ1VVYUI1clNsc0JwRUZXWW9kdw?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-23T14:29:00Z",
+   "relevance": 3,
+   "why": "Visa tie-ups widen BNPL acceptance, a useful signal for embedding pay-over-time options into card checkout flows.",
+   "summary_ai": "Klarna shares rose after its Visa partnership expanded the reach of its checkout offering.",
+   "take": "Visa tie-ups widen BNPL acceptance, a useful signal for embedding pay-over-time options into card checkout flows.",
+   "take_kind": "read",
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "ba85e6810d17",
+   "title": "Klarna expands Visa partnership for merchant access",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT1AyaEJELU1hQ2lXZ3FXRHRGOXlZNU1SN0hwWlVDZlhzVXEwdUJYNXFRVTNBLVp2dWc3UjBjTmJrZDVZYkdTeHZsZGpLZXZ4NGllUEIyVW5wZ3A4VXZ2dHV0NzZxSkpHdTZoT2lqM1dnVDkxUmJDU2xScm4tazE1WTlHZ3JLXzNyX0RpVFJ5bWpJMmlqaHdlcWNoN2JYNnU1RWZPZzN0UnRTT05f?oc=5",
+   "source": "Investing.com",
+   "source_type": "gnews",
+   "published": "2026-11-23T14:02:11Z",
+   "relevance": 3,
+   "why": "Klarna is expanding its Visa partnership to broaden merchant access for its services.",
+   "summary_ai": "Klarna is expanding its Visa partnership to broaden merchant access for its services.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": [
+    {
+     "source": "Investing.com India",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcTRTV2FOMWJUMjhhNWl1bXNkbnJoSUNYVTd0NmJnejcyWWVIOHprdzd4UmtQMWNHNVJQcko3RWZEZVNTbnZfSHR0dmE1cjl4WjYxQXBfSEtyajdvakE4LXY4RDF3NWJjWXBCQWpYY3p6R3MxU0hnMVlTejR6NnpJOUg5UGFzNjA5RTZhTm5HQ1RWX3NEUGQzQlo2dWZ5b1N0UC1nT2VNT1pwdVhZbGh0LXVR?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "603622d29117",
+   "title": "Klarna Expands Visa Partnership to Offer Flexible Payments to More Merchants",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWkc2ZDFFbnpFa2RTWnJiVmlFUVNZSGxwUk9FU2tTSm80ajlpMDVRVXpuMHA5NnRGTVlqXzZpXzBNV0pIRnNsblFBQXVpT3pHdWlUdjRQX0xjaHllS2pFT3lwZXhYRnppX1p3Ui02M0Z0UFZ6YkhMdUxxeWRMOWctNXV0MWhYYWZKbi01MGp3MVRmYmVaS3cyWFd2UEJrV1BrMU5tX055X2xGcTg4RjlBcExackZBZW1TSDBVUWdydG5VQ1BEcmlkaA?oc=5",
+   "source": "marketscreener.com",
+   "source_type": "gnews",
+   "published": "2026-11-23T13:46:16Z",
+   "relevance": 3,
+   "why": "Visa-backed pay-over-time reach raises the bar for installment features on our own cards.",
+   "summary_ai": "Klarna is widening its Visa partnership to offer flexible payments at more merchants.",
+   "take": "Visa-backed pay-over-time reach raises the bar for installment features on our own cards.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": [
+    {
+     "source": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVBPT1MxNy04cVBVX0w4cmszal9JTTBEdXZ3RnZBbFRrRFRYbjFhZVl3MnRQM0tpMllrckJYNnRvbjc0RS1HM3ViQmkycGVKdndjTUUxcjdFWlNZLXhIMkRTOFNvRmxKZFJxSVZfc3BwVmVwUTM5bUFHdzI1TkJfMXBRLWEwVlBscDRsTy03OExJX0I1Rlo0aTRFTEFFWWxiRnU1aGdPN2VudkNMd2pndFBDcE1TemdaNWRZeGlKUWF3RW1lQ1FqYzJiemNrTzY5ZTBOejdnOHpDLURwb0o4?oc=5"
+    }
+   ]
+  },
+  {
+   "id": "e4d83be9677f",
+   "title": "Visa Crypto Labs tests a wallet that sends AI agents out to earn OUSD",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZkI2RmdETDAyRmVHNGhuS3pXYkRGSEdTMUxCb0p3TE5DM2I0NWR4NDBXNk9DUnNLaHRBalpxSG8zWUE5MmZKZ0dNOVprUjFId1BadVNBTTVVNUpjRW10RDMta3U0YUVrM2Z3cDYxVWhaWkw5c3ZlSF9YTENZWE5BMC1IRTNRd0tqaU1hX1FFTG9oTVEtUk82bGVKSjJaZw?oc=5",
+   "source": "Startup Fortune",
+   "source_type": "gnews",
+   "published": "2026-11-23T09:25:23Z",
+   "relevance": 2,
+   "why": "Visa Crypto Labs is testing a wallet that deploys AI agents to earn OUSD.",
+   "summary_ai": "Visa Crypto Labs is testing a wallet that deploys AI agents to earn OUSD.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "f8a94cc9c547",
    "title": "Visa Launches Invite-only AI Agent Wallet For US Cardholders",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcW5IblBnZWcxU0UyeTBaXzZmbzhvVExZcGczck1wRGNTUlBVbjhpOWRDcjI0S3JySFItWHVNTkJJZThVN28wcDJkZHg0SFh4Z2FvZXM4S2ZJal9jQUhLeHIyQVBmU1ZkbWxBb0VDY2Zqdmt3MWhWSXFuZlN1YXBpM2NvN0ZRNHczU0VFNjE3dmlWRlJ6RjJWT2dFWQ?oc=5",

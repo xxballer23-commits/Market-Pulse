@@ -1,0 +1,32 @@
+{
+ "name": "Rolex",
+ "slug": "rolex",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "63a70a349248",
+   "title": "Here Are the Watches Insiders Are Eyeing at December’s Blockbuster Auctions",
+   "url": "https://robbreport.com/style/watch-collector/watches-insiders-december-blockbuster-auctions-1238846757/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-23T15:00:00Z",
+   "relevance": 3,
+   "why": "Watch auction interest signals where HNW collector spending is heading, useful context for collectibles-themed card perks.",
+   "summary_ai": "A preview highlights which Patek Philippe and Rolex watches collectors are targeting at December's major auctions.",
+   "take": "Watch auction interest signals where HNW collector spending is heading, useful context for collectibles-themed card perks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

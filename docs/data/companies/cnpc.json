@@ -1,0 +1,29 @@
+{
+ "name": "CNPC",
+ "slug": "cnpc",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a8bd53dad385",
+   "title": "China Investigates CNPC Deputy General Manager for Corruption",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPemJ3ekRtWWFoTTJQa2xVVkd4WnNVcC1vT21veDlDem84Vy0xMmswengyTFZpVzZUWEtRQWNWakhZWUxWc3BPYUJsSWRNV0x6bHB6dkRtcVQtUVQ1UjcwZ3dvZEZGR2dkc1FmN2NxZDZnYmNScmk0YUstNGNGNEw2bkpwZ0hxVkRBRmV5Q3pocWRPeklWUEJaWVg4YXhQQk04aVhMa3RqR0hDSmVRNzdJai13?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-22T03:36:00Z",
+   "relevance": 1,
+   "why": "China's anti-graft authority is investigating a deputy general manager at state oil firm CNPC for alleged corruption.",
+   "summary_ai": "China's anti-graft authority is investigating a deputy general manager at state oil firm CNPC for alleged corruption.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

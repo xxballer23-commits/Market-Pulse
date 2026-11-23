@@ -11,18 +11,16 @@
    "source": "Bloomberg.com",
    "source_type": "gnews",
    "published": "2026-11-19T07:00:00Z",
-   "relevance": 2,
-   "why": "A Bloomberg piece says a billionaire's Volvo no longer looks like a good deal.",
-   "summary_ai": "A Bloomberg piece says a billionaire's Volvo no longer looks like a good deal.",
+   "relevance": 1,
+   "why": "A Bloomberg headline says a billionaire's Volvo no longer looks like a good deal.",
+   "summary_ai": "A Bloomberg headline says a billionaire's Volvo no longer looks like a good deal.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "luxury"
-   ],
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []

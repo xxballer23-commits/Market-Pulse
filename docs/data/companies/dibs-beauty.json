@@ -1,0 +1,29 @@
+{
+ "name": "Dibs Beauty",
+ "slug": "dibs-beauty",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3e71f2fd93bd",
+   "title": "How Dibs Beauty uses heat maps to optimize its Ulta Beauty presence",
+   "url": "https://www.modernretail.co/operations/how-dibs-beauty-uses-heat-maps-to-optimize-its-ulta-beauty-presence/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "source": "Modern Retail",
+   "source_type": "rss",
+   "published": "2026-11-23T17:05:05Z",
+   "relevance": 1,
+   "why": "Dibs Beauty uses heat maps tracking endcap placement and county-level sales within Ulta Beauty.",
+   "summary_ai": "Dibs Beauty uses heat maps tracking endcap placement and county-level sales within Ulta Beauty.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

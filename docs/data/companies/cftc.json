@@ -1,0 +1,29 @@
+{
+ "name": "CFTC",
+ "slug": "cftc",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4288e52e28e2",
+   "title": "CFTC loses emergency effort to block New York action against Kalshi",
+   "url": "https://www.finextra.com/newsarticle/48796/cftc-loses-emergency-effort-to-block-new-york-action-against-kalshi?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T14:41:00Z",
+   "relevance": 1,
+   "why": "A US judge denied the CFTC's request to block New York's legal case against prediction market Kalshi.",
+   "summary_ai": "A US judge denied the CFTC's request to block New York's legal case against prediction market Kalshi.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

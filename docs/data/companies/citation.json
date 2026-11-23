@@ -1,0 +1,31 @@
+{
+ "name": "Citation",
+ "slug": "citation",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d2bbfb286e9a",
+   "title": "Cruise’s Hidden Middleman: What Filings Reveal About Private Equity Ownership and Profits",
+   "url": "https://skift.com/2026/11/23/world-travel-holdings-private-equity-investment/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-23T12:30:00Z",
+   "relevance": 2,
+   "why": "Private equity moving into cruise distribution signals consolidation in travel agency economics, though not a direct card play.",
+   "summary_ai": "Citation took a majority stake in cruise seller World Travel Holdings, betting operators will keep relying on intermediaries.",
+   "take": "Private equity moving into cruise distribution signals consolidation in travel agency economics, though not a direct card play.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

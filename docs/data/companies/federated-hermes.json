@@ -56,8 +56,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T22:27:17Z",
    "relevance": 1,
-   "why": "A Federated Hermes insider reportedly sold 1,249 shares of the asset manager's stock.",
-   "summary_ai": "A Federated Hermes insider reportedly sold 1,249 shares of the asset manager's stock.",
+   "why": "An insider at asset manager Federated Hermes sold 1,249 shares, a routine stock filing.",
+   "summary_ai": "An insider at asset manager Federated Hermes sold 1,249 shares, a routine stock filing.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -67,7 +67,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "1,249 shares"
+    "1,249 shares sold"
    ],
    "also": []
   },
@@ -79,8 +79,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T22:24:34Z",
    "relevance": 1,
-   "why": "An insider at Federated Hermes reportedly sold 1,757 shares of the company's stock.",
-   "summary_ai": "An insider at Federated Hermes reportedly sold 1,757 shares of the company's stock.",
+   "why": "An insider at asset manager Federated Hermes sold 1,757 shares, a routine stock filing.",
+   "summary_ai": "An insider at asset manager Federated Hermes sold 1,757 shares, a routine stock filing.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -90,7 +90,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "1,757 shares"
+    "1,757 shares sold"
    ],
    "also": []
   },

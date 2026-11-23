@@ -1,0 +1,29 @@
+{
+ "name": "Amazon Web Services",
+ "slug": "amazon-web-services",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4a66bca68cc0",
+   "title": "AWS CEO Matt Garman Says AI Models Need External Boundaries",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/aws-ceo-matt-garman-says-ai-models-need-external-boundaries/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T21:02:37Z",
+   "relevance": 1,
+   "why": "AWS CEO Matt Garman argued in a blog post that companies already have the tools to build trustworthy AI.",
+   "summary_ai": "AWS CEO Matt Garman argued in a blog post that companies already have the tools to build trustworthy AI.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

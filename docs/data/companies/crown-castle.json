@@ -1,0 +1,33 @@
+{
+ "name": "Crown Castle",
+ "slug": "crown-castle",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "edd01e815701",
+   "title": "Crown Castle to Present at the 10th Annual Wells Fargo TMT Summit",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaF9xVC11eWo5ZXdEb3M4a0tsWXFjUXZyVi1WQmpPUzNBQUd4U3BaY3BXNXp1YUV0cWJaaW9EdVhBYUh3djRNTFFoTFpxWGRITXpESW9WRFY3VXk2UFJVSy02d1dYZGhVMlR1RUxOYlU3SnlvaEZQVVBySkZNVDBGWDh3NTlWcnhCZGxPeGdLNkl4T21hUGZXNQ?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-23T21:50:00Z",
+   "relevance": 1,
+   "why": "Crown Castle will present at Wells Fargo's 10th annual TMT Summit.",
+   "summary_ai": "Crown Castle will present at Wells Fargo's 10th annual TMT Summit.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10th annual summit"
+   ],
+   "also": []
+  }
+ ]
+}

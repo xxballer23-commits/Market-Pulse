@@ -1,0 +1,33 @@
+{
+ "name": "Lili",
+ "slug": "lili",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1cf6c66cad1c",
+   "title": "Lili (Fintech) $300 Business Checking Bonus",
+   "url": "https://www.doctorofcredit.com/lili-fintech-300-business-checking-bonus/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T15:00:03Z",
+   "relevance": 2,
+   "why": "Fintech Lili is offering a $300 bonus for opening a business checking account that meets set requirements.",
+   "summary_ai": "Fintech Lili is offering a $300 bonus for opening a business checking account that meets set requirements.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$300 bonus"
+   ],
+   "also": []
+  }
+ ]
+}

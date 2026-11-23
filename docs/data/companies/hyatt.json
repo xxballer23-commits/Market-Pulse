@@ -5,6 +5,57 @@
  "vets": [],
  "items": [
   {
+   "id": "b5e1587d14bb",
+   "title": "Park Hyatt Dubai Reopening In 2027, After Full Renovation: First Look At New Rooms",
+   "url": "https://onemileatatime.com/news/park-hyatt-dubai-renovation/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-23T17:38:34Z",
+   "relevance": 3,
+   "why": "Dubai's Park Hyatt returns in 2027, a useful timing reference for Hyatt luxury hotel benefit conversations.",
+   "summary_ai": "Park Hyatt Dubai closed in May 2026 for a full renovation, with first renderings of the new rooms now out.",
+   "take": "Dubai's Park Hyatt returns in 2027, a useful timing reference for Hyatt luxury hotel benefit conversations.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Closed May 2026",
+    "Reopening 2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "4c6648124e44",
+   "title": "The Park Hyatt Brisbane will open in 2031 at the top of a riverside tower, Queensland’s first Park Hyatt",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVB5bkZ5ZjZMMlZha1VzVHlqcnJVN3dpaEx3dEE5MVhCREp6UGVBVW9hUHFSX2huRm1GX3l4bjhJLWRZTlZNMFNtSmdfbFBnRkc1eTk3OUs1clBJMTRqSVRrYmlFcjUyeS04Xzk4bWxPcGRNaDBiczJLbGxlVjZEcGhhWXRSbGIw?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-23T17:00:26Z",
+   "relevance": 2,
+   "why": "Hyatt's luxury pipeline is expanding in Australia, a future target for travel benefit partnerships on premium cards.",
+   "summary_ai": "Park Hyatt will open its first Queensland property in Brisbane in 2031, atop a riverside tower.",
+   "take": "Hyatt's luxury pipeline is expanding in Australia, a future target for travel benefit partnerships on premium cards.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2031 opening"
+   ],
+   "also": []
+  },
+  {
    "id": "f07ff294fe82",
    "title": "Mr & Mrs Smith Booked More Under Hyatt but Earned Less on Each Stay",
    "url": "https://skift.com/2026/11/23/mr-mrs-smith-booked-more-under-hyatt-but-earned-less-on-each-stay/",
@@ -406,8 +457,8 @@
    "source_type": "rss",
    "published": "2026-11-18T17:49:06Z",
    "relevance": 2,
-   "why": "Hyatt will open a 201-room Park Hyatt in Brisbane in 2031, its fourth Australian hotel.",
-   "summary_ai": "Hyatt will open a 201-room Park Hyatt in Brisbane in 2031, its fourth Australian hotel.",
+   "why": "Hyatt plans to open Park Hyatt Brisbane in 2031, its fourth hotel in Australia.",
+   "summary_ai": "Hyatt plans to open Park Hyatt Brisbane in 2031, its fourth hotel in Australia.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -419,8 +470,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "201 keys",
-    "2031"
+    "Opening 2031"
    ],
    "also": []
   }

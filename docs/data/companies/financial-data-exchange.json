@@ -1,0 +1,31 @@
+{
+ "name": "Financial Data Exchange",
+ "slug": "financial-data-exchange",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "87624d3d276f",
+   "title": "Canada picks FDX for open banking technical standards",
+   "url": "https://www.finextra.com/newsarticle/48795/canada-picks-fdx-for-open-banking-technical-standards?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T14:02:00Z",
+   "relevance": 2,
+   "why": "Canada's government has selected the US-based Financial Data Exchange as the technical standards body for its open banking regime.",
+   "summary_ai": "Canada's government has selected the US-based Financial Data Exchange as the technical standards body for its open banking regime.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

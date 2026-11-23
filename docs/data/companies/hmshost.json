@@ -1,0 +1,29 @@
+{
+ "name": "HMSHost",
+ "slug": "hmshost",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c788fde667c6",
+   "title": "HMSHost Brings New Restaurants to Hawaii Airports",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcHFaV2tsQ1VIVTNxZWNEd2RoWGxrVUEtRnIzS1BBVFFPLXJDYWVTZUEyZzRqZFZZS2w1dUFrdW1pbG1OUE1tNDdQNmQ2ZnM5OGtlM0pqQm1XUS1GSFdpMzN3V0tSV1NsOVZLSzFKV05VVi1JYndLbk8wTWszUHR0alVCY0l0TTZ5clo1cA?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:15:39Z",
+   "relevance": 1,
+   "why": "HMSHost is adding new restaurant brands at airports in Hawaii.",
+   "summary_ai": "HMSHost is adding new restaurant brands at airports in Hawaii.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

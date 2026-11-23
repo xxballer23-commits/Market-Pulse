@@ -1,0 +1,33 @@
+{
+ "name": "PRA Group",
+ "slug": "pra-group",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "bb38f3885d7f",
+   "title": "Judge Refuses to End PRA Group's $26M CFPB Deal",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0hQSFBZRGJ0RFNkMkt1b2xVRE84NmFkVEQ1SlVhTWZ6MURKWUJEbFBudjBHZkFyS2psRU5sdXQzNnJtSUVsOU0tekZnOWRXY1NvYnZubjl6Q3dKcGgzdmRKbEg0V0ZCWjdnSkdldlNzRHJlV0g2Ry1RZHctVUlkeWw2T2x1WFlqTGdSQjNTOGF6Z0tQaTFV?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:54:20Z",
+   "relevance": 2,
+   "why": "A judge declined to end PRA Group's $26M consent deal with the CFPB.",
+   "summary_ai": "A judge declined to end PRA Group's $26M consent deal with the CFPB.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$26M"
+   ],
+   "also": []
+  }
+ ]
+}

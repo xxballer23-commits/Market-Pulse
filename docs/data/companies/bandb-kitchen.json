@@ -1,0 +1,31 @@
+{
+ "name": "B&B Kitchen",
+ "slug": "bandb-kitchen",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ddd6b9b5c2a8",
+   "title": "St. Croix Chef Melvin Boots Johnson Opens Second B&B Kitchen in the West",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamZYbXNfeFF0ODJGd3I3REZaNDAyelU3SHJHNUNpNmdpcElFSHlNR2JpM0VZYkVmWUVMRHAza0h2WEoxcWNiVkwxTDluRkZGNlMtcHVKSFRBQWMtdmFHUU5ydHQydHgtdzdCVm1OaXNWU1dCX3BHV2pyWGxPbmhRWlM1dVBVZ2ZHbDItSEppNVFuaWJnMGh6dmpldzBlc2FoY09j?oc=5",
+   "source": "Hoodline",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:41:15Z",
+   "relevance": 2,
+   "why": "Chef Melvin Boots Johnson has opened a second B&B Kitchen location in a western US city.",
+   "summary_ai": "Chef Melvin Boots Johnson has opened a second B&B Kitchen location in a western US city.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

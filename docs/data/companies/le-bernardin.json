@@ -1,0 +1,34 @@
+{
+ "name": "Le Bernardin",
+ "slug": "le-bernardin",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "32221ae0b852",
+   "title": "Le Bernardin and SingleThread Share No. 1 in La Liste’s 2027 Restaurant Rankings",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU0RjaldVM0szdWtNVk44M09EMGoxRG4yQ3JfSGxINXRJT0xQcXlzdmdwS0J1Um8wd1UyT3VvVU9uZmdGV1ZDWlZuWUN3TjVOZUlwWWFtbTZQeGtXZjVoSWs3ZTR5N0NCVk43cUlYeWtld196VTNHQWdNdmd3QmVNSU5KdUVhUlNHVm0weEVkTFhYb29IU1VoSGpHQUJDVDJWekJlSG9JblJITUNHR2Z4T2Vzbw?oc=5",
+   "source": "www.luxurytravelreport.com",
+   "source_type": "gnews",
+   "published": "2026-11-23T20:01:29Z",
+   "relevance": 3,
+   "why": "Top-ranked tables give dining-partner conversations a credibility anchor, though rankings alone rarely drive card bookings.",
+   "summary_ai": "Le Bernardin and SingleThread tied for first place in La Liste's 2027 restaurant rankings.",
+   "take": "Top-ranked tables give dining-partner conversations a credibility anchor, though rankings alone rarely drive card bookings.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "No. 1 in 2027 La Liste ranking"
+   ],
+   "also": []
+  }
+ ]
+}

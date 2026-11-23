@@ -1,0 +1,33 @@
+{
+ "name": "Il Sereno",
+ "slug": "il-sereno",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0361ca16bca5",
+   "title": "Jumeirah Expands to Lake Como With the Former Il Sereno, Opening in Spring 2027",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vNnBET1RMRk95YmlHQzRrc2J1YWVpQk51cXhmY0FXMGQ0ZDBrZExUajd0RkRhSmxyY1VaVUFNYm9jYmY2ZlMta2U0LW5XVl9SNUwzeGZPRHFhR0ZoUnh6Xzhn?oc=5",
+   "source": "Oui Speak Fashion (OSF)",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:23:04Z",
+   "relevance": 3,
+   "why": "Lake Como is a new luxury hotel option for travel perks; review Jumeirah's loyalty terms before 2027.",
+   "summary_ai": "Jumeirah will open a hotel at Lake Como in the former Il Sereno property, with a spring 2027 opening.",
+   "take": "Lake Como is a new luxury hotel option for travel perks; review Jumeirah's loyalty terms before 2027.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Spring 2027 opening"
+   ],
+   "also": []
+  }
+ ]
+}

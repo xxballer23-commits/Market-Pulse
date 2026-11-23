@@ -1,0 +1,55 @@
+{
+ "name": "Simon Property Group",
+ "slug": "simon-property-group",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "883bf3c09687",
+   "title": "Simon Property Group sells $1B in senior notes due 2036 and 2054",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGkzd0RSdWJmOTNHbFlwamMxUWRIYm9paHJmWnh4My1SZE1NbE9MQ0p2ODRieGRURHpKVjVwc3dFU1U1Rm9pSkRwcUNoT0o4TW1ndWRxczlqMFBsMmtuRklPSzRkeVJCaWZjNVhhRzJzLTFKa0h0Z0dVdFpNcnFJcVctQnNXX05EVjJhZ1M5X1JxMWF5Ty1rdm5pSllaQlVHeGxYWk15Vm9FeDRrLXNueU1LLUEzMVZlTm1qcHpvUllTMkE?oc=5",
+   "source": "StreetInsider",
+   "source_type": "gnews",
+   "published": "2026-11-23T21:50:15Z",
+   "relevance": 1,
+   "why": "Simon Property Group sold $1 billion of senior notes maturing in 2036 and 2054.",
+   "summary_ai": "Simon Property Group sold $1 billion of senior notes maturing in 2036 and 2054.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$1B senior notes",
+    "Due 2036 and 2054"
+   ],
+   "also": []
+  },
+  {
+   "id": "94ca234ffc04",
+   "title": "Simon Property Group Sells $1.0 Billion of Senior Notes",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNM0tfYlcxQWk5eFBSbUhBTURJYjdIU015T05ITTRVbXp0T1E1Z0J1MFN1TGVzMjhEYTkwZDU1WEpSUEd0ZTNzSzNQT2cycVluNHo3Vm40V1lrYlVxbTVaUm12cTVLT2p4aHFERHQwc29OOGIweDVzd2ttRlVnbWZ5R0xHTTRQMDRzTWZSWUtwY1IwWVR2SVpzVzBVMkJtaUNPQXhtYXp0UkNhU2pXSHNfamk3MkhlQQ?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-23T21:47:00Z",
+   "relevance": 1,
+   "why": "Simon Property Group sold $1.0 billion of senior notes, a debt financing unrelated to card or loyalty partnerships.",
+   "summary_ai": "Simon Property Group sold $1.0 billion of senior notes, a debt financing unrelated to card or loyalty partnerships.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$1.0 billion senior notes"
+   ],
+   "also": []
+  }
+ ]
+}

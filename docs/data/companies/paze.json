@@ -1,0 +1,35 @@
+{
+ "name": "Paze",
+ "slug": "paze",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d76d584ae328",
+   "title": "Truist: Pay With Paze & Get $10 off $20 (Limit 1)",
+   "url": "https://www.doctorofcredit.com/truist-pay-with-paze-get-10-off-20-limit-1/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T16:40:39Z",
+   "relevance": 2,
+   "why": "Wallet-linked spend bonuses on mainstream bank cards are a low-cost way to push checkout adoption.",
+   "summary_ai": "Truist customers can earn a $10 statement credit for a $20 purchase made with Paze checkout.",
+   "take": "Wallet-linked spend bonuses on mainstream bank cards are a low-cost way to push checkout adoption.",
+   "take_kind": "read",
+   "partner": "Paze",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$10 statement credit",
+    "$20 minimum spend",
+    "Through Dec 24"
+   ],
+   "also": []
+  }
+ ]
+}

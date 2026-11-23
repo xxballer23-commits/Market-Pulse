@@ -5,15 +5,15 @@
  "vets": [],
  "items": [
   {
-   "id": "b6b70931238e",
-   "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
-   "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
-   "source": "CNBC Finance",
+   "id": "cc8e513f57f4",
+   "title": "Fed President pitches FedNow",
+   "url": "https://www.paymentsdive.com/news/federal-reserve-president-faster-payments-fednow/875321/",
+   "source": "Payments Dive",
    "source_type": "rss",
-   "published": "2026-11-18T15:13:39Z",
-   "relevance": 2,
-   "why": "Fed Governor Christopher Waller says the central bank may need a larger half-point hike because inflation remains above target.",
-   "summary_ai": "Fed Governor Christopher Waller says the central bank may need a larger half-point hike because inflation remains above target.",
+   "published": "2026-11-23T14:20:00Z",
+   "relevance": 1,
+   "why": "Kansas City Fed President Jeff Schmid urged credit union leaders to adopt faster payment options such as FedNow.",
+   "summary_ai": "Kansas City Fed President Jeff Schmid urged credit union leaders to adopt faster payment options such as FedNow.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -22,10 +22,7 @@
    "low_confidence": null,
    "sections": [],
    "breaking": false,
-   "data_points": [
-    "2% inflation target",
-    "Half-point rate hike"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

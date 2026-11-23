@@ -1,0 +1,32 @@
+{
+ "name": "Revolve",
+ "slug": "revolve",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c89e44c7420d",
+   "title": "Klarna Extends Revolve and FWRD Checkout Partnership to Canada",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQU0RicXVmOTlwMEJuOGFyaFdjU3BpcTRIYU90V3p0TWNWSUVGbDlkZkZ0UXNCcS04aGU5WllfOERqeUxPVWFpeWJsY3dKdUc2aGROSEJIUU1nd29TTG8wWklDSHRfb0R5cEl4Y1hoTERLX2RqLUxHd0lCLTdkaFFEWWsta25Ham5BZXQtc0N4clRNelE?oc=5",
+   "source": "Securities.io",
+   "source_type": "gnews",
+   "published": "2026-11-23T15:19:29Z",
+   "relevance": 3,
+   "why": "BNPL checkout deals in premium fashion e-commerce keep pressure on card installment features for affluent shoppers.",
+   "summary_ai": "Klarna is extending its checkout partnership with fashion retailers Revolve and FWRD to Canada.",
+   "take": "BNPL checkout deals in premium fashion e-commerce keep pressure on card installment features for affluent shoppers.",
+   "take_kind": "read",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

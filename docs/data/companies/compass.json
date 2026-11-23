@@ -1,0 +1,29 @@
+{
+ "name": "Compass",
+ "slug": "compass",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "72acaf4780ab",
+   "title": "Compass considers moving primary stock listing to New York",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN0pSTWJWanRZZVFmLXh0WEx5MHI4SXFQX3NKcndQN0R5QWRIVVFkVG4zLWdwbU5jS1FUX2xFT1ZVQ0xEYUp3VnV0Qlg3Y1F2cHo3LUtTSm5KWHdOM3ozVVVqVGZYRlJsa2Q0WmFrd2ZCMTBWR0N4eW90aVNNWUpEZXFMaEUwZ3hFWFRTY3JrMUpzZVJL?oc=5",
+   "source": "The Caterer",
+   "source_type": "gnews",
+   "published": "2026-11-23T09:01:43Z",
+   "relevance": 1,
+   "why": "Real estate brokerage Compass is considering moving its primary stock listing to New York.",
+   "summary_ai": "Real estate brokerage Compass is considering moving its primary stock listing to New York.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

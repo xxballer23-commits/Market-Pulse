@@ -1,0 +1,31 @@
+{
+ "name": "Expedia",
+ "slug": "expedia",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "379b08205811",
+   "title": "The Pressures on Expedia B2B",
+   "url": "https://skift.com/2026/11/23/the-pressures-on-expedia-b2b/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-23T21:50:53Z",
+   "relevance": 2,
+   "why": "Weaker B2B economics could make travel-portal partners more open to card-linked deals and better terms.",
+   "summary_ai": "Expedia's B2B partner business, long a growth engine, faces a slowdown and rising pressure from rival Booking Holdings.",
+   "take": "Weaker B2B economics could make travel-portal partners more open to card-linked deals and better terms.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

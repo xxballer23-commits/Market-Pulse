@@ -1,0 +1,33 @@
+{
+ "name": "Netspend",
+ "slug": "netspend",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8ff016300d5f",
+   "title": "Netspend $200 Checking Bonus",
+   "url": "https://www.doctorofcredit.com/netspend-200-checking-bonus/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T16:00:19Z",
+   "relevance": 1,
+   "why": "Netspend is offering a $200 bonus for opening a prepaid card or debit account and completing listed requirements.",
+   "summary_ai": "Netspend is offering a $200 bonus for opening a prepaid card or debit account and completing listed requirements.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Requirements and end date not stated",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$200 bonus"
+   ],
+   "also": []
+  }
+ ]
+}

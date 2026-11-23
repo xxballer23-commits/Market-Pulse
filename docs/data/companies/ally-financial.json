@@ -35,8 +35,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T06:01:05Z",
    "relevance": 2,
-   "why": "Ally Financial has published the transcript of its Q1 2026 earnings call.",
-   "summary_ai": "Ally Financial has published the transcript of its Q1 2026 earnings call.",
+   "why": "A transcript of Ally Financial's first-quarter 2026 earnings call has been published.",
+   "summary_ai": "A transcript of Ally Financial's first-quarter 2026 earnings call has been published.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -47,7 +47,9 @@
     "spending_data"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "Q1 2026"
+   ],
    "also": []
   }
  ]

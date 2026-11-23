@@ -5,6 +5,27 @@
  "vets": [],
  "items": [
   {
+   "id": "ee2fed203976",
+   "title": "Why are SpaceX lenders worried about Elon Musk sending billions of dollars' worth of Nvidia chips into space?",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdEZwZGJncHZSUW9udk9hWmxaaFk2Z3FZTHFabTJjWjNfd2FxMnlENnR1cTFvNG1NaG12V1VBbHBVdWVNX1BzM25TUGRLVi16TktkRVVDR1dubHYydGpyUnYtOEpRdENEdmlIRUVZVkxuenBTMzZ1Uk83X3NEanRnQ2JNMXZRaHBJc2RLbUdUSDM1UjhRNldGanZoX2p3MEhGaVZPOG8yazVyeEYtd0h4bzg5WkJLaWN0QlJtdDJfS2UteU9mWGFQY0cxdjd5dnFfSUJ1cmFtRUc5SDB6S1pFX01B0gHiAUFVX3lxTE50RnBkYmdwdlJRb252T2FabFpoWTZncVlMcVptMmNaM193YXEyeUQ2dHVxMW80bU1obXZXVUFscFV1ZU1fUHMzblNQZEtWLXpOS2RFVUNHV25sdjJ0anJSdi04SlF0Q0R2aUhFRVlWTG56cFMzNnVSTzdfc0RqdGdDYk0xdlFocElzZEttR1RIMzVSOFE2V0ZqdmhfancwSEZpVk84bzJrNXJ4Ri13SHhvODlaQktpY3RCUm10Ml9LZS15T2ZYYVBjRzF2N3l2cV9JQnVyYW1FRzlIMHpLWkVfTUE?oc=5",
+   "source": "Livemint",
+   "source_type": "gnews",
+   "published": "2026-11-23T07:14:28Z",
+   "relevance": 1,
+   "why": "Lenders to SpaceX are reportedly concerned about financing tied to sending Nvidia chips into space.",
+   "summary_ai": "Lenders to SpaceX are reportedly concerned about financing tied to sending Nvidia chips into space.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "5ed301b30545",
    "title": "Lenders back SpaceX's $43 billion Nvidia GPU deal but worry the collateral could end up in orbit, making them impossible to reclaim if Musk defaults — five-year 'hell-or-high-water' lease may lack a written Earth-only guarantee",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXlVbGc3bkFTMUotbXd5UGtkUk0zc1B2blR0SHo4VVRLb0NGd3g3OXRMSEN4MWhBOVFrOFNFSkdWUGlLQWhwaHJ6UlRrNTBmTkU2WXBnUU1SZWFmdklucVg4eWRIb19MeXBUU0lVOXlHVUU0ZlVTWjFWTXgzZi1YWW9McEU0a1FFRXhPN01OZzNwM2oyMEN6SV9TOA?oc=5",
@@ -26,27 +47,6 @@
     "$43 billion",
     "Five-year lease"
    ],
-   "also": []
-  },
-  {
-   "id": "7c3561a5a3fd",
-   "title": "Project Saturn: 5 Lenders Seek SpaceX Chip Launch Ban",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWtkWEtuTmVwWl9PanRoTlpZTFV1Z3BnRlc2aW1ZTWtOSEZUVjNoRlh4RkZzcGxzZ1JUeVQ3Q09oWUN3NEQ2aC1HajlhUjc4cl9IcVlPZklmWlhZRlQ3ajJ2aDZDa3pkVndVQ0t0cnI1RlZ3TG1KcERXcHhfdjlubG0xRncySmxXTW5pNGdNaHhBZw?oc=5",
-   "source": "shattered.io",
-   "source_type": "gnews",
-   "published": "2026-11-21T01:14:21Z",
-   "relevance": 1,
-   "why": "Five lenders are reportedly seeking a ban on a SpaceX chip launch, with no further detail in the source.",
-   "summary_ai": "Five lenders are reportedly seeking a ban on a SpaceX chip launch, with no further detail in the source.",
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "No summary, unclear link to consumer lending",
-   "sections": [],
-   "breaking": false,
-   "data_points": [],
    "also": []
   },
   {

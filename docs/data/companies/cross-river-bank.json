@@ -5,6 +5,125 @@
  "vets": [],
  "items": [
   {
+   "id": "a5e613fe09c7",
+   "title": "LendingUSA, Cross River Bank Launch Bitcoin-Backed Loans",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVlkU2dUbEZUS0MwTTREaG5UUFFDVzRBS0xacXZOVGRrbk4zbEh6N0t0YmNXZFA1UWM3X091ZlZfZDdTUnpaa3M3eHFiNkU4RVA0LWlvS2ZqSGV5V2d6QWhCaWZEODhZT0d3dkZwenBUNVZCY25CQjNkbkxyZzFwZTlDS3JQOGxBOFVnaGhYbw?oc=5",
+   "source": "CoinMarketCap",
+   "source_type": "gnews",
+   "published": "2026-11-23T19:36:55Z",
+   "relevance": 2,
+   "why": "LendingUSA and Cross River Bank launched loans that use bitcoin as collateral.",
+   "summary_ai": "LendingUSA and Cross River Bank launched loans that use bitcoin as collateral.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Cross River Bank",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "73c03fcc1212",
+   "title": "Cross River Bank Launches Bitcoin-Backed Loans Up to $250,000 With LendingUSA: how 8 outlets framed it",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNNmJPd1VaejlQUGpKZnktMklDRjNFSnZyNjVuR0FZQkNHU2p3MlNqUEQ2eExzT2Z4VjltTFFkbmNFMlNCLXlDcFlrd2Z5Z1Y4Yk5sRXFoUVV0SXUya3RPcVp5aUhQV0NFNlZaQ05JWXBZRkMxbFZnODZDZ0ZfbjRWWGt5ZFhEV0JlZFFQUGZxOE5TZVRLRU5vVXV3NFNhNVdEaFRDSzQ0NXl1MERfRGpaQXhnZFdaajhJMnpRdmc5ZzFDOEZwd3d3cWxEQmpKblJyVWREdEtzOWJEZndLVEdRaFROMA?oc=5",
+   "source": "NewsCord",
+   "source_type": "gnews",
+   "published": "2026-11-23T17:23:02Z",
+   "relevance": 3,
+   "why": "Crypto-collateral lending via bank partners is emerging, a possible template for embedded lending in premium card programs.",
+   "summary_ai": "Cross River Bank is offering bitcoin-backed consumer loans of up to $250,000 through LendingUSA.",
+   "take": "Crypto-collateral lending via bank partners is emerging, a possible template for embedded lending in premium card programs.",
+   "take_kind": "read",
+   "partner": "LendingUSA",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$250,000 max loan"
+   ],
+   "also": []
+  },
+  {
+   "id": "ce933aaac636",
+   "title": "Cross River launches Bitcoin-secured consumer loans with LendingUSA",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdlpQZnBUNU9lM0pQWlR2RVdUcnNxeXd1ZXVtNWNZNzQxZWl4ZzVzXzZIRVVmTWxSV0Zwd1paMGFXNGxHRzY5QlVvN2U3WUplT0ZqeGluMWV3SUhzb3V1TWhsSEtSaTJEWm5weUY4RXNtenYycDVqT29TWDlxLUtZRXlB?oc=5",
+   "source": "ROI-NJ",
+   "source_type": "gnews",
+   "published": "2026-11-23T17:00:04Z",
+   "relevance": 3,
+   "why": "Crypto-collateral lending via bank partners is emerging, a possible template for embedded lending in premium card programs.",
+   "summary_ai": "Cross River Bank has launched bitcoin-secured consumer loans with LendingUSA.",
+   "take": "Crypto-collateral lending via bank partners is emerging, a possible template for embedded lending in premium card programs.",
+   "take_kind": "read",
+   "partner": "LendingUSA",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "4e08ada8c8ce",
+   "title": "Cross River Bank Rolls Out Bitcoin-Backed Loans Up to $250K",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TMnNpY1p2Z3BIaDZQZ0hRcFJOZHNkaHQyVzZ3SnhzZ2tMVXFSRE5hd1lSdHNaQnNvLVNUZ0V4bUxzNEFxNnp2YlljcW5PeHl1UTdkZjM5SzE5WWhT?oc=5",
+   "source": "Bitbo",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:35:00Z",
+   "relevance": 3,
+   "why": "Crypto-collateral credit targets affluent borrowers seeking liquidity, an alternative to card-based borrowing.",
+   "summary_ai": "Cross River Bank has started offering bitcoin-backed loans of up to $250,000.",
+   "take": "Crypto-collateral credit targets affluent borrowers seeking liquidity, an alternative to card-based borrowing.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $250K loans"
+   ],
+   "also": []
+  },
+  {
+   "id": "903dd1c8db15",
+   "title": "LendingUSA and Cross River Launch Bitcoin-Secured Loans for Consumer Liquidity",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNXzVrbmtRcEFhSzFyOFZvb1VTQ1JWV3RENnJkVF92NU9JNjF1Umx4empqMmJodkJpQ3FXYnd1QmF0VjdrMzdqMHkwOFNfbHVKM200RS1XdXdmSTFzSHhzVm1NQW9ULWVBMXlHNlcxWGNIeGF3V0ZxSGgzOVZZQVBud25NaVhQVGM0dGMwdk5SdXlNc2xlTWwwdFpJWDB3cGwxbWc4V2pUclMxbV83NmpnQ05sQQ?oc=5",
+   "source": "FF News",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:34:18Z",
+   "relevance": 3,
+   "why": "LendingUSA and Cross River Bank have launched bitcoin-secured consumer loans, the same product covered separately.",
+   "summary_ai": "LendingUSA and Cross River Bank have launched bitcoin-secured consumer loans, the same product covered separately.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Cross River Bank",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "b808659c7316",
    "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2IxSzdEZFRzNzRyb0V2cWRwS3VOdlcwS1RtRWdGUTJ2cENsQkItbHJxdEdIT0dmbUJBbzVzeVdZVllVRHU5SUxkbVpqdFNsY25uXzljNzJvMHRCTFhjcU50ZUtqWHNrS0JsNjhGUG1rSjNhb3pBREhkWU1GOTJGeGJLWXZsSHNCR1N1NHkxYmtWV19fUm1lNXl0dWM?oc=5",
@@ -27,7 +146,20 @@
    "data_points": [
     "Up to $250,000 loans"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "Bitcoin Magazine",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1VelFWUGFodVhZTDBBVFJpVUl6NE1QbXNpTkk2djFqcE5uR0J6OTU4eXZkaXpUOEpodDFadU9fd29WQzlPR19nR0FVY253N1dyWWlHZFZRcmpMVmdmMkFDYV9vRklnd0dHX2dXVW9reEV5MUNTbjhwcHZR?oc=5"
+    },
+    {
+     "source": "Cryptonews.net",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBqcmZ6eGxlYXB3Z3lsbE8zZ1RsUDFiaUVSd3AyTDZrZnhBSXp4MjNlbDRaRXVZZXp4R3FTZFZIR2VWS0VxOFJWNWpGVE9sNXFiUlVseDFvci0?oc=5"
+    },
+    {
+     "source": "KuCoin",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMFhVZUF3WTNfM2tENzlxYm5ZWHFKWnNycEJQN0ltdklmNnZFT2d3X2E2b3I3eWhOZnpWMmJldEY4em1tMFZaNzJPazdINXBvYlM2RjBmSEtvY2Z2d19XT3ZyNS1rNXdlLWhiT3k1b2o3OC1Wck0xdVdXdmdSSEFBNkhYSVZ6SU1VZlZueHZBcU5QNUQzNVlSZ0NZdVhTcHpRQUVHMTNGT09ONGYxWmc?oc=5"
+    }
+   ]
   }
  ]
 }

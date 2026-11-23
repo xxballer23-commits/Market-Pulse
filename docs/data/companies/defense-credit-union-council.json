@@ -1,0 +1,33 @@
+{
+ "name": "Defense Credit Union Council",
+ "slug": "defense-credit-union-council",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "12400504e94e",
+   "title": "DCUC Warns Trump That 10% Credit Card Rate Cap Could Hurt Military Families",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSGxacGctR1ZPSlBkdkhDMUZWS1cwQ0c2U2locGZrWjNYNnJGZWxOREg0OFN5N2c5OHdRalJzR2ZSX1cyNjduTWVkTzFwWFphQmZNZnBoWU1iQW5hTlhxNXNWaXZBMWZHS3p6VV9aUS15SGV4MDV0QkhTZFlQLUdpVHNtcEFyV0dZLTJDQWpaeURlSzBtbEtreFY3blRsdmxRRVZSQzhyUnZEQQ?oc=5",
+   "source": "CUTimes",
+   "source_type": "gnews",
+   "published": "2026-11-23T19:42:38Z",
+   "relevance": 4,
+   "why": "A rate cap would reshape card economics across tiers, so track this policy debate closely.",
+   "summary_ai": "The Defense Credit Union Council urges the President against a 10% credit card rate cap, citing harm to military families.",
+   "take": "A rate cap would reshape card economics across tiers, so track this policy debate closely.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10% rate cap"
+   ],
+   "also": []
+  }
+ ]
+}

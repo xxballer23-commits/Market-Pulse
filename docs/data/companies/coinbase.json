@@ -1,0 +1,33 @@
+{
+ "name": "Coinbase",
+ "slug": "coinbase",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c1818a93d879",
+   "title": "Coinbase Launches Earn API for $3B in Crypto Lending",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9wcm9ZZXdfSmtZQW1uRTdBWUdYZVNhM1BSaUFnSXdYRHhtY2dwVHRrT19tTUMyTlpNOFl3RW9JRC1vQzE4MjZiR2pVX21RdEFueUc4dlB6VQ?oc=5",
+   "source": "Cryptonews.net",
+   "source_type": "gnews",
+   "published": "2026-11-23T21:04:12Z",
+   "relevance": 2,
+   "why": "Coinbase launched an Earn API tied to roughly $3 billion in crypto lending.",
+   "summary_ai": "Coinbase launched an Earn API tied to roughly $3 billion in crypto lending.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$3B in crypto lending"
+   ],
+   "also": []
+  }
+ ]
+}

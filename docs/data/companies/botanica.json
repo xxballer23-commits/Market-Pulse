@@ -1,0 +1,33 @@
+{
+ "name": "Botanica",
+ "slug": "botanica",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c3a38967f746",
+   "title": "Botanica Mauritius: Bel Ombre hotel opening in 2027",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWV9OT1Q4cGR5V3dyT3gxc24xc2dEb1hPMVY4U0VwS1M4aWNpRUR6Y1BKZmR3T3BvaU5vM0c1R0dqSEdoWk1mdVFXcTFPSnlYakJhMFh6TUZVN2RpWFlCU1BObVkwbGh2T2ZweEhyaC13UVl1WXhlMjZYTFBiQUs5eUpMRWx2dHNrYVVuMGVjZmxaalg1U21HM1ViLUx5MlZ1U053WTBpd3BPR2NnZW1qMzNrYkhyNlU?oc=5",
+   "source": "KarloBag.eu",
+   "source_type": "gnews",
+   "published": "2026-11-23T13:47:16Z",
+   "relevance": 3,
+   "why": "A new Botanica hotel in Bel Ombre, Mauritius is slated to open in 2027.",
+   "summary_ai": "A new Botanica hotel in Bel Ombre, Mauritius is slated to open in 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2027"
+   ],
+   "also": []
+  }
+ ]
+}
