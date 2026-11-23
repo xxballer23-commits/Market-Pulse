@@ -1,0 +1,29 @@
+{
+ "name": "Outback Steakhouse",
+ "slug": "outback-steakhouse",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b8cf9f21e268",
+   "title": "I Love Outback Steakhouse, but I'll Never Eat These 6 Items Again",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLc0Nkd25oZnNzU2xrZjVQdXpUOEg0aDNabjItRlA1ckpTMmdYVFk0Unc4akJkNjJTR0kyNGpONGdGWUhXcUxHWU5nNVpMRk1KVDU5NHdNYS0wb1pja0w3RWxDbGNCb1lhRnQtbEp4QTlpUQ?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-20T12:00:00Z",
+   "relevance": 1,
+   "why": "A FinanceBuzz listicle flags six Outback Steakhouse menu items that readers should avoid.",
+   "summary_ai": "A FinanceBuzz listicle flags six Outback Steakhouse menu items that readers should avoid.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

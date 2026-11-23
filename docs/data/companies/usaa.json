@@ -1,0 +1,31 @@
+{
+ "name": "USAA",
+ "slug": "usaa",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "988adbc96b21",
+   "title": "USAA Rate Advantage Credit Card Review: Not Equally Advantageous for All",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNE9tNDBZR0JOd1ZyaExxZU9IN1cxUkgwWS1ZTU1XdGE0ZG5pZ21rdC1XeFUtMEd5aXQ5SFVtQXdhRmRRbV9qSjI5TDdwUG16dUE5Y213RVpkQkFpX08weVRYSFR2NHpiR3JRQkVJNHo2UmNKOXBtRWdrTGx6SVQwbjJtN0JvcGI1?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-19T23:50:38Z",
+   "relevance": 1,
+   "why": "Credit Karma reviews the USAA Rate Advantage card and finds its value uneven across users.",
+   "summary_ai": "Credit Karma reviews the USAA Rate Advantage card and finds its value uneven across users.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

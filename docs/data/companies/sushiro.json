@@ -1,0 +1,33 @@
+{
+ "name": "Sushiro",
+ "slug": "sushiro",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f2de04ef2611",
+   "title": "Sushiro Opens First US Restaurant in New York With Sushi From 800 Yen",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1iQi02cDBhSWxhckhNcEZhY2F0NlBKako1LTdTY21vckdjZEpTa282N1ZLNzFpLThqUkx5bk41WV9WSzFnMS16Zjh5QTNHTGZpSi1JeA?oc=5",
+   "source": "News On Japan",
+   "source_type": "gnews",
+   "published": "2026-11-21T02:31:49Z",
+   "relevance": 2,
+   "why": "Japanese conveyor sushi chain Sushiro is opening its first US restaurant, in New York, with plates priced from 800 yen.",
+   "summary_ai": "Japanese conveyor sushi chain Sushiro is opening its first US restaurant, in New York, with plates priced from 800 yen.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [
+    "From 800 yen"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -87,16 +87,17 @@
    "source_type": "gnews",
    "published": "2026-11-21T01:15:44Z",
    "relevance": 4,
-   "why": "Confirm which Bilt tiers qualify; a JetBlue status perk is a usable airline pairing for the card lineup.",
-   "summary_ai": "Some Bilt members will reportedly receive JetBlue Mosaic status for free starting December 1.",
-   "take": "Confirm which Bilt tiers qualify; a JetBlue status perk is a usable airline pairing for the card lineup.",
+   "why": "Eligibility gating is the story. Test whether tiered airline status can be sold as a differentiated benefit to our affluent segment.",
+   "summary_ai": "Only some Bilt members will receive JetBlue Mosaic status at no cost starting December 1.",
+   "take": "Eligibility gating is the story. Test whether tiered airline status can be sold as a differentiated benefit to our affluent segment.",
    "take_kind": "take",
    "partner": "JetBlue",
    "benefit_move": true,
    "benefit_type": "airline",
-   "low_confidence": "Eligibility unclear from headline",
+   "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
@@ -111,14 +112,14 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-20T20:45:38Z",
-   "relevance": 3,
-   "why": "Partner-funded status matches and redemption bonuses are a template to test for our own rent and statement-credit promos.",
-   "summary_ai": "Bilt's Rent Day promo offers up to a 100% bonus when points are used for statement credits, plus a JetBlue status match.",
-   "take": "Partner-funded status matches and redemption bonuses are a template to test for our own rent and statement-credit promos.",
+   "relevance": 4,
+   "why": "Rent Day bonuses keep Bilt's rent-earning lead in view, and airline status matches are a template for co-brand perks.",
+   "summary_ai": "Bilt's Rent Day promotion offers up to a 100% bonus when points are used for statement credits, plus a JetBlue status match.",
+   "take": "Rent Day bonuses keep Bilt's rent-earning lead in view, and airline status matches are a template for co-brand perks.",
    "take_kind": "take",
    "partner": "JetBlue",
-   "benefit_move": false,
-   "benefit_type": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
    "low_confidence": null,
    "sections": [
     "premium_cards",
@@ -137,14 +138,14 @@
    "source": "InsideFlyer",
    "source_type": "gnews",
    "published": "2026-11-20T20:45:38Z",
-   "relevance": 3,
-   "why": "Appears to be the same Bilt promotion as the Rent Day story, so track it as one event.",
-   "summary_ai": "Bilt has introduced a tiered redemption bonus alongside a JetBlue status match, based on InsideFlyer coverage.",
-   "take": "Appears to be the same Bilt promotion as the Rent Day story, so track it as one event.",
-   "take_kind": "read",
+   "relevance": 4,
+   "why": "Compare the tiered redemption structure against rival bonus offers to see where Bilt is pricing its partner perks.",
+   "summary_ai": "Bilt is offering a tiered bonus on point redemptions along with a JetBlue status match.",
+   "take": "Compare the tiered redemption structure against rival bonus offers to see where Bilt is pricing its partner perks.",
+   "take_kind": "take",
    "partner": "JetBlue",
-   "benefit_move": false,
-   "benefit_type": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
    "low_confidence": null,
    "sections": [
     "premium_cards"
@@ -161,20 +162,48 @@
    "source_type": "gnews",
    "published": "2026-11-20T16:13:24Z",
    "relevance": 4,
-   "why": "Rent Day bonuses are a recurring acquisition lever; benchmark the statement credit mechanics against our own renter offers.",
-   "summary_ai": "Bilt's December 2026 Rent Day brings a statement credit bonus and JetBlue status perks.",
-   "take": "Rent Day bonuses are a recurring acquisition lever; benchmark the statement credit mechanics against our own renter offers.",
+   "why": "Bilt is using airline status as a rent-day engagement lever; look at whether a similar status tie-up fits our premium offer calendar.",
+   "summary_ai": "Bilt's December Rent Day promotion pairs a statement credit bonus with JetBlue status for cardholders.",
+   "take": "Bilt is using airline status as a rent-day engagement lever; look at whether a similar status tie-up fits our premium offer calendar.",
    "take_kind": "take",
    "partner": "JetBlue",
    "benefit_move": true,
    "benefit_type": "offer",
-   "low_confidence": "Issuer and eligibility not stated",
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
    "breaking": false,
    "data_points": [
     "December 2026 Rent Day"
+   ],
+   "also": []
+  },
+  {
+   "id": "469e8ccfd856",
+   "title": "December Bilt Rent Day: JetBlue Mosaic Status Match, up to 100% Statement Credit Bonus, and Free Rent",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsekY1WVE3b1dLTlcwWFBjeDJEdEdQUDNHdTViUjB6YzlXbWFudU5wWml5dndQUmQzNWt6X1YyUE94UV9nN0tYakd5VmdPeTg4TC1Tc196VEZDUQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-20T14:36:34Z",
+   "relevance": 4,
+   "why": "Bilt is bundling airline status matching into a rent event, a model worth pricing against co-brand welcome offers.",
+   "summary_ai": "Bilt's December Rent Day pairs a JetBlue Mosaic status match with a statement credit bonus of up to 100% and free rent.",
+   "take": "Bilt is bundling airline status matching into a rent event, a model worth pricing against co-brand welcome offers.",
+   "take_kind": "take",
+   "partner": "JetBlue",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 100% statement credit bonus",
+    "December Rent Day",
+    "JetBlue Mosaic status match"
    ],
    "also": []
   },
@@ -186,14 +215,14 @@
    "source_type": "gnews",
    "published": "2026-11-20T14:00:33Z",
    "relevance": 4,
-   "why": "Watch whether Bilt's lower status retention bar becomes a template for co-brand airline perks.",
-   "summary_ai": "Bilt is offering a JetBlue status trial with lower retention targets to qualify.",
-   "take": "Watch whether Bilt's lower status retention bar becomes a template for co-brand airline perks.",
-   "take_kind": "take",
+   "why": "Lower retention targets suggest Bilt is trading status depth for trial volume; compare with how rivals structure status-for-spend tiers.",
+   "summary_ai": "Bilt is offering a JetBlue status trial with lower retention requirements than its earlier version.",
+   "take": "Lower retention targets suggest Bilt is trading status depth for trial volume; compare with how rivals structure status-for-spend tiers.",
+   "take_kind": "read",
    "partner": "JetBlue",
    "benefit_move": true,
    "benefit_type": "airline",
-   "low_confidence": "Trade report, trial terms and eligibility unconfirmed",
+   "low_confidence": null,
    "sections": [
     "premium_cards",
     "partnerships"
@@ -210,20 +239,21 @@
    "source_type": "gnews",
    "published": "2026-11-20T14:00:33Z",
    "relevance": 4,
-   "why": "Benchmark airline status as a retention lever; test whether a similar status match fits our co-brand partner pipeline.",
-   "summary_ai": "Bilt's December Rent Day offers a JetBlue Elite status challenge, with a fast track to keep the status through 2027.",
-   "take": "Benchmark airline status as a retention lever; test whether a similar status match fits our co-brand partner pipeline.",
+   "why": "A fast-track path to keep status into the next year is a retention tactic worth benchmarking against our own status-keeping mechanics.",
+   "summary_ai": "Bilt's December Rent Day offers JetBlue Elite status, with a fast track to keep it into 2027.",
+   "take": "A fast-track path to keep status into the next year is a retention tactic worth benchmarking against our own status-keeping mechanics.",
    "take_kind": "take",
    "partner": "JetBlue",
    "benefit_move": true,
    "benefit_type": "airline",
-   "low_confidence": "Challenge terms and eligibility not stated",
+   "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "Status through 2027"
+    "Elite status through 2027"
    ],
    "also": []
   },
@@ -234,17 +264,18 @@
    "source": "www.insideflyer.com",
    "source_type": "gnews",
    "published": "2026-11-20T14:00:24Z",
-   "relevance": 3,
-   "why": "Bilt members can earn JetBlue status through a match challenge tied to the December Rent Day promotion.",
-   "summary_ai": "Bilt members can earn JetBlue status through a match challenge tied to the December Rent Day promotion.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 4,
+   "why": "Airline status challenges tied to a rewards card are an easy-to-pitch template for a co-brand airline offer.",
+   "summary_ai": "Bilt members can take part in a challenge that matches them to JetBlue Mosaic status.",
+   "take": "Airline status challenges tied to a rewards card are an easy-to-pitch template for a co-brand airline offer.",
+   "take_kind": "take",
    "partner": "JetBlue",
    "benefit_move": true,
    "benefit_type": "airline",
-   "low_confidence": "Challenge terms and eligibility not stated",
+   "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],
@@ -258,22 +289,20 @@
    "source_type": "rss",
    "published": "2026-11-20T14:00:22Z",
    "relevance": 3,
-   "why": "Enthusiasts see the redemption bonus as weak value, a useful signal for how Bilt promos land with the community.",
-   "summary_ai": "Bilt's December 2026 Rent Day brings double points, a JetBlue Mosaic status challenge and a redemption bonus up to 100%, which the writer calls poor value.",
-   "take": "Enthusiasts see the redemption bonus as weak value, a useful signal for how Bilt promos land with the community.",
+   "why": "Pairing rent-day events with airline status challenges shows how Bilt uses recurring engagement moments to drive card activity.",
+   "summary_ai": "Bilt's December Rent Day promotion pairs a JetBlue Mosaic status challenge with other member offers.",
+   "take": "Pairing rent-day events with airline status challenges shows how Bilt uses recurring engagement moments to drive card activity.",
    "take_kind": "read",
    "partner": "JetBlue",
    "benefit_move": true,
    "benefit_type": "offer",
    "low_confidence": null,
    "sections": [
-    "community",
-    "premium_cards"
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
    "data_points": [
-    "Double points on purchases",
-    "Up to 100% redemption bonus",
     "December 2026"
    ],
    "also": []
@@ -285,14 +314,14 @@
    "source": "The Points Guy",
    "source_type": "rss",
    "published": "2026-11-20T14:00:07Z",
-   "relevance": 3,
-   "why": "TPG reports Bilt's Dec. 1 Rent Day adds a JetBlue Mosaic status match challenge and a redemption bonus up to 100%.",
-   "summary_ai": "TPG reports Bilt's Dec. 1 Rent Day adds a JetBlue Mosaic status match challenge and a redemption bonus up to 100%.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 4,
+   "why": "A redemption bonus of up to 100% is a strong lever; benchmark it against your own rewards redemption boosts.",
+   "summary_ai": "Bilt's Rent Day on Dec. 1 offers a JetBlue Mosaic status challenge and a redemption bonus of up to 100%.",
+   "take": "A redemption bonus of up to 100% is a strong lever; benchmark it against your own rewards redemption boosts.",
+   "take_kind": "take",
    "partner": "JetBlue",
    "benefit_move": true,
-   "benefit_type": "offer",
+   "benefit_type": "credit",
    "low_confidence": null,
    "sections": [
     "premium_cards",
@@ -300,7 +329,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Dec. 1 Rent Day",
+    "Dec. 1",
     "Up to 100% redemption bonus"
    ],
    "also": []
@@ -339,22 +368,22 @@
    "source_type": "rss",
    "published": "2026-11-19T23:45:33Z",
    "relevance": 3,
-   "why": "Portal-driven cashback on Citi cards is an acquisition channel to compare against our own shopping portal offers.",
-   "summary_ai": "Rakuten is offering a $50 cashback or up to 5K Bilt points for qualifying spend on three Citi cards.",
-   "take": "Portal-driven cashback on Citi cards is an acquisition channel to compare against our own shopping portal offers.",
+   "why": "Card-linked shopping portal bonuses show issuers buying spend with cash-equivalent rewards; benchmark these against our own offers.",
+   "summary_ai": "Rakuten is offering $50 cash back or up to 5,000 Bilt points tied to spending across three Citi cards.",
+   "take": "Card-linked shopping portal bonuses show issuers buying spend with cash-equivalent rewards; benchmark these against our own offers.",
    "take_kind": "take",
    "partner": "Rakuten",
    "benefit_move": true,
    "benefit_type": "offer",
-   "low_confidence": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
-    "partnerships",
-    "community"
+    "community",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "$50 cashback",
-    "5K Bilt points"
+    "$50 cash back",
+    "5,000 Bilt points"
    ],
    "also": []
   },
@@ -365,20 +394,20 @@
    "source": "View from the Wing",
    "source_type": "gnews",
    "published": "2026-11-19T22:04:34Z",
-   "relevance": 4,
-   "why": "Bilt's push into events and lifestyle makes it a rising rival for premium perks, so track its partner deals.",
-   "summary_ai": "Bilt is reportedly seeking an $18 billion valuation, with its Jennifer Lopez concert tied to a wider business beyond rent.",
-   "take": "Bilt's push into events and lifestyle makes it a rising rival for premium perks, so track its partner deals.",
-   "take_kind": "take",
+   "relevance": 5,
+   "why": "A valuation this size would give Bilt capital to scale lifestyle partnerships, so it will sharpen competition for premium cardholder experiences.",
+   "summary_ai": "Bilt is reportedly seeking an $18 billion valuation, with its Jennifer Lopez concert pointing to a business beyond rent.",
+   "take": "A valuation this size would give Bilt capital to scale lifestyle partnerships, so it will sharpen competition for premium cardholder experiences.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Reported valuation talks, not closed",
+   "low_confidence": "Reported valuation talks, not confirmed",
    "sections": [
     "premium_cards",
     "partnerships"
    ],
-   "breaking": false,
+   "breaking": true,
    "data_points": [
     "$18 billion valuation"
    ],

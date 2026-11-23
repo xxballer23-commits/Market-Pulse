@@ -252,6 +252,29 @@
    "also": []
   },
   {
+   "id": "2dba3b893d49",
+   "title": "The Black Card Blueprint: How to Unlock Elite Amex Centurion Travel Perks Without the Secret Invite",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPR0V6d01qVGlBTWxrVlZnQjlJZG05bUR6R3hhSjRPdnRMUGo1bHM3SjJCZzNhaUxQbzJ2VHVMMjNnWHFTOUNNYVJwT3c1d3E3LTcxMnM1Z1NOeXJ1dzJydV8zUUc1NnZhX3dLTFh1amk4TFZWNWRaaW9vTUpxUDV1SmptNGtKZ28xS3AwUmVnSWZKbFRhc2c?oc=5",
+   "source": "The Hype Magazine",
+   "source_type": "gnews",
+   "published": "2026-11-21T07:08:48Z",
+   "relevance": 2,
+   "why": "Cardholder workarounds for invite-only perks signal demand for accessible premium travel benefits.",
+   "summary_ai": "A guide explains ways cardholders can access Amex Centurion travel perks without an invitation.",
+   "take": "Cardholder workarounds for invite-only perks signal demand for accessible premium travel benefits.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "8885554a9dd9",
    "title": "Amex Centurion (black) card benefits — and how to get them without the card",
    "url": "https://thepointsguy.com/credit-cards/amex-centurion-black-card/",
@@ -259,17 +282,40 @@
    "source_type": "rss",
    "published": "2026-11-20T23:00:31Z",
    "relevance": 3,
-   "why": "Shows cardholder demand for Centurion-style perks, a gap a non-invite premium card could target.",
-   "summary_ai": "Guide to the perks of the Amex Centurion card and ways to reach similar benefits without holding it.",
-   "take": "Shows cardholder demand for Centurion-style perks, a gap a non-invite premium card could target.",
+   "why": "Non-cardholder access routes weaken Centurion exclusivity and may pressure lounge pricing.",
+   "summary_ai": "The Points Guy explains how to access Amex Centurion benefits without holding the black card.",
+   "take": "Non-cardholder access routes weaken Centurion exclusivity and may pressure lounge pricing.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "aef833e9fcc6",
+   "title": "Other cards can deliver many Centurion perks",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNM2JUVGZoY3JFWXJ3RkNGN0Y0MHpSYzNHQW1wTTMyUFNadTFneDR6MDM3U05BM05pWGd5NkI2TW5zZVl3dk5MVGtueUI5bGRGOENNQzBKSkxaU3l2THpPQ3kxN1NYdGRfdHZoQ0FlSC10NnZMYVRFQkFxTzkweVZpTHpWcDB3QQ?oc=5",
+   "source": "www.insideflyer.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T23:00:31Z",
+   "relevance": 3,
+   "why": "Competitor cards can match much of Centurion's lounge value, so partner packaging matters more than exclusivity.",
+   "summary_ai": "An analysis finds several non-Amex cards can replicate many Centurion lounge and travel perks.",
+   "take": "Competitor cards can match much of Centurion's lounge value, so partner packaging matters more than exclusivity.",
    "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards",
-    "community"
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [],
@@ -283,20 +329,21 @@
    "source_type": "rss",
    "published": "2026-11-20T22:45:47Z",
    "relevance": 4,
-   "why": "Benchmark this Resy-linked earn against our dining offers and check whether a similar reservation-based earn fits our partner pipeline.",
-   "summary_ai": "American Express launched Resy Rewards, offering 4 extra Membership Rewards points on dining reservations paid with an enrolled card.",
-   "take": "Benchmark this Resy-linked earn against our dining offers and check whether a similar reservation-based earn fits our partner pipeline.",
+   "why": "Resy's dining earn is a direct benchmark for our restaurant partnership asks. Model how much dining 4X would lift card spend.",
+   "summary_ai": "Resy Rewards adds an extra 4X Membership Rewards points on dining purchases for eligible cardholders.",
+   "take": "Resy's dining earn is a direct benchmark for our restaurant partnership asks. Model how much dining 4X would lift card spend.",
    "take_kind": "take",
    "partner": "Resy",
    "benefit_move": true,
    "benefit_type": "dining",
-   "low_confidence": "Limited restaurant eligibility, rollout unclear",
+   "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "4 extra Membership Rewards points"
+    "4X"
    ],
    "also": []
   },
@@ -327,6 +374,54 @@
    "also": []
   },
   {
+   "id": "37d7261447a3",
+   "title": "American Express Co Stock (AXP) Closed Down by 3.02% on Nov 20: What Investors Need To Know",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFJCRFlUSnM0YS14bkw0UE1pM1AyWFdfUE5mQWZuU05fR3ZhTDBaRU4xUEVaV3pfcXg5Wi1VTFVITGszOGlQYXRsMmktaEFmOVRCOFNQY2Mtam42akthdnFzQmNrVWppMTBES0ZzZUh5Yms3M3JHajJnbkFFbExyRklXS3ZNcUF1LXc?oc=5",
+   "source": "TradingKey",
+   "source_type": "gnews",
+   "published": "2026-11-20T21:15:50Z",
+   "relevance": 1,
+   "why": "American Express shares fell 3.02% on November 20, according to a daily stock recap.",
+   "summary_ai": "American Express shares fell 3.02% on November 20, according to a daily stock recap.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "3.02% drop",
+    "Nov 20"
+   ],
+   "also": []
+  },
+  {
+   "id": "e65572786eff",
+   "title": "The Business Platinum Card® from American Express review",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRlBXc0RKMDZGcmZtUTlXZkZ5b3p1Rkt6ZlpGMmtOTFQ1QzlROWp6SFdxVUhtcEdvUFZsaVNmLTA1Z2VhWkdSVkNfcndSdHdHS09PM191T3ZRNG51NXBvNnN5TkhfOG9IdXQ1Vlk2Sk9xYk9mMVNxaUN1NUpzTi1CSVg2UXpPa0tWR1F5NjFWemJEeEQtc09BalE3SGYxbnc?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-20T18:50:38Z",
+   "relevance": 3,
+   "why": "Useful benchmark for how Amex positions its top business tier against rival premium business cards.",
+   "summary_ai": "Credit Karma publishes a review of American Express's Business Platinum Card.",
+   "take": "Useful benchmark for how Amex positions its top business tier against rival premium business cards.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "953a53d94460",
    "title": "Amex Membership Rewards Sale: Use 20% Fewer Points on Some Gift Cards",
    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRnBtVEtuMy1NMTBDdVZ4WTQ0NFBwY2RzaFNfX2c4UmFIOV9INVpreEFxc0M5VGdQUVVtN3k1MXpIRmxmUUNzMjRiWUJZckRwall2LWVQclEwSFFHUFU2ek05a3paM2hrMnZvaW9nSXNRSDc2STZDRnh2ZUsxZ1VpMTFReEcwVzI0Ujc0?oc=5",
@@ -334,13 +429,13 @@
    "source_type": "gnews",
    "published": "2026-11-20T17:12:24Z",
    "relevance": 3,
-   "why": "Amex is discounting points redemptions to move inventory; use it as a benchmark for our own redemption pricing talks.",
-   "summary_ai": "American Express is letting cardholders redeem fewer Membership Rewards points for some gift cards during a sale.",
-   "take": "Amex is discounting points redemptions to move inventory; use it as a benchmark for our own redemption pricing talks.",
+   "why": "Amex is discounting gift card redemptions; use this as a direct comparison point for our points-to-gift-card pricing.",
+   "summary_ai": "Amex Membership Rewards is running a sale letting members redeem fewer points for some gift cards.",
+   "take": "Amex is discounting gift card redemptions; use this as a direct comparison point for our points-to-gift-card pricing.",
    "take_kind": "take",
    "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
    "low_confidence": null,
    "sections": [
     "premium_cards"
@@ -348,6 +443,32 @@
    "breaking": false,
    "data_points": [
     "20% fewer points"
+   ],
+   "also": []
+  },
+  {
+   "id": "0dd94eddc150",
+   "title": "10 Fine Hotels + Resorts Properties You Can Book in Full With The Amex Annual Prepaid Hotel Credit",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5NOXlRMWJpN3NVODFxeUFodlNoR2t1eU0wVUF3RmpJaWxVM2hDRVpsNGlOOU42MERMaUE4OUhFLUg4SjB0ZlBPbWplbnJpMkJPY01WRjBKeVFaMnBMR29IZVljbE5WRUJlNWNXczJjbWlhREU?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-20T15:44:15Z",
+   "relevance": 4,
+   "why": "Guides like this show where premium cardholders redeem hotel credits, a useful benchmark for hotel benefit design.",
+   "summary_ai": "Upgraded Points lists ten Fine Hotels + Resorts properties that can be booked in full with Amex's annual prepaid hotel credit.",
+   "take": "Guides like this show where premium cardholders redeem hotel credits, a useful benchmark for hotel benefit design.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10 properties"
    ],
    "also": []
   },
@@ -398,30 +519,77 @@
    "also": []
   },
   {
+   "id": "fa42c88d192e",
+   "title": "Hilton Honors American Express Surpass® Card review: Points abound, but perks leave much to be desired",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUhBb2gyS3p0OTdWc0RvUzhJd1RsNlJtSlFwR0taYlk5VWkwY3huOHg4bGpkVjhtcFo4QmlsLWx2elJVNWNOM05GMVhXT0NuQm5EaHdiU3JjWUcyeU9hZ0FjV0VPVkZRQWtQb1dDemxVZ01qOTNHZERlZHM2OGFqTmNYVXdWUHlmTURXM1JvbmRJc2xUYndKSg?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-19T20:47:04Z",
+   "relevance": 3,
+   "why": "Surpass perk complaints point to a gap a stronger hotel-linked benefit could fill.",
+   "summary_ai": "Credit Karma reviews the Hilton Honors American Express Surpass card, praising its points but faulting its perks.",
+   "take": "Surpass perk complaints point to a gap a stronger hotel-linked benefit could fill.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "fe7e4dbbbfd1",
+   "title": "Hilton Honors American Express Card Review: Swim in Rewards With No Annual Fee",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFlMYjZTVzFJekJORW9PRWpsR291SVNza0Y1Y0FzMEtMcWxMdXZ6a0FrbEEtS1JndUVMbVZvMzFtWVZiSVF0YmF3UmZaZ3NEY2Zhd3NPd29ncXJxbXU3azJ1WDhvd1RJU2pkLTZIRzFDUjhIVnZSRTIyNlZWTTJfM2h5Tm9zU2hJaGVpMUNn?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-19T20:35:41Z",
+   "relevance": 2,
+   "why": "Credit Karma reviews the no-fee Hilton Honors American Express Card and highlights its rewards.",
+   "summary_ai": "Credit Karma reviews the no-fee Hilton Honors American Express Card and highlights its rewards.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "No annual fee"
+   ],
+   "also": []
+  },
+  {
    "id": "5b3ac7a835d7",
    "title": "Oura Ring 25% off sale: Use your Amex Platinum credit now (save nearly $300)",
    "url": "https://thepointsguy.com/deals/oura-ring-black-friday-2026-sale/",
    "source": "The Points Guy",
    "source_type": "rss",
    "published": "2026-11-19T20:30:05Z",
-   "relevance": 3,
-   "why": "Card-linked wellness credits like this are a partnership template worth testing for affluent cardholder perks.",
-   "summary_ai": "Oura's 25% Black Friday sale can be stacked with an Amex Platinum statement credit of up to $200.",
-   "take": "Card-linked wellness credits like this are a partnership template worth testing for affluent cardholder perks.",
+   "relevance": 4,
+   "why": "Wellness hardware bought with card credits is a template for premium merchant tie-ins, so model similar Oura-style offers.",
+   "summary_ai": "Amex Platinum cardholders can use their card credit on a limited-time Oura Ring discount.",
+   "take": "Wellness hardware bought with card credits is a template for premium merchant tie-ins, so model similar Oura-style offers.",
    "take_kind": "take",
    "partner": "Oura",
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": "Sale end date and credit terms unstated",
    "sections": [
-    "community",
-    "partnerships"
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
    "data_points": [
     "25% off",
-    "Up to $200 statement credit",
-    "Nearly $300 savings"
+    "nearly $300 savings"
    ],
    "also": []
   },
@@ -432,9 +600,9 @@
    "source": "Upgraded Points",
    "source_type": "gnews",
    "published": "2026-11-19T19:03:38Z",
-   "relevance": 3,
-   "why": "An evergreen guide walks through how American Express Membership Rewards points earn, transfer and redeem.",
-   "summary_ai": "An evergreen guide walks through how American Express Membership Rewards points earn, transfer and redeem.",
+   "relevance": 2,
+   "why": "Upgraded Points has published a comprehensive guide to American Express Membership Rewards points.",
+   "summary_ai": "Upgraded Points has published a comprehensive guide to American Express Membership Rewards points.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -442,8 +610,7 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards",
-    "partnerships"
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [],
@@ -480,23 +647,22 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-19T18:45:50Z",
-   "relevance": 4,
-   "why": "A wearables tie-in paired with a Platinum credit is a live template; test similar credit-plus-partner structures for our premium benefits.",
-   "summary_ai": "Oura Ring 5 drops to $299 in its early Black Friday sale, and the Amex Platinum benefit brings it to $99 plus tax.",
-   "take": "A wearables tie-in paired with a Platinum credit is a live template; test similar credit-plus-partner structures for our premium benefits.",
-   "take_kind": "take",
+   "relevance": 3,
+   "why": "Wearable offers on Platinum keep appearing as perks, so a wellness-device partner is a recurring category to test.",
+   "summary_ai": "An Oura Ring 5 Black Friday deal is available at $99 plus tax for Amex Platinum cardholders.",
+   "take": "Wearable offers on Platinum keep appearing as perks, so a wellness-device partner is a recurring category to test.",
+   "take_kind": "read",
    "partner": "Oura",
    "benefit_move": true,
-   "benefit_type": "credit",
-   "low_confidence": "Sale end date and credit eligibility unconfirmed",
+   "benefit_type": "offer",
+   "low_confidence": null,
    "sections": [
     "premium_cards",
-    "community"
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "$299",
-    "$99 + tax"
+    "$99 Oura Ring 5 price"
    ],
    "also": []
   },
@@ -508,18 +674,18 @@
    "source_type": "gnews",
    "published": "2026-11-19T18:08:49Z",
    "relevance": 5,
-   "why": "Map this restriction against our own travel credits now; a flagship credit tightening sets the bar cardholders will compare us to.",
-   "summary_ai": "Amex Platinum's $600 hotel credit will carry new restrictions beginning in 2027.",
-   "take": "Map this restriction against our own travel credits now; a flagship credit tightening sets the bar cardholders will compare us to.",
+   "why": "Expect cardholder pushback. A hotel credit without this catch could be a useful differentiator in our premium pitch.",
+   "summary_ai": "The $600 hotel credit on Amex Platinum will come with a new condition starting in 2027.",
+   "take": "Expect cardholder pushback. A hotel credit without this catch could be a useful differentiator in our premium pitch.",
    "take_kind": "take",
    "partner": null,
    "benefit_move": true,
-   "benefit_type": "credit",
-   "low_confidence": "Restriction details not in headline",
+   "benefit_type": "hotel",
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
-   "breaking": true,
+   "breaking": false,
    "data_points": [
     "$600 hotel credit",
     "2027"
@@ -534,9 +700,9 @@
    "source_type": "gnews",
    "published": "2026-11-19T15:56:23Z",
    "relevance": 3,
-   "why": "A useful public benchmark for how cardholders value premium business card perks in a partnership pitch.",
-   "summary_ai": "Upgraded Points itemizes Amex Business Platinum perks and estimates their total value above $5,000.",
-   "take": "A useful public benchmark for how cardholders value premium business card perks in a partnership pitch.",
+   "why": "Useful benchmark for how the market values top-tier business card benefit stacks.",
+   "summary_ai": "Upgraded Points breaks down the Amex Business Platinum benefits, which it values at more than $5,000.",
+   "take": "Useful benchmark for how the market values top-tier business card benefit stacks.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -547,7 +713,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Over $5,000 in value"
+    "Over $5,000 stated value"
    ],
    "also": []
   },
@@ -558,15 +724,15 @@
    "source": "Upgraded Points",
    "source_type": "gnews",
    "published": "2026-11-19T14:30:00Z",
-   "relevance": 4,
-   "why": "Transfer bonuses spike redemption demand, so watch partner seat availability as the real constraint on value.",
-   "summary_ai": "A guide covers how to use Amex points for Virgin Atlantic while a 30% transfer bonus is active.",
-   "take": "Transfer bonuses spike redemption demand, so watch partner seat availability as the real constraint on value.",
-   "take_kind": "take",
-   "partner": "Virgin Atlantic",
-   "benefit_move": true,
-   "benefit_type": "offer",
-   "low_confidence": "Bonus window and terms unverified",
+   "relevance": 2,
+   "why": "A guide lays out three ways to use Virgin Atlantic points while Amex's 30% transfer bonus is running.",
+   "summary_ai": "A guide lays out three ways to use Virgin Atlantic points while Amex's 30% transfer bonus is running.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
@@ -583,21 +749,22 @@
    "source": "Upgraded Points",
    "source_type": "gnews",
    "published": "2026-11-19T14:08:58Z",
-   "relevance": 4,
-   "why": "Wearable-hardware perks on Platinum-tier cards are a concrete model to test against our own benefit roadmap.",
-   "summary_ai": "Amex Platinum cardholders can buy an Oura Ring 5 for $99 through a limited-time offer.",
-   "take": "Wearable-hardware perks on Platinum-tier cards are a concrete model to test against our own benefit roadmap.",
+   "relevance": 3,
+   "why": "Card-linked wearable offers still move premium spenders, so pitch a wellness-device partner with a clear offer window.",
+   "summary_ai": "Amex Platinum cardholders can get an Oura Ring 5 for $99 through November 30.",
+   "take": "Card-linked wearable offers still move premium spenders, so pitch a wellness-device partner with a clear offer window.",
    "take_kind": "take",
    "partner": "Oura",
    "benefit_move": true,
    "benefit_type": "offer",
    "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "$99 Oura Ring 5",
+    "$99 Oura Ring 5 price",
     "Through November 30"
    ],
    "also": []
@@ -610,9 +777,9 @@
    "source_type": "gnews",
    "published": "2026-11-19T11:44:00Z",
    "relevance": 3,
-   "why": "Fee growth at Amex suggests premium card value still sells, which supports rivals keeping their own annual-fee benefit investments.",
-   "summary_ai": "An investment analysis credits American Express's card fee growth and premium spending for a stronger outlook.",
-   "take": "Fee growth at Amex suggests premium card value still sells, which supports rivals keeping their own annual-fee benefit investments.",
+   "why": "Fee growth carrying the Amex outlook shows premium annual fee tiers still drive earnings, which supports our own fee-based card strategy.",
+   "summary_ai": "An analyst note credits American Express card fee growth and premium spending with lifting its outlook.",
+   "take": "Fee growth carrying the Amex outlook shows premium annual fee tiers still drive earnings, which supports our own fee-based card strategy.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -682,10 +849,10 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-18T15:41:55Z",
-   "relevance": 4,
-   "why": "Gold's dining and Uber credits are the bundle to benchmark against when pitching perk partners.",
-   "summary_ai": "An explainer on the Amex Gold card's annual credits for Uber Cash, dining, Resy and Dunkin', with a per-credit value breakdown.",
-   "take": "Gold's dining and Uber credits are the bundle to benchmark against when pitching perk partners.",
+   "relevance": 3,
+   "why": "Gold's bundled credits set the benchmark for everyday-spend perks that rivals must match.",
+   "summary_ai": "One Mile at a Time explains how to use the $424 in Amex Gold credits for Uber, dining, Resy and Dunkin'.",
+   "take": "Gold's bundled credits set the benchmark for everyday-spend perks that rivals must match.",
    "take_kind": "read",
    "partner": "Resy",
    "benefit_move": false,
@@ -697,7 +864,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "$424 in annual credits"
+    "$424"
    ],
    "also": []
   }

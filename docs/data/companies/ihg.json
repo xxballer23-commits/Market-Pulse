@@ -111,19 +111,44 @@
    "source_type": "gnews",
    "published": "2026-11-19T19:10:29Z",
    "relevance": 5,
-   "why": "Benchmark our hotel co-brand fee and perk positioning against the IHG refresh before renewal talks.",
-   "summary_ai": "IHG is overhauling its Chase-issued credit cards with new names, new perks and higher annual fees.",
-   "take": "Benchmark our hotel co-brand fee and perk positioning against the IHG refresh before renewal talks.",
+   "why": "Watch whether rival hotel co-brands follow with fee increases, and use the move to test our own premium hotel positioning.",
+   "summary_ai": "IHG is overhauling its Chase-issued cards with new names, new perks and higher annual fees.",
+   "take": "Watch whether rival hotel co-brands follow with fee increases, and use the move to test our own premium hotel positioning.",
    "take_kind": "take",
    "partner": "IHG",
    "benefit_move": true,
-   "benefit_type": "fee",
+   "benefit_type": "other",
    "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
-   "breaking": true,
+   "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "1459337121a8",
+   "title": "Chase IHG Credit Cards Welcome Bonus Offer History: 2022 to 2026",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53dWZmTmtJb0txSVJ4WmxQNXdnNi1ySk9pX1BFeFhTS3ctdnF6Q2N4WG1FNFhiQ3ROQXpSU2JUZU5yZ2RzZTU0cU1HOFQtME9nOE00YU1SQVhXQkpkR1BBRXFsNFl6OHZMQTV1MGxkX0ZNY3BQOTNuM1NR?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:04:36Z",
+   "relevance": 3,
+   "why": "Sign-up bonus history gives a benchmark for judging Chase's welcome offer pricing against rival premium cards.",
+   "summary_ai": "A timeline tracks Chase IHG card welcome bonus offers from 2022 through 2026.",
+   "take": "Sign-up bonus history gives a benchmark for judging Chase's welcome offer pricing against rival premium cards.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2022 to 2026"
+   ],
    "also": []
   },
   {
@@ -134,16 +159,17 @@
    "source_type": "gnews",
    "published": "2026-11-19T18:58:13Z",
    "relevance": 4,
-   "why": "Chase keeps extending hotel co-brands; compare IHG's tier economics against our Marriott and Hilton options before the next renewal cycle.",
-   "summary_ai": "Chase launched the IHG One Rewards Premier Select credit card, a new hotel co-brand card.",
-   "take": "Chase keeps extending hotel co-brands; compare IHG's tier economics against our Marriott and Hilton options before the next renewal cycle.",
-   "take_kind": "take",
+   "why": "Chase is extending its hotel co-brand lineup, which puts pressure on Marriott and Hilton card pitches in the mid-premium tier.",
+   "summary_ai": "Chase and IHG have launched a new co-branded IHG One Rewards Premier Select credit card.",
+   "take": "Chase is extending its hotel co-brand lineup, which puts pressure on Marriott and Hilton card pitches in the mid-premium tier.",
+   "take_kind": "read",
    "partner": "IHG",
-   "benefit_move": true,
-   "benefit_type": "hotel",
+   "benefit_move": false,
+   "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],

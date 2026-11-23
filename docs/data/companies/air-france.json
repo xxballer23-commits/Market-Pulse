@@ -28,49 +28,23 @@
    "also": []
   },
   {
-   "id": "fd4e99f35cf9",
-   "title": "Book Air France/KLM flight from US, earn 10,000 bonus Flying Blue miles",
-   "url": "https://frequentmiler.com/book-air-france-klm-flight-from-us-to-or-through-paris-or-amsterdam-earn-10000-bonus-flying-blue-miles/",
-   "source": "Frequent Miler",
-   "source_type": "rss",
-   "published": "2026-11-20T16:11:50Z",
-   "relevance": 3,
-   "why": "Cabin-tiered airline bonuses show loyalty promos shifting toward higher-yield incentives; useful context for transfer partner benchmarks.",
-   "summary_ai": "Air France and KLM offer up to 10,000 bonus Flying Blue miles on US-origin trips routed via Paris or Amsterdam, tiered by cabin.",
-   "take": "Cabin-tiered airline bonuses show loyalty promos shifting toward higher-yield incentives; useful context for transfer partner benchmarks.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "Truncated summary, booking window unknown",
-   "sections": [
-    "community"
-   ],
-   "breaking": false,
-   "data_points": [
-    "Up to 10,000 bonus miles",
-    "5,000 miles in economy"
-   ],
-   "also": []
-  },
-  {
    "id": "113eac7630cd",
    "title": "Earn 10,000 Bonus Flying Blue Miles on Eligible Air France and KLM Flights [Book by November 29]",
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kTHZRcmRTNTAwa2xFSmlWNDNRTXdtalJOZ1pmX01UaTZjSFVsdUpoVVVjWjZhUE9NcENKbndEeUM2eENIWm9IOVNVQ1lOejNVY3ZGU2JzUm1xUjhkVWk4RnpsOFdpalJ2UHNIUmlrUy1DRm9p?oc=5",
    "source": "Upgraded Points",
    "source_type": "gnews",
    "published": "2026-11-19T17:39:23Z",
-   "relevance": 3,
-   "why": "Airline bonus promos pull spend away from card currencies, so track whether issuers counter with transfer bonuses.",
-   "summary_ai": "Flying Blue offers 10,000 bonus miles on eligible Air France and KLM flights booked by November 29.",
-   "take": "Airline bonus promos pull spend away from card currencies, so track whether issuers counter with transfer bonuses.",
-   "take_kind": "take",
+   "relevance": 2,
+   "why": "Air France and KLM are offering 10,000 bonus Flying Blue miles on eligible flights booked by November 29.",
+   "summary_ai": "Air France and KLM are offering 10,000 bonus Flying Blue miles on eligible flights booked by November 29.",
+   "take": null,
+   "take_kind": null,
    "partner": "Air France KLM",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Eligible fares and travel dates unclear",
+   "low_confidence": "Flight eligibility and card requirement unclear",
    "sections": [
-    "partnerships"
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [

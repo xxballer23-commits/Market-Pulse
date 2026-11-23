@@ -209,10 +209,10 @@
    "source_type": "gnews",
    "published": "2026-11-20T09:11:36Z",
    "relevance": 3,
-   "why": "India's luxury hotel pipeline is growing; track St. Regis for future hotel-credit partnership talks.",
-   "summary_ai": "Marriott's St. Regis brand plans a 397-room luxury hotel in Bengaluru, slated to open in October 2027.",
-   "take": "India's luxury hotel pipeline is growing; track St. Regis for future hotel-credit partnership talks.",
-   "take_kind": "take",
+   "why": "New luxury hotel supply in India creates a future hotel benefit destination for premium card issuers.",
+   "summary_ai": "Marriott's St. Regis brand plans a 397-room luxury hotel in Bengaluru, opening October 2027.",
+   "take": "New luxury hotel supply in India creates a future hotel benefit destination for premium card issuers.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -234,11 +234,11 @@
    "source": "La Revue des Hôtels",
    "source_type": "gnews",
    "published": "2026-11-19T16:43:08Z",
-   "relevance": 3,
-   "why": "Southeast Asia luxury pipeline signals future hotel inventory for Marriott co-brand benefits.",
+   "relevance": 2,
+   "why": "Marriott signed its first Ritz-Carlton in Cambodia and a W hotel in Langkawi during the third quarter.",
    "summary_ai": "Marriott signed its first Ritz-Carlton in Cambodia and a W hotel in Langkawi during the third quarter.",
-   "take": "Southeast Asia luxury pipeline signals future hotel inventory for Marriott co-brand benefits.",
-   "take_kind": "read",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -248,7 +248,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Q3 signings"
+    "Third quarter signings"
    ],
    "also": []
   }

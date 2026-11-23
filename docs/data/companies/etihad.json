@@ -28,6 +28,30 @@
  "vets": [],
  "items": [
   {
+   "id": "15a7ba092cc9",
+   "title": "Etihad Is Launching Its First Credit Cards on the U.S. Market",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hSVo4ZlY4VkNsZzFPSWR3M00zOHpLZlppN1o4SHJod2dqODVGSE1PNWNlZy0wQ0pyN0VKZWYzdTQ4SkN2OU5EWW5tWGt1SXRXRVlkd3psYWhlMXJxd1laSGhVR1I4UQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-20T20:28:13Z",
+   "relevance": 4,
+   "why": "Identify the issuer and earn structure. A new airline co-brand entering the US is a partnership signal worth tracking closely.",
+   "summary_ai": "Etihad is launching its first credit cards in the US market.",
+   "take": "Identify the issuer and earn structure. A new airline co-brand entering the US is a partnership signal worth tracking closely.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "1aa68ca0ab66",
    "title": "FNBO & Etihad Launches Two New Credit Cards",
    "url": "https://www.doctorofcredit.com/fnbo-etihad-launches-two-new-credit-cards/",
@@ -35,21 +59,20 @@
    "source_type": "rss",
    "published": "2026-11-20T19:54:46Z",
    "relevance": 3,
-   "why": "Airline co-brands from mid-tier issuers show where banks are still competing for travel spend.",
-   "summary_ai": "FNBO and Etihad have launched two new personal credit cards with limited-time launch bonuses.",
-   "take": "Airline co-brands from mid-tier issuers show where banks are still competing for travel spend.",
+   "why": "Gulf carrier co-brands entering the US market could pull premium airline card share from domestic programs.",
+   "summary_ai": "FNBO and Etihad have launched two new co-branded credit cards.",
+   "take": "Gulf carrier co-brands entering the US market could pull premium airline card share from domestic programs.",
    "take_kind": "read",
    "partner": "Etihad",
-   "benefit_move": true,
-   "benefit_type": "airline",
+   "benefit_move": false,
+   "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
-   "data_points": [
-    "Launch bonuses through 2/3/27"
-   ],
+   "data_points": [],
    "also": []
   },
   {

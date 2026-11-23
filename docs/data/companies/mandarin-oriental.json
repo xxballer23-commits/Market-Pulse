@@ -11,11 +11,11 @@
    "source": "Robb Report",
    "source_type": "rss",
    "published": "2026-11-20T19:00:00Z",
-   "relevance": 3,
-   "why": "Branded residences signal demand for luxury lifestyle hospitality that could support hotel-linked card perks.",
-   "summary_ai": "Mandarin Oriental plans 49 branded residences along Mexico's Riviera Maya.",
-   "take": "Branded residences signal demand for luxury lifestyle hospitality that could support hotel-linked card perks.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "Mandarin Oriental plans 49 branded residences in Mexico's Riviera Maya.",
+   "summary_ai": "Mandarin Oriental plans 49 branded residences in Mexico's Riviera Maya.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "49 residences"
+    "49 branded residences"
    ],
    "also": []
   }

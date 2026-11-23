@@ -1,0 +1,31 @@
+{
+ "name": "Stellantis",
+ "slug": "stellantis",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e8c69cf5babe",
+   "title": "Ford, GM, Stellantis Join Crypto Firms In Trump-Era Bank Charter Push After Winning Preliminary FDIC Approval: Report",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQOGc5R0tQYlYxcVl3TmZpd2dLZG9JM0R5OGExMGhFVU5YcG5KQTYwXzRqS0JEeTRwY0d0RG0yTUV5V3ZYR3BkSzVxU0VkT0hmZ01sR2pZMHZJRzZhNXNOVnczWlkydGprcy0xTV9XVmd2ckdOUkFGTkU2S2FpV0E5QmZuTEl2OFdZX2tsNC1DRVBEdTF1WlBGVTlzbVU1ZHMzNUZiOVFTX2o0YWtVZTlkS19kT0VISTlUVFNKb2h2LWdvbXNERmFZOE9hR0l0OG9MUDlRb1FpbmtPeFJKWmhWZ1ZFMzZIX0hlbU4zVHlWcVNXUmFGMlpCbEVzTDdLWlo0YVZzRQ?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-22T05:46:29Z",
+   "relevance": 2,
+   "why": "Automaker bank charters could bring auto and card lending in-house, a shift issuers should track.",
+   "summary_ai": "Ford, GM and Stellantis are reported to have won preliminary FDIC approval for bank charters alongside crypto firms.",
+   "take": "Automaker bank charters could bring auto and card lending in-house, a shift issuers should track.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported via secondary source, not confirmed by FDIC",
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

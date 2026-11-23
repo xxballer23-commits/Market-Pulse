@@ -55,6 +55,29 @@
    "also": []
   },
   {
+   "id": "f336126a96a3",
+   "title": "Disney and Visa deal brings Hong Kong Disneyland early entry",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOEhBSEFFSDdvdDlVTTJHSk9HNUFIRVN3ZFlBM01lZ2VtOXlrNGxUNUVTZ2RVM2taT2ZmMFMyeUlPY3ZUd1Nnazl0SFc4MGZhdEZKVFdhUExHVlhxRmtyV2JqX1RPZ0YtTlVGR1hJOEliNjNYdllxRnBjSkNfWjRodnVwQklObkZ1TDcxNWZkclZDWEk5bkwyTk13?oc=5",
+   "source": "Pirates and Princesses",
+   "source_type": "gnews",
+   "published": "2026-11-21T06:09:11Z",
+   "relevance": 4,
+   "why": "Network-level entertainment perks show how theme-park access can anchor co-marketing; test a similar early-entry offer with an issuer.",
+   "summary_ai": "Disney and Visa have agreed a deal giving Visa cardholders early entry to Hong Kong Disneyland.",
+   "take": "Network-level entertainment perks show how theme-park access can anchor co-marketing; test a similar early-entry offer with an issuer.",
+   "take_kind": "take",
+   "partner": "Disney",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "abd335ca8425",
    "title": "Cyberattack or Outage? CFOs Face the Same Cash Flow Problem",
    "url": "https://www.pymnts.com/back-office/cfo/2026/cyberattack-or-outage-cfos-face-the-same-cash-flow-problem/",
@@ -106,24 +129,45 @@
    "also": []
   },
   {
+   "id": "48102bd23325",
+   "title": "Visa, Mastercard and Big Banks Win Appeals Court Ruling in Interchange Fees Case",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPaXhLSl9lWWhaV09VbHFUYXB0OE1rdFBMTExBbThBUW45ZHhLN24yUnpMTzJSQVVSUXZwRXVFV1ZhUU9sVVQ0ZTl4dHRuei1Rd2Fsb2NLMHQ0eDRsbmw0SjFoUDZEdWxxbkM4QVVZV3ZQRGptYUJMNVFydVBwZjNOYjhBVU5pSUhnanFFSnBISkhiS1g3TkZXd1VvQlgwTXM?oc=5",
+   "source": "Credit Union Daily",
+   "source_type": "gnews",
+   "published": "2026-11-20T10:42:43Z",
+   "relevance": 4,
+   "why": "Ruling protects interchange revenue that funds premium rewards, though further appeals could still reopen the fight.",
+   "summary_ai": "An appeals court sided with Visa, Mastercard and big banks in an interchange fee case.",
+   "take": "Ruling protects interchange revenue that funds premium rewards, though further appeals could still reopen the fight.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": true,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "b7928358df87",
    "title": "JPMorgan, Visa and Mastercard Customer Data Leaked by Hackers",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNX1hZRUUtM3E4RGtoQ0NPdUR4ZjhXUldkejF5MkFpNDN3bG0wcDc4Zl9QYU9xMWdDbVFKY3Z4LTV4NE1Hb1oyUGJxMDRDWFR6T05rUjgyYlJQMnFnRHNfN1drSTBZMGtKeU5Fd1ZQTVFuS3lFTXp4Ry1wdktfRjJkYlRCQl9UZUJpQWp6aHNVMW1URGpuWEctQg?oc=5",
    "source": "Tempo.co English",
    "source_type": "gnews",
    "published": "2026-11-20T05:17:16Z",
-   "relevance": 3,
-   "why": "Verify the claim before any cardholder messaging; a real breach would affect premium card trust across issuers.",
-   "summary_ai": "Hackers claim to have leaked customer data linked to JPMorgan Chase, Visa and Mastercard, which is unverified.",
-   "take": "Verify the claim before any cardholder messaging; a real breach would affect premium card trust across issuers.",
-   "take_kind": "take",
+   "relevance": 2,
+   "why": "Hackers reportedly leaked customer data tied to JPMorgan Chase, Visa and Mastercard, according to a single outlet.",
+   "summary_ai": "Hackers reportedly leaked customer data tied to JPMorgan Chase, Visa and Mastercard, according to a single outlet.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Unverified hacker claim",
-   "sections": [
-    "premium_cards"
-   ],
+   "low_confidence": "Unverified breach claim, single source",
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": [
@@ -134,16 +178,39 @@
    ]
   },
   {
+   "id": "936546945bf1",
+   "title": "Mercury® Rewards Visa Signature® Card",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1DVHlsMEc1MnQ0SnMwM01pYnVGeUprQU1WbndUa0tabVBncGRsZHNQcDZ3N0F1bmkwazRRTFV0RFVBR2VzZkUwYjg1M2ZkME9ZbHU2UDFMWmJhaHBONlBkM3M4YVJWa3JHbThfaXlCOV9iY0FoYThOZg?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-19T23:50:39Z",
+   "relevance": 2,
+   "why": "Credit Karma publishes a review of the Mercury Rewards Visa Signature Card.",
+   "summary_ai": "Credit Karma publishes a review of the Mercury Rewards Visa Signature Card.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "d4c738de7f2b",
    "title": "Appeals Court Sides With Visa, Mastercard, Major Banks In Interchange Fee Lawsuit",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLXNXbmtQWGQyb000VHo2ekcyTndFTzE2eFJob1JoWTE0Y1lJSk9RLUZPQjZ4ZXVJVlBFbG1GazBnY2M0LXVuM1pxOXRqNWR1dS1lV2dLYnFzV3lyRXNPSERCeUtVaHY0alFESGJoUm1sUERHYUZXWWk1ZjVJT0xMV2hiQ1FSRnhSaEh3UWlaSDRUVlBqazdKNmExMzY0YzhaQ1prVDdPa3JoVkhXVU12RjF4S2YxQzQ?oc=5",
    "source": "CUToday",
    "source_type": "gnews",
    "published": "2026-11-19T21:10:08Z",
-   "relevance": 4,
-   "why": "Upholding current interchange economics protects the fee base that funds premium card rewards, though further appeals remain possible.",
-   "summary_ai": "An appeals court sided with Visa, Mastercard and major banks in an interchange fee lawsuit.",
-   "take": "Upholding current interchange economics protects the fee base that funds premium card rewards, though further appeals remain possible.",
+   "relevance": 3,
+   "why": "The ruling keeps interchange economics that fund rich rewards intact for now, though further appeals could still change that.",
+   "summary_ai": "An appeals court ruled for Visa, Mastercard and major banks in an interchange fee lawsuit.",
+   "take": "The ruling keeps interchange economics that fund rich rewards intact for now, though further appeals could still change that.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -205,10 +272,10 @@
    "source": "Fortune",
    "source_type": "gnews",
    "published": "2026-11-19T15:45:09Z",
-   "relevance": 3,
-   "why": "Network volume and cross-border commentary on earnings calls is a useful gauge of card spend trends.",
-   "summary_ai": "Visa has published the transcript of its second-quarter 2026 earnings call, where management discussed the company's results and outlook.",
-   "take": "Network volume and cross-border commentary on earnings calls is a useful gauge of card spend trends.",
+   "relevance": 2,
+   "why": "Check payments volume and cross-border commentary for signs of premium spend trends.",
+   "summary_ai": "Fortune has published the transcript of Visa's Q2 2026 earnings call.",
+   "take": "Check payments volume and cross-border commentary for signs of premium spend trends.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -218,7 +285,9 @@
     "spending_data"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "Q2 2026 earnings"
+   ],
    "also": []
   },
   {

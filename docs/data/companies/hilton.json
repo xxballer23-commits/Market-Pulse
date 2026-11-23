@@ -209,21 +209,22 @@
    "source_type": "gnews",
    "published": "2026-11-20T14:45:42Z",
    "relevance": 3,
-   "why": "LXR expansion shows Hilton pushing its luxury tier, a natural target for premium card hotel credit partnerships.",
-   "summary_ai": "Hilton's first LXR hotel in Rome is set to open in 2028 across six 19th-century buildings.",
-   "take": "LXR expansion shows Hilton pushing its luxury tier, a natural target for premium card hotel credit partnerships.",
+   "why": "Hilton's luxury push into Rome is relevant to hotel credit and top-tier status conversations with Hilton-linked cards.",
+   "summary_ai": "Hilton's first LXR hotel in Rome, Hortus Monti, is planned to open in 2028 across six 19th-century buildings.",
+   "take": "Hilton's luxury push into Rome is relevant to hotel credit and top-tier status conversations with Hilton-linked cards.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury"
+    "luxury",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
     "Opens 2028",
-    "Six buildings"
+    "Six 19th-century buildings"
    ],
    "also": []
   },
@@ -274,6 +275,54 @@
    "also": []
   },
   {
+   "id": "fa42c88d192e",
+   "title": "Hilton Honors American Express Surpass® Card review: Points abound, but perks leave much to be desired",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOUhBb2gyS3p0OTdWc0RvUzhJd1RsNlJtSlFwR0taYlk5VWkwY3huOHg4bGpkVjhtcFo4QmlsLWx2elJVNWNOM05GMVhXT0NuQm5EaHdiU3JjWUcyeU9hZ0FjV0VPVkZRQWtQb1dDemxVZ01qOTNHZERlZHM2OGFqTmNYVXdWUHlmTURXM1JvbmRJc2xUYndKSg?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-19T20:47:04Z",
+   "relevance": 3,
+   "why": "Surpass perk complaints point to a gap a stronger hotel-linked benefit could fill.",
+   "summary_ai": "Credit Karma reviews the Hilton Honors American Express Surpass card, praising its points but faulting its perks.",
+   "take": "Surpass perk complaints point to a gap a stronger hotel-linked benefit could fill.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "fe7e4dbbbfd1",
+   "title": "Hilton Honors American Express Card Review: Swim in Rewards With No Annual Fee",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFlMYjZTVzFJekJORW9PRWpsR291SVNza0Y1Y0FzMEtMcWxMdXZ6a0FrbEEtS1JndUVMbVZvMzFtWVZiSVF0YmF3UmZaZ3NEY2Zhd3NPd29ncXJxbXU3azJ1WDhvd1RJU2pkLTZIRzFDUjhIVnZSRTIyNlZWTTJfM2h5Tm9zU2hJaGVpMUNn?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-19T20:35:41Z",
+   "relevance": 2,
+   "why": "Credit Karma reviews the no-fee Hilton Honors American Express Card and highlights its rewards.",
+   "summary_ai": "Credit Karma reviews the no-fee Hilton Honors American Express Card and highlights its rewards.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "No annual fee"
+   ],
+   "also": []
+  },
+  {
    "id": "a88079dea946",
    "title": "Booking a Hilton stay? Stack a 20% discount, 5,000 bonus points and up to 200,000 points in card bonus offers",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE55MWVSV3N0RExfY2FMc2dpRGk0c1F2cVBjWFlQLWIzUzdWSXprcGQ3dnZnUEFJRlZPU1VLcEN4bUlqMExkQXRpNXBDVW4yT3oxeUExM0l4bjBhLWtyOXRKR1FSeFdNbVJaeERJ0gFwQVVfeXFMUERVNHZUTVdNczFONk1vT2V4OGtYN1FVTGpFRlA1dnNrTm5CbEFZT0ttOGt1dnYzaUt3OXlMSEozekY5QmZLOFVjdzlJQm1YX0RlMURFaWxYSGR3cXJfUlZaYnBPZnBjbEdTT2Rld3pfMg?oc=5",
@@ -281,14 +330,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T16:29:14Z",
    "relevance": 3,
-   "why": "Stacked hotel promos show consumers bundling discounts with card bonuses; a useful benchmark for our Hilton co-brand welcome offer.",
-   "summary_ai": "A consumer guide shows how to combine a Hilton booking discount with bonus points and card welcome offers worth up to 200,000 points.",
-   "take": "Stacked hotel promos show consumers bundling discounts with card bonuses; a useful benchmark for our Hilton co-brand welcome offer.",
-   "take_kind": "read",
+   "why": "Stacked hotel promos compete directly with co-brand welcome bonuses; review how our Hilton-linked offers are positioned against direct booking discounts.",
+   "summary_ai": "A roundup shows Hilton stays can combine a 20% discount, a 5,000 point bonus and card welcome offers worth up to 200,000 points.",
+   "take": "Stacked hotel promos compete directly with co-brand welcome bonuses; review how our Hilton-linked offers are positioned against direct booking discounts.",
+   "take_kind": "take",
    "partner": "Hilton",
-   "benefit_move": true,
-   "benefit_type": "offer",
-   "low_confidence": "Issuer and offer terms unstated",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
@@ -296,7 +345,7 @@
    "data_points": [
     "20% discount",
     "5,000 bonus points",
-    "200,000 points"
+    "Up to 200,000 points in card bonus offers"
    ],
    "also": []
   }

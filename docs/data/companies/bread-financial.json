@@ -11,23 +11,20 @@
    "source": "Yahoo Finance",
    "source_type": "gnews",
    "published": "2026-11-20T14:05:31Z",
-   "relevance": 3,
-   "why": "Co-brand lender commentary on partner economics and credit trends is worth scanning for partnership terms.",
-   "summary_ai": "Bread Financial's first-quarter fiscal 2026 earnings call transcript is now available.",
-   "take": "Co-brand lender commentary on partner economics and credit trends is worth scanning for partnership terms.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "Bread Financial held its earnings call to discuss results for the first quarter of fiscal 2026.",
+   "summary_ai": "Bread Financial held its earnings call to discuss results for the first quarter of fiscal 2026.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Title only, transcript content unverified",
+   "low_confidence": null,
    "sections": [
-    "partnerships",
     "spending_data"
    ],
    "breaking": false,
-   "data_points": [
-    "Q1 FY2026"
-   ],
+   "data_points": [],
    "also": []
   },
   {

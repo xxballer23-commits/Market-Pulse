@@ -39,23 +39,21 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-19T19:45:16Z",
-   "relevance": 3,
-   "why": "A card-linked offer tied to a recurring telecom bill is a template for a wireless carrier partnership.",
-   "summary_ai": "Chase is offering a 15% cash back deal on T-Mobile wireless plan payments, capped at $50.",
-   "take": "A card-linked offer tied to a recurring telecom bill is a template for a wireless carrier partnership.",
-   "take_kind": "take",
+   "relevance": 2,
+   "why": "Chase is offering cardholders up to $50 back on T-Mobile wireless bill payments.",
+   "summary_ai": "Chase is offering cardholders up to $50 back on T-Mobile wireless bill payments.",
+   "take": null,
+   "take_kind": null,
    "partner": "T-Mobile",
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "Expiry truncated, eligibility unknown",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, eligibility and end date unknown",
    "sections": [
-    "partnerships",
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "15% cash back",
-    "$50 maximum"
+    "Up to $50 back"
    ],
    "also": []
   }

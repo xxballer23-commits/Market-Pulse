@@ -131,17 +131,43 @@
    "also": []
   },
   {
-   "id": "a625629b8d28",
-   "title": "Beyond the Record Prices: What New York’s November Auctions Tell Us About the Art Market",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSklpYTQyOUpyRldCNkt6SmdCbzVpVnVGcTBsdHdlZlB2MW1wV2pZSUdHR3k0NEVBbXl5cXV0SU01UDRFcHZQOTMzaEZoY3BaUDFISm1TY3cxWldXSlZCZmZTOXVKVnk2Zi1ZSzVFbDBUNDhyeU12LU41Q0R1a19IUEozdDNRUEpPdTQ4bTFwTFVoVHAtdmc?oc=5",
-   "source": "Observer",
+   "id": "1edc77f172d1",
+   "title": "Sotheby’s $39.8 Million Jewelry Sale Reveals What Collectors Value Most",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFViQlFlbzJER3lJRUJySXhkd2hhSnV5OVlMMm0tSVpZTE5OZkQxcmF4RDVWUzEtV1hXaXlaaTA1bnFqUDFDYVpYN196NkwtQXVFR0lLeHBzQXJ0X2s2VEstS2lOa1BXSF9wNlE0NmZBWFVNTnJQQWYwQkRZZy1EYjRtTHc3bVJCcDVHcVUwdTVnbEF0VkVYdlNaRXJlTThPYkRZWExGM1JNY3dJUGhoS1Z0aEdpbTYtc1hWNlFsNHkzRDg?oc=5",
+   "source": "Forbes",
    "source_type": "gnews",
-   "published": "2026-11-20T20:34:23Z",
+   "published": "2026-11-20T12:00:00Z",
    "relevance": 3,
-   "why": "Auction softness or strength at the top end is a useful read on UHNW spending appetite for collectibles.",
-   "summary_ai": "Analysis of New York's November auctions looks beyond record prices to the wider state of the art market.",
-   "take": "Auction softness or strength at the top end is a useful read on UHNW spending appetite for collectibles.",
-   "take_kind": "read",
+   "why": "A Sotheby's jewelry sale brought in $39.8 million, showing where collectors put their money.",
+   "summary_ai": "A Sotheby's jewelry sale brought in $39.8 million, showing where collectors put their money.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$39.8 million jewelry sale"
+   ],
+   "also": []
+  },
+  {
+   "id": "3a24f207d916",
+   "title": "Handwritten Lyrics to Early Dylan Songs to Be Sold by Sotheby’s",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEk3eGJ3XzJlS1RjWlJOMlZOaG5kei1CandEUjk4aUtSWk4xaFpnLVQzTU15R3Z4c1BYRExnamdEel9xdlBfZG1aRjF4Qk4tSjR3Yk1jRkRtN0RibTBBZDdEclY5UnJ0dDZySDc3T3A0QzJIUWY0OTZYS0lzcFk1WThjeUhWTGhlaWVzNWp2T1ZhNVZfNTlQbXRkYV8?oc=5",
+   "source": "The New York Times",
+   "source_type": "gnews",
+   "published": "2026-11-20T10:03:47Z",
+   "relevance": 2,
+   "why": "Sotheby's will auction handwritten lyrics to early Bob Dylan songs.",
+   "summary_ai": "Sotheby's will auction handwritten lyrics to early Bob Dylan songs.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -155,32 +181,6 @@
    "also": []
   },
   {
-   "id": "1edc77f172d1",
-   "title": "Sotheby’s $39.8 Million Jewelry Sale Reveals What Collectors Value Most",
-   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTFViQlFlbzJER3lJRUJySXhkd2hhSnV5OVlMMm0tSVpZTE5OZkQxcmF4RDVWUzEtV1hXaXlaaTA1bnFqUDFDYVpYN196NkwtQXVFR0lLeHBzQXJ0X2s2VEstS2lOa1BXSF9wNlE0NmZBWFVNTnJQQWYwQkRZZy1EYjRtTHc3bVJCcDVHcVUwdTVnbEF0VkVYdlNaRXJlTThPYkRZWExGM1JNY3dJUGhoS1Z0aEdpbTYtc1hWNlFsNHkzRDg?oc=5",
-   "source": "Forbes",
-   "source_type": "gnews",
-   "published": "2026-11-20T12:00:00Z",
-   "relevance": 3,
-   "why": "Strong jewelry auction demand signals UHNW appetite, a case for auction-access perks as a premium differentiator.",
-   "summary_ai": "A Sotheby's jewelry sale brought in $39.8 million, offering a view of what collectors prize most.",
-   "take": "Strong jewelry auction demand signals UHNW appetite, a case for auction-access perks as a premium differentiator.",
-   "take_kind": "take",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "spending_data",
-    "luxury"
-   ],
-   "breaking": false,
-   "data_points": [
-    "$39.8 million"
-   ],
-   "also": []
-  },
-  {
    "id": "2c1548f96078",
    "title": "Van Gogh Painting Sells for Record US$190.4 Million at Sotheby’s",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZEo3MFFHbjhpN1I1Wk5SNlBubTJ3SjViWHBXa1ZKZ0dQa1BsMUhBaG9XYk1IN3J6YmQ4ME95TExNSXJNcU5BMGp4bzVoMHdOenpfYnVmR0NHSXBqTmV0OGM4eDN3clRORW1wSms4WktfMmp4cVdkMWNzdWtuVGtZN2xqdVVxa1k?oc=5",
@@ -188,21 +188,21 @@
    "source_type": "gnews",
    "published": "2026-11-19T21:50:00Z",
    "relevance": 3,
-   "why": "Record art sales signal deep UHNW spending, a possible hook for ultra-premium card perks tied to collecting.",
-   "summary_ai": "A Van Gogh painting sold for a record price at Sotheby's, showing strong top-end collector demand.",
-   "take": "Record art sales signal deep UHNW spending, a possible hook for ultra-premium card perks tied to collecting.",
+   "why": "Strong demand for trophy assets signals UHNW spending appetite worth reflecting in top-tier card and private-client targeting.",
+   "summary_ai": "A Van Gogh painting sold for a record price at Sotheby's, setting a new benchmark for top-tier art.",
+   "take": "Strong demand for trophy assets signals UHNW spending appetite worth reflecting in top-tier card and private-client targeting.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "spending_data",
-    "luxury"
+    "luxury",
+    "spending_data"
    ],
    "breaking": false,
    "data_points": [
-    "$190.4 million sale price"
+    "$190.4 million"
    ],
    "also": [
     {
@@ -219,9 +219,9 @@
    "source_type": "gnews",
    "published": "2026-11-19T20:32:13Z",
    "relevance": 3,
-   "why": "Record auction prices point to strong UHNW demand, a useful signal when pitching art-related card perks.",
-   "summary_ai": "A Van Gogh painting sold at Sotheby's for a record price.",
-   "take": "Record auction prices point to strong UHNW demand, a useful signal when pitching art-related card perks.",
+   "why": "Strong demand for trophy assets signals UHNW spending appetite worth reflecting in top-tier card and private-client targeting.",
+   "summary_ai": "A Van Gogh painting sold for a record price at Sotheby's, setting a new benchmark for top-tier art.",
+   "take": "Strong demand for trophy assets signals UHNW spending appetite worth reflecting in top-tier card and private-client targeting.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -270,18 +270,17 @@
    "source": "Observer",
    "source_type": "gnews",
    "published": "2026-11-19T17:22:29Z",
-   "relevance": 3,
-   "why": "Top-end art demand remains strong, supporting private-client perks like auction previews and collector experiences.",
-   "summary_ai": "A Van Gogh work set a record for Sotheby's most valuable evening auction.",
-   "take": "Top-end art demand remains strong, supporting private-client perks like auction previews and collector experiences.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "Sotheby's evening sale featuring a Van Gogh became its most valuable evening ever, per Observer.",
+   "summary_ai": "Sotheby's evening sale featuring a Van Gogh became its most valuable evening ever, per Observer.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "spending_data",
-    "luxury"
+    "spending_data"
    ],
    "breaking": false,
    "data_points": [],
@@ -294,11 +293,11 @@
    "source": "The New York Times",
    "source_type": "gnews",
    "published": "2026-11-19T17:10:00Z",
-   "relevance": 3,
-   "why": "Top-tier auction demand shows ultra-wealthy spending power; a possible hook for Sotheby's access or event offers.",
-   "summary_ai": "A Van Gogh painting sold for $190.4 million at Sotheby's after a last-minute settlement.",
-   "take": "Top-tier auction demand shows ultra-wealthy spending power; a possible hook for Sotheby's access or event offers.",
-   "take_kind": "take",
+   "relevance": 2,
+   "why": "Ultra-high-end buyers are still deploying large sums, a useful signal for wealth-tier spend trends.",
+   "summary_ai": "A Van Gogh sold for $190.4 million at Sotheby's after a last-minute settlement preceded the sale.",
+   "take": "Ultra-high-end buyers are still deploying large sums, a useful signal for wealth-tier spend trends.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,

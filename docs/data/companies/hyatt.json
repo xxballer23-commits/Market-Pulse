@@ -180,22 +180,47 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-20T23:45:15Z",
-   "relevance": 3,
-   "why": "Milestone changes at Hyatt can shift co-brand card value perception, so track sentiment before partner renewal talks.",
-   "summary_ai": "A podcast episode debates whether Hyatt's changes to its milestone rewards are positive or negative for members.",
-   "take": "Milestone changes at Hyatt can shift co-brand card value perception, so track sentiment before partner renewal talks.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "A Frequent Miler podcast episode debates whether Hyatt's Milestone changes are good or bad.",
+   "summary_ai": "A Frequent Miler podcast episode debates whether Hyatt's Milestone changes are good or bad.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community",
-    "luxury"
+    "community"
    ],
    "breaking": false,
    "data_points": [
-    "Episode 384"
+    "11-20-26"
+   ],
+   "also": []
+  },
+  {
+   "id": "94c35fe766f3",
+   "title": "NEWS & OFFERS: Emirates new first class lounge open, 30% off Expert Flyer and Delta/Hyatt loyalty tie up",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNekI3V3hUa3JGQk1fbDFzOVdHNmVncmZMM3JoZWc2YXR1emNhRWI3cWFmSHdSRXBmMlVHSGpScTVfOTRGSjAtQmhreThKMzMxXy1ValAwNTMtRHdIOEJyTHpTZXJ0T1AtN3V1UDI1d3U1dTVYQUNDQkIyUFpvMEZtRkhMQWEzMThfdkw3T18wbmZGMVM5NFpwS21oaFNWNUdBWlhIbU9lQWZWd21nNUhhTzdOZG9VSjMycFJTYkhCcXh6TWdzV2MxTVRMTkFQOU5W?oc=5",
+   "source": "Turning Left For Less -",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:58:45Z",
+   "relevance": 3,
+   "why": "Scope the Delta and Hyatt loyalty tie-up as a possible earn or transfer partner for co-brand benefits.",
+   "summary_ai": "Emirates opened a new first class lounge, Expert Flyer is offering 30% off, and Delta and Hyatt announced a loyalty tie-up.",
+   "take": "Scope the Delta and Hyatt loyalty tie-up as a possible earn or transfer partner for co-brand benefits.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30% off"
    ],
    "also": []
   },
@@ -246,6 +271,31 @@
    "also": []
   },
   {
+   "id": "dbbf738ddafd",
+   "title": "10 Incredible Hyatt Hotels You Can Book for 12K Chase Points or Less",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2MyZ0VBYnpjblhfSGhDbmZMN0hMVWw4VWtEdVFIVjdWQjBjcHAxVjNaZVpoV3pQcnBGcG5ocUJHUV9va1JxN3QtNGhxTjZuZTBsOTFEclAxYkVNaEEwRHFNQjJTbGJCd0lqZ2pWVHI4UHI4WjV6V01MR0Y3aDdkbzFUemltT0hF?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T17:57:23Z",
+   "relevance": 3,
+   "why": "Low-points Hyatt stays via Chase show how transfer partners drive perceived value in premium card benefits.",
+   "summary_ai": "A list highlights Hyatt hotels bookable for 12,000 Chase points or fewer.",
+   "take": "Low-points Hyatt stays via Chase show how transfer partners drive perceived value in premium card benefits.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "12K Chase points"
+   ],
+   "also": []
+  },
+  {
    "id": "ab5a38db6f2e",
    "title": "12 Best Ways To Earn Lots of World of Hyatt Points [2026]",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42cmZsY1ROMWJMS1k0WV94ZG0wVlAtUTBuQjAzMnh4d3dfdmxuYnR6Y2V1ZHFWV2hyTzQyWlBsMkRKX1lTOWllSGFILV9NUDBvdDIzMHRDVDFZTkkya29zenhhZHozLU5rOFg1anVhNDk4Z2pQZnc0REhiYw?oc=5",
@@ -275,22 +325,20 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-19T02:45:12Z",
-   "relevance": 4,
-   "why": "Hyatt's Milestone changes shift the value of Hyatt transfers from Chase, Bilt and Amex; review how partner value is messaged.",
-   "summary_ai": "Hyatt will change its Milestone Rewards and Globalist benefits from 2027, including faster Milestone earning and longer-lasting free night certificates.",
-   "take": "Hyatt's Milestone changes shift the value of Hyatt transfers from Chase, Bilt and Amex; review how partner value is messaged.",
-   "take_kind": "take",
+   "relevance": 3,
+   "why": "Frequent Miler ranks Hyatt's upcoming 2027 program changes from best to worst.",
+   "summary_ai": "Frequent Miler ranks Hyatt's upcoming 2027 program changes from best to worst.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards",
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "10 nights",
     "2027"
    ],
    "also": []
@@ -303,9 +351,9 @@
    "source_type": "gnews",
    "published": "2026-11-19T00:52:06Z",
    "relevance": 4,
-   "why": "The Hyatt and Delta tie-up is a concrete loyalty partnership signal; pitch complementary co-brand benefits before the 2027 rollout.",
-   "summary_ai": "Hyatt plans stackable awards, new Milestone Rewards and Delta perks, all slated to launch in 2027.",
-   "take": "The Hyatt and Delta tie-up is a concrete loyalty partnership signal; pitch complementary co-brand benefits before the 2027 rollout.",
+   "why": "Check whether the Delta perks extend to Hyatt co-brand cardholders and open a partnership conversation.",
+   "summary_ai": "Hyatt plans stackable awards, revised Milestone Rewards and Delta-linked perks starting in 2027.",
+   "take": "Check whether the Delta perks extend to Hyatt co-brand cardholders and open a partnership conversation.",
    "take_kind": "take",
    "partner": "Delta",
    "benefit_move": false,
@@ -317,7 +365,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Launches 2027"
+    "2027"
    ],
    "also": []
   },

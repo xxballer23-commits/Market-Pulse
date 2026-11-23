@@ -1,0 +1,31 @@
+{
+ "name": "Velocity Points",
+ "slug": "velocity-points",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "873c16f5328d",
+   "title": "Revolut unlocks Velocity Points",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zQWpQZTBhVGZtRnlMcndGZUFjX0ZPbGFlZWZCMG11NjluVzNvQ2ZLcXBycy1GWUp5MjZ1S2w2OUVDY19mSkhvUjlTZ2QyeERNRHVYSnJidjlaNkdFdXgtaA?oc=5",
+   "source": "Executive Traveller",
+   "source_type": "gnews",
+   "published": "2026-11-20T08:20:10Z",
+   "relevance": 4,
+   "why": "Fintech accounts are now plugging into airline loyalty currencies, a pattern that suggests transfer-partner talks with non-bank wallets are opening up.",
+   "summary_ai": "Revolut customers can now access Velocity Points, linking the fintech to a major airline loyalty program.",
+   "take": "Fintech accounts are now plugging into airline loyalty currencies, a pattern that suggests transfer-partner talks with non-bank wallets are opening up.",
+   "take_kind": "take",
+   "partner": "Velocity Points",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

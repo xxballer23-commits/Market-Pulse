@@ -36,17 +36,17 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-20T12:27:33Z",
-   "relevance": 3,
-   "why": "Cabin upgrades on partner carriers could shape which airlines premium cards feature in future travel benefits.",
-   "summary_ai": "Aeromexico is refitting its Boeing 787 fleet with new business class seats and an upgraded premium economy cabin.",
-   "take": "Cabin upgrades on partner carriers could shape which airlines premium cards feature in future travel benefits.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "Aeromexico is refitting its 787 fleet with new business class and premium economy cabins.",
+   "summary_ai": "Aeromexico is refitting its 787 fleet with new business class and premium economy cabins.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury"
+    "community"
    ],
    "breaking": false,
    "data_points": [],

@@ -106,17 +106,17 @@
    "source": "Modern Retail",
    "source_type": "rss",
    "published": "2026-11-20T05:00:00Z",
-   "relevance": 3,
-   "why": "Affluent-targeted membership bundles compete for the same wallet as premium card perks; test bundling angles in partner talks.",
-   "summary_ai": "Walmart is combining Walmart+ and Sam's Club Plus into one membership aimed at higher-income shoppers.",
-   "take": "Affluent-targeted membership bundles compete for the same wallet as premium card perks; test bundling angles in partner talks.",
-   "take_kind": "take",
+   "relevance": 2,
+   "why": "Walmart's convenience store formats are drawing higher-income shoppers, according to Modern Retail.",
+   "summary_ai": "Walmart's convenience store formats are drawing higher-income shoppers, according to Modern Retail.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "partnerships"
+    "luxury"
    ],
    "breaking": false,
    "data_points": [],

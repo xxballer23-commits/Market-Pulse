@@ -129,40 +129,16 @@
    "also": []
   },
   {
-   "id": "a625629b8d28",
-   "title": "Beyond the Record Prices: What New York’s November Auctions Tell Us About the Art Market",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSklpYTQyOUpyRldCNkt6SmdCbzVpVnVGcTBsdHdlZlB2MW1wV2pZSUdHR3k0NEVBbXl5cXV0SU01UDRFcHZQOTMzaEZoY3BaUDFISm1TY3cxWldXSlZCZmZTOXVKVnk2Zi1ZSzVFbDBUNDhyeU12LU41Q0R1a19IUEozdDNRUEpPdTQ4bTFwTFVoVHAtdmc?oc=5",
-   "source": "Observer",
+   "id": "d943e07439ac",
+   "title": "Christie's surpasses 521 million in its 20th-century art auction",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZzNSUlE4V2VIVnZQbkwyMG96Q2JLY183aW9ORWFEdnZJMkVjd3M5dkVsWVpWRU1ZallYdE51Qm13NC1NYlFEd2J4LUdTMmY4dDEwNmUydERZd2ZWQTVoN3A0THBOd3l0YzgxdnVXRHNwVzNNTHRQM3loU2h3eEdzZVVjOFUteWgzR2VLQkxmdHNYSS1PVGtUQ1BPOHJ5aGJRNk1HVjhBMlMtOHNQWnRn?oc=5",
+   "source": "Foro3D",
    "source_type": "gnews",
-   "published": "2026-11-20T20:34:23Z",
+   "published": "2026-11-21T01:33:26Z",
    "relevance": 3,
-   "why": "Auction softness or strength at the top end is a useful read on UHNW spending appetite for collectibles.",
-   "summary_ai": "Analysis of New York's November auctions looks beyond record prices to the wider state of the art market.",
-   "take": "Auction softness or strength at the top end is a useful read on UHNW spending appetite for collectibles.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "luxury",
-    "spending_data"
-   ],
-   "breaking": false,
-   "data_points": [],
-   "also": []
-  },
-  {
-   "id": "13b08e94dcfb",
-   "title": "Christie’s Measured $145.9M Finale Brought Solid Results But Few Surprises",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2JmcV9IdWZ6cWFCUTlXQTZwT25xVW1aMDdaUUNFbF9hSXpaR3p1Wm5fS2REeThDRnlDam5ObWR2STFFcnI2U3Yya1dqTjNsMG9hNU1Ialh4bzFiZUtpS3NpYkpYZ1NrekpiX214MFJ2QXZyUTA1ZGRKY1MtUFZCQk9aREJYd1RfeWZFbXhnczVlZHpnRDJrcWVWWWNSNzRaQXc?oc=5",
-   "source": "Observer",
-   "source_type": "gnews",
-   "published": "2026-11-20T15:46:28Z",
-   "relevance": 3,
-   "why": "Steady top-end auction results point to resilient ultra-wealthy spending, though the signal offers little direct partnership hook.",
-   "summary_ai": "Christie's finale sale totaled $145.9M, with results that were solid but held few surprises.",
-   "take": "Steady top-end auction results point to resilient ultra-wealthy spending, though the signal offers little direct partnership hook.",
+   "why": "Strong top-end art demand points to HNW spending appetite, useful context for luxury partner pitches.",
+   "summary_ai": "Christie's 20th-century art auction results surpassed 521 million, with the currency not stated in the headline.",
+   "take": "Strong top-end art demand points to HNW spending appetite, useful context for luxury partner pitches.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -173,7 +149,58 @@
    ],
    "breaking": false,
    "data_points": [
-    "$145.9M finale sale"
+    "521 million auction total"
+   ],
+   "also": []
+  },
+  {
+   "id": "6fafd2190a45",
+   "title": "Christie’s New York Marquee Week Live Sales Total $967.2 Million",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOLTJidUhZSkZ1eDAzSWEyMzBESkFaNUhwcVd5SHdZclJHZ1RQbFpDRnBlQkRpZ0g4ZTcwYU9CVjRZVGVyMWs0UHN3czVveWYwOUc2Skk1SDJPbmp2ZmRQYTZsMFhZdUt6d2lobzdUSlNKYUFmeVFSSmFlSHpnTWlZTmMzS1E1REJQQUF6Zlpfelpob0U?oc=5",
+   "source": "Christie's Press",
+   "source_type": "gnews",
+   "published": "2026-11-21T00:34:26Z",
+   "relevance": 3,
+   "why": "Top-end collectibles demand is holding up, a useful signal for UHNW spend pockets worth tracking.",
+   "summary_ai": "Christie's New York Marquee Week live auctions brought in a combined $967.2 million in sales.",
+   "take": "Top-end collectibles demand is holding up, a useful signal for UHNW spend pockets worth tracking.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$967.2 million"
+   ],
+   "also": []
+  },
+  {
+   "id": "13b08e94dcfb",
+   "title": "Christie’s Measured $145.9M Finale Brought Solid Results But Few Surprises",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNV2JmcV9IdWZ6cWFCUTlXQTZwT25xVW1aMDdaUUNFbF9hSXpaR3p1Wm5fS2REeThDRnlDam5ObWR2STFFcnI2U3Yya1dqTjNsMG9hNU1Ialh4bzFiZUtpS3NpYkpYZ1NrekpiX214MFJ2QXZyUTA1ZGRKY1MtUFZCQk9aREJYd1RfeWZFbXhnczVlZHpnRDJrcWVWWWNSNzRaQXc?oc=5",
+   "source": "Observer",
+   "source_type": "gnews",
+   "published": "2026-11-20T15:46:28Z",
+   "relevance": 2,
+   "why": "Christie's closing sale brought in $145.9M, with results that were solid but largely in line with expectations.",
+   "summary_ai": "Christie's closing sale brought in $145.9M, with results that were solid but largely in line with expectations.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$145.9M"
    ],
    "also": []
   },
@@ -184,21 +211,46 @@
    "source": "Il Sole 24 ORE",
    "source_type": "gnews",
    "published": "2026-11-20T13:50:50Z",
-   "relevance": 3,
-   "why": "Guarantees drive auction volume, a signal of where high-net-worth collector spending is concentrating.",
-   "summary_ai": "Analysis says Christie's leans on guaranteed lots and collection consignments to support its 21st-century catalogue.",
-   "take": "Guarantees drive auction volume, a signal of where high-net-worth collector spending is concentrating.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "An Italian business analysis examines how Christie's catalogue relies on guarantees and collection sales.",
+   "summary_ai": "An Italian business analysis examines how Christie's catalogue relies on guarantees and collection sales.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Headline only, no figures",
+   "low_confidence": null,
    "sections": [
-    "luxury",
-    "spending_data"
+    "spending_data",
+    "luxury"
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "76273446075e",
+   "title": "A Frida Kahlo painting expected to sell for up to $3.5 million was withdrawn from a Christie’s auction in",
+   "url": "https://news.google.com/rss/articles/CBMiiwNBVV95cUxNNWd2SVhhRjVISDRQa2hVRDRMMmY3RnUzQnprSVdHODN1a0pVVFJTSHk0eE45SDI1UUtDekRZWlc0UjFYcDdzdldDZTctQ0hISEtnRWlOaDAzVEhIY2IzSFVZMEJUTExiZlFzNk1wMGEzMVhzaUJWMERTbXBHcmlHUmxEUEVIRHpVU1VkMVgyZUw0U2RkcEhCRTVidkJnQ0lzUnNqNy1NSnp6OEpSdmUzYm5tQUU5NmQxX3JlUV8yNm41el91WGdob2NqQ09fdXZfc3l5ZlZFT1JkY2duMnduYkt2YzlXdHM3YUVOMUVkell3cHJkS2hSVUc5Q2tnbHhLN3JjUlBlX0dDc3JoLWVuNlZjdWhtbDJyV2Uwenowclh1RXJHWkZFWmpDQ2RLb0Q3ZFlmdklzVFdDRkZOMmhUU2lrQTR1ay16S2RCNENtZlpCazQ4T0NlemswS1VRdWlKQ0NZQ09Zd3oyWEVHVHRxbWhxN25MWDIzNkdUNkR3bklEVjZVdzFBSUNjc9IBkANBVV95cUxOa2lDVmN6UzhRa25nRkV3cTd5eGdJLUpRX3FNc0pBd1U1M3JZNlY3VE1ZbWVnSlNMakRhQ0JmZkVQQUxtQWZRNXhscVZsWHJ1cjVHOVh6RDhUd3dHX3RGZEFJSTJ1aGFSVC1UZktsdWllVnA5TS1Hc21WNWMtWmUtYVkxekRNLXNHZTFiMTVRa2ZiSWQ0a05aX0tYT3R4Q3V6Ync2djQwQ256VWtXTHlFeVJ6RUtlbHB4blk4SE5NQkg3MHo4RmM3V1lyTHZyVTdDczNITk1hSE9SWU5EMl94ZUtDb3VkN0hkcnFsVTluMkpCc0hvcktIbUpYcU9pQUU0YUpVLTJyTXdyTEFERXRBWDFRZ3J0Tm9IdWVkRFc2NVFDclkwd2EyNFFHZ2Jkdk0waHRFQWhWenVxdXpEMUNyRjJ4RUJ6aUNGelFnVkl5MXhyV3N3Z2JycjRHdGxoVXk5MWFkUXg2RG1DbEtmaElRME55bE1SaTF2Q05sSnl0UW5lMXhXbWZtRUY4UGFMMmRI?oc=5",
+   "source": "The Times of India",
+   "source_type": "gnews",
+   "published": "2026-11-20T07:17:00Z",
+   "relevance": 2,
+   "why": "A Frida Kahlo painting estimated at up to $3.5 million was pulled from a Christie's auction.",
+   "summary_ai": "A Frida Kahlo painting estimated at up to $3.5 million was pulled from a Christie's auction.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$3.5 million"
+   ],
    "also": []
   },
   {
@@ -208,11 +260,11 @@
    "source": "The Art Newspaper",
    "source_type": "gnews",
    "published": "2026-11-20T07:12:18Z",
-   "relevance": 3,
-   "why": "A soft mid-tier sale beside strong top-end results suggests affluent demand is concentrating at the very top.",
-   "summary_ai": "Christie's 21st-century sale came in soft, closing out a week of major New York auctions.",
-   "take": "A soft mid-tier sale beside strong top-end results suggests affluent demand is concentrating at the very top.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "Christie's 21st-century sale underwhelmed, closing out a week of major New York art auctions.",
+   "summary_ai": "Christie's 21st-century sale underwhelmed, closing out a week of major New York art auctions.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -232,21 +284,20 @@
    "source_type": "gnews",
    "published": "2026-11-20T06:24:57Z",
    "relevance": 3,
-   "why": "Strong New York auction totals point to continued UHNW spending on collectibles, a possible angle for art-linked card perks.",
-   "summary_ai": "Christie's New York art sale brought in $145.9 million in total.",
-   "take": "Strong New York auction totals point to continued UHNW spending on collectibles, a possible angle for art-linked card perks.",
-   "take_kind": "read",
+   "why": "Christie's New York auctions brought in a combined total of $145.9 million.",
+   "summary_ai": "Christie's New York auctions brought in a combined total of $145.9 million.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Aggregator source, limited detail",
+   "low_confidence": null,
    "sections": [
-    "spending_data",
-    "luxury"
+    "spending_data"
    ],
    "breaking": false,
    "data_points": [
-    "$145.9 million sale total"
+    "$145.9 million"
    ],
    "also": []
   },
@@ -258,10 +309,10 @@
    "source_type": "gnews",
    "published": "2026-11-20T03:14:42Z",
    "relevance": 3,
-   "why": "Strong top-end auction results signal sustained ultra-high-net-worth appetite for trophy assets and collectibles.",
-   "summary_ai": "Christie's 21st Century evening sale in New York brought in $146 million in total.",
-   "take": "Strong top-end auction results signal sustained ultra-high-net-worth appetite for trophy assets and collectibles.",
-   "take_kind": "read",
+   "why": "Christie's New York 21st Century evening sale reportedly brought in $146 million in total results.",
+   "summary_ai": "Christie's New York 21st Century evening sale reportedly brought in $146 million in total results.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -272,7 +323,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "$146 million sale total"
+    "$146 million"
    ],
    "also": []
   },
@@ -283,11 +334,11 @@
    "source": "Boston Herald",
    "source_type": "gnews",
    "published": "2026-11-19T23:10:21Z",
-   "relevance": 3,
-   "why": "Government heritage claims can pull high-value works from sales, so provenance checks matter for art-linked offers.",
-   "summary_ai": "Christie's pulled a Frida Kahlo painting from auction after Mexico requested a halt.",
-   "take": "Government heritage claims can pull high-value works from sales, so provenance checks matter for art-linked offers.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "Christie's pulled a Frida Kahlo painting from its auction after a request from Mexico.",
+   "summary_ai": "Christie's pulled a Frida Kahlo painting from its auction after a request from Mexico.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -312,17 +363,16 @@
    "source": "Hodinkee",
    "source_type": "gnews",
    "published": "2026-11-19T16:00:00Z",
-   "relevance": 3,
-   "why": "Watch auction demand is a proxy for affluent collector appetite, useful context for luxury experience pitches.",
-   "summary_ai": "Hodinkee outlines auction trends and watches of interest at the Phillips and Christie's Hong Kong sales.",
-   "take": "Watch auction demand is a proxy for affluent collector appetite, useful context for luxury experience pitches.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "Hodinkee outlines three auction trends and six watches it would buy at the Phillips and Christie's Hong Kong sales.",
+   "summary_ai": "Hodinkee outlines three auction trends and six watches it would buy at the Phillips and Christie's Hong Kong sales.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury",
     "spending_data"
    ],
    "breaking": false,

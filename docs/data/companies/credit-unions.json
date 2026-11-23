@@ -1,0 +1,31 @@
+{
+ "name": "Credit unions",
+ "slug": "credit-unions",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ef84380abb44",
+   "title": "Credit Unions Match Banks on Credit Card Growth",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONnZlQTZTMm5aUlJSSWVFUkEzZVNSckVEY1Y1Tm93OHU4R3NLTkJydWhzWmEtUlJnT3lYOXp5aTFoakhtMXItUUd2OU52d2kxTF9TTjhwM2NheU5Md3RyR0dZSzE5THplVnQ4QTRTOEkzVnY5eGZ0N0RsQ2hzX1B2UEpIWklZdw?oc=5",
+   "source": "CUTimes",
+   "source_type": "gnews",
+   "published": "2026-11-19T22:19:27Z",
+   "relevance": 2,
+   "why": "Credit unions gaining card share at bank pace adds competitive pressure for mass-affluent acquisition.",
+   "summary_ai": "Credit unions are growing their credit card books at a pace now matching large banks.",
+   "take": "Credit unions gaining card share at bank pace adds competitive pressure for mass-affluent acquisition.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

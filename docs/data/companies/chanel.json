@@ -45,6 +45,75 @@
    "breaking": false,
    "data_points": [],
    "also": []
+  },
+  {
+   "id": "a56b02d81d39",
+   "title": "Gerard Wertheimer",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9NZnFJYldnRXZSTHFsemtrcVRsUHFWY3plX0Q5V3BUTDRZNFQ1U3ZnVmthYW9SYmlmMWt1N0psclpIdDk1SUJCV3ZtTjZ2Vndua2RQUFJVUUl0OXNVQ0luWnljX1dJZEpCd3BHX3RyTkpfb0tmOFM4?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-20T22:03:00Z",
+   "relevance": 2,
+   "why": "Bloomberg features Chanel co-owner Gerard Wertheimer, though the headline gives no detail on what prompted the story.",
+   "summary_ai": "Bloomberg features Chanel co-owner Gerard Wertheimer, though the headline gives no detail on what prompted the story.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "ddb87b31d4d5",
+   "title": "Chanel Beauty Advisor - Queensland job with Chanel | 325920",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYzF0LVVPczBhUHBVcVpDck9LZTdTeWNCZVZNX0xydkVibjBTWjdsN05uNlNjbFZoc2lrT1lic1V2cnRUWWdYU2kwOFJnSDY3Q3VabGU4a0xrUW1nWjdTci1DeWlBMFhjTkRJMWttS2sxNXlqVm55RHJadkNfbGdtbw?oc=5",
+   "source": "The Business of Fashion",
+   "source_type": "gnews",
+   "published": "2026-11-20T03:21:01Z",
+   "relevance": 1,
+   "why": "Chanel is recruiting a beauty advisor for a Queensland retail role, a job listing with no market signal.",
+   "summary_ai": "Chanel is recruiting a beauty advisor for a Queensland retail role, a job listing with no market signal.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2c1eac76f656",
+   "title": "Chanel Fixed-term contract - Fashion Advisor - Milano Montenapoleone - December 2026 - M/F/D",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONG85WGtqb2JKY1c5b0FXNHVQMGZNbWhuTzlYV2tQd0h0TEZJc3NBRll1cUU3ZFV6TjFpeW1pLTgzbzJuS3M0SDgwMHZXc3NkcFBMdk83dEtqMWVYRGJEZk5meXpDLWtBUlAzSnV2ZjFWbFdKNGZ3OFRyd3YyYUE0enAwX0w4NGppb2x6OU1RTG44cEZXRnBTdU43N3RPeEhZZjdtRkE3ZExCLWYwRDN3M0QwYllYbnNOaWZZeG5KcFB3U3V0U3B2czFlM0pZV193TUdyblhn?oc=5",
+   "source": "The Business of Fashion",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:33:13Z",
+   "relevance": 1,
+   "why": "Chanel is recruiting a fixed-term fashion advisor for its Milan Montenapoleone boutique.",
+   "summary_ai": "Chanel is recruiting a fixed-term fashion advisor for its Milan Montenapoleone boutique.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "December 2026"
+   ],
+   "also": []
   }
  ]
 }

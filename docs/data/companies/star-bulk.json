@@ -1,0 +1,32 @@
+{
+ "name": "Star Bulk",
+ "slug": "star-bulk",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3e4de48d967b",
+   "title": "Star Bulk Boosts Fleet with Eight Kamsarmax Newbuilds, $31.9 Million in Vessel Sale",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUJ3bjlFaWlEbWw4ZUJ3REUxa0cta0xDZ0lydnpYd05lMUpvNlhMZGJIZnVlbmI3ZGJCRFVXS2tJamtubzA5Z2Y2TlJodHFWMTZTcThQcWYxWkpENHlWZFpZZ0FEMkI3YmlQMmYxLTlMWDNXMjkxeHVGU2ptRWFXbndZWjhMVW1tMGxqd0pqeGRzQS11OVI1eUVaQzVjTmZLSC1pUDhEMmp1TUV0ZlRoTS16SmJScnc?oc=5",
+   "source": "Sea News",
+   "source_type": "gnews",
+   "published": "2026-11-20T09:16:25Z",
+   "relevance": 1,
+   "why": "Star Bulk is adding eight Kamsarmax newbuild vessels and sold a vessel for $31.9 million.",
+   "summary_ai": "Star Bulk is adding eight Kamsarmax newbuild vessels and sold a vessel for $31.9 million.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$31.9 million vessel sale",
+    "Eight Kamsarmax newbuilds"
+   ],
+   "also": []
+  }
+ ]
+}

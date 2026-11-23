@@ -79,15 +79,15 @@
    }
   },
   "2026-11-22": {
-   "input_tokens": 128270,
-   "output_tokens": 182240,
+   "input_tokens": 251563,
+   "output_tokens": 369163,
    "web_searches": 0,
-   "calls": 40,
+   "calls": 80,
    "by_task": {
     "enrich": {
-     "calls": 40,
-     "input_tokens": 128270,
-     "output_tokens": 182240,
+     "calls": 80,
+     "input_tokens": 251563,
+     "output_tokens": 369163,
      "web_searches": 0,
      "model": "claude-haiku-5-5"
     }

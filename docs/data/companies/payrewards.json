@@ -11,22 +11,21 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-20T19:45:57Z",
-   "relevance": 3,
-   "why": "A bill-pay fintech turning card spend into transferable points is a candidate for partner outreach.",
-   "summary_ai": "PayRewards lets users pay business bills by card for a 2.9% fee and earn transferable points, with Atmos Rewards support coming.",
-   "take": "A bill-pay fintech turning card spend into transferable points is a candidate for partner outreach.",
+   "relevance": 4,
+   "why": "Bill pay with transferable points is a low-cost entry for business card rewards; evaluate PayRewards terms and Atmos transfer partnership.",
+   "summary_ai": "PayRewards lets users pay business bills by card and earn transferable points, with Atmos Rewards support coming soon.",
+   "take": "Bill pay with transferable points is a low-cost entry for business card rewards; evaluate PayRewards terms and Atmos transfer partnership.",
    "take_kind": "take",
-   "partner": "Atmos Rewards",
+   "partner": "PayRewards",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Atmos Rewards support not yet live",
+   "low_confidence": null,
    "sections": [
-    "partnerships"
+    "partnerships",
+    "community"
    ],
    "breaking": false,
-   "data_points": [
-    "2.9% fee"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

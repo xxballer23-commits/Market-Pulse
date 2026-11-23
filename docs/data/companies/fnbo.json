@@ -12,21 +12,20 @@
    "source_type": "rss",
    "published": "2026-11-20T19:54:46Z",
    "relevance": 3,
-   "why": "Airline co-brands from mid-tier issuers show where banks are still competing for travel spend.",
-   "summary_ai": "FNBO and Etihad have launched two new personal credit cards with limited-time launch bonuses.",
-   "take": "Airline co-brands from mid-tier issuers show where banks are still competing for travel spend.",
+   "why": "Gulf carrier co-brands entering the US market could pull premium airline card share from domestic programs.",
+   "summary_ai": "FNBO and Etihad have launched two new co-branded credit cards.",
+   "take": "Gulf carrier co-brands entering the US market could pull premium airline card share from domestic programs.",
    "take_kind": "read",
    "partner": "Etihad",
-   "benefit_move": true,
-   "benefit_type": "airline",
+   "benefit_move": false,
+   "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
-   "data_points": [
-    "Launch bonuses through 2/3/27"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

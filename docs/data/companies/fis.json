@@ -12,14 +12,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T13:26:00Z",
    "relevance": 3,
-   "why": "Card installment features often run through processors like FIS, so check processor-level options before negotiating with lenders.",
-   "summary_ai": "An analyst piece asks whether FIS's Splitit partnership can lift its issuer processing growth.",
-   "take": "Card installment features often run through processors like FIS, so check processor-level options before negotiating with lenders.",
+   "why": "Installment-at-checkout through issuer processors is a possible route to add pay-over-time features to our cards without building it ourselves.",
+   "summary_ai": "A Splitit partnership with FIS is raising questions about whether it can grow FIS issuer processing revenue.",
+   "take": "Installment-at-checkout through issuer processors is a possible route to add pay-over-time features to our cards without building it ourselves.",
    "take_kind": "take",
    "partner": "Splitit",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Analyst speculation, no deal terms",
+   "low_confidence": null,
    "sections": [
     "lending",
     "partnerships"

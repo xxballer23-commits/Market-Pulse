@@ -11,24 +11,23 @@
    "source": "The Points Guy",
    "source_type": "rss",
    "published": "2026-11-19T20:30:05Z",
-   "relevance": 3,
-   "why": "Card-linked wellness credits like this are a partnership template worth testing for affluent cardholder perks.",
-   "summary_ai": "Oura's 25% Black Friday sale can be stacked with an Amex Platinum statement credit of up to $200.",
-   "take": "Card-linked wellness credits like this are a partnership template worth testing for affluent cardholder perks.",
+   "relevance": 4,
+   "why": "Wellness hardware bought with card credits is a template for premium merchant tie-ins, so model similar Oura-style offers.",
+   "summary_ai": "Amex Platinum cardholders can use their card credit on a limited-time Oura Ring discount.",
+   "take": "Wellness hardware bought with card credits is a template for premium merchant tie-ins, so model similar Oura-style offers.",
    "take_kind": "take",
    "partner": "Oura",
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": "Sale end date and credit terms unstated",
    "sections": [
-    "community",
-    "partnerships"
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
    "data_points": [
     "25% off",
-    "Up to $200 statement credit",
-    "Nearly $300 savings"
+    "nearly $300 savings"
    ],
    "also": []
   },
@@ -39,23 +38,22 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-19T18:45:50Z",
-   "relevance": 4,
-   "why": "A wearables tie-in paired with a Platinum credit is a live template; test similar credit-plus-partner structures for our premium benefits.",
-   "summary_ai": "Oura Ring 5 drops to $299 in its early Black Friday sale, and the Amex Platinum benefit brings it to $99 plus tax.",
-   "take": "A wearables tie-in paired with a Platinum credit is a live template; test similar credit-plus-partner structures for our premium benefits.",
-   "take_kind": "take",
+   "relevance": 3,
+   "why": "Wearable offers on Platinum keep appearing as perks, so a wellness-device partner is a recurring category to test.",
+   "summary_ai": "An Oura Ring 5 Black Friday deal is available at $99 plus tax for Amex Platinum cardholders.",
+   "take": "Wearable offers on Platinum keep appearing as perks, so a wellness-device partner is a recurring category to test.",
+   "take_kind": "read",
    "partner": "Oura",
    "benefit_move": true,
-   "benefit_type": "credit",
-   "low_confidence": "Sale end date and credit eligibility unconfirmed",
+   "benefit_type": "offer",
+   "low_confidence": null,
    "sections": [
     "premium_cards",
-    "community"
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "$299",
-    "$99 + tax"
+    "$99 Oura Ring 5 price"
    ],
    "also": []
   },
@@ -66,21 +64,22 @@
    "source": "Upgraded Points",
    "source_type": "gnews",
    "published": "2026-11-19T14:08:58Z",
-   "relevance": 4,
-   "why": "Wearable-hardware perks on Platinum-tier cards are a concrete model to test against our own benefit roadmap.",
-   "summary_ai": "Amex Platinum cardholders can buy an Oura Ring 5 for $99 through a limited-time offer.",
-   "take": "Wearable-hardware perks on Platinum-tier cards are a concrete model to test against our own benefit roadmap.",
+   "relevance": 3,
+   "why": "Card-linked wearable offers still move premium spenders, so pitch a wellness-device partner with a clear offer window.",
+   "summary_ai": "Amex Platinum cardholders can get an Oura Ring 5 for $99 through November 30.",
+   "take": "Card-linked wearable offers still move premium spenders, so pitch a wellness-device partner with a clear offer window.",
    "take_kind": "take",
    "partner": "Oura",
    "benefit_move": true,
    "benefit_type": "offer",
    "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "$99 Oura Ring 5",
+    "$99 Oura Ring 5 price",
     "Through November 30"
    ],
    "also": []

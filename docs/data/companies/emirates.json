@@ -61,11 +61,11 @@
    "source_type": "gnews",
    "published": "2026-11-19T17:25:44Z",
    "relevance": 3,
-   "why": "Flagship carrier lounge upgrades raise the bar for card lounge access, so check whether partner lounge networks can keep pace.",
-   "summary_ai": "Emirates opened a new first class lounge in Dubai, shown in a first look.",
-   "take": "Flagship carrier lounge upgrades raise the bar for card lounge access, so check whether partner lounge networks can keep pace.",
+   "why": "New Dubai lounge openings can inform which airline lounges to prioritize in premium card access partnerships.",
+   "summary_ai": "Emirates has opened a new first class lounge in Dubai, with Upgraded Points providing a first look.",
+   "take": "New Dubai lounge openings can inform which airline lounges to prioritize in premium card access partnerships.",
    "take_kind": "take",
-   "partner": null,
+   "partner": "Emirates",
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
@@ -84,24 +84,21 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-19T12:02:34Z",
-   "relevance": 3,
-   "why": "Watch whether these lounge upgrades get folded into card lounge-access programs, since premium cards depend on airline lounge partners.",
-   "summary_ai": "Emirates opened a temporary first class lounge in Dubai and plans new first and business lounges over the next two years.",
-   "take": "Watch whether these lounge upgrades get folded into card lounge-access programs, since premium cards depend on airline lounge partners.",
-   "take_kind": "take",
+   "relevance": 2,
+   "why": "Emirates is revamping its Dubai lounges and has opened a temporary new first class lounge.",
+   "summary_ai": "Emirates is revamping its Dubai lounges and has opened a temporary new first class lounge.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "premium_cards",
-    "luxury"
+    "community"
    ],
    "breaking": false,
-   "data_points": [
-    "$109 million lounge investment",
-    "Plans over next two years"
-   ],
+   "data_points": [],
    "also": []
   },
   {

@@ -12,20 +12,21 @@
    "source_type": "gnews",
    "published": "2026-11-20T10:42:47Z",
    "relevance": 3,
-   "why": "Debit outpacing credit may signal affluent users avoiding revolving debt; watch whether premium card spend keeps pace.",
-   "summary_ai": "Velera data show October debit card purchases grew at roughly twice the pace of credit card purchases.",
-   "take": "Debit outpacing credit may signal affluent users avoiding revolving debt; watch whether premium card spend keeps pace.",
+   "why": "Debit outpacing credit hints at softer revolving spend, so track premium card spend mix closely.",
+   "summary_ai": "Velera data shows debit card purchases grew at twice the pace of credit card purchases in October.",
+   "take": "Debit outpacing credit hints at softer revolving spend, so track premium card spend mix closely.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "spending_data"
+    "spending_data",
+    "lending"
    ],
    "breaking": false,
    "data_points": [
-    "Double the credit growth rate, October"
+    "Debit growth about 2x credit growth, October"
    ],
    "also": []
   }

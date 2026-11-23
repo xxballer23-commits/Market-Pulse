@@ -1,0 +1,33 @@
+{
+ "name": "Air France-KLM",
+ "slug": "air-france-klm",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fd4e99f35cf9",
+   "title": "Book Air France/KLM flight from US, earn 10,000 bonus Flying Blue miles",
+   "url": "https://frequentmiler.com/book-air-france-klm-flight-from-us-to-or-through-paris-or-amsterdam-earn-10000-bonus-flying-blue-miles/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-20T16:11:50Z",
+   "relevance": 2,
+   "why": "Air France/KLM is offering 10,000 bonus Flying Blue miles on flights booked from the US.",
+   "summary_ai": "Air France/KLM is offering 10,000 bonus Flying Blue miles on flights booked from the US.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10,000 bonus miles"
+   ],
+   "also": []
+  }
+ ]
+}

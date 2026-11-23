@@ -1,0 +1,33 @@
+{
+ "name": "Archer Hotel",
+ "slug": "archer-hotel",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8083314f3554",
+   "title": "Archer Hotel Charleston to open in January 2027",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORHBpMTh5NkdBUXk2NWNtVVNHTGcwYTdMc2kycF83RHpod2FQQlhCc0ZsN19OUk9HMl9ITUNwS0I1cGtwRWhEQ295UmR4RkVCWXE2VEZ6Y0x4Z0pIQlBKM1hSamUxaFlNWVVQYl9Qbk1ac21OMGVnM1ltS0pmVUI4R044X0NKc3dtdVd3aHdTd1pUalFQNTFZak9Tdw?oc=5",
+   "source": "Travel Daily News International",
+   "source_type": "gnews",
+   "published": "2026-11-20T10:21:48Z",
+   "relevance": 2,
+   "why": "The Archer Hotel in Charleston is set to open in January 2027.",
+   "summary_ai": "The Archer Hotel in Charleston is set to open in January 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "January 2027 opening"
+   ],
+   "also": []
+  }
+ ]
+}

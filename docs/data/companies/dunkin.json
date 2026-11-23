@@ -11,10 +11,10 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-18T15:41:55Z",
-   "relevance": 4,
-   "why": "Gold's dining and Uber credits are the bundle to benchmark against when pitching perk partners.",
-   "summary_ai": "An explainer on the Amex Gold card's annual credits for Uber Cash, dining, Resy and Dunkin', with a per-credit value breakdown.",
-   "take": "Gold's dining and Uber credits are the bundle to benchmark against when pitching perk partners.",
+   "relevance": 3,
+   "why": "Gold's bundled credits set the benchmark for everyday-spend perks that rivals must match.",
+   "summary_ai": "One Mile at a Time explains how to use the $424 in Amex Gold credits for Uber, dining, Resy and Dunkin'.",
+   "take": "Gold's bundled credits set the benchmark for everyday-spend perks that rivals must match.",
    "take_kind": "read",
    "partner": "Resy",
    "benefit_move": false,
@@ -26,7 +26,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "$424 in annual credits"
+    "$424"
    ],
    "also": []
   }

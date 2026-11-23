@@ -11,18 +11,17 @@
    "source": "Morningstar",
    "source_type": "gnews",
    "published": "2026-11-19T13:00:00Z",
-   "relevance": 3,
-   "why": "Point-of-sale installment spend is moving into service verticals; a candidate for embedded lending conversations.",
-   "summary_ai": "360 Payments is adding Sunbit financing at more than 5,000 independent auto repair shops.",
-   "take": "Point-of-sale installment spend is moving into service verticals; a candidate for embedded lending conversations.",
-   "take_kind": "take",
-   "partner": null,
+   "relevance": 2,
+   "why": "360 Payments has added Sunbit point-of-sale financing across more than 5,000 independent auto repair shops.",
+   "summary_ai": "360 Payments has added Sunbit point-of-sale financing across more than 5,000 independent auto repair shops.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Sunbit",
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "lending",
-    "partnerships"
+    "lending"
    ],
    "breaking": false,
    "data_points": [

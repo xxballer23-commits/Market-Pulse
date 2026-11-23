@@ -1,0 +1,31 @@
+{
+ "name": "BetMGM",
+ "slug": "betmgm",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5e59e6236c1c",
+   "title": "BetMGM Casino bonus code MLIVECAS: Deposit for up to 1,000 Bonus Spins",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9KUENXWHhWMXhKNXIyaVRUSmJQWE9tRGprTC15MzhfQ245MG9qa0pQVVByb29jX0U0V2lyZG5HckpmNWUzN0xkSmV5QzJIcG4tdGRNN2F2bw?oc=5",
+   "source": "MLive.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T20:04:00Z",
+   "relevance": 1,
+   "why": "A BetMGM casino promo offers bonus spins for a deposit made with a specific code.",
+   "summary_ai": "A BetMGM casino promo offers bonus spins for a deposit made with a specific code.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Promo eligibility and end date unknown",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "1,000 bonus spins"
+   ],
+   "also": []
+  }
+ ]
+}

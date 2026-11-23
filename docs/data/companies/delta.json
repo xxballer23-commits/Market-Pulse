@@ -176,21 +176,47 @@
    "source": "The Points Guy",
    "source_type": "rss",
    "published": "2026-11-20T17:30:09Z",
-   "relevance": 3,
-   "why": "Airline loyalty programs are paying for non-air travel spend, a model worth testing for travel partner offers.",
-   "summary_ai": "Delta is offering bonus SkyMiles on cruise bookings for a limited time.",
-   "take": "Airline loyalty programs are paying for non-air travel spend, a model worth testing for travel partner offers.",
+   "relevance": 2,
+   "why": "Delta is using cruise bookings to earn miles from travel spend; compare against our travel partner offers.",
+   "summary_ai": "A limited-time cruise booking offer provides thousands of bonus Delta miles.",
+   "take": "Delta is using cruise bookings to earn miles from travel spend; compare against our travel partner offers.",
    "take_kind": "read",
-   "partner": "Delta",
+   "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Limited-time offer, end date unknown",
+   "low_confidence": null,
    "sections": [
-    "partnerships",
-    "community"
+    "community",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "94c35fe766f3",
+   "title": "NEWS & OFFERS: Emirates new first class lounge open, 30% off Expert Flyer and Delta/Hyatt loyalty tie up",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNekI3V3hUa3JGQk1fbDFzOVdHNmVncmZMM3JoZWc2YXR1emNhRWI3cWFmSHdSRXBmMlVHSGpScTVfOTRGSjAtQmhreThKMzMxXy1ValAwNTMtRHdIOEJyTHpTZXJ0T1AtN3V1UDI1d3U1dTVYQUNDQkIyUFpvMEZtRkhMQWEzMThfdkw3T18wbmZGMVM5NFpwS21oaFNWNUdBWlhIbU9lQWZWd21nNUhhTzdOZG9VSjMycFJTYkhCcXh6TWdzV2MxTVRMTkFQOU5W?oc=5",
+   "source": "Turning Left For Less -",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:58:45Z",
+   "relevance": 3,
+   "why": "Scope the Delta and Hyatt loyalty tie-up as a possible earn or transfer partner for co-brand benefits.",
+   "summary_ai": "Emirates opened a new first class lounge, Expert Flyer is offering 30% off, and Delta and Hyatt announced a loyalty tie-up.",
+   "take": "Scope the Delta and Hyatt loyalty tie-up as a possible earn or transfer partner for co-brand benefits.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30% off"
+   ],
    "also": []
   },
   {
@@ -226,14 +252,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T13:36:41Z",
    "relevance": 4,
-   "why": "Delta's lounge cut could push Delta card holders toward Sky Club access, so watch for issuer backfill offers.",
-   "summary_ai": "Delta will stop offering basic business lounge access starting in January 2027.",
-   "take": "Delta's lounge cut could push Delta card holders toward Sky Club access, so watch for issuer backfill offers.",
+   "why": "Airline lounge access is tightening, so check card lounge terms before pitching lounge partnerships to Delta-linked cardholders.",
+   "summary_ai": "Delta will end basic business lounge access starting in January 2027.",
+   "take": "Airline lounge access is tightening, so check card lounge terms before pitching lounge partnerships to Delta-linked cardholders.",
    "take_kind": "take",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "Single unfamiliar source, details unverified",
+   "partner": "Delta",
+   "benefit_move": true,
+   "benefit_type": "lounge",
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
@@ -251,9 +277,9 @@
    "source_type": "gnews",
    "published": "2026-11-19T00:52:06Z",
    "relevance": 4,
-   "why": "The Hyatt and Delta tie-up is a concrete loyalty partnership signal; pitch complementary co-brand benefits before the 2027 rollout.",
-   "summary_ai": "Hyatt plans stackable awards, new Milestone Rewards and Delta perks, all slated to launch in 2027.",
-   "take": "The Hyatt and Delta tie-up is a concrete loyalty partnership signal; pitch complementary co-brand benefits before the 2027 rollout.",
+   "why": "Check whether the Delta perks extend to Hyatt co-brand cardholders and open a partnership conversation.",
+   "summary_ai": "Hyatt plans stackable awards, revised Milestone Rewards and Delta-linked perks starting in 2027.",
+   "take": "Check whether the Delta perks extend to Hyatt co-brand cardholders and open a partnership conversation.",
    "take_kind": "take",
    "partner": "Delta",
    "benefit_move": false,
@@ -265,7 +291,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Launches 2027"
+    "2027"
    ],
    "also": []
   }

@@ -59,9 +59,9 @@
    "source": "The Register-Guard",
    "source_type": "gnews",
    "published": "2026-11-19T11:31:04Z",
-   "relevance": 3,
-   "why": "Minor Hotels has announced a slate of luxury hotel openings planned for 2027.",
-   "summary_ai": "Minor Hotels has announced a slate of luxury hotel openings planned for 2027.",
+   "relevance": 2,
+   "why": "Minor Hotels has announced a set of luxury hotel openings planned for 2027.",
+   "summary_ai": "Minor Hotels has announced a set of luxury hotel openings planned for 2027.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -73,7 +73,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Openings in 2027"
+    "2027 openings"
    ],
    "also": []
   }

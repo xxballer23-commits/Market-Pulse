@@ -28,21 +28,93 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-20T19:45:57Z",
-   "relevance": 3,
-   "why": "A bill-pay fintech turning card spend into transferable points is a candidate for partner outreach.",
-   "summary_ai": "PayRewards lets users pay business bills by card for a 2.9% fee and earn transferable points, with Atmos Rewards support coming.",
-   "take": "A bill-pay fintech turning card spend into transferable points is a candidate for partner outreach.",
+   "relevance": 4,
+   "why": "Bill pay with transferable points is a low-cost entry for business card rewards; evaluate PayRewards terms and Atmos transfer partnership.",
+   "summary_ai": "PayRewards lets users pay business bills by card and earn transferable points, with Atmos Rewards support coming soon.",
+   "take": "Bill pay with transferable points is a low-cost entry for business card rewards; evaluate PayRewards terms and Atmos transfer partnership.",
    "take_kind": "take",
-   "partner": "Atmos Rewards",
+   "partner": "PayRewards",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Atmos Rewards support not yet live",
+   "low_confidence": null,
    "sections": [
-    "partnerships"
+    "partnerships",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "7a0cef947336",
+   "title": "Atmos Rewards Business Card Changes: Higher(ish) Fee, New Benefits",
+   "url": "https://onemileatatime.com/news/atmos-rewards-business-card-changes/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-19T15:46:16Z",
+   "relevance": 3,
+   "why": "The Atmos Rewards business card is getting new benefits alongside a somewhat higher annual fee.",
+   "summary_ai": "The Atmos Rewards business card is getting new benefits alongside a somewhat higher annual fee.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "fee",
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "3a4482243e58",
+   "title": "Atmos business card adds benefits and raises fee",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQi1kMTNMMkJTLVhyQ1JrY2wtcW5fTmtfOFlaSWZwUVh5bXl5SXFhbkZQbjJybkNOZGczN0JoN1hHVUhERUdsTXZ0V2pYWFNmSXVtWWpmUXBTbnR0MVRFYm5WeUpkNmJtdlc4ai1CcXVuX0U1c2JlOVNSQUU4MzB2ZHVTNmtlYnJhN0dZ?oc=5",
+   "source": "InsideFlyer",
+   "source_type": "gnews",
+   "published": "2026-11-19T15:46:16Z",
+   "relevance": 3,
+   "why": "Same Atmos business card change as the Frequent Miler item, so track it as one story.",
+   "summary_ai": "The Atmos business card adds benefits and raises its annual fee.",
+   "take": "Same Atmos business card change as the Frequent Miler item, so track it as one story.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "fee",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "9f236413d669",
+   "title": "Atmos Business Card: 90K welcome offer, higher annual fee, and no companion fare",
+   "url": "https://frequentmiler.com/atmos-business-card-90k-welcome-offer-higher-annual-fee-and-no-companion-fare/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-19T14:45:07Z",
+   "relevance": 3,
+   "why": "A bigger welcome bonus paired with a fee rise and lost companion fare is a trade-off value seekers will weigh against rivals.",
+   "summary_ai": "The Atmos business card now carries a 90K welcome offer, a higher fee, and no companion fare.",
+   "take": "A bigger welcome bonus paired with a fee rise and lost companion fare is a trade-off value seekers will weigh against rivals.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "fee",
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [
-    "2.9% fee"
+    "90K welcome offer"
    ],
    "also": []
   }

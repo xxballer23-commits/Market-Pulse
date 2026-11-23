@@ -34,18 +34,17 @@
    "source": "The Points Guy",
    "source_type": "rss",
    "published": "2026-11-20T11:00:30Z",
-   "relevance": 4,
-   "why": "A card-linked offer platform paying high multipliers is a potential partner or benchmark for our merchant offer strategy.",
-   "summary_ai": "Rove has launched personalized shopping offers that pay up to 25 miles per dollar spent.",
-   "take": "A card-linked offer platform paying high multipliers is a potential partner or benchmark for our merchant offer strategy.",
+   "relevance": 3,
+   "why": "High per-dollar miles on card-linked shopping show how fintech layers can drive spend; assess Rove as a possible offer-engine partner.",
+   "summary_ai": "Rove has launched personalized shopping offers that pay up to 25 miles per dollar.",
+   "take": "High per-dollar miles on card-linked shopping show how fintech layers can drive spend; assess Rove as a possible offer-engine partner.",
    "take_kind": "take",
-   "partner": "Rove",
+   "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "partnerships",
-    "community"
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [

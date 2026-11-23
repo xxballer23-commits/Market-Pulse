@@ -11,11 +11,11 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-19T16:42:15Z",
-   "relevance": 3,
-   "why": "Track the effective cost per point of purchase bonuses as a benchmark for loyalty transfer pricing discussions.",
-   "summary_ai": "Aeroplan offers up to a 100% bonus on purchased points through December 10, 2026, about 1.31 cents per point at 90,000 or more.",
-   "take": "Track the effective cost per point of purchase bonuses as a benchmark for loyalty transfer pricing discussions.",
-   "take_kind": "take",
+   "relevance": 2,
+   "why": "A roughly 1.31 cent buy price gives a reference cost for points valuation in partner pricing talks.",
+   "summary_ai": "Air Canada is offering a 100% bonus on purchased Aeroplan points, which works out to about 1.31 cents each.",
+   "take": "A roughly 1.31 cent buy price gives a reference cost for points valuation in partner pricing talks.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -25,10 +25,8 @@
    ],
    "breaking": false,
    "data_points": [
-    "Up to 100% bonus",
-    "1.31 cents per point",
-    "Through Dec 10, 2026",
-    "90,000+ points"
+    "100% bonus",
+    "1.31 cents each"
    ],
    "also": []
   },

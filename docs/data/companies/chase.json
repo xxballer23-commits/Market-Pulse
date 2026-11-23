@@ -108,10 +108,10 @@
    "source": "CNBC",
    "source_type": "gnews",
    "published": "2026-11-20T19:16:19Z",
-   "relevance": 4,
-   "why": "Chase now covers two more Asia-Pacific carriers, so audit our airline transfer gaps against Chase's list.",
-   "summary_ai": "Chase added Qantas and Cathay Pacific as transfer partners, expanding airline options for its premium cards.",
-   "take": "Chase now covers two more Asia-Pacific carriers, so audit our airline transfer gaps against Chase's list.",
+   "relevance": 5,
+   "why": "Airline transfer partners are a fast-moving differentiator. Check whether our card's transfer lineup has gaps in Oneworld and Asia-Pacific carriers.",
+   "summary_ai": "Chase has added Qantas and Cathay Pacific as Ultimate Rewards transfer partners.",
+   "take": "Airline transfer partners are a fast-moving differentiator. Check whether our card's transfer lineup has gaps in Oneworld and Asia-Pacific carriers.",
    "take_kind": "take",
    "partner": "Qantas and Cathay Pacific",
    "benefit_move": true,
@@ -133,20 +133,21 @@
    "source_type": "rss",
    "published": "2026-11-20T17:30:48Z",
    "relevance": 3,
-   "why": "Redemption-value promos like this show how issuers use points pricing to steer spend toward partner merchants.",
-   "summary_ai": "Chase Ultimate Rewards is offering partial discounts on several popular gift card redemptions.",
-   "take": "Redemption-value promos like this show how issuers use points pricing to steer spend toward partner merchants.",
-   "take_kind": "read",
+   "why": "Points-to-gift-card discounts set member expectations; benchmark our redemption catalog pricing against Ultimate Rewards.",
+   "summary_ai": "Chase is offering 10 to 15 percent off select gift card redemptions through Ultimate Rewards.",
+   "take": "Points-to-gift-card discounts set member expectations; benchmark our redemption catalog pricing against Ultimate Rewards.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
    "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
    "data_points": [
-    "10-15% off"
+    "10 to 15% off"
    ],
    "also": []
   },
@@ -157,10 +158,10 @@
    "source": "US News Money",
    "source_type": "gnews",
    "published": "2026-11-20T15:18:00Z",
-   "relevance": 3,
-   "why": "Consumers are stacking two premium cards for complementary earn and travel perks, a pattern to factor into our benefit positioning.",
-   "summary_ai": "A US News guide makes the case for pairing Chase Sapphire Preferred with Capital One Venture X.",
-   "take": "Consumers are stacking two premium cards for complementary earn and travel perks, a pattern to factor into our benefit positioning.",
+   "relevance": 2,
+   "why": "Customers stack premium cards for complementary benefits, so rivals must match the gaps that pairings leave open.",
+   "summary_ai": "A guide explains why pairing the Chase Sapphire Preferred with the Capital One Venture X can work well together.",
+   "take": "Customers stack premium cards for complementary benefits, so rivals must match the gaps that pairings leave open.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -197,29 +198,52 @@
    "also": []
   },
   {
+   "id": "1a75ef1ce2d6",
+   "title": "JPMorgan Chase data leak exposes contact information of 16,000 reserve customers",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ2tTTmFoQ1dibGRSeDg5SWlQdThuY0pGRF9fc2xySXpMYWc0dDBEajZYNlBfeEpBVnBCM0sxTXJnbGJ4ZkVzcHk1eVk4OXNfN0NJbmFuX29fYTNqWFQtQVB1Wk5wVDhjcUVYMDlTUmF5aUVQWmdyRWVGWWNHNW5zTDhaTUdzdW9JTDhKSFd1YkpsY29lSko5Sk1vTllNTFNEOHI3VmhEVQ?oc=5",
+   "source": "KuCoin",
+   "source_type": "gnews",
+   "published": "2026-11-20T00:37:27Z",
+   "relevance": 3,
+   "why": "A breach hitting reserve cardholders raises questions for partners that receive customer data through concierge and benefit programs.",
+   "summary_ai": "A reported data leak exposed contact details of about 16,000 Chase Reserve customers, per a secondary source.",
+   "take": "A breach hitting reserve cardholders raises questions for partners that receive customer data through concierge and benefit programs.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Unverified, secondary crypto exchange repost",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "16,000 reserve customers"
+   ],
+   "also": []
+  },
+  {
    "id": "066d1781ad5d",
    "title": "T-Mobile Chase Offer: Get up to $50 back on wireless payments",
    "url": "https://frequentmiler.com/t-mobile-chase-offer-get-up-to-50-back-on-wireless-payments/",
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-19T19:45:16Z",
-   "relevance": 3,
-   "why": "A card-linked offer tied to a recurring telecom bill is a template for a wireless carrier partnership.",
-   "summary_ai": "Chase is offering a 15% cash back deal on T-Mobile wireless plan payments, capped at $50.",
-   "take": "A card-linked offer tied to a recurring telecom bill is a template for a wireless carrier partnership.",
-   "take_kind": "take",
+   "relevance": 2,
+   "why": "Chase is offering cardholders up to $50 back on T-Mobile wireless bill payments.",
+   "summary_ai": "Chase is offering cardholders up to $50 back on T-Mobile wireless bill payments.",
+   "take": null,
+   "take_kind": null,
    "partner": "T-Mobile",
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "Expiry truncated, eligibility unknown",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, eligibility and end date unknown",
    "sections": [
-    "partnerships",
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "15% cash back",
-    "$50 maximum"
+    "Up to $50 back"
    ],
    "also": []
   },
@@ -231,19 +255,44 @@
    "source_type": "gnews",
    "published": "2026-11-19T19:10:29Z",
    "relevance": 5,
-   "why": "Benchmark our hotel co-brand fee and perk positioning against the IHG refresh before renewal talks.",
-   "summary_ai": "IHG is overhauling its Chase-issued credit cards with new names, new perks and higher annual fees.",
-   "take": "Benchmark our hotel co-brand fee and perk positioning against the IHG refresh before renewal talks.",
+   "why": "Watch whether rival hotel co-brands follow with fee increases, and use the move to test our own premium hotel positioning.",
+   "summary_ai": "IHG is overhauling its Chase-issued cards with new names, new perks and higher annual fees.",
+   "take": "Watch whether rival hotel co-brands follow with fee increases, and use the move to test our own premium hotel positioning.",
    "take_kind": "take",
    "partner": "IHG",
    "benefit_move": true,
-   "benefit_type": "fee",
+   "benefit_type": "other",
    "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
-   "breaking": true,
+   "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "1459337121a8",
+   "title": "Chase IHG Credit Cards Welcome Bonus Offer History: 2022 to 2026",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE53dWZmTmtJb0txSVJ4WmxQNXdnNi1ySk9pX1BFeFhTS3ctdnF6Q2N4WG1FNFhiQ3ROQXpSU2JUZU5yZ2RzZTU0cU1HOFQtME9nOE00YU1SQVhXQkpkR1BBRXFsNFl6OHZMQTV1MGxkX0ZNY3BQOTNuM1NR?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:04:36Z",
+   "relevance": 3,
+   "why": "Sign-up bonus history gives a benchmark for judging Chase's welcome offer pricing against rival premium cards.",
+   "summary_ai": "A timeline tracks Chase IHG card welcome bonus offers from 2022 through 2026.",
+   "take": "Sign-up bonus history gives a benchmark for judging Chase's welcome offer pricing against rival premium cards.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2022 to 2026"
+   ],
    "also": []
   },
   {
@@ -254,16 +303,16 @@
    "source_type": "gnews",
    "published": "2026-11-19T19:01:46Z",
    "relevance": 3,
-   "why": "Breach scrutiny may shape cardholder trust and data-sharing terms in partner launches; review our own data-handling safeguards.",
-   "summary_ai": "Chase disclosed a cyberattack and said hackers may have accessed customers' personal information.",
-   "take": "Breach scrutiny may shape cardholder trust and data-sharing terms in partner launches; review our own data-handling safeguards.",
+   "why": "Cardholder trust may be tested, so review data-sharing safeguards and breach clauses in current partner agreements.",
+   "summary_ai": "Chase says hackers may have accessed customers' personal information in a cyberattack, with scope not yet confirmed.",
+   "take": "Cardholder trust may be tested, so review data-sharing safeguards and breach clauses in current partner agreements.",
    "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Scope of breach still unclear",
+   "low_confidence": "Breach scope unconfirmed",
    "sections": [
-    "regulatory"
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [],
@@ -277,19 +326,45 @@
    "source_type": "gnews",
    "published": "2026-11-19T18:58:13Z",
    "relevance": 4,
-   "why": "Chase keeps extending hotel co-brands; compare IHG's tier economics against our Marriott and Hilton options before the next renewal cycle.",
-   "summary_ai": "Chase launched the IHG One Rewards Premier Select credit card, a new hotel co-brand card.",
-   "take": "Chase keeps extending hotel co-brands; compare IHG's tier economics against our Marriott and Hilton options before the next renewal cycle.",
-   "take_kind": "take",
+   "why": "Chase is extending its hotel co-brand lineup, which puts pressure on Marriott and Hilton card pitches in the mid-premium tier.",
+   "summary_ai": "Chase and IHG have launched a new co-branded IHG One Rewards Premier Select credit card.",
+   "take": "Chase is extending its hotel co-brand lineup, which puts pressure on Marriott and Hilton card pitches in the mid-premium tier.",
+   "take_kind": "read",
    "partner": "IHG",
-   "benefit_move": true,
-   "benefit_type": "hotel",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "dbbf738ddafd",
+   "title": "10 Incredible Hyatt Hotels You Can Book for 12K Chase Points or Less",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU2MyZ0VBYnpjblhfSGhDbmZMN0hMVWw4VWtEdVFIVjdWQjBjcHAxVjNaZVpoV3pQcnBGcG5ocUJHUV9va1JxN3QtNGhxTjZuZTBsOTFEclAxYkVNaEEwRHFNQjJTbGJCd0lqZ2pWVHI4UHI4WjV6V01MR0Y3aDdkbzFUemltT0hF?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-19T17:57:23Z",
+   "relevance": 3,
+   "why": "Low-points Hyatt stays via Chase show how transfer partners drive perceived value in premium card benefits.",
+   "summary_ai": "A list highlights Hyatt hotels bookable for 12,000 Chase points or fewer.",
+   "take": "Low-points Hyatt stays via Chase show how transfer partners drive perceived value in premium card benefits.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
    "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "12K Chase points"
+   ],
    "also": []
   },
   {
@@ -349,17 +424,17 @@
    "source_type": "gnews",
    "published": "2026-11-19T06:35:41Z",
    "relevance": 4,
-   "why": "Chase is widening Asia-Pacific airline transfer reach; check whether our points program has matching carrier partners.",
-   "summary_ai": "Chase is adding Qantas and Cathay Pacific as transfer partners for its points program.",
-   "take": "Chase is widening Asia-Pacific airline transfer reach; check whether our points program has matching carrier partners.",
+   "why": "Two new Oneworld-adjacent airline partners widen Chase's transfer set, so review gaps in our own airline coverage.",
+   "summary_ai": "Qantas and Cathay Pacific have been added as Chase Ultimate Rewards transfer partners.",
+   "take": "Two new Oneworld-adjacent airline partners widen Chase's transfer set, so review gaps in our own airline coverage.",
    "take_kind": "take",
-   "partner": "Qantas, Cathay Pacific",
-   "benefit_move": true,
-   "benefit_type": "travel",
+   "partner": "Qantas",
+   "benefit_move": false,
+   "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards",
-    "partnerships"
+    "partnerships",
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [],

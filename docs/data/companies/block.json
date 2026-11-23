@@ -1,0 +1,31 @@
+{
+ "name": "Block",
+ "slug": "block",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8d1081a84d33",
+   "title": "Birmingham startup lands partnership with Cash App, Afterpay parent company",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTnlBNlp1WjNXM3ZhVkJMZHdEZS1nUWtaUzU1SzduSmZEdFQ0ZFFFNUE1TTdDM2hVLUJiNXJPbkFELUxQMVoyMU8zZHBtZXcwUkoyWG5DR0tROGM4Mm5wTm5jbWc1Snh1SUpxSnRpeUpDSkRoQmtZX0x1azhDT1UzMkp0eC1LY1lPMjhmeU1vYVJZZHgyYUFKV1o5QzdnaWRpekdMb1ZQaw?oc=5",
+   "source": "The Business Journals",
+   "source_type": "gnews",
+   "published": "2026-11-19T19:30:00Z",
+   "relevance": 2,
+   "why": "A Birmingham startup has signed a partnership with Block, the parent company of Cash App and Afterpay.",
+   "summary_ai": "A Birmingham startup has signed a partnership with Block, the parent company of Cash App and Afterpay.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}
