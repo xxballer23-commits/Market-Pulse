@@ -5,28 +5,24 @@
  "vets": [],
  "items": [
   {
-   "id": "eed849413bba",
-   "title": "GTA VI Books Record $3.79 Billion in Sales on First Day of Launch",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDVUbU94SXZWNXh4T09qVEQ3bzdlVnlvZVpzRktZcjNwY21mTmgzX2RPVFBRZFphd3UtUFpBRVVES29JZ1Jpdk83Z2R6SEVtRV80ak0zajhfTkZsaFNOZFY3b2s1WlFrOVJRME5iUkpNell6dUxSQ2U4M0t6TFNFRWoweEV2dFBaVHJWWlV3TGNhWGVndXZVS0h3ME1PbmYxdlFwNktjLWI1YlBVT1RmYW5hMFc2MmxqV2pYWFhEcVU0QQ?oc=5",
-   "source": "US News Money",
+   "id": "e9066fb86ea8",
+   "title": "Is Rockstar Games’ ‘Grand Theft Auto VI’ Gaming’s Last Blockbuster?",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3Vxd1UtQUV0bWdZY1ZhSWFVSFZoamNFd1o4UHhBX1kyTTcyem1iejd2SXk4eVV4Y1NOV2MyUXdmQWV5NVB6a29pcUctVmU5WUtaOGRCcFpFYldNZDVVRXFrWm5aVmNETjRNbWpPOGNnTmUzbWlycUlPbGVITm1DbWVoQWdCaDFmMk0ydDNNQ09qaVdoNkhfejJpQ1JXazVSOTRiaENWZG1uV2JxeUFn?oc=5",
+   "source": "WSJ",
    "source_type": "gnews",
-   "published": "2026-11-20T19:38:00Z",
-   "relevance": 2,
-   "why": "Rockstar's GTA VI reportedly generated $3.79 billion in sales on its launch day.",
-   "summary_ai": "Rockstar's GTA VI reportedly generated $3.79 billion in sales on its launch day.",
+   "published": "2026-11-22T18:04:00Z",
+   "relevance": 1,
+   "why": "Wall Street Journal asks whether the next Grand Theft Auto release will be gaming's last blockbuster.",
+   "summary_ai": "Wall Street Journal asks whether the next Grand Theft Auto release will be gaming's last blockbuster.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Thin source, figure unverified",
-   "sections": [
-    "spending_data"
-   ],
+   "low_confidence": null,
+   "sections": [],
    "breaking": false,
-   "data_points": [
-    "$3.79 billion first-day sales"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

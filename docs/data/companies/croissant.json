@@ -1,0 +1,32 @@
+{
+ "name": "Croissant",
+ "slug": "croissant",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f3480e59eb3a",
+   "title": "Croissant Uses Remy AI to Match Luxury Shoppers With New Brands",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/croissant-uses-remy-ai-to-match-luxury-shoppers-with-new-brands/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T09:03:14Z",
+   "relevance": 3,
+   "why": "Purchase-history matching across brands could suit a card-linked shopping or loyalty partnership pitch.",
+   "summary_ai": "Luxury resale platform Croissant launched Remy, an AI assistant that recommends brands based on what shoppers have bought.",
+   "take": "Purchase-history matching across brands could suit a card-linked shopping or loyalty partnership pitch.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -11,18 +11,16 @@
    "source": "Banking Dive",
    "source_type": "rss",
    "published": "2026-11-20T15:48:44Z",
-   "relevance": 2,
-   "why": "MoonPay applied to the OCC for a banking license, joining other crypto firms seeking trust charters.",
-   "summary_ai": "MoonPay applied to the OCC for a banking license, joining other crypto firms seeking trust charters.",
+   "relevance": 1,
+   "why": "MoonPay is seeking a national trust bank charter, joining other crypto firms pursuing one.",
+   "summary_ai": "MoonPay is seeking a national trust bank charter, joining other crypto firms pursuing one.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "regulatory"
-   ],
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []

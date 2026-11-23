@@ -1,0 +1,33 @@
+{
+ "name": "Jumeirah",
+ "slug": "jumeirah",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0c19455b94d9",
+   "title": "Dubai's Jumeirah to open luxury Lake Como hotel in Italy in 2027",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWhhM29WbWY0LUNvcVVUUXNyM1RMSFQ4TnpwdHBPZTBqRWZyQldfWUZ4enlsMzNNTnRISVFWelJRQnF3Y25fdHRzd05yb0RFTmhRNTFIem5UTlhPVUJTR3N5aXAxQzdMZDExQTdvVVhPbFBIRkpyUjJqZ29hd0FNdWlfTXF5UDNlU09xMVh3TEhkUlFTaER4cmxWSjhPb3NwRGwxV1VwajJsUTJLZE9qZWYxc9IBxgFBVV95cUxOd3ZWTjczaE44eDZodGt0aWt5MXN5TUMwbEg4d3BBbmtad0VJNGN6cjVEVHpLZ1hvR0M2dmU4T0lKdTBlOV9sbWFaQU1CYTdXeGJvOEp0QXBmSDBaT0xzcUFJSnVMVDRMMDMtR056QXJPaFJfYzktczRoaG1vTmV2c2lnSG5CZEg3QnhXTXBxeGpqOGI1RlBFNy0xWWdvYnlsR1RwQlg4SUxlOW9Lc3hZMFJXTEI1MjByWFRSanYwNUhHLVk2MWc?oc=5",
+   "source": "Gulf News",
+   "source_type": "gnews",
+   "published": "2026-11-23T09:26:56Z",
+   "relevance": 3,
+   "why": "A new Lake Como luxury property adds a destination option worth tracking for hotel partner conversations.",
+   "summary_ai": "Jumeirah plans a luxury hotel on Lake Como in Italy, opening in 2027.",
+   "take": "A new Lake Como luxury property adds a destination option worth tracking for hotel partner conversations.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2027 opening"
+   ],
+   "also": []
+  }
+ ]
+}

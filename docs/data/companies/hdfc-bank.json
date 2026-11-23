@@ -12,10 +12,10 @@
    "source_type": "gnews",
    "published": "2026-11-20T10:01:19Z",
    "relevance": 2,
-   "why": "HDFC Bank has changed the spending needed to earn 5X points on its BizBlack Metal card.",
-   "summary_ai": "HDFC Bank has changed the spending needed to earn 5X points on its BizBlack Metal card.",
-   "take": null,
-   "take_kind": null,
+   "why": "Issuers are tightening spend thresholds on premium rewards tiers, a pattern worth tracking against US offers.",
+   "summary_ai": "HDFC Bank has changed the spending needed for BizBlack Metal cardholders to earn 5X rewards.",
+   "take": "Issuers are tightening spend thresholds on premium rewards tiers, a pattern worth tracking against US offers.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": true,
    "benefit_type": "other",
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "5X points earn rate"
+    "5X points"
    ],
    "also": []
   },

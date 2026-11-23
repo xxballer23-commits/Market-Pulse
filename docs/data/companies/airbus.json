@@ -5,17 +5,17 @@
  "vets": [],
  "items": [
   {
-   "id": "fa191d185593",
-   "title": "LATAM Unveils New Airbus A321XLR Business Class Suites, Coming March 2027",
-   "url": "https://onemileatatime.com/news/latam-a321xlr-business-class/",
+   "id": "4206abdb676e",
+   "title": "Qatar Airways Airbus A321LRs With Flat Bed Business Class Launching Soon",
+   "url": "https://onemileatatime.com/news/qatar-airways-airbus-a321lr-flat-bed-business-class/",
    "source": "One Mile at a Time",
    "source_type": "rss",
-   "published": "2026-11-18T20:30:10Z",
-   "relevance": 3,
-   "why": "Narrow-body suites widen premium cabin options for Latin American airline partnership and travel benefit conversations.",
-   "summary_ai": "LATAM revealed cabins for its A321XLR jets, including 12 business suites with direct aisle access, arriving March 2027.",
-   "take": "Narrow-body suites widen premium cabin options for Latin American airline partnership and travel benefit conversations.",
-   "take_kind": "read",
+   "published": "2026-11-23T11:49:06Z",
+   "relevance": 2,
+   "why": "Qatar Airways expects its first Airbus A321LR within weeks, fitted with a 1-1 flat-bed business seat.",
+   "summary_ai": "Qatar Airways expects its first Airbus A321LR within weeks, fitted with a 1-1 flat-bed business seat.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -25,7 +25,31 @@
    ],
    "breaking": false,
    "data_points": [
-    "12 business suites",
+    "1-1 business seat layout"
+   ],
+   "also": []
+  },
+  {
+   "id": "fa191d185593",
+   "title": "LATAM Unveils New Airbus A321XLR Business Class Suites, Coming March 2027",
+   "url": "https://onemileatatime.com/news/latam-a321xlr-business-class/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-18T20:30:10Z",
+   "relevance": 2,
+   "why": "LATAM plans to introduce new business class suites on its Airbus A321XLR aircraft beginning in March 2027.",
+   "summary_ai": "LATAM plans to introduce new business class suites on its Airbus A321XLR aircraft beginning in March 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
     "March 2027"
    ],
    "also": []

@@ -37,22 +37,22 @@
    "source": "Upgraded Points",
    "source_type": "gnews",
    "published": "2026-11-19T15:17:19Z",
-   "relevance": 2,
-   "why": "Air Canada's Aeroplan is offering a bonus on purchased points, with the promotion running until December 10.",
-   "summary_ai": "Air Canada's Aeroplan is offering a bonus on purchased points, with the promotion running until December 10.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "Loyalty programs use purchase bonuses to drive points sales; benchmark timing against our own holiday partner promos.",
+   "summary_ai": "Aeroplan is offering a bonus of up to 100% on point purchases through December 10.",
+   "take": "Loyalty programs use purchase bonuses to drive points sales; benchmark timing against our own holiday partner promos.",
+   "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Promo year and eligibility not stated",
+   "low_confidence": null,
    "sections": [
     "partnerships"
    ],
    "breaking": false,
    "data_points": [
     "Up to 100% bonus",
-    "Until December 10"
+    "Through Dec 10"
    ],
    "also": []
   }

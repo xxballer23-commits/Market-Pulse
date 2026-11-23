@@ -5,15 +5,15 @@
  "vets": [],
  "items": [
   {
-   "id": "4eb4e3ee0017",
-   "title": "Raffles Residences River Oaks, the first Raffles in Texas: 114 Houston homes from €2.27m ($2.5m)",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1lpSS1tdDFPLWNMRHFCZHRMYS14U251MXduVjQ5QTFaTWhsX09Qdl9ZVWFHeUpmcXpBeWwyQU1vNVhjWFVCTHdlNDJvZFNRajR0RkQ0c000dGNTa3VRbzVreWpPS1Nud1lKRkNtZ1VzRjN5dmdnVk1NRUlESVhSSnM0bw?oc=5",
+   "id": "5815b4060d70",
+   "title": "Raffles Hotel Le Royal in Phnom Penh serves a jewelled afternoon tea: a real citrine to keep for €51",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOOHZGaXE2YVc4NGtIdngxMWl1alRGN0NuMkJlcHpsLTRPMFY2VG51V2R3SjZQS2tvOGctZnZ3OUVBTm5YUUY1djhOWWV0TTAzWXY0bjJNY2RQb2RJbU11ajU1cFl4dXNDQ3lLajBtVnRsdkVqSWJrdUZmejY0U2NsWmhzMG9aS0ZJ?oc=5",
    "source": "La Revue des Hôtels",
    "source_type": "gnews",
-   "published": "2026-11-20T14:50:59Z",
+   "published": "2026-11-20T14:52:14Z",
    "relevance": 2,
-   "why": "Raffles is opening its first Texas property, a residences project with 114 Houston homes priced from about $2.5 million.",
-   "summary_ai": "Raffles is opening its first Texas property, a residences project with 114 Houston homes priced from about $2.5 million.",
+   "why": "Raffles Hotel Le Royal in Phnom Penh is serving a jewel-themed afternoon tea priced at €51.",
+   "summary_ai": "Raffles Hotel Le Royal in Phnom Penh is serving a jewel-themed afternoon tea priced at €51.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,8 +25,33 @@
    ],
    "breaking": false,
    "data_points": [
+    "€51"
+   ],
+   "also": []
+  },
+  {
+   "id": "4eb4e3ee0017",
+   "title": "Raffles Residences River Oaks, the first Raffles in Texas: 114 Houston homes from €2.27m ($2.5m)",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd1lpSS1tdDFPLWNMRHFCZHRMYS14U251MXduVjQ5QTFaTWhsX09Qdl9ZVWFHeUpmcXpBeWwyQU1vNVhjWFVCTHdlNDJvZFNRajR0RkQ0c000dGNTa3VRbzVreWpPS1Nud1lKRkNtZ1VzRjN5dmdnVk1NRUlESVhSSnM0bw?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-20T14:50:59Z",
+   "relevance": 2,
+   "why": "Hotel-branded residences keep moving into new US luxury markets, a pattern to watch for lifestyle partners.",
+   "summary_ai": "Raffles Residences opens its first Texas property in Houston, with 114 homes priced from $2.5m.",
+   "take": "Hotel-branded residences keep moving into new US luxury markets, a pattern to watch for lifestyle partners.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
     "114 homes",
-    "From $2.5m"
+    "from $2.5m"
    ],
    "also": []
   }

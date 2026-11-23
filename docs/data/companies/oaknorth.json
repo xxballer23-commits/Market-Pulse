@@ -12,21 +12,19 @@
    "source_type": "rss",
    "published": "2026-11-20T21:38:03Z",
    "relevance": 2,
-   "why": "OakNorth's known focus is commercial lending, so watch whether it moves into consumer credit that could compete for borrowers.",
-   "summary_ai": "UK digital bank OakNorth received a US national bank charter and is preparing to expand into the American market.",
-   "take": "OakNorth's known focus is commercial lending, so watch whether it moves into consumer credit that could compete for borrowers.",
-   "take_kind": "read",
+   "why": "UK digital bank OakNorth is preparing a US expansion after securing a national bank charter.",
+   "summary_ai": "UK digital bank OakNorth is preparing a US expansion after securing a national bank charter.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "lending"
+    "regulatory"
    ],
    "breaking": false,
-   "data_points": [
-    "Nov. 20 announcement"
-   ],
+   "data_points": [],
    "also": []
   },
   {
@@ -37,17 +35,16 @@
    "source_type": "rss",
    "published": "2026-11-20T17:21:54Z",
    "relevance": 2,
-   "why": "A new US charter adds a commercial-focused lender, a possible embedded-lending partner or competitor to track.",
-   "summary_ai": "OakNorth has received Federal Reserve and OCC approval for a US banking license.",
-   "take": "A new US charter adds a commercial-focused lender, a possible embedded-lending partner or competitor to track.",
+   "why": "A lender with a fresh US charter could become a new embedded lending option for card programs.",
+   "summary_ai": "OakNorth received Federal Reserve and OCC approval to obtain a US banking license.",
+   "take": "A lender with a fresh US charter could become a new embedded lending option for card programs.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "lending",
-    "regulatory"
+    "lending"
    ],
    "breaking": false,
    "data_points": [],
@@ -61,8 +58,8 @@
    "source_type": "rss",
    "published": "2026-11-20T14:07:00Z",
    "relevance": 2,
-   "why": "UK SME lender OakNorth received a US national bank charter, opening a path beyond lending in the US.",
-   "summary_ai": "UK SME lender OakNorth received a US national bank charter, opening a path beyond lending in the US.",
+   "why": "UK SME lender OakNorth has secured a US banking licence.",
+   "summary_ai": "UK SME lender OakNorth has secured a US banking licence.",
    "take": null,
    "take_kind": null,
    "partner": null,

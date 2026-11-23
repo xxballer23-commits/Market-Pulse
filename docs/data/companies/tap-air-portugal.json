@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T19:31:05Z",
    "relevance": 2,
-   "why": "TAP Air Portugal is adding a new route to Washington DC.",
-   "summary_ai": "TAP Air Portugal is adding a new route to Washington DC.",
+   "why": "TAP Air Portugal is launching a new route from Washington DC.",
+   "summary_ai": "TAP Air Portugal is launching a new route from Washington DC.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -21,7 +21,7 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury"
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],
@@ -34,17 +34,17 @@
    "source": "The Points Guy",
    "source_type": "rss",
    "published": "2026-11-20T19:30:30Z",
-   "relevance": 2,
-   "why": "TAP Air Portugal will launch Washington, D.C. to Porto service next summer, a route from United's partner.",
-   "summary_ai": "TAP Air Portugal will launch Washington, D.C. to Porto service next summer, a route from United's partner.",
-   "take": null,
-   "take_kind": null,
-   "partner": null,
+   "relevance": 3,
+   "why": "Growth in United's partner network adds Europe routing options for Mileage Plus members, useful context for airline partner pitches.",
+   "summary_ai": "United's partner TAP is adding a second Portugal route from Washington DC.",
+   "take": "Growth in United's partner network adds Europe routing options for Mileage Plus members, useful context for airline partner pitches.",
+   "take_kind": "read",
+   "partner": "TAP Air Portugal",
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury"
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],

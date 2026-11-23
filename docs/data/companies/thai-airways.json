@@ -1,0 +1,31 @@
+{
+ "name": "Thai Airways",
+ "slug": "thai-airways",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d52d8a0d19b0",
+   "title": "Fuel Pushes Thai Airways Into Q3 Loss as It Awaits New CEO",
+   "url": "https://skift.com/2026/11/23/fuel-pushes-thai-airways-into-q3-loss-as-it-awaits-new-ceo/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-23T11:45:35Z",
+   "relevance": 2,
+   "why": "Fuel-driven margin pressure at full-service carriers may tighten partner award space or shift co-brand economics; worth tracking in airline deals.",
+   "summary_ai": "Thai Airways posted a third-quarter loss as fuel costs outpaced steady demand, and it still needs to name a new CEO.",
+   "take": "Fuel-driven margin pressure at full-service carriers may tighten partner award space or shift co-brand economics; worth tracking in airline deals.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,27 @@
  "vets": [],
  "items": [
   {
+   "id": "678ca084042e",
+   "title": "Take-Two Stock Under Renewed Pressure as Investors Sell the News on GTA VI Success",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRmRYUlpxZ21CZTRyNkdxUWhoYXdRc1BmMENLbTl6enBkSHJKZUxEd0pDVlZDNDBLQTlIeHhWQTBUcVlSNFFjQTJlTFh2Ry1BYkh4MlBRV1Q2dlJwM0lDWEFjXzMydndTX3VUNl9aTDdGZ0xsbE5Pb3QwTVo1TFJwMmZFblhTSVk5RmhiV3o4THpSOEZpckdQcU12cWZYa3dpVkhyVklXNm0zbFpQUDh1aEM1RDNLUnYwcVMtbVp0QVFxZkcyN2wzWGV6MXhtZVo0eWJINw?oc=5",
+   "source": "NewsBreak: Local News & Alerts",
+   "source_type": "gnews",
+   "published": "2026-11-21T21:53:29Z",
+   "relevance": 1,
+   "why": "Take-Two shares fell as investors sold after the GTA VI launch success.",
+   "summary_ai": "Take-Two shares fell as investors sold after the GTA VI launch success.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "2839419d560a",
    "title": "Take-Two’s ‘Grand Theft Auto VI’ Hits Nearly $4 Billion in Sales on Launch Day",
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQ21QbUU2aE9uVUNabDBiZk5IbnZxeGhTTnhaV0duNU8wWmxEVmlHbU9iN0I1TVdMX3R6OERSazRXY05xT1V3bTRXaHFhM0puRjZYVUZseHZpVzg3UUlnODhpSGM4QTB4eG9NWno0WmZIMFVEMWdrN0VuQWxtb1VzYTRoa25DTFFZTm9DQ1JXLWxGZFFLaHdONU8yazhXbmtzUV85MzBDei1nNFdnNlMwWXZuWUNFbVNiaEE?oc=5",
@@ -12,8 +33,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T20:41:00Z",
    "relevance": 2,
-   "why": "Take-Two's Grand Theft Auto VI reportedly reached nearly $4 billion in sales on its launch day.",
-   "summary_ai": "Take-Two's Grand Theft Auto VI reportedly reached nearly $4 billion in sales on its launch day.",
+   "why": "Take-Two's Grand Theft Auto VI reportedly generated nearly $4 billion in sales on its launch day.",
+   "summary_ai": "Take-Two's Grand Theft Auto VI reportedly generated nearly $4 billion in sales on its launch day.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,7 +46,32 @@
    ],
    "breaking": false,
    "data_points": [
-    "Nearly $4 billion launch-day sales"
+    "Nearly $4B launch-day sales"
+   ],
+   "also": []
+  },
+  {
+   "id": "eed849413bba",
+   "title": "GTA VI Books Record $3.79 Billion in Sales on First Day of Launch",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMDVUbU94SXZWNXh4T09qVEQ3bzdlVnlvZVpzRktZcjNwY21mTmgzX2RPVFBRZFphd3UtUFpBRVVES29JZ1Jpdk83Z2R6SEVtRV80ak0zajhfTkZsaFNOZFY3b2s1WlFrOVJRME5iUkpNell6dUxSQ2U4M0t6TFNFRWoweEV2dFBaVHJWWlV3TGNhWGVndXZVS0h3ME1PbmYxdlFwNktjLWI1YlBVT1RmYW5hMFc2MmxqV2pYWFhEcVU0QQ?oc=5",
+   "source": "US News Money",
+   "source_type": "gnews",
+   "published": "2026-11-20T19:38:00Z",
+   "relevance": 2,
+   "why": "Reports cite different first-day totals, near $3.8B and nearly $4B; confirm the figure before citing it.",
+   "summary_ai": "Grand Theft Auto VI reportedly booked $3.79 billion in sales on its first launch day.",
+   "take": "Reports cite different first-day totals, near $3.8B and nearly $4B; confirm the figure before citing it.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$3.79B first-day sales"
    ],
    "also": []
   },

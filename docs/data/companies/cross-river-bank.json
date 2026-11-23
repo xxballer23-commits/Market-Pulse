@@ -1,0 +1,33 @@
+{
+ "name": "Cross River Bank",
+ "slug": "cross-river-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b808659c7316",
+   "title": "Cross River Bank launches first bitcoin-backed loans with LendingUSA, offering up to $250,000",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM2IxSzdEZFRzNzRyb0V2cWRwS3VOdlcwS1RtRWdGUTJ2cENsQkItbHJxdEdIT0dmbUJBbzVzeVdZVllVRHU5SUxkbVpqdFNsY25uXzljNzJvMHRCTFhjcU50ZUtqWHNrS0JsNjhGUG1rSjNhb3pBREhkWU1GOTJGeGJLWXZsSHNCR1N1NHkxYmtWV19fUm1lNXl0dWM?oc=5",
+   "source": "The Block",
+   "source_type": "gnews",
+   "published": "2026-11-23T12:05:00Z",
+   "relevance": 2,
+   "why": "Cross River Bank is launching bitcoin-backed loans through LendingUSA, with borrowing limits of up to $250,000.",
+   "summary_ai": "Cross River Bank is launching bitcoin-backed loans through LendingUSA, with borrowing limits of up to $250,000.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $250,000 loans"
+   ],
+   "also": []
+  }
+ ]
+}

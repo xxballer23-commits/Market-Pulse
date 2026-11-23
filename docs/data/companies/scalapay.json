@@ -12,21 +12,21 @@
    "source_type": "gnews",
    "published": "2026-11-19T06:25:20Z",
    "relevance": 3,
-   "why": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
-   "summary_ai": "Italy's credit checks for Pay in 3 products at Klarna, Scalapay and PayPal may begin after a November 20 deadline.",
-   "take": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "why": "Tighter non-US BNPL underwriting rules signal where installment regulation could head, so track for spillover into US point-of-sale products.",
+   "summary_ai": "Italian pay-in-3 providers may have to run credit checks on their products after a November 20 deadline.",
+   "take": "Tighter non-US BNPL underwriting rules signal where installment regulation could head, so track for spillover into US point-of-sale products.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Timing hedged, deadline may shift",
    "sections": [
     "lending",
     "regulatory"
    ],
    "breaking": false,
    "data_points": [
-    "November 20"
+    "November 20 deadline"
    ],
    "also": []
   }

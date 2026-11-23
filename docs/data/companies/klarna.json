@@ -5,6 +5,53 @@
  "vets": [],
  "items": [
   {
+   "id": "b5bd16519970",
+   "title": "Adyen adds Klarna to AI agent checkout",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHktQVNGN1gyTWRFY2J2NmVHQXViODAxMUVyZGJadmFFRGJyV0VOYXVwMjRtOTR1MUpFaHRtNWJCUktzMDluSXJiVEtFR3lkeWg4UE1TOHZwTk1SQm12Z05Id0FDMGNUZWRHY01UWmtTMExKT0hpRDNZZVBKVndJbFB6QXNfOGU2MFEyajhTUmY5c1MxX2M0Tk16U3I0UQ?oc=5",
+   "source": "The Paypers",
+   "source_type": "gnews",
+   "published": "2026-11-23T08:34:17Z",
+   "relevance": 3,
+   "why": "BNPL is moving into agentic checkout, so test whether pay-over-time options can be surfaced inside AI shopping flows for cardholders.",
+   "summary_ai": "Adyen now lets merchants offer Klarna within its AI agent checkout flows.",
+   "take": "BNPL is moving into agentic checkout, so test whether pay-over-time options can be surfaced inside AI shopping flows for cardholders.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2847e3342d78",
+   "title": "Adyen and Klarna Expand Agentic Commerce Beyond Traditional Card Payments",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1VtUVkwYWlXdmJDRmE0Z0U5THpaS09OLUk1R1o4Qm9ObU5IdnpPM3V3anQ1dldQeHhfcVVzZ01zamZmN1d4cS1OLThMQjJXck1GSndXS2ZLaXdZd3BCV25oYVNVdnZXUlRQSVZIdUlpaUg0ZjREUmNzOXFsY2NPTmMtRThiU2ZHNmc?oc=5",
+   "source": "Payments Industry Intelligence",
+   "source_type": "gnews",
+   "published": "2026-11-22T22:59:55Z",
+   "relevance": 3,
+   "why": "Agentic checkout moving off cards could shift BNPL volume away from card rails; plan an issuer response.",
+   "summary_ai": "Adyen and Klarna are extending agentic commerce payments beyond traditional card rails into BNPL flows.",
+   "take": "Agentic checkout moving off cards could shift BNPL volume away from card rails; plan an issuer response.",
+   "take_kind": "take",
+   "partner": "Adyen",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "bac46d99863e",
    "title": "Klarna And Adyen Enable Flexible Payments For AI Agent Checkouts",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmVBY1hOSkFLbzVLVkoyelZZcVBtZUEwcTQ0bTgySzlMS0JoUlhSUzYyU2E5c0xZNVBSM0ZoOUwwR0JoRk5NTlhiTGNVZWU1aDBHWmZ6OFZod05FUVR6eFpoYV9wWmFfUHBDT25OZmNGMWNUY01JenlHWjJFcFdiOE9la0dFYW9rRFRzbWpubHppOWNoZUtrNVBZbEpKVGh1cURNNGVtOVR0WV9KaUtwYXhFTQ?oc=5",
@@ -308,22 +355,22 @@
    "source": "آي-فون إسلام",
    "source_type": "gnews",
    "published": "2026-11-19T08:24:36Z",
-   "relevance": 3,
-   "why": "Track Apple and Klarna's device financing as a BNPL benchmark that could pressure card installment features.",
-   "summary_ai": "Apple reportedly plans a device leasing program with Klarna, targeted to launch by the end of July.",
-   "take": "Track Apple and Klarna's device financing as a BNPL benchmark that could pressure card installment features.",
+   "relevance": 4,
+   "why": "BNPL moving into premium hardware financing is a model card issuers could pitch for high-ticket device and lifestyle purchases.",
+   "summary_ai": "Apple reportedly plans to launch a device leasing program with Klarna by the end of July.",
+   "take": "BNPL moving into premium hardware financing is a model card issuers could pitch for high-ticket device and lifestyle purchases.",
    "take_kind": "take",
    "partner": "Klarna",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Reported by secondary outlet, unconfirmed",
+   "low_confidence": "Reported plan, unconfirmed by Apple or Klarna",
    "sections": [
     "lending",
     "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "End of July"
+    "By end of July"
    ],
    "also": []
   },
@@ -335,21 +382,21 @@
    "source_type": "gnews",
    "published": "2026-11-19T06:25:20Z",
    "relevance": 3,
-   "why": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
-   "summary_ai": "Italy's credit checks for Pay in 3 products at Klarna, Scalapay and PayPal may begin after a November 20 deadline.",
-   "take": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "why": "Tighter non-US BNPL underwriting rules signal where installment regulation could head, so track for spillover into US point-of-sale products.",
+   "summary_ai": "Italian pay-in-3 providers may have to run credit checks on their products after a November 20 deadline.",
+   "take": "Tighter non-US BNPL underwriting rules signal where installment regulation could head, so track for spillover into US point-of-sale products.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Timing hedged, deadline may shift",
    "sections": [
     "lending",
     "regulatory"
    ],
    "breaking": false,
    "data_points": [
-    "November 20"
+    "November 20 deadline"
    ],
    "also": []
   },
@@ -361,16 +408,17 @@
    "source_type": "rss",
    "published": "2026-11-18T15:45:00Z",
    "relevance": 3,
-   "why": "Klarna's move into agentic shopping could make it a rival or a partner for card-linked installment features.",
-   "summary_ai": "Klarna launched an AI concierge tool as it pushes into agentic commerce and plans to grow its longer-term loan portfolio.",
-   "take": "Klarna's move into agentic shopping could make it a rival or a partner for card-linked installment features.",
-   "take_kind": "read",
+   "why": "Map whether Klarna's AI shopping assistant can surface card-linked offers or pay-over-time options at checkout for co-brand partners.",
+   "summary_ai": "Klarna has launched an AI-powered concierge feature aimed at helping shoppers with purchases.",
+   "take": "Map whether Klarna's AI shopping assistant can surface card-linked offers or pay-over-time options at checkout for co-brand partners.",
+   "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "lending"
+    "lending",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],

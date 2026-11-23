@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "f6a465668e3b",
+   "title": "Hilton’s new luxury hotels set to open in 2026–2027",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMkxXNThFZmJlWE5tNXdlRGs3RncweFBxMWRQclZMcDFKcGdPR3M0eEFmWENvd21NWWhvMG1CcTg2UmZWcktsWnpIdVkxTkJjdkNPc0NxbS10ODhlLTV6RWR5X2NIYzJyTXpOWE1NOTQxU0lFZm45ck85RVlTQmFBcWFJZ2ZkRDhMVV9fdA?oc=5",
+   "source": "Travel Daily Media",
+   "source_type": "gnews",
+   "published": "2026-11-23T06:06:30Z",
+   "relevance": 3,
+   "why": "A growing luxury hotel pipeline could matter for hotel-credit partner tiers as new properties open.",
+   "summary_ai": "Hilton has a pipeline of new luxury hotels slated to open across 2026 and 2027.",
+   "take": "A growing luxury hotel pipeline could matter for hotel-credit partner tiers as new properties open.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2026-2027"
+   ],
+   "also": []
+  },
+  {
    "id": "7b922f89c58d",
    "title": "Hilton Timeshare Offer – Get 3 Nights + 125k Points For $199",
    "url": "https://www.doctorofcredit.com/hilton-timeshare-offer-get-3-nights-100k-points-for-149/",
@@ -236,8 +261,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T14:00:00Z",
    "relevance": 2,
-   "why": "Upgraded Points previews the amenities and guest offerings at Hilton Cancun, an all-inclusive resort.",
-   "summary_ai": "Upgraded Points previews the amenities and guest offerings at Hilton Cancun, an all-inclusive resort.",
+   "why": "Upgraded Points details what guests can expect at the all-inclusive Hilton Cancun resort.",
+   "summary_ai": "Upgraded Points details what guests can expect at the all-inclusive Hilton Cancun resort.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -259,8 +284,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T22:00:00Z",
    "relevance": 2,
-   "why": "A guide offers five ways to spend Hilton Honors points on stays in Crete, Greece.",
-   "summary_ai": "A guide offers five ways to spend Hilton Honors points on stays in Crete, Greece.",
+   "why": "A guide outlines five ways to redeem Hilton Honors points for stays in Crete, Greece.",
+   "summary_ai": "A guide outlines five ways to redeem Hilton Honors points for stays in Crete, Greece.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -268,7 +293,7 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury"
+    "community"
    ],
    "breaking": false,
    "data_points": [],

@@ -28,6 +28,83 @@
  "vets": [],
  "items": [
   {
+   "id": "6761e29d3a35",
+   "title": "Rove launches elite status with free hotel nights and more",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtZEhLX21WSUZ6NVhWZDJwOEhGZnYyUTRPa05XMjJGWjk0NzM1SEdBdDRodlRfbU03NHoxN2JHdzVZSWVfUWdkWl9kQXNhWE5HLXRvU0RCUnlFbTA?oc=5",
+   "source": "The Points Guy",
+   "source_type": "gnews",
+   "published": "2026-11-23T11:06:23Z",
+   "relevance": 4,
+   "why": "Rove is building its own currency and portals; assess it as a transfer or hotel-perk partner before competitors do.",
+   "summary_ai": "Rove launched an elite status tier with free hotel nights, shopping bonuses and bigger transfer bonuses.",
+   "take": "Rove is building its own currency and portals; assess it as a transfer or hotel-perk partner before competitors do.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Free hotel nights"
+   ],
+   "also": []
+  },
+  {
+   "id": "d05c6c4ecf28",
+   "title": "Rove has launched a generous elite status program & personalized offers",
+   "url": "https://frequentmiler.com/rove-elite-status-personalized-offers/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-23T11:00:58Z",
+   "relevance": 4,
+   "why": "Enthusiasts see Rove as a serious rewards player; its pattern of adding transfer partners is worth tracking.",
+   "summary_ai": "Frequent Miler says Rove has expanded steadily with its own points currency, travel portal, dining program and new transfer partners.",
+   "take": "Enthusiasts see Rove as a serious rewards player; its pattern of adding transfer partners is worth tracking.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Launched about 18 months ago"
+   ],
+   "also": []
+  },
+  {
+   "id": "fe3bb6ca0ccb",
+   "title": "Rove introduces elite status with up to every third hotel night free",
+   "url": "https://thepointsguy.com/news/rove-elite-status/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-23T11:00:54Z",
+   "relevance": 4,
+   "why": "Same Rove launch as the other item; treat as one story and test its hotel and transfer economics.",
+   "summary_ai": "Rove's new elite status gives up to one free hotel night in three, plus shopping and transfer bonuses.",
+   "take": "Same Rove launch as the other item; treat as one story and test its hotel and transfer economics.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to every third hotel night free"
+   ],
+   "also": []
+  },
+  {
    "id": "0da783497045",
    "title": "Rove launches personalized shopping offers with up to 25 miles per dollar",
    "url": "https://thepointsguy.com/news/rove-personalized-shopping-offers/",

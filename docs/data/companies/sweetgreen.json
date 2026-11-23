@@ -1,0 +1,29 @@
+{
+ "name": "Sweetgreen",
+ "slug": "sweetgreen",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0d4d40617c1c",
+   "title": "Sweetgreen bets on cooking pop-ups to promote growing menu",
+   "url": "https://www.modernretail.co/marketing/sweetgreen-cooking-pop-ups/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "source": "Modern Retail",
+   "source_type": "rss",
+   "published": "2026-11-23T05:00:00Z",
+   "relevance": 1,
+   "why": "Sweetgreen is using cooking pop-ups as experiential marketing to promote its expanding menu.",
+   "summary_ai": "Sweetgreen is using cooking pop-ups as experiential marketing to promote its expanding menu.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

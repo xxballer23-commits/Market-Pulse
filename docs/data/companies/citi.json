@@ -206,21 +206,22 @@
    "source_type": "rss",
    "published": "2026-11-20T21:45:45Z",
    "relevance": 2,
-   "why": "Issuers are stacking card-linked retail offers against each other at the same merchant, so check how Amex and Citi offers compare.",
-   "summary_ai": "Citi is offering a $10 credit at Best Buy on a single $200 purchase, usable twice, and Amex has a separate Best Buy offer.",
-   "take": "Issuers are stacking card-linked retail offers against each other at the same merchant, so check how Amex and Citi offers compare.",
-   "take_kind": "read",
+   "why": "Citi is offering Best Buy shoppers $10 back on a $200 spend, usable twice.",
+   "summary_ai": "Citi is offering Best Buy shoppers $10 back on a $200 spend, usable twice.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
    "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "$10 off $200 spend",
-    "Expires 11/30/26"
+    "$10 back",
+    "$200 spend",
+    "used twice"
    ],
    "also": []
   },
@@ -231,17 +232,17 @@
    "source": "The Points Guy",
    "source_type": "rss",
    "published": "2026-11-20T19:00:19Z",
-   "relevance": 2,
-   "why": "Citi Shop now offers cardholders a simpler way to save on online shopping.",
-   "summary_ai": "Citi Shop now offers cardholders a simpler way to save on online shopping.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "Compare Citi Shop's savings flow against our card-linked offer experience to spot easy wins.",
+   "summary_ai": "Citi is simplifying how cardholders save while shopping online through Citi Shop.",
+   "take": "Compare Citi Shop's savings flow against our card-linked offer experience to spot easy wins.",
+   "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community"
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],
@@ -304,20 +305,18 @@
    "source_type": "gnews",
    "published": "2026-11-20T09:00:57Z",
    "relevance": 2,
-   "why": "Control failures at a major card issuer could draw closer supervisory attention to risk reporting across the sector.",
-   "summary_ai": "Citi says it understated risky assets by $35 billion after trade errors, according to Reuters.",
-   "take": "Control failures at a major card issuer could draw closer supervisory attention to risk reporting across the sector.",
-   "take_kind": "read",
+   "why": "Citi reportedly underestimated its risky assets by $35 billion after trade-related errors, according to Reuters.",
+   "summary_ai": "Citi reportedly underestimated its risky assets by $35 billion after trade-related errors, according to Reuters.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "regulatory"
-   ],
+   "sections": [],
    "breaking": false,
    "data_points": [
-    "$35B understated risky assets"
+    "$35B"
    ],
    "also": []
   },
@@ -401,22 +400,21 @@
    "source_type": "rss",
    "published": "2026-11-19T17:46:49Z",
    "relevance": 2,
-   "why": "Points-for-discount promos show Citi using points as a shopping currency, but user-level variation limits their value.",
-   "summary_ai": "Some shoppers can get up to $50 off at Amazon by redeeming Citi ThankYou points, though offers vary by user.",
-   "take": "Points-for-discount promos show Citi using points as a shopping currency, but user-level variation limits their value.",
-   "take_kind": "read",
-   "partner": null,
+   "why": "Citi ThankYou points can be redeemed for up to $50 off Amazon purchases at a 125-point rate.",
+   "summary_ai": "Citi ThankYou points can be redeemed for up to $50 off Amazon purchases at a 125-point rate.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Amazon",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Offer varies by user, eligibility unknown",
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "Up to $50 off",
     "125 Citi points",
-    "Up to 40% off"
+    "Up to $50 off"
    ],
    "also": []
   }

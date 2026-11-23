@@ -1,0 +1,54 @@
+{
+ "name": "Harvey Nichols",
+ "slug": "harvey-nichols",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5bde0d31c826",
+   "title": "Mike Ashley’s Harvey Nichols Makeover",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbnRkSVpCVkVWOWl6eXZnRUhvb2xJVUdtaWFKM0lMdDBFeVFyRUJkVVJzdWxUeThvTlgtMFhLSTNOUC00a3VGQnh1V2JCc1FGLWhoc0ptVktsN2ROd0ZpSEZQY3VMWlpSRDBjSUsyNHNWZ2o2YWd4d0dIT3VSa1U1dHZMeldtQzR4cm5z?oc=5",
+   "source": "The Business of Fashion",
+   "source_type": "gnews",
+   "published": "2026-11-23T11:26:14Z",
+   "relevance": 2,
+   "why": "Mike Ashley is reshaping the Harvey Nichols department store as part of a turnaround effort.",
+   "summary_ai": "Mike Ashley is reshaping the Harvey Nichols department store as part of a turnaround effort.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "7cdf89fff3b9",
+   "title": "Mike Ashley Is Fixing Harvey Nichols in His Sports Direct Image",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGRDVTNhdDVvbDlVLTFCMTdMOUowczVMbld5OW9GYUJFdEYwS0lFSlZSZF9jZjBycG9YeHlWaFBJSDFJMUFNTXRCMDBKdW92b1pUYWNQUE82bnFjcmFvM1pOdTcwQWxwMEdaVHNmYUZpcVk0eExNWTFoaTQ0N1NMZWQ5VGQybTRJdmkxU2tJLVdsdVN0S2ZCeDIxVm9XakNLYXRISUdZdmdEa3k5?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-23T06:00:00Z",
+   "relevance": 2,
+   "why": "A value-focused owner repositioning a luxury department store could change which luxury retail partners are available.",
+   "summary_ai": "Mike Ashley is remaking Harvey Nichols on the model of his Sports Direct business.",
+   "take": "A value-focused owner repositioning a luxury department store could change which luxury retail partners are available.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -33,11 +33,11 @@
    "source_type": "rss",
    "published": "2026-11-20T18:17:16Z",
    "relevance": 2,
-   "why": "Long lock-up periods on transfer bonuses show how brokerage promos compete for the same affluent wallet as premium cards.",
-   "summary_ai": "Doctor of Credit highlights a Webull offer matching 2% of transferred assets, subject to a 36-month hold.",
-   "take": "Long lock-up periods on transfer bonuses show how brokerage promos compete for the same affluent wallet as premium cards.",
-   "take_kind": "read",
-   "partner": "Webull",
+   "why": "Webull is offering a 2% match on transfers into its brokerage, subject to a 36-month hold.",
+   "summary_ai": "Webull is offering a 2% match on transfers into its brokerage, subject to a 36-month hold.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
@@ -47,7 +47,7 @@
    "breaking": false,
    "data_points": [
     "2% transfer match",
-    "36 month hold"
+    "36-month hold"
    ],
    "also": []
   }

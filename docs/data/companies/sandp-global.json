@@ -1,0 +1,31 @@
+{
+ "name": "S&P Global",
+ "slug": "sandp-global",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "87b874b7711d",
+   "title": "UK credit card charge-offs rise as S&P Global data shows mixed Q3 trends",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc1NMbzlfUjczdEd3cmFEdDg3REJuVWRCMU9zM0VHOHBLSXVPblE3S2lFeUROSkVSYlBQSzJhdWVlX1RSM215VXM2XzVpXzdlZVBqYlllUUItNG5TbVRTazFQR19qREdQbnZFUjEwQkZqVnZpdV9ScGhSa2RCSFlrRUs4YmtpaEs0M1VmZnJ0aFFvaUFMdXhn?oc=5",
+   "source": "Traders Union",
+   "source_type": "gnews",
+   "published": "2026-11-20T18:23:54Z",
+   "relevance": 2,
+   "why": "UK credit card charge-offs rose in the third quarter, with mixed signals in S&P Global's data.",
+   "summary_ai": "UK credit card charge-offs rose in the third quarter, with mixed signals in S&P Global's data.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -12,11 +12,11 @@
    "source_type": "rss",
    "published": "2026-11-19T16:35:00Z",
    "relevance": 2,
-   "why": "Instagram now lets creators tag up to 30 Amazon products per Reel and 20 per post, earning commission with no platform cut.",
-   "summary_ai": "Instagram now lets creators tag up to 30 Amazon products per Reel and 20 per post, earning commission with no platform cut.",
-   "take": null,
-   "take_kind": null,
-   "partner": "Amazon",
+   "why": "Creator affiliate commerce is growing as a channel that card-linked offers could potentially tap into.",
+   "summary_ai": "Instagram creators can now place Amazon affiliate links directly into Reels and posts.",
+   "take": "Creator affiliate commerce is growing as a channel that card-linked offers could potentially tap into.",
+   "take_kind": "read",
+   "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
@@ -24,10 +24,7 @@
     "partnerships"
    ],
    "breaking": false,
-   "data_points": [
-    "30 products per Reel",
-    "20 products per post"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

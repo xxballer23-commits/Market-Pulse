@@ -12,8 +12,8 @@
    "source_type": "rss",
    "published": "2026-11-19T15:45:17Z",
    "relevance": 2,
-   "why": "Frontier is selling a 2026-2027 annual GoWild! all-you-can-fly pass at a discounted starting price, valid on domestic and international routes.",
-   "summary_ai": "Frontier is selling a 2026-2027 annual GoWild! all-you-can-fly pass at a discounted starting price, valid on domestic and international routes.",
+   "why": "Frontier is selling a 13-month unlimited travel pass starting at $349.",
+   "summary_ai": "Frontier is selling a 13-month unlimited travel pass starting at $349.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,8 +25,8 @@
    ],
    "breaking": false,
    "data_points": [
-    "13-month pass",
-    "From $349"
+    "$349",
+    "13-month unlimited pass"
    ],
    "also": []
   }

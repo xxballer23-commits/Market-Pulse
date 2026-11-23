@@ -11,23 +11,24 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T21:03:29Z",
-   "relevance": 2,
-   "why": "Merchant-specific card offers show issuers chasing everyday retail spend, though these are not premium-tier benefits.",
-   "summary_ai": "Capital One Offers give 18% back at CVS and 10% back at Walgreens on in-store purchases, possibly including gift cards.",
-   "take": "Merchant-specific card offers show issuers chasing everyday retail spend, though these are not premium-tier benefits.",
-   "take_kind": "read",
+   "relevance": 3,
+   "why": "Card-linked merchant offers at drug and grocery chains are a low-cost way to win spend; benchmark our merchant offer rates.",
+   "summary_ai": "Capital One Offers is giving cardholders elevated cash back at CVS, Walgreens and Kroger.",
+   "take": "Card-linked merchant offers at drug and grocery chains are a low-cost way to win spend; benchmark our merchant offer rates.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
    "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
-    "community"
+    "community",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
     "18% back at CVS",
     "10% back at Walgreens",
-    "Through Nov 23, 2026"
+    "10% back at Kroger"
    ],
    "also": []
   }

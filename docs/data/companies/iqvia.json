@@ -1,0 +1,31 @@
+{
+ "name": "IQVIA",
+ "slug": "iqvia",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "31a121a461d1",
+   "title": "IQVIA Closes In on $1.1 Billion Takeover of UK Drug Services Group Quotient",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaFlhNGl2cWFCcFFFRjRBV0VWZEFaUzNiMHB2Uklmc1FfUW9BZG5nOTMzb2ZqcWRKVjViaEREOFNDS3dLOEFhb1FQeGNCSTRON0o5NGVmd25aTEJMQWJta1FELVFscVZ0QmtpckUyYUlhWGllX2FMSHZxVnEzWHBDT1hndWVDZWN5aXFzZ0JCcnhaa0ZvbExJZk0zUE80allEcW5QTkxUdTlzZmlGeUJKTFQxTzl6Sy05dzRRcnZzNkUwcVU?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-22T14:33:23Z",
+   "relevance": 1,
+   "why": "IQVIA is nearing a roughly $1.1 billion deal to acquire UK drug services group Quotient.",
+   "summary_ai": "IQVIA is nearing a roughly $1.1 billion deal to acquire UK drug services group Quotient.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$1.1 billion"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -81,22 +81,21 @@
    "source_type": "rss",
    "published": "2026-11-19T17:46:49Z",
    "relevance": 2,
-   "why": "Points-for-discount promos show Citi using points as a shopping currency, but user-level variation limits their value.",
-   "summary_ai": "Some shoppers can get up to $50 off at Amazon by redeeming Citi ThankYou points, though offers vary by user.",
-   "take": "Points-for-discount promos show Citi using points as a shopping currency, but user-level variation limits their value.",
-   "take_kind": "read",
-   "partner": null,
+   "why": "Citi ThankYou points can be redeemed for up to $50 off Amazon purchases at a 125-point rate.",
+   "summary_ai": "Citi ThankYou points can be redeemed for up to $50 off Amazon purchases at a 125-point rate.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Amazon",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Offer varies by user, eligibility unknown",
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "Up to $50 off",
     "125 Citi points",
-    "Up to 40% off"
+    "Up to $50 off"
    ],
    "also": []
   },
@@ -108,11 +107,11 @@
    "source_type": "rss",
    "published": "2026-11-19T16:35:00Z",
    "relevance": 2,
-   "why": "Instagram now lets creators tag up to 30 Amazon products per Reel and 20 per post, earning commission with no platform cut.",
-   "summary_ai": "Instagram now lets creators tag up to 30 Amazon products per Reel and 20 per post, earning commission with no platform cut.",
-   "take": null,
-   "take_kind": null,
-   "partner": "Amazon",
+   "why": "Creator affiliate commerce is growing as a channel that card-linked offers could potentially tap into.",
+   "summary_ai": "Instagram creators can now place Amazon affiliate links directly into Reels and posts.",
+   "take": "Creator affiliate commerce is growing as a channel that card-linked offers could potentially tap into.",
+   "take_kind": "read",
+   "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
@@ -120,10 +119,7 @@
     "partnerships"
    ],
    "breaking": false,
-   "data_points": [
-    "30 products per Reel",
-    "20 products per post"
-   ],
+   "data_points": [],
    "also": []
   },
   {

@@ -19,10 +19,9 @@
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Targeted offer, eligibility unknown",
+   "low_confidence": null,
    "sections": [
-    "community",
-    "partnerships"
+    "community"
    ],
    "breaking": false,
    "data_points": [
@@ -38,9 +37,9 @@
    "source": "Finextra",
    "source_type": "rss",
    "published": "2026-11-20T18:17:00Z",
-   "relevance": 2,
-   "why": "PayPal has named Claire Bramley as its chief financial officer.",
-   "summary_ai": "PayPal has named Claire Bramley as its chief financial officer.",
+   "relevance": 1,
+   "why": "PayPal has named Claire Bramley as its new chief financial officer.",
+   "summary_ai": "PayPal has named Claire Bramley as its new chief financial officer.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -59,11 +58,11 @@
    "source": "TradingView",
    "source_type": "gnews",
    "published": "2026-11-20T17:08:00Z",
-   "relevance": 2,
-   "why": "An analysis asks whether PayPal's buy now, pay later business can speed up its growth.",
-   "summary_ai": "An analysis asks whether PayPal's buy now, pay later business can speed up its growth.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "PayPal's BNPL push adds pressure on card issuers to keep installment features competitive.",
+   "summary_ai": "An analysis examines whether PayPal can speed up growth in its buy now, pay later business.",
+   "take": "PayPal's BNPL push adds pressure on card issuers to keep installment features competitive.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -114,8 +113,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T15:08:00Z",
    "relevance": 2,
-   "why": "PayPal has named a new chief financial officer as it works to show growth on its own.",
-   "summary_ai": "PayPal has named a new chief financial officer as it works to show growth on its own.",
+   "why": "PayPal appointed a new chief financial officer as it works to show growth on its own.",
+   "summary_ai": "PayPal appointed a new chief financial officer as it works to show growth on its own.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -135,21 +134,21 @@
    "source_type": "gnews",
    "published": "2026-11-19T06:25:20Z",
    "relevance": 3,
-   "why": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
-   "summary_ai": "Italy's credit checks for Pay in 3 products at Klarna, Scalapay and PayPal may begin after a November 20 deadline.",
-   "take": "Europe's BNPL affordability rules are tightening; expect US regulators to look at similar checks on pay-over-time features.",
+   "why": "Tighter non-US BNPL underwriting rules signal where installment regulation could head, so track for spillover into US point-of-sale products.",
+   "summary_ai": "Italian pay-in-3 providers may have to run credit checks on their products after a November 20 deadline.",
+   "take": "Tighter non-US BNPL underwriting rules signal where installment regulation could head, so track for spillover into US point-of-sale products.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Timing hedged, deadline may shift",
    "sections": [
     "lending",
     "regulatory"
    ],
    "breaking": false,
    "data_points": [
-    "November 20"
+    "November 20 deadline"
    ],
    "also": []
   }

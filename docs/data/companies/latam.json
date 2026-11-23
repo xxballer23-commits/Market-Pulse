@@ -11,11 +11,11 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-18T20:30:10Z",
-   "relevance": 3,
-   "why": "Narrow-body suites widen premium cabin options for Latin American airline partnership and travel benefit conversations.",
-   "summary_ai": "LATAM revealed cabins for its A321XLR jets, including 12 business suites with direct aisle access, arriving March 2027.",
-   "take": "Narrow-body suites widen premium cabin options for Latin American airline partnership and travel benefit conversations.",
-   "take_kind": "read",
+   "relevance": 2,
+   "why": "LATAM plans to introduce new business class suites on its Airbus A321XLR aircraft beginning in March 2027.",
+   "summary_ai": "LATAM plans to introduce new business class suites on its Airbus A321XLR aircraft beginning in March 2027.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -25,7 +25,6 @@
    ],
    "breaking": false,
    "data_points": [
-    "12 business suites",
     "March 2027"
    ],
    "also": []

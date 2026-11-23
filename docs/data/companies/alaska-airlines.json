@@ -190,20 +190,21 @@
    "source_type": "rss",
    "published": "2026-11-20T00:45:51Z",
    "relevance": 2,
-   "why": "Alaska Airlines' Atmos Rewards is offering double points on Hawaii flights this winter.",
-   "summary_ai": "Alaska Airlines' Atmos Rewards is offering double points on Hawaii flights this winter.",
+   "why": "Alaska Airlines' Atmos Rewards is offering double points on Hawaii flights this winter, per a Frequent Miler post.",
+   "summary_ai": "Alaska Airlines' Atmos Rewards is offering double points on Hawaii flights this winter, per a Frequent Miler post.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": null,
+   "low_confidence": "Promo end date unclear",
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "Double Atmos Points"
+    "2x Atmos Points",
+    "This winter"
    ],
    "also": []
   },

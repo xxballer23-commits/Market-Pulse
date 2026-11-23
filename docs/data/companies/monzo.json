@@ -1,0 +1,31 @@
+{
+ "name": "Monzo",
+ "slug": "monzo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "407b9c2f5a50",
+   "title": "Ex-Monzo scam fighting team raises £1.8m for startup Acorda",
+   "url": "https://www.finextra.com/newsarticle/48794/ex-monzo-scam-fighting-team-raises-18m-for-startup-acorda?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-23T09:00:00Z",
+   "relevance": 2,
+   "why": "Former leaders of Monzo's scam detection team raised pre-seed funding for Acorda, which helps payment providers stop fraud.",
+   "summary_ai": "Former leaders of Monzo's scam detection team raised pre-seed funding for Acorda, which helps payment providers stop fraud.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "£1.8 million pre-seed"
+   ],
+   "also": []
+  }
+ ]
+}

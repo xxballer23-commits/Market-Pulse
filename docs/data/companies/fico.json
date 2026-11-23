@@ -12,15 +12,17 @@
    "source_type": "gnews",
    "published": "2026-11-20T16:51:39Z",
    "relevance": 2,
-   "why": "FICO and Xactus have partnered to give mortgage lenders more flexible credit score pricing.",
-   "summary_ai": "FICO and Xactus have partnered to give mortgage lenders more flexible credit score pricing.",
-   "take": null,
-   "take_kind": null,
-   "partner": null,
+   "why": "Score pricing flexibility in mortgage signals lenders pushing for cheaper underwriting, a trend that could reach consumer credit tools.",
+   "summary_ai": "FICO announced a partnership with Xactus that gives mortgage lenders more flexible credit score pricing options.",
+   "take": "Score pricing flexibility in mortgage signals lenders pushing for cheaper underwriting, a trend that could reach consumer credit tools.",
+   "take_kind": "read",
+   "partner": "Xactus",
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "lending"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

@@ -1,0 +1,34 @@
+{
+ "name": "Dukes London",
+ "slug": "dukes-london",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "02c880617ea5",
+   "title": "Dukes London Will Reopen in Mid 2027 With 85 Rooms",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1iOWVDMC1iUjkzS1RJLWZ6cUFqR0hDYk5ZSWVaWXQzdU13dmxrbUNSYXltSzVQU1VzcnFkSG53Sl8tNHkydjRkZzFfNGZ0RDRnX210R0RmbW1XNFNla2VzaW1qalBqN2lRMGZJWUpDXy1CWUpqZEhPS1VXTUlPdkk?oc=5",
+   "source": "deeparrival.com",
+   "source_type": "gnews",
+   "published": "2026-11-23T05:21:45Z",
+   "relevance": 2,
+   "why": "The Dukes London hotel is set to reopen in mid-2027 with 85 rooms.",
+   "summary_ai": "The Dukes London hotel is set to reopen in mid-2027 with 85 rooms.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "85 rooms",
+    "Mid 2027 reopening"
+   ],
+   "also": []
+  }
+ ]
+}

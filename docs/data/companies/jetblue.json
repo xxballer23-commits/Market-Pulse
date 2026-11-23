@@ -22,6 +22,31 @@
  "vets": [],
  "items": [
   {
+   "id": "49464cf2d391",
+   "title": "JetBlue’s First Checked Bag Now Costs up to $70 at the Holidays. 6 Ways to Pay Less",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOExHcXpRLWFIN0RlX2xZNl92TlJHQU03THJmcG95dVNTb24wdnZGNUtfNXRqSkEtV09Uem05OHRNRVVRMTQzblo0aU1KSkxuSDJkeGtZUzJMb1RhYlRMeEZyS2h5eXlJQTMxMUMybEE4SG1nakd3bXktNDVWdjVnbWtyeUUxN19fQUNySkIwVEFaeV9qMTZKTFBuRXBGMmFVLXdKZ3MxS01welU?oc=5",
+   "source": "Money Talks News",
+   "source_type": "gnews",
+   "published": "2026-11-23T11:30:28Z",
+   "relevance": 3,
+   "why": "Rising bag fees raise the value of free checked bag credits and co-brand airline perks on premium cards.",
+   "summary_ai": "JetBlue's first checked bag fee rises to as much as $70 over the holidays, with guidance on how travelers can pay less.",
+   "take": "Rising bag fees raise the value of free checked bag credits and co-brand airline perks on premium cards.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $70 checked bag"
+   ],
+   "also": []
+  },
+  {
    "id": "f02d875d88ef",
    "title": "Which Bilt Members Get JetBlue Mosaic Free on Dec. 1?",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUWxNOThFYVhjMG5LS1VvWllGOXRWcEFNV3pWNUxiVTJpcWdJOV95OU44WEZoc0hCSEtPME10NFJJbk1DUHNVbjZ1eWF3QUEyMDA0ZVdUN2lhZ1lBV01fU2FJWTJVbUowQXNXZXVzYTNuWHpWUERjVmpiUTBUYlJ4Zjk5RXE5akNib2tQekRVc2t3RHVPYnc?oc=5",
@@ -306,23 +331,22 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-19T10:53:57Z",
-   "relevance": 2,
-   "why": "Buying TrueBlue points rarely pays off on JetBlue flights, so value depends on partner award redemptions.",
-   "summary_ai": "JetBlue TrueBlue is selling points with a bonus of up to 125%, bringing the price as low as 1.43 cents each.",
-   "take": "Buying TrueBlue points rarely pays off on JetBlue flights, so value depends on partner award redemptions.",
+   "relevance": 3,
+   "why": "Points-purchase bonuses give a cost ceiling benchmark for valuing transfer partner points in a partnership pitch.",
+   "summary_ai": "A 125% bonus on JetBlue TrueBlue point purchases brings the effective cost down to about 1.43 cents per point.",
+   "take": "Points-purchase bonuses give a cost ceiling benchmark for valuing transfer partner points in a partnership pitch.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community",
-    "partnerships"
+    "community"
    ],
    "breaking": false,
    "data_points": [
     "125% bonus",
-    "1.43 cents each"
+    "1.43 cents per point"
    ],
    "also": []
   }

@@ -28,6 +28,29 @@
  "vets": [],
  "items": [
   {
+   "id": "bfa6ba687622",
+   "title": "Bilt Palladium applicants face year-end rewards choice",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaWNUXzl5bkdJTFZRV1dlWC1tNGdDVWdkb3VfZTZuNVkzZnZVckFyc1l0T1hNN1E3N3ZjZmRtd0UtLV9jdndkU0phdXVrRUpoc0RPTVRWUTI5TkZkWnVBZmNZcGJWTGhCOWFWQzB2WDR3emtlWXN1amp3QjBCSGZpRnBqVVRTMDBod3FpcWZSYUI3TUk?oc=5",
+   "source": "InsideFlyer",
+   "source_type": "gnews",
+   "published": "2026-11-22T19:21:18Z",
+   "relevance": 4,
+   "why": "Benchmark Bilt's year-end applicant choice against our premium welcome offers to see how it changes conversion.",
+   "summary_ai": "Bilt Palladium applicants must choose a year-end rewards option, a time-limited decision point for new cardholders.",
+   "take": "Benchmark Bilt's year-end applicant choice against our premium welcome offers to see how it changes conversion.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Applicant offer, end date unknown",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "3274f70a813f",
    "title": "Rakuten New Member Bonus: $50 Referral Offer & How To Maximize It",
    "url": "https://onemileatatime.com/deals/rakuten-new-member-bonus/",
@@ -341,22 +364,22 @@
    "source": "Bilt Rewards",
    "source_type": "gnews",
    "published": "2026-11-20T00:00:00Z",
-   "relevance": 2,
-   "why": "Celebrity-led rent-day contests show Bilt leaning on talent and engagement, a cue for co-marketing approaches.",
-   "summary_ai": "Bilt is running a December Rent Day campaign with actress Brittany Snow, inviting members to write letters for a chance at free rent.",
-   "take": "Celebrity-led rent-day contests show Bilt leaning on talent and engagement, a cue for co-marketing approaches.",
+   "relevance": 3,
+   "why": "Celebrity-led member contests show Bilt leaning on engagement marketing; a useful model for co-branded campaign pitches.",
+   "summary_ai": "Bilt partners with actress Brittany Snow on a December Rent Day contest offering free rent to members.",
+   "take": "Celebrity-led member contests show Bilt leaning on engagement marketing; a useful model for co-branded campaign pitches.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "premium_cards"
+    "premium_cards",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "December Rent Day",
-    "Free rent prize"
+    "December Rent Day"
    ],
    "also": []
   },

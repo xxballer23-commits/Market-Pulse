@@ -1,0 +1,29 @@
+{
+ "name": "BYD",
+ "slug": "byd",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3bce026e1f0d",
+   "title": "BYD’s Shares Fall After Dutch Court Bars Sales of Ti7 SUV Model in EU",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVW9HY19CSXBqQnE4V1VidTlXYTdIclpGbktULVdYWTVYa1RDNDU4MUNweXlfbmtsdWNkSFdwNl9JTFY3T05kRzRLUUkxbU1walhaRGNkLWFiQlJaZ3VVZVREZVJ4OVhSdXVtZy04bDVMM0d3NVRkM3A5S296czl2SVBZc0R3dVJ6VmUzTVNyR3lqQnBESXFQYWlQRjUxTHFZVS16aG1tM29fS1F0STRwQlZR?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-23T08:49:00Z",
+   "relevance": 1,
+   "why": "BYD shares dropped after a Dutch court barred sales of its Ti7 SUV across the EU.",
+   "summary_ai": "BYD shares dropped after a Dutch court barred sales of its Ti7 SUV across the EU.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

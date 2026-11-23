@@ -1,0 +1,31 @@
+{
+ "name": "Wise",
+ "slug": "wise",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "55e7b6735b8a",
+   "title": "Wise Raises Malaysia Wallet Limit to RM50,000",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZFZrVko4RGZ0ZzBUb3BZY0hJQVU4Z1J3VWlsbmlzc0NBMzNfUmhZaUJsMXhxdTVWbTdIZEFXbkVYZ1pubEJQX043RmYwNTFBUlQwemVXXzJxVTRoZURZaFNaSEtUWm1SUHRTenVvbUgtUDQ5MkdnNzBSSWRiMFpOOEJ2eUEwSkhtRVlHNThORnNoUnJVRG1rd0FVTzExU2szY3c?oc=5",
+   "source": "Fintech News Malaysia",
+   "source_type": "gnews",
+   "published": "2026-11-23T07:23:50Z",
+   "relevance": 1,
+   "why": "Wise has raised its Malaysia wallet balance limit to RM50,000.",
+   "summary_ai": "Wise has raised its Malaysia wallet balance limit to RM50,000.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "RM50,000 wallet limit"
+   ],
+   "also": []
+  }
+ ]
+}

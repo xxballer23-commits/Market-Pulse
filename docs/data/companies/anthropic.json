@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "bffbf5735728",
+   "title": "Anthropic Committed to Spend $900 Billion. Wall Street Expects Its Debt to Be Junk.",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNHFQOEdMZm5FNmNuNWo3WHNuNHhBVkprTmplTktaZ1J5Ni0wN0NBdHF5YWg5X2pfc09rZldBYU80NWVCNTRRZDVsb1RfVkRHdFBseWh5VmZieU45WnhMb0JpNEFkZHlCRXp1Y1FMb1M0WjNEWGk0MjBJb3V5eGRtQmVaVzBWaWtPeUhOX1hleHkteHRNN2JUekRTMGpTYmtuMTNKNUdZZG8xWF9iSzYzT3kzaUEzbkYzZ0NsT281aHl6U1FDWUE?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-23T03:00:00Z",
+   "relevance": 1,
+   "why": "Analysts expect Anthropic's debt to be rated junk despite its $900 billion spending commitment.",
+   "summary_ai": "Analysts expect Anthropic's debt to be rated junk despite its $900 billion spending commitment.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$900 billion spending commitment"
+   ],
+   "also": []
+  },
+  {
    "id": "a10796177bab",
    "title": "Why Anthropic Is Hiring a $400,000-a-Year Natural-Gas Supply Manager ? Climate & Energy for Nov. 19",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBDN3JMY1l3Q2dKa0tuZ2tVSm52Sl9YQWNucjl3dk1zd1hGZFZUZFppdFVhUjZ0dEphRFUzc1B4R0VZdzd5UGotcHM2NGZrd0FubTF4cFpkTHpEZDVHWUN5QTk1T0kxemtMaDl1d2FkQnVDVnJoWVkyNVdhcENYTlBWLXYtYWs4Nm5EQ3J4eHpjU0ctTWxsV0RMODh4SVhEM1ZxeHYzYzlkR19BV2VBeElrSU92RFU?oc=5",
@@ -184,8 +207,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T20:57:42Z",
    "relevance": 2,
-   "why": "Anthropic's CEO is reported to be vacationing at an Italian resort.",
-   "summary_ai": "Anthropic's CEO is reported to be vacationing at an Italian resort.",
+   "why": "Bloomberg reports that the Anthropic CEO is vacationing at an Italian resort.",
+   "summary_ai": "Bloomberg reports that the Anthropic CEO is vacationing at an Italian resort.",
    "take": null,
    "take_kind": null,
    "partner": null,

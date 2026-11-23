@@ -12,14 +12,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T22:23:15Z",
    "relevance": 2,
-   "why": "Sezzle is launching Sezzle Anywhere in Canada, extending its buy-now-pay-later offering into that market.",
-   "summary_ai": "Sezzle is launching Sezzle Anywhere in Canada, extending its buy-now-pay-later offering into that market.",
+   "why": "Sezzle expands its Canadian presence with the launch of Sezzle Anywhere.",
+   "summary_ai": "Sezzle expands its Canadian presence with the launch of Sezzle Anywhere.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Headline only, no details",
+   "low_confidence": null,
    "sections": [
     "lending"
    ],
@@ -39,10 +39,10 @@
    "source": "Kalkine",
    "source_type": "gnews",
    "published": "2026-11-19T10:41:00Z",
-   "relevance": 3,
-   "why": "Watch Canadian BNPL entrants, since they may pressure card-based pay-over-time features.",
-   "summary_ai": "Sezzle Anywhere is planning a Canadian launch that could change how buy now, pay later works there.",
-   "take": "Watch Canadian BNPL entrants, since they may pressure card-based pay-over-time features.",
+   "relevance": 2,
+   "why": "Cross-border BNPL expansion into Canada could pressure local pay-over-time offers that card issuers rely on.",
+   "summary_ai": "Sezzle Anywhere is launching in Canada, extending its buy now, pay later service into a new market.",
+   "take": "Cross-border BNPL expansion into Canada could pressure local pay-over-time offers that card issuers rely on.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -62,11 +62,11 @@
    "source": "Twin Cities Business",
    "source_type": "gnews",
    "published": "2026-11-19T04:06:39Z",
-   "relevance": 3,
-   "why": "A bank charter could let BNPL lenders fund loans more cheaply, a shift worth tracking for card lending partnerships.",
-   "summary_ai": "Sezzle's path from buy now, pay later provider to a $5 billion market cap company pursuing a bank charter is profiled.",
-   "take": "A bank charter could let BNPL lenders fund loans more cheaply, a shift worth tracking for card lending partnerships.",
-   "take_kind": "read",
+   "relevance": 4,
+   "why": "A BNPL lender with a bank charter could offer cheaper embedded installment funding, so assess it as a lending partner candidate.",
+   "summary_ai": "Sezzle has grown from a buy now, pay later provider to a $5 billion market cap and is pursuing bank status.",
+   "take": "A BNPL lender with a bank charter could offer cheaper embedded installment funding, so assess it as a lending partner candidate.",
+   "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -76,7 +76,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "$5 billion market cap"
+    "$5B market cap"
    ],
    "also": []
   }

@@ -112,11 +112,11 @@
    "source": "Upgraded Points",
    "source_type": "gnews",
    "published": "2026-11-19T19:20:39Z",
-   "relevance": 2,
-   "why": "U.S. Bank is restoring double rewards for cardholders over the Thanksgiving holiday window.",
-   "summary_ai": "U.S. Bank is restoring double rewards for cardholders over the Thanksgiving holiday window.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "Short holiday rewards boosts are a common seasonal lever, useful for timing our own spend promotions against bank peers.",
+   "summary_ai": "U.S. Bank is restoring double rewards for cardholders over the Thanksgiving weekend, November 25 to 27.",
+   "take": "Short holiday rewards boosts are a common seasonal lever, useful for timing our own spend promotions against bank peers.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": true,
    "benefit_type": "offer",
@@ -126,7 +126,8 @@
    ],
    "breaking": false,
    "data_points": [
-    "Nov 25 to 27"
+    "Nov 25 to 27",
+    "Double rewards"
    ],
    "also": []
   }

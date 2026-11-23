@@ -1,0 +1,31 @@
+{
+ "name": "Better Business Bureau",
+ "slug": "better-business-bureau",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "393253d51aa3",
+   "title": "Better Business Bureau warns of surge in AI-powered loan scams as consumer losses climb",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdHg1YnJ3Q2VIaHBwU0lpZktMWTYxT05xWlRfTWRlYnU3TzdpXzZmMGRSVzV1ZFY4S0MxSk9vbWRlcEVCMkY1SzZjTndORW1hYlkxd1dZOU9SNDRsRTIyM1BlOF9zVTlaM2NYRmltQXYwNjlyT0REZWc1VkhTRlFtNFNNWUxQc3FXUG9RbE1peFJNeUYydmxySHhvUEtUUGlvX3dkSlN5STZBX1ZSLWJsNkhmMjZvMDBpcGhFRC1lUFpxTjFqd05sazIxSmVldGJ6VzNpRw?oc=5",
+   "source": "My Lloydminster Now",
+   "source_type": "gnews",
+   "published": "2026-11-20T18:27:46Z",
+   "relevance": 2,
+   "why": "Fraud-driven loan losses could push issuers and lenders to tighten fraud controls and identity checks.",
+   "summary_ai": "The Better Business Bureau warns that AI-powered loan scams are rising and consumer losses are climbing.",
+   "take": "Fraud-driven loan losses could push issuers and lenders to tighten fraud controls and identity checks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Sweet Chick",
+ "slug": "sweet-chick",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "47b5cbca18e9",
+   "title": "NYC’s Once-Booming Southern Chain Sweet Chick Falls Flat",
+   "url": "https://ny.eater.com/news/414724/nyc-restaurants-closed-november-2026",
+   "source": "Eater NY",
+   "source_type": "rss",
+   "published": "2026-11-20T16:40:48Z",
+   "relevance": 2,
+   "why": "The Southern chain Sweet Chick, once a fast-growing name in New York, is reportedly struggling to draw crowds.",
+   "summary_ai": "The Southern chain Sweet Chick, once a fast-growing name in New York, is reportedly struggling to draw crowds.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T17:18:56Z",
    "relevance": 2,
-   "why": "Apollo is providing $305 million in financing for a luxury condominium project in Tribeca.",
-   "summary_ai": "Apollo is providing $305 million in financing for a luxury condominium project in Tribeca.",
+   "why": "Apollo is providing a $305 million loan for a luxury condominium project in Tribeca, Manhattan.",
+   "summary_ai": "Apollo is providing a $305 million loan for a luxury condominium project in Tribeca, Manhattan.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,7 +25,8 @@
    ],
    "breaking": false,
    "data_points": [
-    "$305 million"
+    "$305 million loan",
+    "Tribeca, Manhattan"
    ],
    "also": []
   }

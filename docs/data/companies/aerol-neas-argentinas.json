@@ -12,8 +12,8 @@
    "source_type": "rss",
    "published": "2026-11-20T15:05:57Z",
    "relevance": 2,
-   "why": "A traveler reports that a Flying Blue award ticket's promised free checked bag was charged at check-in on Aerolíneas Argentinas.",
-   "summary_ai": "A traveler reports that a Flying Blue award ticket's promised free checked bag was charged at check-in on Aerolíneas Argentinas.",
+   "why": "One Mile at a Time analyzes why Aerolíneas Argentinas operates more like an ultra low cost carrier than a full-service airline.",
+   "summary_ai": "One Mile at a Time analyzes why Aerolíneas Argentinas operates more like an ultra low cost carrier than a full-service airline.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -24,9 +24,7 @@
     "community"
    ],
    "breaking": false,
-   "data_points": [
-    "23 kg checked bag"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

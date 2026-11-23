@@ -12,20 +12,20 @@
    "source_type": "gnews",
    "published": "2026-11-19T21:43:57Z",
    "relevance": 2,
-   "why": "Luxury shoemaker Tod's is nearing a roughly 400 million euro debt refinancing backed by its owners.",
-   "summary_ai": "Luxury shoemaker Tod's is nearing a roughly 400 million euro debt refinancing backed by its owners.",
+   "why": "Italian luxury brand Tod's is near a roughly €400 million debt refinancing backed by its owners.",
+   "summary_ai": "Italian luxury brand Tod's is near a roughly €400 million debt refinancing backed by its owners.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Deal reported as nearing, not closed",
+   "low_confidence": null,
    "sections": [
     "luxury"
    ],
    "breaking": false,
    "data_points": [
-    "€400 Million"
+    "€400M debt refinancing"
    ],
    "also": []
   },

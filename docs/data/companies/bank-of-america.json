@@ -32,6 +32,29 @@
    "also": []
   },
   {
+   "id": "5069fc068192",
+   "title": "Is Bank of America Stock a Buy at 25% Below Its 52-Week High?",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQLXoxWDdNbVc0VkRKZW0tZ2FRaVY5ODU1WkNXZlJPazgydGxqclN4RHdCaWJsY013STRsZmppMllycjVBWnkzMUNOUGFBdGJBdWM4RmVxZWxIdmNMRWpFVTlJZXFMRTQ1Ukh5bF9NR3NMdzJqN0s1cUo2QjZoOWRMRzhiZXZtYzF4M05ibVB5OVVyQlpC?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-21T12:20:02Z",
+   "relevance": 1,
+   "why": "Commentary asks whether Bank of America shares look attractive after falling 25% from their 52-week high.",
+   "summary_ai": "Commentary asks whether Bank of America shares look attractive after falling 25% from their 52-week high.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "25% below 52-week high"
+   ],
+   "also": []
+  },
+  {
    "id": "59b962425cd7",
    "title": "[Targeted] Increased Bank Of America Atmos Offers (125k Summit, 90k Ascent)",
    "url": "https://www.doctorofcredit.com/targeted-increased-bank-of-america-atmos-offers-125k-summit-90k-ascent/",
@@ -91,22 +114,20 @@
    "source": "Fortune",
    "source_type": "gnews",
    "published": "2026-11-19T15:52:51Z",
-   "relevance": 2,
-   "why": "Fortune posted a transcript of Bank of America's Q2 2026 earnings call.",
-   "summary_ai": "Fortune posted a transcript of Bank of America's Q2 2026 earnings call.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "The transcript may hold card spend and consumer credit commentary worth scanning for Bank of America premium card moves.",
+   "summary_ai": "Fortune has published the transcript of Bank of America's Q2 2026 earnings call.",
+   "take": "The transcript may hold card spend and consumer credit commentary worth scanning for Bank of America premium card moves.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Transcript only, no card metrics in summary",
+   "low_confidence": null,
    "sections": [
     "spending_data"
    ],
    "breaking": false,
-   "data_points": [
-    "Q2 2026"
-   ],
+   "data_points": [],
    "also": []
   },
   {

@@ -35,8 +35,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T15:19:40Z",
    "relevance": 2,
-   "why": "British luxury handbag maker Mulberry reported narrower losses as its turnaround continues.",
-   "summary_ai": "British luxury handbag maker Mulberry reported narrower losses as its turnaround continues.",
+   "why": "Luxury handbag maker Mulberry reported narrower losses as its turnaround continues.",
+   "summary_ai": "Luxury handbag maker Mulberry reported narrower losses as its turnaround continues.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -44,8 +44,7 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury",
-    "spending_data"
+    "luxury"
    ],
    "breaking": false,
    "data_points": [],

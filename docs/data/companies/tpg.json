@@ -12,20 +12,18 @@
    "source_type": "gnews",
    "published": "2026-11-20T17:10:00Z",
    "relevance": 2,
-   "why": "Consolidation in B2B spend management could shift which commercial card and payables partners are available.",
-   "summary_ai": "BILL agreed to go private in a roughly $6 billion deal with TPG and Corpay.",
-   "take": "Consolidation in B2B spend management could shift which commercial card and payables partners are available.",
-   "take_kind": "read",
+   "why": "BILL agreed to be taken private in a roughly $6 billion deal led by TPG and Corpay.",
+   "summary_ai": "BILL agreed to be taken private in a roughly $6 billion deal led by TPG and Corpay.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "partnerships"
-   ],
+   "sections": [],
    "breaking": false,
    "data_points": [
-    "$6 billion"
+    "$6 billion acquisition"
    ],
    "also": []
   },
@@ -62,19 +60,20 @@
    "source_type": "rss",
    "published": "2026-11-20T15:04:00Z",
    "relevance": 2,
-   "why": "BILL agreed to be acquired by TPG, with Corpay as a partner, in a deal reported at about $6 billion.",
-   "summary_ai": "BILL agreed to be acquired by TPG, with Corpay as a partner, in a deal reported at about $6 billion.",
-   "take": null,
-   "take_kind": null,
+   "why": "Bill's spend and corporate card products now move under a PE owner, so watch for changes in its partner strategy.",
+   "summary_ai": "Bill agreed to be acquired by private equity firm TPG in a deal valued at about $6 billion.",
+   "take": "Bill's spend and corporate card products now move under a PE owner, so watch for changes in its partner strategy.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "partnerships"
+   ],
    "breaking": false,
    "data_points": [
-    "$6bn deal",
-    "nearly 500,000 businesses"
+    "$6bn deal value"
    ],
    "also": []
   }

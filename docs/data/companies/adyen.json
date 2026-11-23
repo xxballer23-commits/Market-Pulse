@@ -5,6 +5,53 @@
  "vets": [],
  "items": [
   {
+   "id": "b5bd16519970",
+   "title": "Adyen adds Klarna to AI agent checkout",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHktQVNGN1gyTWRFY2J2NmVHQXViODAxMUVyZGJadmFFRGJyV0VOYXVwMjRtOTR1MUpFaHRtNWJCUktzMDluSXJiVEtFR3lkeWg4UE1TOHZwTk1SQm12Z05Id0FDMGNUZWRHY01UWmtTMExKT0hpRDNZZVBKVndJbFB6QXNfOGU2MFEyajhTUmY5c1MxX2M0Tk16U3I0UQ?oc=5",
+   "source": "The Paypers",
+   "source_type": "gnews",
+   "published": "2026-11-23T08:34:17Z",
+   "relevance": 3,
+   "why": "BNPL is moving into agentic checkout, so test whether pay-over-time options can be surfaced inside AI shopping flows for cardholders.",
+   "summary_ai": "Adyen now lets merchants offer Klarna within its AI agent checkout flows.",
+   "take": "BNPL is moving into agentic checkout, so test whether pay-over-time options can be surfaced inside AI shopping flows for cardholders.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2847e3342d78",
+   "title": "Adyen and Klarna Expand Agentic Commerce Beyond Traditional Card Payments",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ1VtUVkwYWlXdmJDRmE0Z0U5THpaS09OLUk1R1o4Qm9ObU5IdnpPM3V3anQ1dldQeHhfcVVzZ01zamZmN1d4cS1OLThMQjJXck1GSndXS2ZLaXdZd3BCV25oYVNVdnZXUlRQSVZIdUlpaUg0ZjREUmNzOXFsY2NPTmMtRThiU2ZHNmc?oc=5",
+   "source": "Payments Industry Intelligence",
+   "source_type": "gnews",
+   "published": "2026-11-22T22:59:55Z",
+   "relevance": 3,
+   "why": "Agentic checkout moving off cards could shift BNPL volume away from card rails; plan an issuer response.",
+   "summary_ai": "Adyen and Klarna are extending agentic commerce payments beyond traditional card rails into BNPL flows.",
+   "take": "Agentic checkout moving off cards could shift BNPL volume away from card rails; plan an issuer response.",
+   "take_kind": "take",
+   "partner": "Adyen",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "bac46d99863e",
    "title": "Klarna And Adyen Enable Flexible Payments For AI Agent Checkouts",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZmVBY1hOSkFLbzVLVkoyelZZcVBtZUEwcTQ0bTgySzlMS0JoUlhSUzYyU2E5c0xZNVBSM0ZoOUwwR0JoRk5NTlhiTGNVZWU1aDBHWmZ6OFZod05FUVR6eFpoYV9wWmFfUHBDT25OZmNGMWNUY01JenlHWjJFcFdiOE9la0dFYW9rRFRzbWpubHppOWNoZUtrNVBZbEpKVGh1cURNNGVtOVR0WV9KaUtwYXhFTQ?oc=5",

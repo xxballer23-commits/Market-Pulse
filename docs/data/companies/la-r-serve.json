@@ -11,9 +11,9 @@
    "source": "La Revue des Hôtels",
    "source_type": "gnews",
    "published": "2026-11-19T13:27:01Z",
-   "relevance": 2,
-   "why": "Hôtel de Crillon in Paris has named Édouard Delavaux from La Réserve as managing director.",
-   "summary_ai": "Hôtel de Crillon in Paris has named Édouard Delavaux from La Réserve as managing director.",
+   "relevance": 1,
+   "why": "Hôtel de Crillon in Paris has named La Réserve's Édouard Delavaux as its managing director.",
+   "summary_ai": "Hôtel de Crillon in Paris has named La Réserve's Édouard Delavaux as its managing director.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "11 January 2027"
+    "Starts 11 January 2027"
    ],
    "also": []
   }

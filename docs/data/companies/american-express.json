@@ -348,32 +348,6 @@
    "also": []
   },
   {
-   "id": "b118853ad378",
-   "title": "Best Buy Citi Offer: Save $10 When Spending $200 (can be used twice)",
-   "url": "https://frequentmiler.com/best-buy-citi-offer-save-10-when-spending-200/",
-   "source": "Frequent Miler",
-   "source_type": "rss",
-   "published": "2026-11-20T21:45:45Z",
-   "relevance": 2,
-   "why": "Issuers are stacking card-linked retail offers against each other at the same merchant, so check how Amex and Citi offers compare.",
-   "summary_ai": "Citi is offering a $10 credit at Best Buy on a single $200 purchase, usable twice, and Amex has a separate Best Buy offer.",
-   "take": "Issuers are stacking card-linked retail offers against each other at the same merchant, so check how Amex and Citi offers compare.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "Targeted offer, eligibility unknown",
-   "sections": [
-    "community"
-   ],
-   "breaking": false,
-   "data_points": [
-    "$10 off $200 spend",
-    "Expires 11/30/26"
-   ],
-   "also": []
-  },
-  {
    "id": "37d7261447a3",
    "title": "American Express Co Stock (AXP) Closed Down by 3.02% on Nov 20: What Investors Need To Know",
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcFJCRFlUSnM0YS14bkw0UE1pM1AyWFdfUE5mQWZuU05fR3ZhTDBaRU4xUEVaV3pfcXg5Wi1VTFVITGszOGlQYXRsMmktaEFmOVRCOFNQY2Mtam42akthdnFzQmNrVWppMTBES0ZzZUh5Yms3M3JHajJnbkFFbExyRklXS3ZNcUF1LXc?oc=5",
@@ -479,16 +453,17 @@
    "source": "Frequent Miler",
    "source_type": "rss",
    "published": "2026-11-20T14:45:09Z",
-   "relevance": 2,
-   "why": "Frequent Miler is listing current American Express card offers, though the headline gives no specific details.",
-   "summary_ai": "Frequent Miler is listing current American Express card offers, though the headline gives no specific details.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "Log which Amex offers recur over time to gauge merchant appetite for card-linked deals.",
+   "summary_ai": "Frequent Miler lists the American Express card offers currently available to cardholders.",
+   "take": "Log which Amex offers recur over time to gauge merchant appetite for card-linked deals.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "Targeted offers, eligibility unknown",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
+    "premium_cards",
     "community"
    ],
    "breaking": false,
@@ -502,11 +477,11 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-20T10:57:17Z",
-   "relevance": 2,
-   "why": "Default paperless enrollment can change how cardholders see statements and notices, which affects servicing and engagement.",
-   "summary_ai": "American Express is automatically enrolling cardholders into paperless billing, prompting reader reaction.",
-   "take": "Default paperless enrollment can change how cardholders see statements and notices, which affects servicing and engagement.",
-   "take_kind": "read",
+   "relevance": 1,
+   "why": "American Express is automatically enrolling some cardholders into paperless billing.",
+   "summary_ai": "American Express is automatically enrolling some cardholders into paperless billing.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -800,21 +775,21 @@
    "source_type": "rss",
    "published": "2026-11-19T09:37:36Z",
    "relevance": 3,
-   "why": "Community scrutiny of the fee versus flat 2% cash back shows how business card value is being benchmarked.",
-   "summary_ai": "A review of Amex's Graphite Business Cash Unlimited card asks whether its fee is justified by 2% cash back.",
-   "take": "Community scrutiny of the fee versus flat 2% cash back shows how business card value is being benchmarked.",
+   "why": "Fee-heavy business cards live or die on clear value math, so cardholder reviews shape retention and sign-up intent.",
+   "summary_ai": "A review weighs whether the $295 annual fee on Amex's Graphite Business Cash Unlimited card is justified by its benefits.",
+   "take": "Fee-heavy business cards live or die on clear value math, so cardholder reviews shape retention and sign-up intent.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community"
+    "community",
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [
-    "$295 annual fee",
-    "2% cash back"
+    "$295 annual fee"
    ],
    "also": []
   },

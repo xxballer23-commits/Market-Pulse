@@ -1,0 +1,36 @@
+{
+ "name": "M&T Bank",
+ "slug": "mandt-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9ad4ffbf0b07",
+   "title": "M&T aims to ‘dial up’ credit card rewards",
+   "url": "https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-19T17:06:00Z",
+   "relevance": 3,
+   "why": "M&T Bank is reportedly planning to boost the rewards on its credit cards.",
+   "summary_ai": "M&T Bank is reportedly planning to boost the rewards on its credit cards.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": [
+    {
+     "source": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/mt-bank-credit-card-rewards-retail/875192/"
+    }
+   ]
+  }
+ ]
+}

@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "5a595d00f302",
+   "title": "St. Thomas’ New 20-Villa Resort Has Joined Preferred Hotels & Resorts",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJYW1ZMTlWU3I1UWxJLWtlcXg4MzhvLTlxRzRxVmtjS0R2TENMNlVnRVdHM1Bab3B5TjZ1aFhteEg4dXc0Z0wtejVaLTQ0NWhCcWRjTzhMbjhfbFlXZFcteWdqblExendaYUhfaUpvQ0tGTG94Ymc?oc=5",
+   "source": "Caribbean Journal",
+   "source_type": "gnews",
+   "published": "2026-11-23T03:06:32Z",
+   "relevance": 2,
+   "why": "A new 20-villa resort on St. Thomas has joined the Preferred Hotels & Resorts collection.",
+   "summary_ai": "A new 20-villa resort on St. Thomas has joined the Preferred Hotels & Resorts collection.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20 villas"
+   ],
+   "also": []
+  },
+  {
    "id": "6d34ff90fa87",
    "title": "Preferred Hotels & Resorts Reveals Its New Independent Hotel Openings For 2027",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQaVcyYTNGXzVRQ1lxMW9mX0NGSHM4QnVhdDdQTGpuRlJJVVhjb1lVMXFOV0k2TGJybFY0NmEtSGlDRlRrSXk1U19WaUlNMFBuOXRwcHZTM29WNmxfd1ZmaE8zWDZpc2NqZnhfTFNLTG4tbjU3UDNFSEhkNFRGdEkyWDVDTDBkcmF4Tk1IbmQ1amN0WFFWamloMEVxN1o2SHRmMWNVMnVTZjJLUWdLV0pFZVRtYjdxVkQ4cnFPaWdsNEpKM1VsRE5V0gHHAUFVX3lxTFBpVzJhM0ZfNVFDWXExb2ZfQ0ZIczhCdWF0N1BMam5GUklVWGNvWVUxcU5XSTZMYnJsVjQ2YS1IaUNGVGtJeTVTX1ZpSU0wUG45dHBwdlMzb1Y2bF93VmZoTzNYNmlzY2pmeF9MU0tMbi1uNTdQM0VISGQ0VEZ0STJYNUNMMGRyYXhOTUhuZDVqY3RYUVZqaWgwRXE3WjZIdGYxY1UydVNmMktRZ0tXSkVlVG1iN3FWRDhycU9pZ2w0SkozVWxETlU?oc=5",
@@ -12,22 +37,19 @@
    "source_type": "gnews",
    "published": "2026-11-19T06:40:29Z",
    "relevance": 3,
-   "why": "Preferred's independent pipeline is a candidate for premium card hotel collections. Confirm who controls distribution and loyalty terms before approaching.",
-   "summary_ai": "Preferred Hotels & Resorts has released its list of independent hotel openings planned for 2027.",
-   "take": "Preferred's independent pipeline is a candidate for premium card hotel collections. Confirm who controls distribution and loyalty terms before approaching.",
-   "take_kind": "take",
+   "why": "Preferred Hotels & Resorts announced its slate of independent hotel openings planned for 2027.",
+   "summary_ai": "Preferred Hotels & Resorts announced its slate of independent hotel openings planned for 2027.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury",
-    "partnerships"
+    "luxury"
    ],
    "breaking": false,
-   "data_points": [
-    "2027"
-   ],
+   "data_points": [],
    "also": [
     {
      "source": "Hotelier Buzz",

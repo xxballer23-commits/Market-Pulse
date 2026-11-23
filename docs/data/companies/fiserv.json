@@ -11,23 +11,18 @@
    "source": "Fortune",
    "source_type": "gnews",
    "published": "2026-11-19T14:17:58Z",
-   "relevance": 2,
-   "why": "Payments processor results can signal merchant and bank processing trends, but this is only indirectly relevant.",
-   "summary_ai": "Fiserv discusses its fourth-quarter 2025 results on an earnings call.",
-   "take": "Payments processor results can signal merchant and bank processing trends, but this is only indirectly relevant.",
-   "take_kind": "read",
+   "relevance": 1,
+   "why": "Fiserv held its fourth-quarter 2025 earnings call, with the transcript now published.",
+   "summary_ai": "Fiserv held its fourth-quarter 2025 earnings call, with the transcript now published.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "wells",
-    "spending_data"
-   ],
+   "sections": [],
    "breaking": false,
-   "data_points": [
-    "Q4 2025"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

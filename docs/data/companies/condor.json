@@ -1,0 +1,29 @@
+{
+ "name": "Condor",
+ "slug": "condor",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b16682d3c1db",
+   "title": "Dozens Fall Ill On Two Condor Flights To Frankfurt, Triggering Mass Casualty Response",
+   "url": "https://onemileatatime.com/news/dozens-fall-ill-condor-flights-frankfurt-mass-casualty-response/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-23T11:10:10Z",
+   "relevance": 1,
+   "why": "Dozens of passengers on two Condor flights from the Dominican Republic fell ill, with norovirus from a cruise ship suspected.",
+   "summary_ai": "Dozens of passengers on two Condor flights from the Dominican Republic fell ill, with norovirus from a cruise ship suspected.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

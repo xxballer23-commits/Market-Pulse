@@ -1,0 +1,31 @@
+{
+ "name": "Synchrony",
+ "slug": "synchrony",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d6de35a1f26f",
+   "title": "SYF (NYSE:SYF) Record Card Spending and Lower Charge-Offs Support High-End Earnings Target",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTGZWRkxrNkZmc29idzIydnFIM3lpbW1jMzY0dU44RUsxc3JLZ1RFalFIY2NJdXdTcm85RzhmeFBvTFhValpKMlVfZ0FMM2xud1oyWm1ydHNheGd2bjFGR2ZUTkVuM1BtcnNvTTA4SGRVN1ZQYVhXeVFXV2tOTHM2cElFTWVkR251OVhNaDRGdmQ2dlJOeGZFWUJFNjhIWXlPVUdoOHdmWm9JSjdoMG9JQkVBdVRLX3pkZ3JMVTZxbHVFNkRzSnR0SWJRV1Y?oc=5",
+   "source": "Kalkine Media",
+   "source_type": "gnews",
+   "published": "2026-11-23T07:10:00Z",
+   "relevance": 3,
+   "why": "Falling charge-offs at Synchrony point to healthy issuer credit quality, a useful benchmark for card credit discussions.",
+   "summary_ai": "Synchrony reports record card spending and lower charge-offs, which support its higher-end earnings target.",
+   "take": "Falling charge-offs at Synchrony point to healthy issuer credit quality, a useful benchmark for card credit discussions.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

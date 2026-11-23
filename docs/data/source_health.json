@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-23T02:50:56Z",
+ "checked": "2026-11-23T12:14:34Z",
  "sources": [
   {
    "name": "WSJ Markets",
@@ -8,7 +8,7 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -18,7 +18,7 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -28,7 +28,7 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -36,9 +36,9 @@
    "url": "https://www.cnbc.com/id/10000664/device/rss/rss.html",
    "type": "rss",
    "ok": true,
-   "count": 6,
+   "count": 7,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -46,9 +46,9 @@
    "url": "https://www.cnbc.com/id/10000116/device/rss/rss.html",
    "type": "rss",
    "ok": true,
-   "count": 6,
+   "count": 5,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -56,9 +56,9 @@
    "url": "https://www.paymentsdive.com/feeds/news/",
    "type": "rss",
    "ok": true,
-   "count": 2,
+   "count": 4,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -68,7 +68,7 @@
    "ok": true,
    "count": 4,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -78,7 +78,7 @@
    "ok": true,
    "count": 10,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -86,9 +86,9 @@
    "url": "https://www.finextra.com/rss/headlines.aspx",
    "type": "rss",
    "ok": true,
-   "count": 27,
+   "count": 28,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -99,16 +99,16 @@
    "count": 0,
    "error": "ValueError: unparseable feed: <unknown>:35:46: not well-formed (invalid token)",
    "last_ok": null,
-   "fail_streak": 18
+   "fail_streak": 19
   },
   {
    "name": "Retail Dive",
    "url": "https://www.retaildive.com/feeds/news/",
    "type": "rss",
    "ok": true,
-   "count": 5,
+   "count": 7,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -116,9 +116,9 @@
    "url": "https://www.modernretail.co/feed/",
    "type": "rss",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -128,7 +128,7 @@
    "ok": true,
    "count": 10,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -136,9 +136,9 @@
    "url": "https://skift.com/feed/",
    "type": "rss",
    "ok": true,
-   "count": 8,
+   "count": 10,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -149,7 +149,7 @@
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://jingdaily.com/feed",
    "last_ok": null,
-   "fail_streak": 18
+   "fail_streak": 19
   },
   {
    "name": "Eater NY",
@@ -158,7 +158,7 @@
    "ok": true,
    "count": 5,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -168,7 +168,7 @@
    "ok": true,
    "count": 15,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -178,7 +178,7 @@
    "ok": true,
    "count": 15,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -188,7 +188,7 @@
    "ok": true,
    "count": 20,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -198,7 +198,7 @@
    "ok": true,
    "count": 25,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -209,16 +209,16 @@
    "count": 0,
    "error": "HTTPError: 404 Client Error: Not Found for url: https://www.reddit.com/r/CreditCards/top/.rss?t=day",
    "last_ok": null,
-   "fail_streak": 18
+   "fail_streak": 19
   },
   {
    "name": "Google News: \"credit card\" (Amex OR \"American Express\") (Platinum OR Cent",
    "url": "https://news.google.com/rss/search?q=%22credit+card%22+%28Amex+OR+%22American+Express%22%29+%28Platinum+OR+Centurion+OR+benefits%29+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 20,
+   "count": 28,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -228,7 +228,7 @@
    "ok": true,
    "count": 3,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -238,7 +238,7 @@
    "ok": true,
    "count": 7,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -248,7 +248,7 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -256,29 +256,29 @@
    "url": "https://news.google.com/rss/search?q=Bilt+card+OR+%22Bilt+Rewards%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 6,
+   "count": 8,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
    "name": "Google News: \"co-brand\" credit card partnership",
    "url": "https://news.google.com/rss/search?q=%22co-brand%22+credit+card+partnership+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22co-brand%22+credit+card+partnership+when%3A2d&hl=en-US&gl=US&ceid=US:en",
-   "last_ok": "2026-11-23T02:46:20Z",
-   "fail_streak": 1
+   "ok": true,
+   "count": 2,
+   "error": null,
+   "last_ok": "2026-11-23T12:14:34Z",
+   "fail_streak": 0
   },
   {
    "name": "Google News: \"invite-only\" credit card OR \"ultra-premium\" card",
    "url": "https://news.google.com/rss/search?q=%22invite-only%22+credit+card+OR+%22ultra-premium%22+card+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 0,
+   "count": 2,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -286,9 +286,9 @@
    "url": "https://news.google.com/rss/search?q=credit+card+%22annual+fee%22+increase+OR+refresh+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 8,
+   "count": 10,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -296,9 +296,9 @@
    "url": "https://news.google.com/rss/search?q=airport+lounge+credit+card+new+opening+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 12,
+   "count": 14,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -306,29 +306,29 @@
    "url": "https://news.google.com/rss/search?q=loyalty+program+%22transfer+partner%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 4,
+   "count": 3,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
    "name": "Google News: \"card-linked offers\" OR \"rewards platform\" funding",
    "url": "https://news.google.com/rss/search?q=%22card-linked+offers%22+OR+%22rewards+platform%22+funding+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
-   "ok": false,
+   "ok": true,
    "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22card-linked+offers%22+OR+%22rewards+platform%22+funding+when%3A2d&hl=en-US&",
-   "last_ok": "2026-11-23T02:46:20Z",
-   "fail_streak": 1
+   "error": null,
+   "last_ok": "2026-11-23T12:14:34Z",
+   "fail_streak": 0
   },
   {
    "name": "Google News: concierge OR \"travel booking\" startup raises funding",
    "url": "https://news.google.com/rss/search?q=concierge+OR+%22travel+booking%22+startup+raises+funding+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 0,
+   "count": 1,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -336,9 +336,9 @@
    "url": "https://news.google.com/rss/search?q=luxury+spending+affluent+consumers+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 8,
+   "count": 6,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -346,9 +346,9 @@
    "url": "https://news.google.com/rss/search?q=LVMH+OR+Hermes+OR+Kering+OR+Richemont+sales+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 17,
+   "count": 21,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -356,9 +356,9 @@
    "url": "https://news.google.com/rss/search?q=site%3Abusinessoffashion.com+luxury+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 37,
+   "count": 30,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -368,27 +368,27 @@
    "ok": true,
    "count": 13,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
    "name": "Google News: luxury hotel opening 2026 OR 2027",
    "url": "https://news.google.com/rss/search?q=luxury+hotel+opening+2026+OR+2027+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
-   "ok": false,
-   "count": 0,
-   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=luxury+hotel+opening+2026+OR+2027+when%3A2d&hl=en-US&gl=US&ceid=US:en",
-   "last_ok": "2026-11-23T02:46:20Z",
-   "fail_streak": 1
+   "ok": true,
+   "count": 30,
+   "error": null,
+   "last_ok": "2026-11-23T12:14:34Z",
+   "fail_streak": 0
   },
   {
    "name": "Google News: Sotheby's OR Christie's auction results",
    "url": "https://news.google.com/rss/search?q=Sotheby%27s+OR+Christie%27s+auction+results+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 29,
+   "count": 37,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -398,7 +398,7 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -406,9 +406,9 @@
    "url": "https://news.google.com/rss/search?q=New+York+restaurant+opening+chef+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 28,
+   "count": 27,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -416,9 +416,9 @@
    "url": "https://news.google.com/rss/search?q=credit+card+delinquencies+OR+charge-offs+consumer+credit+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 10,
+   "count": 11,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -428,7 +428,7 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -438,7 +438,7 @@
    "ok": true,
    "count": 0,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -446,9 +446,9 @@
    "url": "https://news.google.com/rss/search?q=personal+loans+lender+partnership+OR+launch+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 4,
+   "count": 11,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -456,9 +456,9 @@
    "url": "https://news.google.com/rss/search?q=Affirm+OR+Klarna+OR+Afterpay+partnership+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 9,
+   "count": 12,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -466,9 +466,9 @@
    "url": "https://news.google.com/rss/search?q=%22buy+now+pay+later%22+card+OR+bank+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 10,
+   "count": 8,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -476,9 +476,9 @@
    "url": "https://news.google.com/rss/search?q=CFPB+credit+card+OR+%22Credit+Card+Competition+Act%22+OR+interchange+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 1,
+   "count": 2,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -486,9 +486,9 @@
    "url": "https://news.google.com/rss/search?q=%22Wells+Fargo%22+credit+card+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 18,
+   "count": 25,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -498,18 +498,18 @@
    "ok": true,
    "count": 10,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
    "name": "Google News: \"Wells Fargo\" partnership OR \"personal loan\"",
    "url": "https://news.google.com/rss/search?q=%22Wells+Fargo%22+partnership+OR+%22personal+loan%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
-   "ok": true,
-   "count": 4,
-   "error": null,
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=%22Wells+Fargo%22+partnership+OR+%22personal+loan%22+when%3A2d&hl=en-US&gl=US&",
    "last_ok": "2026-11-23T02:50:56Z",
-   "fail_streak": 0
+   "fail_streak": 1
   },
   {
    "name": "Google News: site:wsj.com credit card OR luxury OR affluent",
@@ -518,7 +518,7 @@
    "ok": true,
    "count": 60,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   },
   {
@@ -526,9 +526,9 @@
    "url": "https://news.google.com/rss/search?q=site%3Abloomberg.com+luxury+OR+%22credit+card%22+when%3A2d&hl=en-US&gl=US&ceid=US:en",
    "type": "gnews",
    "ok": true,
-   "count": 17,
+   "count": 22,
    "error": null,
-   "last_ok": "2026-11-23T02:50:56Z",
+   "last_ok": "2026-11-23T12:14:34Z",
    "fail_streak": 0
   }
  ]

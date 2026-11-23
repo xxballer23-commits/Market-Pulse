@@ -11,18 +11,16 @@
    "source": "NerdWallet",
    "source_type": "gnews",
    "published": "2026-11-19T20:29:43Z",
-   "relevance": 2,
-   "why": "NerdWallet ranks the best credit cards offered by Navy Federal Credit Union.",
-   "summary_ai": "NerdWallet ranks the best credit cards offered by Navy Federal Credit Union.",
+   "relevance": 1,
+   "why": "NerdWallet ranks the credit cards offered by Navy Federal Credit Union.",
+   "summary_ai": "NerdWallet ranks the credit cards offered by Navy Federal Credit Union.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "premium_cards"
-   ],
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []

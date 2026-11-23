@@ -94,7 +94,12 @@
    "data_points": [
     "$115 price target"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "TIKR.com",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjNzSFdnNFhmREk4ZGdtQWdtV3BCZ1czR0NXSzhuT2ltSnBTTGJWdjk0WW44c0Ryd0FPRkVLN2ZZc29JNU5ZX2dLYVFkNl80TC14LVJTWUdBdnR3OXczcmtnQUxidWdjZE5EcVNPX2hXZHdkU2xDY2U0NTYwQkNRYk45MkNhazdwRzUyRE9rNA?oc=5"
+    }
+   ]
   },
   {
    "id": "db61eacc45c4",
@@ -152,14 +157,14 @@
    "source_type": "gnews",
    "published": "2026-11-20T19:14:27Z",
    "relevance": 2,
-   "why": "Wells Fargo is reportedly losing a team tied to $1.3 billion in assets while bitcoin ETF holdings rise.",
-   "summary_ai": "Wells Fargo is reportedly losing a team tied to $1.3 billion in assets while bitcoin ETF holdings rise.",
-   "take": null,
-   "take_kind": null,
+   "why": "Advisor-team exits hint at wealth-client retention pressure, a useful lens for Wells' affluent card strategy.",
+   "summary_ai": "Wells Fargo reportedly lost a $1.3 billion advisor team while its Bitcoin ETF holdings grew.",
+   "take": "Advisor-team exits hint at wealth-client retention pressure, a useful lens for Wells' affluent card strategy.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Headline only, no summary",
+   "low_confidence": null,
    "sections": [
     "wells"
    ],
@@ -197,9 +202,9 @@
    "source": "Yahoo Finance",
    "source_type": "gnews",
    "published": "2026-11-20T16:06:25Z",
-   "relevance": 2,
-   "why": "Wells Fargo reportedly doubled its bitcoin ETF exposure as institutional investors pile in.",
-   "summary_ai": "Wells Fargo reportedly doubled its bitcoin ETF exposure as institutional investors pile in.",
+   "relevance": 1,
+   "why": "Wells Fargo has roughly doubled its exposure to bitcoin ETFs as institutional investors increase their holdings.",
+   "summary_ai": "Wells Fargo has roughly doubled its exposure to bitcoin ETFs as institutional investors increase their holdings.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -424,9 +429,9 @@
    "source": "Simply Wall St",
    "source_type": "gnews",
    "published": "2026-11-19T13:10:08Z",
-   "relevance": 2,
-   "why": "Simply Wall St asks whether Wells Fargo shares look cheap after the bank's recent debt offerings.",
-   "summary_ai": "Simply Wall St asks whether Wells Fargo shares look cheap after the bank's recent debt offerings.",
+   "relevance": 1,
+   "why": "Simply Wall St asks whether Wells Fargo shares look cheap after its recent debt offerings.",
+   "summary_ai": "Simply Wall St asks whether Wells Fargo shares look cheap after its recent debt offerings.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -447,9 +452,9 @@
    "source": "Seeking Alpha",
    "source_type": "gnews",
    "published": "2026-11-19T12:57:03Z",
-   "relevance": 2,
-   "why": "Seeking Alpha says Wells Fargo's operating execution has improved, but its valuation remains the key concern.",
-   "summary_ai": "Seeking Alpha says Wells Fargo's operating execution has improved, but its valuation remains the key concern.",
+   "relevance": 1,
+   "why": "Commentary argues Wells Fargo's execution has improved while its valuation still looks stretched.",
+   "summary_ai": "Commentary argues Wells Fargo's execution has improved while its valuation still looks stretched.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -515,14 +520,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T10:20:58Z",
    "relevance": 3,
-   "why": "Beer ran Chase card services, so watch for signals of Wells premium card refreshes under her influence.",
-   "summary_ai": "Report says Wells Fargo has hired JPMorgan's card services chief Allison Beer as its next chief operating officer.",
-   "take": "Beer ran Chase card services, so watch for signals of Wells premium card refreshes under her influence.",
-   "take_kind": "read",
+   "why": "Watch whether Beer brings JPMorgan's card partnership playbook to Wells Fargo's card and benefits lineup.",
+   "summary_ai": "Wells Fargo reportedly hired JPMorgan's card services chief, Allison Beer, as its next COO.",
+   "take": "Watch whether Beer brings JPMorgan's card partnership playbook to Wells Fargo's card and benefits lineup.",
+   "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Reported hire, not confirmed",
+   "low_confidence": "Reported hire, not yet confirmed",
    "sections": [
     "wells"
    ],

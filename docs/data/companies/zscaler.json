@@ -1,0 +1,31 @@
+{
+ "name": "Zscaler",
+ "slug": "zscaler",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a093c642dc4b",
+   "title": "CrowdStrike to Buy Zscaler in $43.9 Billion Stock Swap",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc25MX1dwRE9Lc3haUV91TTdFS3ZhT2VUTXgxTHNPdWpmQXowdE1OVHJWMC16YjFFRTRldy1xWWxvRUpNT3JwenpwZTFvd3ZHSVB3SmtPQU9IT2JjSC1BSTZ6aVdCRHhWZzVHaHNiWEZsYXExR2xiZFRaX1VZMHJscktPVHpzeWZSRGJOZ1JOUXV3bV9tRDVmMUZNR2pvdw?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-23T11:26:15Z",
+   "relevance": 1,
+   "why": "CrowdStrike agreed to acquire Zscaler in an all-stock deal valued at about $43.9 billion.",
+   "summary_ai": "CrowdStrike agreed to acquire Zscaler in an all-stock deal valued at about $43.9 billion.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$43.9 billion stock swap"
+   ],
+   "also": []
+  }
+ ]
+}

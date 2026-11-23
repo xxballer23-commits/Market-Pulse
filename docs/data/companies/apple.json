@@ -5,15 +5,64 @@
  "vets": [],
  "items": [
   {
+   "id": "adad3d36e0bc",
+   "title": "Google Brings Its Wallet to the iPhone as Apple Pay Gets a New Leader",
+   "url": "https://www.pymnts.com/big-tech/2026/google-brings-wallet-iphone-apple-pay-gets-new-leader/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-23T09:00:34Z",
+   "relevance": 3,
+   "why": "Wallet placement on iPhone matters for premium card issuers; check how premium cards enroll in Google Wallet.",
+   "summary_ai": "Google made its wallet available on iPhone and Apple Pay named a new leader, two moves that affect mobile payments.",
+   "take": "Wallet placement on iPhone matters for premium card issuers; check how premium cards enroll in Google Wallet.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Nov. 17"
+   ],
+   "also": []
+  },
+  {
+   "id": "eaab42fca061",
+   "title": "In 1976, a 41-year-old engineer sold his 10% of Apple for $800 to avoid the risk. That stake could now be",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxOb1lsdjlBRlE5allhZlNHT0RXN29LdjBEWnRydW9mVDJRS3V1cVNvbzNJMkdBcXVVVTFhYTJVSlFBVnYzTVpNa25NVVVkVHNTNjdKLXhUSzQwUDNvVzRtc3gxVmxaLUlaNlpNLWtlcjN0SGlGWUdFVmp1cTQ4QWY2cHdOWHRYbGpicnk0bFlGSThnN09jWnJJb0FXX1BYbVlYQV9vRDRmdURuUFNuZHBwd1l2dktRVGRqTlg5bXp0Ni0tTkpWeHhEeVRFZzR2SUJwUDUzVzE5Ny1oeGlyYUpqZG92TGk5NzFnYjNoN0F4T1JBM1JrOFB1YWtjZ0piY0UyOW52dnlKb1BpMjc0aG9CU1M4VnltMVJPcFh6bG9jdmZndWswd0FNOVdFMnVkWHA3Q0ZReFhiNTJPQXhBXzNYRmstZnp0Z2JDcFZpbkZwQ3VUcWtzYnZvUtIB2AJBVV95cUxOb1lsdjlBRlE5allhZlNHT0RXN29LdjBEWnRydW9mVDJRS3V1cVNvbzNJMkdBcXVVVTFhYTJVSlFBVnYzTVpNa25NVVVkVHNTNjdKLXhUSzQwUDNvVzRtc3gxVmxaLUlaNlpNLWtlcjN0SGlGWUdFVmp1cTQ4QWY2cHdOWHRYbGpicnk0bFlGSThnN09jWnJJb0FXX1BYbVlYQV9vRDRmdURuUFNuZHBwd1l2dktRVGRqTlg5bXp0Ni0tTkpWeHhEeVRFZzR2SUJwUDUzVzE5Ny1oeGlyYUpqZG92TGk5NzFnYjNoN0F4T1JBM1JrOFB1YWtjZ0piY0UyOW52dnlKb1BpMjc0aG9CU1M4VnltMVJPcFh6bG9jdmZndWswd0FNOVdFMnVkWHA3Q0ZReFhiNTJPQXhBXzNYRmstZnp0Z2JDcFZpbkZwQ3VUcWtzYnZvUg?oc=5",
+   "source": "The Economic Times",
+   "source_type": "gnews",
+   "published": "2026-11-22T20:36:00Z",
+   "relevance": 1,
+   "why": "A story recounts a 1976 sale of a 10% Apple stake for $800 and what that stake might be worth today.",
+   "summary_ai": "A story recounts a 1976 sale of a 10% Apple stake for $800 and what that stake might be worth today.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$800",
+    "10%"
+   ],
+   "also": []
+  },
+  {
    "id": "511aeb690cf0",
    "title": "Apple Black Friday Event: Up To $300 Giftcard With Purchase",
    "url": "https://www.doctorofcredit.com/apple-black-friday-event-up-to-300-giftcard-with-purchase/",
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T19:30:21Z",
-   "relevance": 2,
-   "why": "Apple's Black Friday event offers up to $300 in gift cards with select purchases from Nov 27 to 30.",
-   "summary_ai": "Apple's Black Friday event offers up to $300 in gift cards with select purchases from Nov 27 to 30.",
+   "relevance": 1,
+   "why": "Apple is running a Black Friday promotion offering a gift card with qualifying purchases.",
+   "summary_ai": "Apple is running a Black Friday promotion offering a gift card with qualifying purchases.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,8 +74,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Up to $300 gift cards",
-    "Nov 27 to 30"
+    "Up to $300 gift card"
    ],
    "also": []
   },
@@ -60,22 +108,22 @@
    "source": "آي-فون إسلام",
    "source_type": "gnews",
    "published": "2026-11-19T08:24:36Z",
-   "relevance": 3,
-   "why": "Track Apple and Klarna's device financing as a BNPL benchmark that could pressure card installment features.",
-   "summary_ai": "Apple reportedly plans a device leasing program with Klarna, targeted to launch by the end of July.",
-   "take": "Track Apple and Klarna's device financing as a BNPL benchmark that could pressure card installment features.",
+   "relevance": 4,
+   "why": "BNPL moving into premium hardware financing is a model card issuers could pitch for high-ticket device and lifestyle purchases.",
+   "summary_ai": "Apple reportedly plans to launch a device leasing program with Klarna by the end of July.",
+   "take": "BNPL moving into premium hardware financing is a model card issuers could pitch for high-ticket device and lifestyle purchases.",
    "take_kind": "take",
    "partner": "Klarna",
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Reported by secondary outlet, unconfirmed",
+   "low_confidence": "Reported plan, unconfirmed by Apple or Klarna",
    "sections": [
     "lending",
     "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "End of July"
+    "By end of July"
    ],
    "also": []
   }

@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "cd69e92b5557",
+   "title": "Other Emerald cards miss distinct British Airways benefits",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmZsTlRkTUNXcE5ZLWg2RGF6NERmS29kVGFXU0Q4Rm43M3lscklYaGszMEhyREFkb0JBVHlnZ044Yi1pQVhtRlJkRWtqdzQzOFJldkNhbDFfa05pMGF4eVB5VnFRNndfaHJycXd3TEV3cEdKTEhWNHIwRGRHdkk3NzRseXlwVEpzRVloRlJlb2tZMDdJbEdEWg?oc=5",
+   "source": "InsideFlyer",
+   "source_type": "gnews",
+   "published": "2026-11-23T05:11:00Z",
+   "relevance": 3,
+   "why": "Benefit gaps across card variants in one family can confuse cardholders and weaken the case for a shared airline partner benefit.",
+   "summary_ai": "InsideFlyer reports that several Emerald card versions do not include certain British Airways benefits.",
+   "take": "Benefit gaps across card variants in one family can confuse cardholders and weaken the case for a shared airline partner benefit.",
+   "take_kind": "read",
+   "partner": "British Airways",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "0a940802dbc9",
    "title": "British Airways Announces New Routes, Cabin Upgrades and Heathrow Lounge Plans",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pUHp2WlNFcDRfZzhBOWF1Q3VwYkFDSGRtNl85dlM3dHFBT0x3X3I4b0d2RU51bjByclFEc0xVMWcyTDFzcHU0enVYVlpEem9SaWc3bVVZdVBoOGg0WS12Mk15bF9FRElkYXN2RmV4NXZKS3BkdWEwa0xyQXFJZw?oc=5",
@@ -12,14 +35,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T05:18:24Z",
    "relevance": 3,
-   "why": "If Heathrow lounge plans hold, check card lounge access terms with BA before the next partner renewal cycle.",
-   "summary_ai": "British Airways reportedly plans new routes, cabin upgrades and Heathrow lounge changes, sourced from an unverified site.",
-   "take": "If Heathrow lounge plans hold, check card lounge access terms with BA before the next partner renewal cycle.",
+   "why": "Track the Heathrow lounge changes for timing of any airline-linked card benefit or lounge access partnership updates.",
+   "summary_ai": "British Airways plans new routes, cabin upgrades and changes to its Heathrow lounge.",
+   "take": "Track the Heathrow lounge changes for timing of any airline-linked card benefit or lounge access partnership updates.",
    "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Unverified aggregator source",
+   "low_confidence": null,
    "sections": [
     "premium_cards",
     "luxury"

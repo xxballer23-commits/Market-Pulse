@@ -11,10 +11,10 @@
    "source": "Bloomberg.com",
    "source_type": "gnews",
    "published": "2026-11-20T10:00:00Z",
-   "relevance": 2,
-   "why": "Ultra-luxury and streetwear spending sitting side by side in one household is a useful lens on affluent purchase behavior.",
-   "summary_ai": "A Bloomberg column contrasts a $150,000 Patek watch with a Chrome Hearts hoodie bought for a teen.",
-   "take": "Ultra-luxury and streetwear spending sitting side by side in one household is a useful lens on affluent purchase behavior.",
+   "relevance": 3,
+   "why": "Ultra-high-end watches and streetwear sit in the same household budget, which matters for HNW spend segmentation.",
+   "summary_ai": "A Bloomberg column describes buying a $150,000 Patek watch alongside a Chrome Hearts hoodie for a teen.",
+   "take": "Ultra-high-end watches and streetwear sit in the same household budget, which matters for HNW spend segmentation.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "$150,000 watch"
+    "$150,000"
    ],
    "also": []
   }

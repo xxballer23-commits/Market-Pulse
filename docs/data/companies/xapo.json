@@ -1,0 +1,33 @@
+{
+ "name": "Xapo",
+ "slug": "xapo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "18e51cb2fc1c",
+   "title": "Bitcoin-Backed Lending Surges 62% as Xapo Bank Members Leverage BTC for Real Estate",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclhDOU9lTkpOZWhicGRRUVFOdGNmLV9vT3VFSnRrZl9lVjF6OS1GMzExSzJaQzU3TVUtNmZJaXFGbC16T3ZHQks4LXVBV09RczNLY2F4ZVZXaWZuMEFNd0xmTFppR081N3hKUEI0aWoyckFsWlZpRlE3SXNPbFNmQ21QNGEwazhWb0tFeGxlTzRZeVZzZnU0OExUR2FyTmlW?oc=5",
+   "source": "FF News",
+   "source_type": "gnews",
+   "published": "2026-11-23T09:56:18Z",
+   "relevance": 2,
+   "why": "Crypto-collateralized lending is a niche signal, not a near-term partner lead for card lending programs.",
+   "summary_ai": "Bitcoin-backed loans at Xapo Bank reportedly rose 62% as members borrowed against crypto to buy real estate.",
+   "take": "Crypto-collateralized lending is a niche signal, not a near-term partner lead for card lending programs.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "62% rise in bitcoin-backed lending"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "f07ff294fe82",
+   "title": "Mr & Mrs Smith Booked More Under Hyatt but Earned Less on Each Stay",
+   "url": "https://skift.com/2026/11/23/mr-mrs-smith-booked-more-under-hyatt-but-earned-less-on-each-stay/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-23T08:44:47Z",
+   "relevance": 4,
+   "why": "Boutique hotel loyalty integrations can grow bookings while diluting per-stay value, so price any hotel partner with that trade-off in mind.",
+   "summary_ai": "Hyatt's Mr & Mrs Smith brings boutique hotels into World of Hyatt, lifting bookings but lowering per-stay revenue and pushing the UK unit into a 2025 loss.",
+   "take": "Boutique hotel loyalty integrations can grow bookings while diluting per-stay value, so price any hotel partner with that trade-off in mind.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "UK loss in 2025"
+   ],
+   "also": []
+  },
+  {
    "id": "e3bd7b29b1be",
    "title": "Hyatt confirms Park Hyatt Brisbane arrival ahead of 2032 Olympics",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPb29MVzFqWll6N1RFQUg0NEJyalVFM0FyeWNkeXUwWlBKLThlWl9uSkFnQU5pMVkwZFhpLU9WeHgxRlZYR0R3LS1LMEpUcE5iWGh4aEFnRDBLUzBVX0FRQVhQeXFxZkZiQU9FTGdHWkVWU25pdVdKaEJhY2xzd1J4OVRWR25vVm5oUmZDM1Azbw?oc=5",
@@ -232,8 +258,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T18:06:16Z",
    "relevance": 2,
-   "why": "Upgraded Points reviews the Grand Hyatt Taipei and shares six takeaways for travelers.",
-   "summary_ai": "Upgraded Points reviews the Grand Hyatt Taipei and shares six takeaways for travelers.",
+   "why": "Upgraded Points reviews the Grand Hyatt Taipei and highlights six things travelers should know before booking.",
+   "summary_ai": "Upgraded Points reviews the Grand Hyatt Taipei and highlights six things travelers should know before booking.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -255,8 +281,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T18:00:24Z",
    "relevance": 2,
-   "why": "Upgraded Points reviews the Hyatt Regency Sydney and shares six takeaways for travelers.",
-   "summary_ai": "Upgraded Points reviews the Hyatt Regency Sydney and shares six takeaways for travelers.",
+   "why": "Upgraded Points reviews the Hyatt Regency Sydney and highlights six points for travelers to consider.",
+   "summary_ai": "Upgraded Points reviews the Hyatt Regency Sydney and highlights six points for travelers to consider.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -303,10 +329,10 @@
    "source_type": "gnews",
    "published": "2026-11-19T17:20:11Z",
    "relevance": 2,
-   "why": "Earning guides show which Hyatt paths enthusiasts prioritize, useful for spotting gaps in partner earning options.",
-   "summary_ai": "A points blog lists ways to earn World of Hyatt points, reflecting current enthusiast earning strategies.",
-   "take": "Earning guides show which Hyatt paths enthusiasts prioritize, useful for spotting gaps in partner earning options.",
-   "take_kind": "read",
+   "why": "Upgraded Points publishes a 2026 guide to twelve ways to earn World of Hyatt points.",
+   "summary_ai": "Upgraded Points publishes a 2026 guide to twelve ways to earn World of Hyatt points.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -315,7 +341,10 @@
     "community"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "12 ways",
+    "2026"
+   ],
    "also": []
   },
   {

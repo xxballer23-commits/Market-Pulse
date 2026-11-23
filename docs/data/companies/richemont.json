@@ -107,8 +107,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T06:39:24Z",
    "relevance": 2,
-   "why": "Richemont has posted its 2026 interim report on its website.",
-   "summary_ai": "Richemont has posted its 2026 interim report on its website.",
+   "why": "Luxury group Richemont has published its 2026 interim report online.",
+   "summary_ai": "Luxury group Richemont has published its 2026 interim report online.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -116,7 +116,8 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury"
+    "luxury",
+    "spending_data"
    ],
    "breaking": false,
    "data_points": [],

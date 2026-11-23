@@ -1,0 +1,32 @@
+{
+ "name": "Radisson",
+ "slug": "radisson",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "79d65c26aa6b",
+   "title": "Radisson’s First Paid Membership Targets Diners, Not Guests: Exclusive",
+   "url": "https://skift.com/2026/11/23/radissons-first-paid-membership-targets-diners-not-guests-exclusive/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-23T10:02:05Z",
+   "relevance": 3,
+   "why": "Paid hotel memberships aimed at locals open a partnership angle beyond traveler-focused perks.",
+   "summary_ai": "Radisson is launching a paid membership aimed at local diners rather than frequent travelers, with generous discounts.",
+   "take": "Paid hotel memberships aimed at locals open a partnership angle beyond traveler-focused perks.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

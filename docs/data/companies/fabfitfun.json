@@ -11,22 +11,18 @@
    "source": "Retail Dive",
    "source_type": "rss",
    "published": "2026-11-20T15:35:00Z",
-   "relevance": 2,
-   "why": "The NYC surveillance pricing ban could limit personalized merchant offers built on card data, so check the rule's scope before building them.",
-   "summary_ai": "New York City banned surveillance pricing, which bars tailoring prices with personal data, while FabFitFun is launching a beauty box in 3,000 Walmart stores.",
-   "take": "The NYC surveillance pricing ban could limit personalized merchant offers built on card data, so check the rule's scope before building them.",
-   "take_kind": "take",
+   "relevance": 1,
+   "why": "A weekly retail roundup covers New York City's ban on surveillance pricing and FabFitFun's move into Walmart.",
+   "summary_ai": "A weekly retail roundup covers New York City's ban on surveillance pricing and FabFitFun's move into Walmart.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "regulatory"
-   ],
+   "sections": [],
    "breaking": false,
-   "data_points": [
-    "3,000 Walmart stores"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

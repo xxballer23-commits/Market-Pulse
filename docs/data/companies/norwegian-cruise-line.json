@@ -32,22 +32,19 @@
    "source": "The Points Guy",
    "source_type": "gnews",
    "published": "2026-11-19T14:35:35Z",
-   "relevance": 2,
-   "why": "Norwegian Cruise Line is running a Black Friday sale with half-off cruises and a free open bar offer.",
-   "summary_ai": "Norwegian Cruise Line is running a Black Friday sale with half-off cruises and a free open bar offer.",
+   "relevance": 1,
+   "why": "Norwegian Cruise Line is advertising Black Friday cruise discounts and bundled extras.",
+   "summary_ai": "Norwegian Cruise Line is advertising Black Friday cruise discounts and bundled extras.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Promo end date not stated",
-   "sections": [
-    "luxury"
-   ],
+   "low_confidence": null,
+   "sections": [],
    "breaking": false,
    "data_points": [
-    "50% off cruises",
-    "Free unlimited open bar"
+    "Up to 50% off cruises"
    ],
    "also": []
   }

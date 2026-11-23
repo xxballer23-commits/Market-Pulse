@@ -1,0 +1,31 @@
+{
+ "name": "Chopard",
+ "slug": "chopard",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4d8123423f5d",
+   "title": "Miley Cyrus and Maxx Morando Got Married in Matching Saint Laurent",
+   "url": "https://robbreport.com/style/fashion/miley-cyrus-maxx-morando-wedding-saint-laurent-chopard-1238858377/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-23T11:30:00Z",
+   "relevance": 2,
+   "why": "Miley Cyrus married Maxx Morando in a Saint Laurent ensemble accented with Chopard diamond jewelry.",
+   "summary_ai": "Miley Cyrus married Maxx Morando in a Saint Laurent ensemble accented with Chopard diamond jewelry.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

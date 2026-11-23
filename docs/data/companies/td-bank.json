@@ -1,0 +1,33 @@
+{
+ "name": "TD Bank",
+ "slug": "td-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "52ec481782b0",
+   "title": "A record 35% of mortgages now move with the policy rate: TD",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZ242X0Q2WXR6R3d6N0pPRlFNSHNfWk9kR2kxUzhFaG5ZYVlsRDY1ZGVTV1dzTmlXeHcwZERja3B5ZTlqdnNjVnRtRkxZZmZYQTQ3Z1JuX01MNVFkMkVjdE80eVZKMTAyZDF2Z1ZzWktncjJsa1NJTlY2MnhKYnRaYTdiNzlUUzNvSWtHY2k4NFVrRkpSRHdDNzl2enJDbi1LaXNkZXhBZDlMbWphSng4YzFVNmlrSU1i?oc=5",
+   "source": "Wealth Professional",
+   "source_type": "gnews",
+   "published": "2026-11-20T12:33:34Z",
+   "relevance": 2,
+   "why": "TD reports a record 35% of mortgages now reprice in step with the policy rate.",
+   "summary_ai": "TD reports a record 35% of mortgages now reprice in step with the policy rate.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "35% of mortgages"
+   ],
+   "also": []
+  }
+ ]
+}

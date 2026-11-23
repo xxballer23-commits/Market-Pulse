@@ -81,23 +81,24 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T21:03:29Z",
-   "relevance": 2,
-   "why": "Merchant-specific card offers show issuers chasing everyday retail spend, though these are not premium-tier benefits.",
-   "summary_ai": "Capital One Offers give 18% back at CVS and 10% back at Walgreens on in-store purchases, possibly including gift cards.",
-   "take": "Merchant-specific card offers show issuers chasing everyday retail spend, though these are not premium-tier benefits.",
-   "take_kind": "read",
+   "relevance": 3,
+   "why": "Card-linked merchant offers at drug and grocery chains are a low-cost way to win spend; benchmark our merchant offer rates.",
+   "summary_ai": "Capital One Offers is giving cardholders elevated cash back at CVS, Walgreens and Kroger.",
+   "take": "Card-linked merchant offers at drug and grocery chains are a low-cost way to win spend; benchmark our merchant offer rates.",
+   "take_kind": "take",
    "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
    "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
-    "community"
+    "community",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
     "18% back at CVS",
     "10% back at Walgreens",
-    "Through Nov 23, 2026"
+    "10% back at Kroger"
    ],
    "also": []
   },
@@ -133,10 +134,10 @@
    "source_type": "gnews",
    "published": "2026-11-20T19:04:21Z",
    "relevance": 2,
-   "why": "Capital One is showing a targeted 40,000-mile offer on its VentureOne card.",
-   "summary_ai": "Capital One is showing a targeted 40,000-mile offer on its VentureOne card.",
-   "take": null,
-   "take_kind": null,
+   "why": "Mid-tier targeted bonuses signal Capital One's acquisition push and give a benchmark for our welcome offers.",
+   "summary_ai": "Capital One is offering select customers a targeted 40K-mile bonus on the VentureOne card.",
+   "take": "Mid-tier targeted bonuses signal Capital One's acquisition push and give a benchmark for our welcome offers.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -158,8 +159,8 @@
    "source_type": "rss",
    "published": "2026-11-20T17:00:56Z",
    "relevance": 2,
-   "why": "The Points Guy reviews Capital One's VentureOne card as a simple travel rewards option with no annual fee.",
-   "summary_ai": "The Points Guy reviews Capital One's VentureOne card as a simple travel rewards option with no annual fee.",
+   "why": "A review of the Capital One VentureOne card, a travel rewards option with no annual fee.",
+   "summary_ai": "A review of the Capital One VentureOne card, a travel rewards option with no annual fee.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -273,14 +274,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T20:30:35Z",
    "relevance": 2,
-   "why": "A comparison of current sign-up offers on the Capital One VentureOne card.",
-   "summary_ai": "A comparison of current sign-up offers on the Capital One VentureOne card.",
+   "why": "A roundup compares the current sign-up offers on the Capital One VentureOne card.",
+   "summary_ai": "A roundup compares the current sign-up offers on the Capital One VentureOne card.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Offers change frequently and may be stale",
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
@@ -296,20 +297,20 @@
    "source_type": "rss",
    "published": "2026-11-19T20:29:03Z",
    "relevance": 2,
-   "why": "A Points Guy roundup compares current VentureOne welcome offers, including a 40,000-mile bonus.",
-   "summary_ai": "A Points Guy roundup compares current VentureOne welcome offers, including a 40,000-mile bonus.",
-   "take": null,
-   "take_kind": null,
+   "why": "Mid-tier welcome bonuses set the sign-up benchmark that premium card offers have to beat.",
+   "summary_ai": "The Points Guy highlights a current Capital One VentureOne offer worth up to 40,000 bonus miles.",
+   "take": "Mid-tier welcome bonuses set the sign-up benchmark that premium card offers have to beat.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Offer end date and eligibility unstated",
+   "low_confidence": null,
    "sections": [
-    "community"
+    "premium_cards"
    ],
    "breaking": false,
    "data_points": [
-    "40,000 bonus miles"
+    "Up to 40,000 bonus miles"
    ],
    "also": []
   },

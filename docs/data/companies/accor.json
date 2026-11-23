@@ -85,17 +85,18 @@
    "source": "https://www.thetraveler.org/",
    "source_type": "gnews",
    "published": "2026-11-21T02:19:52Z",
-   "relevance": 2,
-   "why": "Accor and Yavu signed a deal to add a 370-key hotel in Fiji near Nadi to the pipeline.",
-   "summary_ai": "Accor and Yavu signed a deal to add a 370-key hotel in Fiji near Nadi to the pipeline.",
-   "take": null,
-   "take_kind": null,
-   "partner": null,
+   "relevance": 3,
+   "why": "Accor's expanding Pacific footprint is worth tracking as a hotel loyalty partner for travel-focused card programs.",
+   "summary_ai": "Accor and Yavu have agreed a deal that adds a 370-key hotel pipeline near Nadi, Fiji.",
+   "take": "Accor's expanding Pacific footprint is worth tracking as a hotel loyalty partner for travel-focused card programs.",
+   "take_kind": "read",
+   "partner": "Accor",
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury"
+    "luxury",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
@@ -133,11 +134,11 @@
    "source": "GTP Headlines",
    "source_type": "gnews",
    "published": "2026-11-20T19:59:23Z",
-   "relevance": 2,
-   "why": "Accor's MGallery brand plans a luxury seafront resort in Porto Heli, Greece, opening in 2027.",
-   "summary_ai": "Accor's MGallery brand plans a luxury seafront resort in Porto Heli, Greece, opening in 2027.",
-   "take": null,
-   "take_kind": null,
+   "relevance": 3,
+   "why": "Add to the pipeline of future luxury hotel partners for premium card travel benefits.",
+   "summary_ai": "MGallery plans to open a luxury seafront resort in Porto Heli, Greece, in 2027.",
+   "take": "Add to the pipeline of future luxury hotel partners for premium card travel benefits.",
+   "take_kind": "take",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -147,7 +148,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "2027 opening"
+    "Opens 2027"
    ],
    "also": []
   }

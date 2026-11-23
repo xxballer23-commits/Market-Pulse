@@ -1,0 +1,34 @@
+{
+ "name": "Anantara",
+ "slug": "anantara",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3c75b0d6e51e",
+   "title": "Anantara Adriatic Istria Will Open in 2027 With 186 Rooms",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcTd6REJESkdDejJaRVlKel9BNjE0cmZtdEtoVWY1N1pwNmU2RGg1Q19GbGhNZTFHamFHMUpBajdKQmIyWnJoVm1xMjlRV1BHZm9UY1FiR0Y3Qm5CS0FEZDU5NGU5TGNyLVVQM0Zoc2MtNlRpZWRxbXpvTVNxbGsydVV6M1RNdw?oc=5",
+   "source": "https://deeparrival.com/",
+   "source_type": "gnews",
+   "published": "2026-11-23T05:26:07Z",
+   "relevance": 2,
+   "why": "Anantara's Adriatic Istria resort is scheduled to open in 2027 with 186 rooms.",
+   "summary_ai": "Anantara's Adriatic Istria resort is scheduled to open in 2027 with 186 rooms.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "186 rooms",
+    "2027 opening"
+   ],
+   "also": []
+  }
+ ]
+}

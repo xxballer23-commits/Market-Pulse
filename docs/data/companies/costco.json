@@ -32,24 +32,23 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T18:00:01Z",
-   "relevance": 2,
-   "why": "Discounted merchant gift cards keep drawing points-community attention, a signal of demand for cheap, flexible spend credits.",
-   "summary_ai": "Costco has an upcoming deal selling $100 inKind gift cards for $64.99, capped at five per person.",
-   "take": "Discounted merchant gift cards keep drawing points-community attention, a signal of demand for cheap, flexible spend credits.",
-   "take_kind": "read",
+   "relevance": 1,
+   "why": "An upcoming Costco.com deal lets members buy a $100 inKind gift card for $64.99, limited to five per person.",
+   "summary_ai": "An upcoming Costco.com deal lets members buy a $100 inKind gift card for $64.99, limited to five per person.",
+   "take": null,
+   "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Upcoming deal, eligibility and end date unknown",
+   "low_confidence": null,
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
-    "$100 inKind gift card",
     "$64.99 price",
-    "Limit 5",
-    "Nov 26 start"
+    "$100 gift card",
+    "Limit 5"
    ],
    "also": []
   },

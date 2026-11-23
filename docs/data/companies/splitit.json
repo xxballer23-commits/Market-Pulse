@@ -12,10 +12,10 @@
    "source_type": "gnews",
    "published": "2026-11-19T14:15:00Z",
    "relevance": 2,
-   "why": "BNPL provider Splitit ranked 301st among North America's fastest-growing companies on Deloitte's 2026 Fast 500.",
-   "summary_ai": "BNPL provider Splitit ranked 301st among North America's fastest-growing companies on Deloitte's 2026 Fast 500.",
-   "take": null,
-   "take_kind": null,
+   "why": "Splitit's installment-on-card model is an embedded lending option worth tracking as a partner candidate.",
+   "summary_ai": "Splitit ranked 301st among fastest-growing North American companies on Deloitte's 2026 Technology Fast 500.",
+   "take": "Splitit's installment-on-card model is an embedded lending option worth tracking as a partner candidate.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Rank 301"
+    "Ranked 301st on Deloitte Fast 500"
    ],
    "also": []
   },

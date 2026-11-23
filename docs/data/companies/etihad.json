@@ -28,6 +28,30 @@
  "vets": [],
  "items": [
   {
+   "id": "6d827cf89276",
+   "title": "Etihad Just Launched Its First U.S. Credit Cards—And One Unlocks Instant Airline Status and Airport Lounge Access",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaXl0UHl5SnEzTm8zU0MyVGlGVlMtbWxET1dYUVAyMEVvclZuMG5SWnBBTzFVOHc5VVFJQUJVNVY1NFh0WmpnTXhHMGRuTmNObk9wbjU3MHZEbWtQZXY5bWZOY0xNM2hPUlF0enYwZU1nQnAtZ3ZRU1pvbDFZQ0NsalkyM050SWxoWnVoVE1BMWczTG9HXzZiT3Y3OTl3ZkpPWFBFUlUzMzZuMGlfN2hfRlpZbjVueDNiQWhfWlhaRGg5WGFmem1pTTkyVzN5NXQwdWxKRg?oc=5",
+   "source": "Parade Magazine",
+   "source_type": "gnews",
+   "published": "2026-11-23T03:10:00Z",
+   "relevance": 4,
+   "why": "Airline co-brand entering the US with a status-and-lounge hook; pull the issuer and fee before benchmarking.",
+   "summary_ai": "Etihad launched its first US credit cards, one offering instant airline status and airport lounge access.",
+   "take": "Airline co-brand entering the US with a status-and-lounge hook; pull the issuer and fee before benchmarking.",
+   "take_kind": "take",
+   "partner": "Etihad",
+   "benefit_move": true,
+   "benefit_type": "airline",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "15a7ba092cc9",
    "title": "Etihad Is Launching Its First Credit Cards on the U.S. Market",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hSVo4ZlY4VkNsZzFPSWR3M00zOHpLZlppN1o4SHJod2dqODVGSE1PNWNlZy0wQ0pyN0VKZWYzdTQ4SkN2OU5EWW5tWGt1SXRXRVlkd3psYWhlMXJxd1laSGhVR1I4UQ?oc=5",
@@ -83,10 +107,10 @@
    "source_type": "gnews",
    "published": "2026-11-19T19:11:01Z",
    "relevance": 2,
-   "why": "Etihad Guest is offering a 60 percent bonus on purchased miles until November 22.",
-   "summary_ai": "Etihad Guest is offering a 60 percent bonus on purchased miles until November 22.",
-   "take": null,
-   "take_kind": null,
+   "why": "Discounted miles sales show loyalty programs monetizing points directly, a pricing reference for transfer partner talks.",
+   "summary_ai": "Etihad Guest is selling miles with a 60 percent bonus, with the promotion ending November 22.",
+   "take": "Discounted miles sales show loyalty programs monetizing points directly, a pricing reference for transfer partner talks.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
@@ -97,7 +121,7 @@
    "breaking": false,
    "data_points": [
     "60% bonus",
-    "Ends November 22"
+    "Ends Nov 22"
    ],
    "also": []
   }

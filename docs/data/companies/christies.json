@@ -353,6 +353,10 @@
     {
      "source": "San Bernardino Sun",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZRjJRclR6TXRIdTk2S2ZMeEs0bmtXVHZFNzU3Y25YYVBzZ0hYbDlFdHVMNXdiX2JjMnlRWXB4R0hRSldvMEJvX1lWRTJxWDZUaE13cmx5VWl6Rm05eXNOWHZzR2dqUnR5M21ISQ?oc=5"
+    },
+    {
+     "source": "WFMZ.com",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVkFuTTNBc0xidHo2SWczYl9ITGdyZGdZbWd4ZmJ1TF80bVhLZWR2bXV5VFd0QkhvNktjeXBmWWEwMW1jNWtaMlZwSVhINTcweF9PazlVdnFYaU42bS1ZYngxXzVlanQ4RjNFZWlZUVpKcVJBdTZDc2dHbWlwb0dCLTV4bUpWaGVVMnlldjlDeHRRazFEVXRidjVtcFJLUUVfanI3WkFnYVJMaWl2NjhnSnJFOEU0WEU3ODFTd2JsNGJYUGVUMDRBOXctd0pMVGgxY2NSd1JuOWU4UXVwc3FORklqMXQ?oc=5"
     }
    ]
   },
@@ -386,9 +390,9 @@
    "source": "Wisevoter",
    "source_type": "gnews",
    "published": "2026-11-19T04:49:04Z",
-   "relevance": 3,
-   "why": "Christie's has sold the Roger Therond photography collection at auction.",
-   "summary_ai": "Christie's has sold the Roger Therond photography collection at auction.",
+   "relevance": 2,
+   "why": "Christie's sold the Roger Therond photography collection at auction.",
+   "summary_ai": "Christie's sold the Roger Therond photography collection at auction.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -396,7 +400,6 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury",
     "spending_data"
    ],
    "breaking": false,
@@ -410,10 +413,10 @@
    "source": "Christie’s",
    "source_type": "gnews",
    "published": "2026-11-19T01:00:00Z",
-   "relevance": 3,
-   "why": "Strong top-end art auction volume signals continued ultra-high-net-worth spending appetite that premium card lifestyle perks could target.",
-   "summary_ai": "Christie's New York marquee auction week has topped $700 million, led by Klimt and Kandinsky works.",
-   "take": "Strong top-end art auction volume signals continued ultra-high-net-worth spending appetite that premium card lifestyle perks could target.",
+   "relevance": 2,
+   "why": "Top-tier art demand is holding up, a sign of continued HNW liquidity for affluent collector audiences.",
+   "summary_ai": "Christie's New York marquee auction week has passed $700 million in sales, led by Klimt and Kandinsky works.",
+   "take": "Top-tier art demand is holding up, a sign of continued HNW liquidity for affluent collector audiences.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
@@ -424,7 +427,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "$700 million"
+    "$700 million+"
    ],
    "also": []
   }

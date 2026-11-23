@@ -12,8 +12,8 @@
    "source_type": "rss",
    "published": "2026-11-20T22:00:00Z",
    "relevance": 2,
-   "why": "Michter's is releasing its ultra-rare 25-year-old bourbon, the first release since 2023.",
-   "summary_ai": "Michter's is releasing its ultra-rare 25-year-old bourbon, the first release since 2023.",
+   "why": "Michter's is releasing its ultra-rare 25-year-old bourbon again, its first release since 2023.",
+   "summary_ai": "Michter's is releasing its ultra-rare 25-year-old bourbon again, its first release since 2023.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,8 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "25-year-old",
-    "Since 2023"
+    "25-year-old bourbon"
    ],
    "also": []
   }

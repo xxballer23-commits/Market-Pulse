@@ -12,21 +12,20 @@
    "source_type": "gnews",
    "published": "2026-11-19T14:00:00Z",
    "relevance": 2,
-   "why": "Houlihan Lokey reports size-weighted private credit defaults nearly doubled in Q3, with smaller borrowers hit hardest.",
+   "why": "Rising private credit defaults point to tighter funding and more cautious lending conditions across the market.",
    "summary_ai": "Houlihan Lokey reports size-weighted private credit defaults nearly doubled in Q3, with smaller borrowers hit hardest.",
-   "take": null,
-   "take_kind": null,
+   "take": "Rising private credit defaults point to tighter funding and more cautious lending conditions across the market.",
+   "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "spending_data"
+    "spending_data",
+    "lending"
    ],
    "breaking": false,
-   "data_points": [
-    "Defaults nearly doubled in Q3"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

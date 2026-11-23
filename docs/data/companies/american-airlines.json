@@ -230,18 +230,18 @@
    "source": "One Mile at a Time",
    "source_type": "rss",
    "published": "2026-11-20T17:30:20Z",
-   "relevance": 2,
-   "why": "Premium cabin demand is a key lever for airline and card partnership value, so cabin strategy affects our travel offers.",
-   "summary_ai": "An opinion piece argues that US airlines have dropped international first class and should bring it back.",
-   "take": "Premium cabin demand is a key lever for airline and card partnership value, so cabin strategy affects our travel offers.",
+   "relevance": 3,
+   "why": "A weak US carrier premium cabin lowers the value of airline-linked card perks, so issuers may favor other premium travel partners.",
+   "summary_ai": "An analysis argues US airlines have failed to offer strong international first class products that match the market.",
+   "take": "A weak US carrier premium cabin lowers the value of airline-linked card perks, so issuers may favor other premium travel partners.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury",
-    "community"
+    "community",
+    "luxury"
    ],
    "breaking": false,
    "data_points": [],
@@ -324,8 +324,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T14:30:00Z",
    "relevance": 2,
-   "why": "A guide walks through six ways to book the same American Airlines flight using points and miles.",
-   "summary_ai": "A guide walks through six ways to book the same American Airlines flight using points and miles.",
+   "why": "Upgraded Points explains six ways to book one American Airlines flight using points and miles.",
+   "summary_ai": "Upgraded Points explains six ways to book one American Airlines flight using points and miles.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -336,9 +336,7 @@
     "community"
    ],
    "breaking": false,
-   "data_points": [
-    "6 booking methods"
-   ],
+   "data_points": [],
    "also": []
   },
   {

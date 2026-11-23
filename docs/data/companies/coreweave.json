@@ -25,7 +25,12 @@
    "data_points": [
     "$115 price target"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "TIKR.com",
+     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZjNzSFdnNFhmREk4ZGdtQWdtV3BCZ1czR0NXSzhuT2ltSnBTTGJWdjk0WW44c0Ryd0FPRkVLN2ZZc29JNU5ZX2dLYVFkNl80TC14LVJTWUdBdnR3OXczcmtnQUxidWdjZE5EcVNPX2hXZHdkU2xDY2U0NTYwQkNRYk45MkNhazdwRzUyRE9rNA?oc=5"
+    }
+   ]
   }
  ]
 }

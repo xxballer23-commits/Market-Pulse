@@ -92,6 +92,21 @@
      "model": "claude-haiku-5-5"
     }
    }
+  },
+  "2026-11-23": {
+   "input_tokens": 125111,
+   "output_tokens": 188933,
+   "web_searches": 0,
+   "calls": 40,
+   "by_task": {
+    "enrich": {
+     "calls": 40,
+     "input_tokens": 125111,
+     "output_tokens": 188933,
+     "web_searches": 0,
+     "model": "claude-haiku-5-5"
+    }
+   }
   }
  }
 }

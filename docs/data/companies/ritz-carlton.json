@@ -1,0 +1,31 @@
+{
+ "name": "Ritz-Carlton",
+ "slug": "ritz-carlton",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7294c52c1e5a",
+   "title": "In pictures: Inside the Ritz-Carlton, AMAALA, Saudi Arabia’s largest resort",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRmdDZ3FyUTFUV2lVeGhmdFN3NnhLOWF2bEJXUmkwUDR3dTFicno0VENEVDlXaFNsQWJ0LWN2c2R0dTFBczJ6Z1IxYmUtZkpUZ0FsdW5SREVVSms4dTloWUg1OWxuREtvZ092Z0pzVjRON2p6TENfMVV0Z1VyLXhuNDNLSU9PNThLRHlIa2dUSHdvWmVXSmw3SzB1V2FTSXRWRjJJVUhYbE9iUWo1c3Vwb2FWSTNzUXRLSnc?oc=5",
+   "source": "Gulf Business",
+   "source_type": "gnews",
+   "published": "2026-11-23T07:20:18Z",
+   "relevance": 2,
+   "why": "Major Gulf luxury openings show where affluent travel spend is heading, useful context for hotel partner talks.",
+   "summary_ai": "Photos show the interior of the Ritz-Carlton AMAALA, described as Saudi Arabia's largest resort.",
+   "take": "Major Gulf luxury openings show where affluent travel spend is heading, useful context for hotel partner talks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -11,24 +11,24 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T21:05:45Z",
-   "relevance": 2,
-   "why": "Carriers are using co-brand cards to deepen ecosystem lock-in, a pattern worth tracking for telco-style partner pitches.",
-   "summary_ai": "T-Mobile launched a Visa card with 2% flat cash back, a per-line auto-pay discount, and 5% back on T-Mobile purchases.",
-   "take": "Carriers are using co-brand cards to deepen ecosystem lock-in, a pattern worth tracking for telco-style partner pitches.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
+   "relevance": 3,
+   "why": "Flat cash back plus a welcome bonus is the co-brand benchmark to price against in our own brand partnership pitches.",
+   "summary_ai": "T-Mobile has launched a credit card with 2% cash back, no foreign transaction fee, and a welcome offer.",
+   "take": "Flat cash back plus a welcome bonus is the co-brand benchmark to price against in our own brand partnership pitches.",
+   "take_kind": "take",
+   "partner": "T-Mobile",
+   "benefit_move": true,
+   "benefit_type": "offer",
    "low_confidence": null,
    "sections": [
-    "community"
+    "community",
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [
-    "2% flat cash back",
-    "$5 auto-pay discount per line",
-    "5% on T-Mobile purchases",
-    "No annual fee"
+    "2% cash back",
+    "5% + $125",
+    "$5 discount"
    ],
    "also": []
   },

@@ -1,19 +1,19 @@
 {
- "name": "MICHELIN Guide",
+ "name": "Michelin Guide",
  "slug": "michelin-guide",
  "watch": null,
  "vets": [],
  "items": [
   {
-   "id": "19b9922cb8a0",
-   "title": "Yusuke Takada’s Osaka: The People and Places That Catch His Eye",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZXROVGVQQ3p1OTNjbEJSRVItMVI4NTl6RTNMWUgtQmZMX2RHal9ZSFVCdGRHbHdLX1VpS1ljamRob1FhYm1JLXVuRm9RRUtHRzJ2anEweWlWcHZwSlR1RHUzTEQ3QUI0T0ttaFNTR3E2dW1RbVBGMGZaV0duYVR6S19hMlJZd25qNnU4MmtoWTVOZw?oc=5",
-   "source": "MICHELIN Guide",
+   "id": "67f229e36dea",
+   "title": "Michelin Guide adds 12 more NYC restaurants to the list — including a cheap authentic taco joint",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPajNlRjRmX09sUlpDYzN2NEdEQldjTjAyQTVBNGhHdzFNYUJLLWNjTUtKcEZnOWI3UlFOZGJ6c042RTdKZDJudThVSjRXMG1TYTNsZGFUV01INnpFV0dkRVVVenBlS1RKaHV6eVdMdUUxN25mZzQwV29sdWozZVQ1WHlMeTlpX2ZhRF9GYTFFZFN5R2VBdzJvXzZvM1ZtendZWUNseC0tUnV2N3BKTXc0Uk96M3BaUFYtRkxwRkhObTdIV0hHWnVLTGttY3V3T21h?oc=5",
+   "source": "New York Post",
    "source_type": "gnews",
-   "published": "2026-11-19T08:00:00Z",
-   "relevance": 2,
-   "why": "The Michelin Guide profiles chef Yusuke Takada's picks for people and places in Osaka.",
-   "summary_ai": "The Michelin Guide profiles chef Yusuke Takada's picks for people and places in Osaka.",
+   "published": "2026-11-20T20:06:00Z",
+   "relevance": 3,
+   "why": "The Michelin Guide has added 12 more New York City restaurants, including a low-cost taco spot.",
+   "summary_ai": "The Michelin Guide has added 12 more New York City restaurants, including a low-cost taco spot.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -21,10 +21,38 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "luxury"
+    "nyc_dining"
    ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "12 NYC restaurants added"
+   ],
+   "also": []
+  },
+  {
+   "id": "cad6c7395491",
+   "title": "Michelin Guide Adds 12 More NYC Restaurants Ahead of December Awards",
+   "url": "https://ny.eater.com/news/414985/michelin-guide-new-york-additions-2026-bib-gourmands-michelin-recommendations",
+   "source": "Eater NY",
+   "source_type": "rss",
+   "published": "2026-11-18T19:26:15Z",
+   "relevance": 3,
+   "why": "Newly recognized restaurants tend to see booking surges, so watch for dining credit and reservation inventory opportunities.",
+   "summary_ai": "The Michelin Guide has added 12 more New York City restaurants ahead of its December awards.",
+   "take": "Newly recognized restaurants tend to see booking surges, so watch for dining credit and reservation inventory opportunities.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [
+    "12 new NYC restaurants",
+    "December awards"
+   ],
    "also": []
   }
  ]

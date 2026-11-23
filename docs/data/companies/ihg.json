@@ -84,8 +84,8 @@
    "source_type": "rss",
    "published": "2026-11-19T22:57:42Z",
    "relevance": 2,
-   "why": "IHG's Cyber Sale offers 500 bonus points and discounts of up to 30% on hotel stays.",
-   "summary_ai": "IHG's Cyber Sale offers 500 bonus points and discounts of up to 30% on hotel stays.",
+   "why": "IHG runs a Cyber Sale offering bonus points and discounts of up to 30% on hotel stays.",
+   "summary_ai": "IHG runs a Cyber Sale offering bonus points and discounts of up to 30% on hotel stays.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -93,12 +93,11 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community",
-    "luxury"
+    "community"
    ],
    "breaking": false,
    "data_points": [
-    "500 free points",
+    "500 bonus points",
     "Up to 30% off"
    ],
    "also": []
