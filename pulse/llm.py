@@ -96,7 +96,8 @@ def complete(
                 kwargs = dict(model=model, max_tokens=max_tokens, system=system, messages=messages)
                 # No extended thinking: output budget goes to the written text, and runs stay fast.
                 thinking = config.settings().get("models", {}).get("thinking")
-                if thinking:
+                # Only the writer model takes this setting; the small tagging model rejects it.
+                if thinking and model == config.settings()["models"]["writer"]:
                     kwargs["thinking"] = thinking
                 if tools:
                     kwargs["tools"] = tools
