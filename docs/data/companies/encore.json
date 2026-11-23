@@ -1,0 +1,31 @@
+{
+ "name": "Encore",
+ "slug": "encore",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2c126971eefd",
+   "title": "The Warning Signs in Consumer Credit: Encore CEO Ashish Masih",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPeFFOTDZ5VXkza1FVVFRFbjJJZWdlTW1DN0VUWjBaQWdpenp5RURwdmxTVWJwQ2dVMlRYTnVPbVdPeTgzNFVuSlFQRXp3SW9OSFh5SXNWejFMZUY4S2dhSXA5SGdhbEZ4ZnBGQ3RBTndkUU9yeXpIUkVVdW5ndkdwLXk3SmJwcDd6Y0NMYWU4cnN5RTJzZ1dKZ3pvZENQTWR4Mzg4ZFlfVkU1N0FwVzZzZGZtelFzOHlKb2pBSXZiOWc?oc=5",
+   "source": "The Conference Board",
+   "source_type": "gnews",
+   "published": "2026-11-21T13:43:05Z",
+   "relevance": 3,
+   "why": "Early credit stress signals matter for underwriting assumptions and partner risk conversations this cycle.",
+   "summary_ai": "Encore's CEO outlines early warning signs appearing in US consumer credit.",
+   "take": "Early credit stress signals matter for underwriting assumptions and partner risk conversations this cycle.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

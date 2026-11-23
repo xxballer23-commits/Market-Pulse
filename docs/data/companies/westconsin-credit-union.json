@@ -1,0 +1,35 @@
+{
+ "name": "Westconsin Credit Union",
+ "slug": "westconsin-credit-union",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c87241f702ec",
+   "title": "[WI, MN Only] Westconsin Credit Union $500 Checking Bonus, Direct Deposit Not Required",
+   "url": "https://www.doctorofcredit.com/wi-mn-only-westconsin-credit-union-400-checking-bonus-100-charity-donation-direct-deposit-not-required/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T01:48:48Z",
+   "relevance": 1,
+   "why": "Westconsin Credit Union is offering a checking bonus with a charity donation for new accounts in Wisconsin and Minnesota.",
+   "summary_ai": "Westconsin Credit Union is offering a checking bonus with a charity donation for new accounts in Wisconsin and Minnesota.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$400 bonus",
+    "$100 charity donation",
+    "$500 checking bonus"
+   ],
+   "also": []
+  }
+ ]
+}

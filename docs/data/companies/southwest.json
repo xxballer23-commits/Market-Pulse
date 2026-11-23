@@ -5,19 +5,19 @@
  "vets": [],
  "items": [
   {
-   "id": "143b071cf0d9",
-   "title": "Targeted Southwest promo: Get 5,000 Rapid Rewards points just for existing",
-   "url": "https://frequentmiler.com/targeted-southwest-promo-get-5000-rapid-rewards-points-just-for-existing/",
-   "source": "Frequent Miler",
+   "id": "76b7fc07c9e1",
+   "title": "Buy Southwest Rapid Rewards Points For 50% Off (1.5 Cents Each): Worth It?",
+   "url": "https://onemileatatime.com/deals/buy-southwest-rapid-rewards-points/",
+   "source": "One Mile at a Time",
    "source_type": "rss",
-   "published": "2026-11-20T18:54:51Z",
+   "published": "2026-11-21T10:43:11Z",
    "relevance": 3,
-   "why": "Targeted airline point drops reveal how co-brand and loyalty partners use bonus points to re-engage members.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
+   "why": "Discounted points purchases show how airlines price loyalty currency, useful context when comparing earn value against buy-in costs.",
+   "summary_ai": "Southwest is discounting purchased Rapid Rewards points by up to 50%, to 1.5 cents each, though buying still rarely pays off.",
+   "take": "Discounted points purchases show how airlines price loyalty currency, useful context when comparing earn value against buy-in costs.",
+   "take_kind": "read",
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
@@ -25,7 +25,8 @@
    ],
    "breaking": false,
    "data_points": [
-    "5,000 bonus Rapid Rewards points"
+    "Up to 50% off",
+    "1.5 cents per point"
    ],
    "also": []
   }

@@ -1,0 +1,31 @@
+{
+ "name": "PepsiCo",
+ "slug": "pepsico",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e1e6fcb058aa",
+   "title": "Hyatt heads Down Under, Hilton sets its sights on Rome and the soda wars continue",
+   "url": "https://thepointsguy.com/news/andaz-australia-hilton-rome-hyatt-pepsi-hotel-news/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-21T20:00:45Z",
+   "relevance": 2,
+   "why": "Hyatt opens its first Andaz in Australia, Hilton announces a Rome luxury hotel, and Hyatt renews its Pepsi beverage deal.",
+   "summary_ai": "Hyatt opens its first Andaz in Australia, Hilton announces a Rome luxury hotel, and Hyatt renews its Pepsi beverage deal.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

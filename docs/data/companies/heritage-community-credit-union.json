@@ -1,0 +1,31 @@
+{
+ "name": "Heritage Community Credit Union",
+ "slug": "heritage-community-credit-union",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b8a513c49d7f",
+   "title": "[CA Only] Heritage Community Credit Union $500 Checking Bonus",
+   "url": "https://www.doctorofcredit.com/ca-only-heritage-community-credit-union-500-checking-bonus/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-21T17:00:27Z",
+   "relevance": 1,
+   "why": "Heritage Community Credit Union offers up to $500 for new checking accounts, limited to California.",
+   "summary_ai": "Heritage Community Credit Union offers up to $500 for new checking accounts, limited to California.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Up to $500 bonus"
+   ],
+   "also": []
+  }
+ ]
+}

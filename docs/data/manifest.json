@@ -3,7 +3,7 @@
   "2026-11"
  ],
  "feed_days": 45,
- "feed_count": 829,
+ "feed_count": 1229,
  "sections": [
   {
    "id": "premium_cards",
@@ -50,19 +50,12 @@
   "curator_github": "xxballer23-commits",
   "url": "https://xxballer23-commits.github.io/Market-Pulse/"
  },
- "last_sweep": "2026-11-23T02:07:37Z",
+ "last_sweep": "2026-11-23T02:49:24Z",
  "last_sweep_stats": {
-  "new": 112,
-  "merged": 3,
-  "sources_ok": 49,
+  "new": 36,
+  "merged": 0,
+  "sources_ok": 47,
   "sources": 53
  },
- "last_digest": "2026-11-21T03:33:55Z",
- "llm_error": {
-  "task": "enrich",
-  "type": "BadRequestError",
-  "status": 400,
-  "message": "Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': '\"thinking.type.between_tools\" is not supported for this model.'}, 'request_id': 'req_011ChK3Da91PUEDpBSHHDZYX'}",
-  "at": "2026-11-23T02:04:06Z"
- }
+ "last_digest": "2026-11-21T03:33:55Z"
 }

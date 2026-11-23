@@ -1,0 +1,29 @@
+{
+ "name": "Pizza Hut",
+ "slug": "pizza-hut",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "499f2d102e16",
+   "title": "Pizza chains are under pressure. GLP-1 use is only one part of the problem",
+   "url": "https://www.cnbc.com/2026/11/22/pizza-chains-sales-glp-1-demand.html",
+   "source": "CNBC Retail",
+   "source_type": "rss",
+   "published": "2026-11-22T13:00:01Z",
+   "relevance": 1,
+   "why": "Major pizza chains face weaker demand, more delivery competition and shifting eating habits tied partly to GLP-1 use.",
+   "summary_ai": "Major pizza chains face weaker demand, more delivery competition and shifting eating habits tied partly to GLP-1 use.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

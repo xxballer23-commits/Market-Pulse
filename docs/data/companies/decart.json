@@ -1,0 +1,31 @@
+{
+ "name": "Decart",
+ "slug": "decart",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b76fdd1242a9",
+   "title": "Amazon Nears $7.5 Billion Purchase of AI Startup Decart",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-purchase-of-ai-startup-decart/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-22T22:29:27Z",
+   "relevance": 1,
+   "why": "Amazon is reportedly close to a $7.5 billion deal to acquire AI startup Decart, according to the FT.",
+   "summary_ai": "Amazon is reportedly close to a $7.5 billion deal to acquire AI startup Decart, according to the FT.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$7.5 billion"
+   ],
+   "also": []
+  }
+ ]
+}

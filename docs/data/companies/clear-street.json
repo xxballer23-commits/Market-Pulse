@@ -1,0 +1,33 @@
+{
+ "name": "Clear Street",
+ "slug": "clear-street",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7a89d8a287a7",
+   "title": "Clear Street 3% Brokerage Match (5 Year Hold)",
+   "url": "https://www.doctorofcredit.com/clear-street-3-brokerage-match-5-year-hold/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-22T20:44:50Z",
+   "relevance": 1,
+   "why": "Clear Street offers new customers a 3% match on brokerage deposits and transfers, requiring funds to stay for five years.",
+   "summary_ai": "Clear Street offers new customers a 3% match on brokerage deposits and transfers, requiring funds to stay for five years.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Eligibility and terms unverified",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "3% match",
+    "$10,000 bonus",
+    "5 year hold"
+   ],
+   "also": []
+  }
+ ]
+}

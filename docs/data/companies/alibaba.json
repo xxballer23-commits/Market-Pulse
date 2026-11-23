@@ -5,25 +5,28 @@
  "vets": [],
  "items": [
   {
-   "id": "c7f2472c9803",
-   "title": "Ex-Alibaba AI Chief Junyang Lin Drives Startup Pragmatik Labs to $5 Billion Valuation",
-   "url": "https://www.pymnts.com/news/investment-tracker/2026/ex-alibaba-ai-chief-junyang-lin-drives-startup-pragmatik-labs-to-5-billion-valuation/",
+   "id": "aebd690d16bc",
+   "title": "Singles’ Day Sold 170,000 Dog Outfits. Then Came the Cleanup.",
+   "url": "https://www.pymnts.com/pymnts-features/the-weekender/2026/singles-day-sold-170000-dog-outfits-then-came-the-cleanup/",
    "source": "PYMNTS",
    "source_type": "rss",
-   "published": "2026-11-20T18:25:29Z",
-   "relevance": 1,
-   "why": "Private AI startup funding in China has no bearing on US card or affluent consumer partnerships.",
-   "summary_ai": null,
+   "published": "2026-11-21T09:00:50Z",
+   "relevance": 2,
+   "why": "Tmall sold 170,000 pet clothing items in one Singles' Day window, and JD.com reported a sharp jump in an unnamed category.",
+   "summary_ai": "Tmall sold 170,000 pet clothing items in one Singles' Day window, and JD.com reported a sharp jump in an unnamed category.",
    "take": null,
    "take_kind": null,
    "partner": null,
-   "benefit_move": null,
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "spending_data"
+   ],
    "breaking": false,
    "data_points": [
-    "$5 billion valuation"
+    "170,000 dog outfits",
+    "46-fold year-over-year jump"
    ],
    "also": []
   }

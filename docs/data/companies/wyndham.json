@@ -1,0 +1,33 @@
+{
+ "name": "Wyndham",
+ "slug": "wyndham",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7dd1a14cce53",
+   "title": "Cap Cana to welcome a new Wyndham Grand resort in 2029",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3ZNZlJrMkR3WVNJNW95cUVSaHFqUjlOc3J3b0xib2ZFcVI3YXdpZzZQM3gzcy14MGtYUnRSOUFCdDdmUzNGMlVUY1hlNVFXQktvX29QNEhvbDI0YnE1YXRUUzdlOGpGNzJNa3hHSFhVUEJSVnI3WXhTbHpTMkFwVDZFcU9NOVU0ZGhSQUVsS2xvNFRsNjF1TEU4Vkl2UTZ5STBUbVh3TS1uNjZpU3Nqem5xNS1mRUlQ?oc=5",
+   "source": "KarloBag.eu",
+   "source_type": "gnews",
+   "published": "2026-11-21T22:06:56Z",
+   "relevance": 2,
+   "why": "A new Wyndham Grand resort is planned for Cap Cana in the Dominican Republic, opening in 2029.",
+   "summary_ai": "A new Wyndham Grand resort is planned for Cap Cana in the Dominican Republic, opening in 2029.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2029 opening"
+   ],
+   "also": []
+  }
+ ]
+}

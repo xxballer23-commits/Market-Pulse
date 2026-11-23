@@ -5,6 +5,54 @@
  "vets": [],
  "items": [
   {
+   "id": "73d3f048133c",
+   "title": "Last Chance Deals: Marriott & Choice points sales, travel Amex Offers, & more",
+   "url": "https://frequentmiler.com/last-chance-deals/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-22T02:45:12Z",
+   "relevance": 2,
+   "why": "A weekly roundup lists expiring points sales from Marriott and Choice, plus Amex and Chase offers.",
+   "summary_ai": "A weekly roundup lists expiring points sales from Marriott and Choice, plus Amex and Chase offers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "More than a dozen deals ending"
+   ],
+   "also": []
+  },
+  {
+   "id": "6a338296a9e3",
+   "title": "Lufthansa Management Threatens To Massively Shrink Airline, Lay Off Employees",
+   "url": "https://onemileatatime.com/news/lufthansa-management-threatens-shrink-airline-lay-off-employees/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-21T15:42:48Z",
+   "relevance": 3,
+   "why": "Monitor Lufthansa labor risk before relying on it as a transfer partner for premium card redemptions.",
+   "summary_ai": "Lufthansa management reportedly plans to shrink its mainline fleet and shift regional flying to a subsidiary amid pilot strike threats.",
+   "take": "Monitor Lufthansa labor risk before relying on it as a transfer partner for premium card redemptions.",
+   "take_kind": "take",
+   "partner": "Lufthansa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported management proposal, not confirmed",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "3b2f425839c5",
    "title": "Luftahnsa to Cut 1,000 Jobs",
    "url": "https://skift.com/2026/11/20/luftahnsa-to-cut-1000-jobs/",

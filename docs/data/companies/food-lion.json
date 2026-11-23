@@ -1,0 +1,34 @@
+{
+ "name": "Food Lion",
+ "slug": "food-lion",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0d16123c1276",
+   "title": "Chase/U.S. Bank Offers: Get 5-7% Back At Food Lion (Up To $5/$7 Back)",
+   "url": "https://www.doctorofcredit.com/citi-offers-get-3-back-at-food-lion/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-22T16:25:18Z",
+   "relevance": 1,
+   "why": "Doctor of Credit lists card-linked Food Lion cash back offers, but the headline and summary give conflicting terms and the offer has expired.",
+   "summary_ai": "Doctor of Credit lists card-linked Food Lion cash back offers, but the headline and summary give conflicting terms and the offer has expired.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Expired targeted offer, conflicting terms",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $5/$7 back",
+    "Expires April 30, 2024"
+   ],
+   "also": []
+  }
+ ]
+}

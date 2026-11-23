@@ -5,6 +5,107 @@
  "vets": [],
  "items": [
   {
+   "id": "84a67fd22aac",
+   "title": "Valid 365 days: Claim a free 5GB/15-day eSIM with U.S. Bank Altitude Connect now",
+   "url": "https://frequentmiler.com/valid-365-days-claim-a-free-5gb-15-day-esim-with-u-s-bank-altitude-connect-now/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-22T16:45:19Z",
+   "relevance": 3,
+   "why": "Benefit sunsets drive cardholder rush behavior. Track cutoffs to time our own perk replacements.",
+   "summary_ai": "Frequent Miler reports the Altitude Connect GigSky eSIM perk ends after 11/30/26, and a reader found cardholders can claim it now and activate later.",
+   "take": "Benefit sunsets drive cardholder rush behavior. Track cutoffs to time our own perk replacements.",
+   "take_kind": "take",
+   "partner": "GigSky",
+   "benefit_move": true,
+   "benefit_type": "other",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5GB/15-day eSIM",
+    "Ends after 11/30/26"
+   ],
+   "also": []
+  },
+  {
+   "id": "0d16123c1276",
+   "title": "Chase/U.S. Bank Offers: Get 5-7% Back At Food Lion (Up To $5/$7 Back)",
+   "url": "https://www.doctorofcredit.com/citi-offers-get-3-back-at-food-lion/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-22T16:25:18Z",
+   "relevance": 1,
+   "why": "Doctor of Credit lists card-linked Food Lion cash back offers, but the headline and summary give conflicting terms and the offer has expired.",
+   "summary_ai": "Doctor of Credit lists card-linked Food Lion cash back offers, but the headline and summary give conflicting terms and the offer has expired.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Expired targeted offer, conflicting terms",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $5/$7 back",
+    "Expires April 30, 2024"
+   ],
+   "also": []
+  },
+  {
+   "id": "66e0d7b008c5",
+   "title": "(Confirmed) US Bank Altitude Connect GigSky benefit may end 11/30/26",
+   "url": "https://frequentmiler.com/us-bank-altitude-connect-gigsky-benefit-may-end-11-30-26/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-21T16:45:10Z",
+   "relevance": 4,
+   "why": "Losing this eSIM perk opens a travel benefit gap, so GigSky-style data partners are worth pitching to premium card teams.",
+   "summary_ai": "US Bank has confirmed its Altitude Connect GigSky eSIM benefit may end on November 30, 2026.",
+   "take": "Losing this eSIM perk opens a travel benefit gap, so GigSky-style data partners are worth pitching to premium card teams.",
+   "take_kind": "take",
+   "partner": "GigSky",
+   "benefit_move": true,
+   "benefit_type": "travel",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Ends 11/30/26",
+    "15 days / 5GB eSIM data"
+   ],
+   "also": []
+  },
+  {
+   "id": "a911ed442e5d",
+   "title": "US Bank, Vanguard and Webull lead J.D. Power wealth management rankings",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS1kyU3RyT19ELUd3ZGVqMnd1dXFaUDlzQjBPb1RGTWk2ZHFnUVloTURfcUd5a2gteWpQSnk2RlNmaDhvV0NkU2huYUNsbjRrYzVFVXpDUFVzaTQ4bFNLTVp4b1JtZUdrUTR0MU1xcmhnVXlyZTR0c1hfUUkwQTN4aFpha2dUQjVKc2JuVTF2Yw?oc=5",
+   "source": "Beinsure",
+   "source_type": "gnews",
+   "published": "2026-11-21T13:03:34Z",
+   "relevance": 1,
+   "why": "J.D. Power ranked US Bank, Vanguard and Webull at the top of its wealth management rankings.",
+   "summary_ai": "J.D. Power ranked US Bank, Vanguard and Webull at the top of its wealth management rankings.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "10e07d09e4c7",
    "title": "U.S. Bank Bringing Back Double Rewards for Cardholders [November 25 to 27]",
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Sa2w3czB2eWNlYVJzTDZZYkVlTFRKUFNFNHRqejFSY2tqNU9hNDhGaDRkel95Q0xzUUV3ZkxCekhkQlE3MEd0R3hCYWJfVndSTE1weHR3Qjd0SVozOFloek9LbTlSQQ?oc=5",

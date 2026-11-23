@@ -1,0 +1,34 @@
+{
+ "name": "ShopRite",
+ "slug": "shoprite",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f5c0e5e2e6f3",
+   "title": "ShopRite: Purchase $100 In Gift Cards & Save $20 On Your Next Shop (11/1 – 11/7)",
+   "url": "https://www.doctorofcredit.com/shoprite-purchase-100-in-gift-cards-save-15-on-your-next-shop-2/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T01:42:09Z",
+   "relevance": 1,
+   "why": "ShopRite's gift card deal returns with a $20 coupon for buying $100 in gift cards, with redemption windows that changed across updates.",
+   "summary_ai": "ShopRite's gift card deal returns with a $20 coupon for buying $100 in gift cards, with redemption windows that changed across updates.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Conflicting date windows, end date unclear",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 gift card purchase",
+    "$20 coupon"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "name": "Wayfair",
+ "slug": "wayfair",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a045ce49cecc",
+   "title": "9 Walmart Home Decor Finds Identical to Wayfair's for Half the Price",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NbE51aUY1LWk3amloT0V2OVMxUWRMSVNtb3lJUWlKTE1KRlAwT28wMFA3eVhtRTROZDAtZFVhZi0wX1N3TDRUWVNtMDNVMXJTSGctZWZsMFlxMW9MNDdJb1NuajJ4VzBRSnpuY0FkYnVNaGJhWmZPTg?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-22T15:00:00Z",
+   "relevance": 1,
+   "why": "FinanceBuzz lists nine Walmart home decor items said to resemble Wayfair pieces at about half the price.",
+   "summary_ai": "FinanceBuzz lists nine Walmart home decor items said to resemble Wayfair pieces at about half the price.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "9 finds",
+    "Half the price"
+   ],
+   "also": []
+  },
+  {
+   "id": "983b231d871a",
+   "title": "Klarna deepens Wayfair partnership with new US and Canada payment options",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRm5pVnpiMXE2aFVsZ3FYd0MtbVhrQ3VRWDdLX0kwSnpHd0JRSUF1TXN6R3hKQ2pqYzV3eEloQVhmQ3NRaDhha0RHUlNzcEhydTdDNS14TnA1ZWc3b2tZdEltb0lQYll5N0JrTm9RZV9ycktDZWpsTl9XUFZmZ3NGMmFVV3N3dWNVczJRLVQzaXgxLXdDekdyN282Nm1TVE9SVVZRdVJCRHdFODF4OFYxU3VTUFJqY3VfQ2V0b25B?oc=5",
+   "source": "scanx.trade",
+   "source_type": "gnews",
+   "published": "2026-11-21T23:58:04Z",
+   "relevance": 3,
+   "why": "Klarna keeps locking in merchant checkout placements, a reminder that issuers need their own pay-over-time answer.",
+   "summary_ai": "Klarna is expanding its Wayfair partnership with new payment options for US and Canadian shoppers.",
+   "take": "Klarna keeps locking in merchant checkout placements, a reminder that issuers need their own pay-over-time answer.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

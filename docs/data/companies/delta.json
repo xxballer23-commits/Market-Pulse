@@ -5,6 +5,147 @@
  "vets": [],
  "items": [
   {
+   "id": "c428454e2b21",
+   "title": "Delta Resolves Automation Outage that Led to Over 1,000 Flight Delays",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFRFaTNyYWprQlBYbnJBQTVnTVExUnhoc0lTRjlRYWc3Rk9oV084QlIxdkg4bFE1RnIzV3VvTXl6eXduMlV5RjgzRmRwRmp4X2tRc3lxYlptNXZZZmc3T3BzZjN0d0xlQ21OZjJQa3NzZWlOaWpFSmhoTERqcm14MVZQS2ZfNEh3bW1qSTUwYnFlUmpicjExbmxlOFlROTQ?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-22T21:50:19Z",
+   "relevance": 2,
+   "why": "Operational disruptions at co-brand airline partners can shape cardholder sentiment, so worth monitoring.",
+   "summary_ai": "Delta fixed an automation outage that caused more than 1,000 flight delays.",
+   "take": "Operational disruptions at co-brand airline partners can shape cardholder sentiment, so worth monitoring.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Over 1,000 flight delays"
+   ],
+   "also": []
+  },
+  {
+   "id": "58734d586e1c",
+   "title": "Delta tech outage, bad weather fuels messy Sunday at airports",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOGFHNDVmd1VkbW1TUXZCUnR0NVhieERsT2JxRUtCSGZVcDdGZ1daTnB6Z29Gd2NJUHpndW5wSjR4dnZPX3EzVDFwSGYzdHk3U2dxQk1tWmNFc2h5UF8wNGNqc1VkcmQzWnRBaTNQZEhteGEzRENoZHlQZjVCT18yVnJZVUxKOEE1Tmx0a1dvaEdKLTh2YWc?oc=5",
+   "source": "The Points Guy",
+   "source_type": "gnews",
+   "published": "2026-11-22T18:31:18Z",
+   "relevance": 2,
+   "why": "Disruption coverage highlights why premium travel protections and concierge support matter to cardholders.",
+   "summary_ai": "A Delta technology outage and storms caused widespread flight disruptions at airports ahead of Thanksgiving.",
+   "take": "Disruption coverage highlights why premium travel protections and concierge support matter to cardholders.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2a0b0bf83cf6",
+   "title": "Delta tech outage, Mother Nature fuel latest air travel disruption as Thanksgiving looms",
+   "url": "https://thepointsguy.com/news/delta-air-lines-tech-outage-messy-sunday-thanksgiving-travel/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-22T18:30:25Z",
+   "relevance": 2,
+   "why": "A Delta technology outage and weather disrupted thousands of flights just before the holiday travel rush.",
+   "summary_ai": "A Delta technology outage and weather disrupted thousands of flights just before the holiday travel rush.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "9bb717610ba4",
+   "title": "Delta Tech Outage Triggers Delays and Halts at Atlanta Hub",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEZKZzZ0NDFqRGNpbU9jb2lMaUNUYXdQMV9DSGozUFo0b1BlV0daVmZLcUZCVnVoTkNNS1hfUlgxQm56Q0g1MlJqR28xdlphcEdYYlRld2lCdlB5NXhJS2RfTGlNVDVqSXRuV25LUUdJRnZNQTlBNmllRmlTTG1KZlpJa3h2QUhYNkVZb25WcVlPVjg4MHRSd0dBUy0yUk1mOURaNkRfQVctOVlmY1E?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-22T17:50:07Z",
+   "relevance": 2,
+   "why": "A technology outage at Delta caused flight delays and halts at its Atlanta hub.",
+   "summary_ai": "A technology outage at Delta caused flight delays and halts at its Atlanta hub.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "8c9111e7c47d",
+   "title": "Booking Basic Economy Tickets on U.S. Airlines: Is It Ever a Good Idea?",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9KX2dHNC13dWFYZm1pN0FvVXhocEpxS1RKbDZLdkhvSXJZZ2hoZi1DOGFIQUk5SE5MYzVqWGdkWGlkVE9Mci1qS1JXUTBBNDZ6MWVoV25zVV9EekVTRHVqTldtUjZ5VUJhaFctUVFFUTl4OTN0?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-22T14:30:00Z",
+   "relevance": 2,
+   "why": "Upgraded Points weighs whether booking basic economy fares on U.S. airlines is ever worthwhile for travelers.",
+   "summary_ai": "Upgraded Points weighs whether booking basic economy fares on U.S. airlines is ever worthwhile for travelers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "7151dbb6a13d",
+   "title": "Delta’s Hyatt Refresh, a Ticking Southwest Deadline, and a Wild Week in Travel News",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRnZJTTVtM0wyQWFvcnBaakpyNUtEUFBmak5vQ2dFNHh0Yk1rUGNINUhxalY3VVY2VjhrQXpHNnE2QXIyV2xFMjBsaEg5S0dyYXJacTN1Z19Qc2JHcjJDR3JjVEtXdmlSMFpRc2JrUll3QUpJUjNRM1JqQ0hyc2xjV2xISXAzNzlXYWV6WFNaTQ?oc=5",
+   "source": "Eye of the Flyer",
+   "source_type": "gnews",
+   "published": "2026-11-21T12:35:04Z",
+   "relevance": 3,
+   "why": "A weekly travel roundup covers a Delta and Hyatt update, a Southwest deadline and other industry news.",
+   "summary_ai": "A weekly travel roundup covers a Delta and Hyatt update, a Southwest deadline and other industry news.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "536fd5ee40db",
    "title": "Why International First Class Has Failed At US Airlines (But Shouldn’t)",
    "url": "https://onemileatatime.com/insights/international-first-class-failed-us-airlines/",

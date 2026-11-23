@@ -1,0 +1,32 @@
+{
+ "name": "EFG Holding",
+ "slug": "efg-holding",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "281081f47fac",
+   "title": "EFG Holding stock: Q3 revenue rises 5%, profit falls 15%",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWJEUGJlSmtzckVNRENQM05uT3BEeDZNcFgySV9lVkFaYUdVREJRT2NtOGQyWTZDdTBPaFN1Ni1IbXZvMnhaS1VEcFBlMGxncXoxSnljcFpwNjhtRTB3Tm5wczdjWXNBRDFzTEJjSWJEbFVWNFdtSkE1cTdDTFJNVGZFTTdRUE1lbW9xWE9wMXZubjMtOUZDd0NPUUZ5TndpUHVndnV5MUFMR2Z2bFB6MA?oc=5",
+   "source": "ad-hoc-news.de",
+   "source_type": "gnews",
+   "published": "2026-11-23T00:36:15Z",
+   "relevance": 1,
+   "why": "EFG Holding reported third-quarter revenue up 5% and profit down 15%.",
+   "summary_ai": "EFG Holding reported third-quarter revenue up 5% and profit down 15%.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Q3 revenue up 5%",
+    "Profit down 15%"
+   ],
+   "also": []
+  }
+ ]
+}

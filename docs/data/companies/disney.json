@@ -1,0 +1,33 @@
+{
+ "name": "Disney",
+ "slug": "disney",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "026721556dd2",
+   "title": "Where to Stay at Disneyland Paris in 2026 | Hotel Guide",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mazh6cWxab1RjazBNbnBuTDdJcU5uWlk2MjhaMnhGUEVkZEdfN3pwSzd6LWZTaDNvSE5YdllxbXBQSVphX2VXRGMwN2RJWnFFVFRYcTRBVkxkRTYxRzFTSDNFSVJYekNPR0wyVVhOSXZGR1g3UHNr?oc=5",
+   "source": "AirMagique",
+   "source_type": "gnews",
+   "published": "2026-11-22T00:22:23Z",
+   "relevance": 2,
+   "why": "A guide to where to stay at Disneyland Paris in 2026, covering the hotel options.",
+   "summary_ai": "A guide to where to stay at Disneyland Paris in 2026, covering the hotel options.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2026"
+   ],
+   "also": []
+  }
+ ]
+}

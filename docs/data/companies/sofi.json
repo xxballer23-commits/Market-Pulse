@@ -1,0 +1,35 @@
+{
+ "name": "SoFi",
+ "slug": "sofi",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9b935404004f",
+   "title": "SoFi’s Personal Loans Carry a 12.9% Coupon. A “10% card rate cap” Would Undercut Them",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWdYODAteUEyb1p0ekQ3RVhxQjlVdlJiR2Z4QWhkaUFETWQ1U1huVVBnMFpwRGdLblRUX0Z5OW5ueExhUE1xVXY0cENPM3Y5aFNIX1RpbVNPelVkb296S1pfSlNIYmhIQUt4d19TVW84eENGaE9hS1dTemV2cGNXMHZrdkZfNi1iQnNoTTBYenNtZFJVX0ZKdGZtb05yYVhZYUV1dmtILU9odw?oc=5",
+   "source": "TIKR.com",
+   "source_type": "gnews",
+   "published": "2026-11-22T16:32:15Z",
+   "relevance": 4,
+   "why": "A card rate cap could push borrowers toward installment loans. Model how much card balance would migrate to personal loan products.",
+   "summary_ai": "Analysis argues a proposed 10% credit card rate cap would undercut SoFi's personal loan pricing at a 12.9% coupon.",
+   "take": "A card rate cap could push borrowers toward installment loans. Model how much card balance would migrate to personal loan products.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "12.9% coupon",
+    "10% card rate cap"
+   ],
+   "also": []
+  }
+ ]
+}

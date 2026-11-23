@@ -1,0 +1,34 @@
+{
+ "name": "JD.com",
+ "slug": "jd-com",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "aebd690d16bc",
+   "title": "Singles’ Day Sold 170,000 Dog Outfits. Then Came the Cleanup.",
+   "url": "https://www.pymnts.com/pymnts-features/the-weekender/2026/singles-day-sold-170000-dog-outfits-then-came-the-cleanup/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-21T09:00:50Z",
+   "relevance": 2,
+   "why": "Tmall sold 170,000 pet clothing items in one Singles' Day window, and JD.com reported a sharp jump in an unnamed category.",
+   "summary_ai": "Tmall sold 170,000 pet clothing items in one Singles' Day window, and JD.com reported a sharp jump in an unnamed category.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "170,000 dog outfits",
+    "46-fold year-over-year jump"
+   ],
+   "also": []
+  }
+ ]
+}

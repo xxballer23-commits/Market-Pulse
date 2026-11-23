@@ -1,0 +1,33 @@
+{
+ "name": "Hashi",
+ "slug": "hashi",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "838b7de65c6e",
+   "title": "Hashi Brings Bitcoin-Backed Lending to Sui Mainnet With 20+ Partners",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzRzRMeG5hZmhSWnB4Ym1iZXJzd0kwNlpwNG5CMjU5dVJrTXkyX2dQdzZOV2dkYUdWTTVRWnY5VjZYa3dSS29pZzNabW8zSVVxblVROTUtdG5sRzEtWFpfQS1RTVRreGdlVnRkUVNqYWVJbjJfQkxQdXNqMA?oc=5",
+   "source": "CryptoRank",
+   "source_type": "gnews",
+   "published": "2026-11-21T09:10:59Z",
+   "relevance": 2,
+   "why": "Hashi launched bitcoin-collateralized lending on Sui mainnet with more than 20 partners.",
+   "summary_ai": "Hashi launched bitcoin-collateralized lending on Sui mainnet with more than 20 partners.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20+ partners"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "GigSky",
+ "slug": "gigsky",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "66e0d7b008c5",
+   "title": "(Confirmed) US Bank Altitude Connect GigSky benefit may end 11/30/26",
+   "url": "https://frequentmiler.com/us-bank-altitude-connect-gigsky-benefit-may-end-11-30-26/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-21T16:45:10Z",
+   "relevance": 4,
+   "why": "Losing this eSIM perk opens a travel benefit gap, so GigSky-style data partners are worth pitching to premium card teams.",
+   "summary_ai": "US Bank has confirmed its Altitude Connect GigSky eSIM benefit may end on November 30, 2026.",
+   "take": "Losing this eSIM perk opens a travel benefit gap, so GigSky-style data partners are worth pitching to premium card teams.",
+   "take_kind": "take",
+   "partner": "GigSky",
+   "benefit_move": true,
+   "benefit_type": "travel",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Ends 11/30/26",
+    "15 days / 5GB eSIM data"
+   ],
+   "also": []
+  }
+ ]
+}

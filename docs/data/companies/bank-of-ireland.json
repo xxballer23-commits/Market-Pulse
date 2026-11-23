@@ -1,0 +1,33 @@
+{
+ "name": "Bank of Ireland",
+ "slug": "bank-of-ireland",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d3ae5f610386",
+   "title": "Bank of Ireland sets Aer Lingus card closure for 2027",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbjc5VUd3RWRSQ2txRWNhSWkyTTU2RU9DNmZjQ0hBTlhxYWZ6SDZ1dlk4aERDS296SmkxN0pPd3dOMWtSWWZ6RDI0b0F2dGVUdUs5RHFVUHYtR09mTXpzVkQwaXp0NUtZU2tyVFJlRFhsRnVnQzhGaGU5a1lwS2wxejZNeGdrc21rRkRsN0liNXlwdw?oc=5",
+   "source": "InsideFlyer",
+   "source_type": "gnews",
+   "published": "2026-11-22T04:11:00Z",
+   "relevance": 3,
+   "why": "Airline co-brand exits show how fragile partner-led cards become when the airline relationship changes.",
+   "summary_ai": "Bank of Ireland will close its Aer Lingus co-branded credit card in 2027.",
+   "take": "Airline co-brand exits show how fragile partner-led cards become when the airline relationship changes.",
+   "take_kind": "read",
+   "partner": "Aer Lingus",
+   "benefit_move": true,
+   "benefit_type": "other",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2027"
+   ],
+   "also": []
+  }
+ ]
+}

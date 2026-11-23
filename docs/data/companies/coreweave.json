@@ -1,0 +1,31 @@
+{
+ "name": "CoreWeave",
+ "slug": "coreweave",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5652f78bc541",
+   "title": "Wells Fargo’s $115 Target Says CoreWeave’s Selloff Went Too Far",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWEyWGd5dmpRVlhNV0drTVYyWWxELWpTZTNqYVd5Mk1FUVdoM0Y1ZGoyRTM1OUM5Wm9RRXNweHNEWEtnRGZJN2RTYlBtX0t6SmZQVVhjRDRJWjlRSnVJODVEeUU3b1JlX3ZtVjJiM2xXYzZRT2RIWlpvYTVINlZIdEtVZExDSDRJNkppWnJ4d01RZ20xbVpF?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-21T10:33:56Z",
+   "relevance": 1,
+   "why": "A $115 price target from Wells Fargo argues the CoreWeave selloff has gone too far.",
+   "summary_ai": "A $115 price target from Wells Fargo argues the CoreWeave selloff has gone too far.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$115 price target"
+   ],
+   "also": []
+  }
+ ]
+}

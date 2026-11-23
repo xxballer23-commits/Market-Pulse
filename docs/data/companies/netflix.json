@@ -1,0 +1,33 @@
+{
+ "name": "Netflix",
+ "slug": "netflix",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "aa4d4b505a7c",
+   "title": "UberEats: Promo Codes, Discounts & Other Savings: $11.25 off $18+",
+   "url": "https://www.doctorofcredit.com/ubereats-promo-codes-discounts-other-savings/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-22T23:40:06Z",
+   "relevance": 2,
+   "why": "Delivery platforms pairing with streaming promos shows how bundled non-card perks can be surfaced through in-app ad units.",
+   "summary_ai": "Uber Eats is running an in-app offer of $11.25 off orders over $18 tied to a Netflix Gameday ad, with eligibility limited.",
+   "take": "Delivery platforms pairing with streaming promos shows how bundled non-card perks can be surfaced through in-app ad units.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$11.25 off $18+"
+   ],
+   "also": []
+  }
+ ]
+}

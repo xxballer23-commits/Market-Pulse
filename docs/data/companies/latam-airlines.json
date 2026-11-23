@@ -1,0 +1,57 @@
+{
+ "name": "LATAM Airlines",
+ "slug": "latam-airlines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e9e4ee5f3b67",
+   "title": "LATAM to introduce first A321XLRs in March",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40UkgxQVhLZXEtMmppOFB1ZFFvNWVXbXBZMUFHRDNac0NMcm5VVVJQUUg2N2tGMXA2ZkcxUjJDbmZVODAzajBDcldxUm85a2tmemFIRTlPUndSZFFVNHdab3hxTXJrRVgwY2RYUHl1eVhFV2ZjZnhzVlBCTll6MG8?oc=5",
+   "source": "The Points Guy",
+   "source_type": "gnews",
+   "published": "2026-11-21T13:01:09Z",
+   "relevance": 2,
+   "why": "LATAM Airlines will bring its first Airbus A321XLR aircraft into service in March.",
+   "summary_ai": "LATAM Airlines will bring its first Airbus A321XLR aircraft into service in March.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "520453927996",
+   "title": "LATAM Airlines unveils new A321XLR cabins with eye on US expansion",
+   "url": "https://thepointsguy.com/news/latam-airlines-new-a321xlr-cabins-expansion/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-21T13:00:23Z",
+   "relevance": 2,
+   "why": "Watch whether LATAM's US expansion opens new premium partner or transfer options for card programs.",
+   "summary_ai": "LATAM's new A321XLR jets will feature 12 lie-flat business suites when they debut in March 2027.",
+   "take": "Watch whether LATAM's US expansion opens new premium partner or transfer options for card programs.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "12 lie-flat suites",
+    "March 2027"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Madison Square Garden",
+ "slug": "madison-square-garden",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5279bd056e3d",
+   "title": "Motorcycle gifted to Billy Joel by MSG for 150th sold-out show fetches $577,000 at auction",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV3JnR0pVVnJQdzhpUjV4QXJBR2JoYThmYmFENS04aThCMW5xRTB1d25xTFhaa3NYSVZOSm96b2k5MGJHMExJYTlOSzM0NUY4Z2RKQWFPalR3bmc4dWhwdUVtcnRodFdjRWdUaTFZVTItY3NCTGMycC1Vc0trbFhiODJrOVFDeTVMUmY1WTRFZTdXMTNWM3hXM1d4clE1LWZ6WW9mRkJjTTAwYldfQlprckc4UjlzaXY2SGZSZTBRcGIteWxuSDVZ?oc=5",
+   "source": "New York Post",
+   "source_type": "gnews",
+   "published": "2026-11-21T22:44:00Z",
+   "relevance": 2,
+   "why": "A motorcycle Madison Square Garden gave Billy Joel for his 150th sold-out show sold at auction for $577,000.",
+   "summary_ai": "A motorcycle Madison Square Garden gave Billy Joel for his 150th sold-out show sold at auction for $577,000.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$577,000",
+    "150th show"
+   ],
+   "also": []
+  }
+ ]
+}

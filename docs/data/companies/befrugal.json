@@ -1,0 +1,35 @@
+{
+ "name": "BeFrugal",
+ "slug": "befrugal",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "93a9e6300a65",
+   "title": "BeFrugal: $40 Referral Bonus",
+   "url": "https://www.doctorofcredit.com/befrugal-40-referral-bonus-3/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-21T14:00:31Z",
+   "relevance": 2,
+   "why": "BeFrugal is offering a $40 bonus to new members who sign up through a referral link.",
+   "summary_ai": "BeFrugal is offering a $40 bonus to new members who sign up through a referral link.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$40 referral bonus",
+    "$10 cash back"
+   ],
+   "also": []
+  }
+ ]
+}

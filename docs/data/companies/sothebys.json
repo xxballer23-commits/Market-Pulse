@@ -5,6 +5,132 @@
  "vets": [],
  "items": [
   {
+   "id": "bc545589a651",
+   "title": "Steve McQueen’s Ferrari Sold for $18.9 Million. One He Never Owned Got $27.5 Million",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN05sRDZMcUtBM3dWR25kdVRJOFhLRWVveklNdG5ZYlN3ak1TWkVvNWpVLUNjM1dGLV84MXV3cHItUlc2bnFSWXZueDlUZWNjWGt1OW43aU5DLUxYMDdPWldyVVpmYjdpYVZDeFpfQ0VLTzZqUFRtWXVOZ0JISFNhamFIckNqbUZGaHY0NUFIbjZvd1hqU1R0RnMtUkdJN1RXQ3BCdjBUeUY5ejhPaklB?oc=5",
+   "source": "MotorBiscuit",
+   "source_type": "gnews",
+   "published": "2026-11-22T17:03:45Z",
+   "relevance": 2,
+   "why": "Steve McQueen's own Ferrari sold for $18.9 million, while a Ferrari he never owned fetched $27.5 million at auction.",
+   "summary_ai": "Steve McQueen's own Ferrari sold for $18.9 million, while a Ferrari he never owned fetched $27.5 million at auction.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$18.9 million sale",
+    "$27.5 million sale"
+   ],
+   "also": []
+  },
+  {
+   "id": "6b80bcd7583d",
+   "title": "Van Gogh, Kandinsky Lift New York Fall Auctions to $2.4 Billion",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdGVoS1pmSTUwWE9RVWdOY2ZoRk1lQndmNF9JbzNVZ1pFaVR5eFdTMWpqd3REcmYzWWdndjZXRy1OTktsRmRoU0pZX3JicTY4NmJDUXJsOGJDVDVyR3c3SEpZVnNCMnhzN3kxdDZMMThPR244c0t1eWhkNWs0SVNXbEItamN5eDN3eVdJa250UzlJSThVQVNkMGNNWnB3MWJuaXhUeA?oc=5",
+   "source": "Seoul Economic Daily",
+   "source_type": "gnews",
+   "published": "2026-11-22T09:01:39Z",
+   "relevance": 3,
+   "why": "Strong top-end art demand signals healthy ultra-affluent spending, useful context for high-net-worth card pitches.",
+   "summary_ai": "Van Gogh and Kandinsky works lifted New York's fall auction sales to $2.4 billion.",
+   "take": "Strong top-end art demand signals healthy ultra-affluent spending, useful context for high-net-worth card pitches.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$2.4 billion"
+   ],
+   "also": []
+  },
+  {
+   "id": "0fef68df1879",
+   "title": "Who Won New York’s $2.44 Billion Art Week?",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa0hSYmtzQ2M0S1RIenpqdENENUJKcWtGTUtHQklzZlBrWjZBekZQdVJEU2pUUVkwUS1LUVZybWJUbV8wNW1DcDNPTlFjaWhpVnhHdmd1LVY4clBYcTVPWHFFT052VGt4ZUQ1NkF3d3hGQ1hKQUFkQ3NoZW1DSnp6czJLWmPSAYwBQVVfeXFMT21KaFFkWF9MTG5NM0NKZW1mdW05SzhmYUhFQmNvOEphM2FmWlI3Y0hJeXZuLWdwQVRNQjgzRzhCQ3dJTndSb01NS0U3OFFreGdyMXJVRDgzTXNOSHVBTUI1VHF6eGlCck5WRmwyR0pBSHJfcnR2OC1OdWZZWUxKM1k5Q1k4Z3dhdVd4blc?oc=5",
+   "source": "Artnet News",
+   "source_type": "gnews",
+   "published": "2026-11-21T21:30:37Z",
+   "relevance": 3,
+   "why": "Art week spend points to strong ultra-affluent appetite for big-ticket collecting, useful context for premium cardholder event planning.",
+   "summary_ai": "An analysis examines which players captured the spending during New York's art week, reported at $2.44 billion.",
+   "take": "Art week spend points to strong ultra-affluent appetite for big-ticket collecting, useful context for premium cardholder event planning.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$2.44 billion"
+   ],
+   "also": []
+  },
+  {
+   "id": "152aa5a47834",
+   "title": "2018 Porsche 911 Turbo Project Gold at RM Sotheby's Sealed: Bidding Dates, Specs and Details",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOTFoSERiaFBSZTd6SVItekVDZ3hVOHRmdkN1VVJlNmszOEtNblA0Zmd2MVpJckRkdDBQUkZrOFZNWkJiVjlPblNiQ1VCLW1iOVBtYTIyQlhER21oVkhVRVd4WlVRdzZMaVBWNGNOb3FvV09UVEl4SmlnVFdVZEkxVjNvTThWeWNmOVl6c3FRclNtUHUwWmxUU0IxWmttdXZVZmFOaURqRDFWSUxuV1ByZ3JIQWtKdzQxak1GUGFDR3NOX3FaTTdSNG53WWxtbnlOeDAyM1AzUGo0MEFyd2c?oc=5",
+   "source": "stupidDOPE",
+   "source_type": "gnews",
+   "published": "2026-11-21T13:54:56Z",
+   "relevance": 2,
+   "why": "A 2018 Porsche 911 Turbo called Project Gold is being offered through a sealed bid at RM Sotheby's.",
+   "summary_ai": "A 2018 Porsche 911 Turbo called Project Gold is being offered through a sealed bid at RM Sotheby's.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2018 model year"
+   ],
+   "also": []
+  },
+  {
+   "id": "83b35725b229",
+   "title": "untitled - Tomma Abts Sotheby's Auction Record 2026 (2015) by Tomma Abts - For Sale",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU0dmSU5iUWp1dldHU2NLbUxnbEttV0QtcXNCTDl0c1c0R0dGMGU2MG1fLW1za3M0MjJTMjZTSHJ4c1lZQVU2MG82bEdVU0IzSWhpZ2lKUlhiQ1g4MWhmbm1QMWdJdnYxN2ZhV25yRHZ6MVltLU02WXZ4eUxKY2RfaERQUmxXT3RLQzlQd2JJRV9waVk?oc=5",
+   "source": "Artsy",
+   "source_type": "gnews",
+   "published": "2026-11-21T11:26:48Z",
+   "relevance": 1,
+   "why": "A 2015 Tomma Abts painting is listed for sale on Artsy, referencing a Sotheby's auction record.",
+   "summary_ai": "A 2015 Tomma Abts painting is listed for sale on Artsy, referencing a Sotheby's auction record.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "a625629b8d28",
    "title": "Beyond the Record Prices: What New York’s November Auctions Tell Us About the Art Market",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSklpYTQyOUpyRldCNkt6SmdCbzVpVnVGcTBsdHdlZlB2MW1wV2pZSUdHR3k0NEVBbXl5cXV0SU01UDRFcHZQOTMzaEZoY3BaUDFISm1TY3cxWldXSlZCZmZTOXVKVnk2Zi1ZSzVFbDBUNDhyeU12LU41Q0R1a19IUEozdDNRUEpPdTQ4bTFwTFVoVHAtdmc?oc=5",

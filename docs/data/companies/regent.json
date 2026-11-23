@@ -1,0 +1,31 @@
+{
+ "name": "Regent",
+ "slug": "regent",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d30e97c33194",
+   "title": "What It’s Like to Stay at Regent Santa Monica Beach, the L.A. Hotel That Finally Lives Up to Its Locale",
+   "url": "https://robbreport.com/lifestyle/news/regent-santa-monica-beach-hotel-review-1238744681/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-21T16:00:00Z",
+   "relevance": 3,
+   "why": "New luxury hotel openings in key leisure markets are candidates for future card hotel credit partnerships.",
+   "summary_ai": "Robb Report reviews the newly opened Regent Santa Monica Beach, noting its spacious rooms and Old Hollywood design touches.",
+   "take": "New luxury hotel openings in key leisure markets are candidates for future card hotel credit partnerships.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

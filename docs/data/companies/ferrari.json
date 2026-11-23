@@ -1,0 +1,87 @@
+{
+ "name": "Ferrari",
+ "slug": "ferrari",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "bc545589a651",
+   "title": "Steve McQueen’s Ferrari Sold for $18.9 Million. One He Never Owned Got $27.5 Million",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN05sRDZMcUtBM3dWR25kdVRJOFhLRWVveklNdG5ZYlN3ak1TWkVvNWpVLUNjM1dGLV84MXV3cHItUlc2bnFSWXZueDlUZWNjWGt1OW43aU5DLUxYMDdPWldyVVpmYjdpYVZDeFpfQ0VLTzZqUFRtWXVOZ0JISFNhamFIckNqbUZGaHY0NUFIbjZvd1hqU1R0RnMtUkdJN1RXQ3BCdjBUeUY5ejhPaklB?oc=5",
+   "source": "MotorBiscuit",
+   "source_type": "gnews",
+   "published": "2026-11-22T17:03:45Z",
+   "relevance": 2,
+   "why": "Steve McQueen's own Ferrari sold for $18.9 million, while a Ferrari he never owned fetched $27.5 million at auction.",
+   "summary_ai": "Steve McQueen's own Ferrari sold for $18.9 million, while a Ferrari he never owned fetched $27.5 million at auction.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$18.9 million sale",
+    "$27.5 million sale"
+   ],
+   "also": []
+  },
+  {
+   "id": "dde4565e2b04",
+   "title": "Ferrari Luce Charity Car Sells For An Insane $40 Million",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5HNlhjRlc4OVhWcFp6MWJGR2VranpLZm5qb2tuOWtOOXZMSnVnLXRPNldoaWRJcHg4dU5UTjdPMGpDb3hxQzg1aFdoZVplUlZ0akJPOVR2T3dBS2prdEJwNXZhWjZUVmx2S0x6SmlGOS0?oc=5",
+   "source": "Motor1.com",
+   "source_type": "gnews",
+   "published": "2026-11-22T06:19:59Z",
+   "relevance": 3,
+   "why": "Eight-figure collectible sales signal ongoing UHNW appetite for trophy assets, useful context for ultra-premium card messaging.",
+   "summary_ai": "A Ferrari Luce charity car sold at auction for about $40 million.",
+   "take": "Eight-figure collectible sales signal ongoing UHNW appetite for trophy assets, useful context for ultra-premium card messaging.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$40 million"
+   ],
+   "also": []
+  },
+  {
+   "id": "202fabdbc73b",
+   "title": "Steve McQueen’s Ferrari NART Spider Sells for $18.9M",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY0lBU1ZZRFBENmFPNzgtdVUxQXdNSFlETEppY19mcnNvZnIxZnVtT3J5bU9nMXpVek9JTEZoSThSa2pha2lQMk5mbjg4SlFZVW9pSUp4WXF5cFZEcW5VUEJ1eVdmMFFhZXF2NTV3bUJsZDV3eU9fRU5IQ0drb2JSZ0hoNlJ0MGRPX1JEaVFJaGpTZVE5b2xZbDNIaWFsamw5UFJScC1fdGwzd1Vsa05WSzFZUzJlNkNjZ0Rwclh2UVNVRkw5bktZ?oc=5",
+   "source": "Hagerty",
+   "source_type": "gnews",
+   "published": "2026-11-21T17:08:33Z",
+   "relevance": 3,
+   "why": "Top-end collectible auction prices show the ultra-wealthy spending pool that premium card programs target.",
+   "summary_ai": "Steve McQueen's Ferrari NART Spider sold at auction for $18.9 million.",
+   "take": "Top-end collectible auction prices show the ultra-wealthy spending pool that premium card programs target.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$18.9M sale price"
+   ],
+   "also": []
+  }
+ ]
+}

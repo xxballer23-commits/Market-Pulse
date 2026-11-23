@@ -1,0 +1,33 @@
+{
+ "name": "Global Payments",
+ "slug": "global-payments",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f5dbcce142fb",
+   "title": "GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended",
+   "url": "https://www.pymnts.com/news/acquiring/2026/gtcr-weighs-buyout-of-global-payments-days-after-earlier-effort-ended/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-22T21:14:53Z",
+   "relevance": 2,
+   "why": "Processor ownership changes can shift acceptance and pricing, which affects co-brand card economics.",
+   "summary_ai": "Private equity firm GTCR is exploring a buyout of payment processor Global Payments, with no decision made.",
+   "take": "Processor ownership changes can shift acceptance and pricing, which affects co-brand card economics.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Nov. 20 SEC filing"
+   ],
+   "also": []
+  }
+ ]
+}

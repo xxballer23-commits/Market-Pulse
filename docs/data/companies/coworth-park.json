@@ -1,0 +1,31 @@
+{
+ "name": "Coworth Park",
+ "slug": "coworth-park",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "494d8f57750b",
+   "title": "This British Hotel Just Gave Its Countryside Cottages a Luxe Makeover. Here’s a Look Inside.",
+   "url": "https://robbreport.com/travel/hotels/coworth-park-new-cottages-england-1238798565/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-21T12:00:00Z",
+   "relevance": 2,
+   "why": "Coworth Park has redesigned its countryside cottages with new interiors and private gardens.",
+   "summary_ai": "Coworth Park has redesigned its countryside cottages with new interiors and private gardens.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

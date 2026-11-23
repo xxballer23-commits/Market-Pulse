@@ -5,6 +5,76 @@
  "vets": [],
  "items": [
   {
+   "id": "00580e37060b",
+   "title": "Capital One Travel has saved me thousands. Here are the features you need to know about",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbF9uam5PT2FjUWZUelZ5ZlVid25DeUlBV2dFZ0NFS01ZWUtDTkdVVjR5OU1GVF9WbGh3MHVINTlHRTczdl94UENYaEMyRkUtVFZWb1dfX0FSTXhKeHRNMjN1SU9CNUVEWVpNY0pSQ1BrR0JObU9n?oc=5",
+   "source": "CNN",
+   "source_type": "gnews",
+   "published": "2026-11-22T17:00:00Z",
+   "relevance": 3,
+   "why": "Issuer travel portals are becoming a core part of how premium cardholders judge card value.",
+   "summary_ai": "CNN walks through the key features of Capital One Travel and how cardholders can use the booking portal.",
+   "take": "Issuer travel portals are becoming a core part of how premium cardholders judge card value.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "d24f52e79f60",
+   "title": "The best time to apply for these popular Capital One credit cards based on offer history",
+   "url": "https://thepointsguy.com/credit-cards/capital-one-best-welcome-offers/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-21T18:00:23Z",
+   "relevance": 2,
+   "why": "The Points Guy tracked past welcome offers on popular Capital One cards to show when current offers look strongest.",
+   "summary_ai": "The Points Guy tracked past welcome offers on popular Capital One cards to show when current offers look strongest.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c46f5ef2107b",
+   "title": "Capital One and American Express lead US bank and credit card account protection rankings",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JbWN3WXZUZEc2cXdybnNSZzdWVk9ybnlZcU5NNHBITC1Kcl9vaXRQakEzd3Zsd0RmSGhEaWdPQnVxbWpBSmlCdjNqdjlOZndhdkxoYXg3TVhybXEyN2tGZzRIUWZnWTdjamJQWWwyYUpQbjVYdlh4c0RENW5hVUk?oc=5",
+   "source": "Beinsure",
+   "source_type": "gnews",
+   "published": "2026-11-21T13:36:27Z",
+   "relevance": 3,
+   "why": "Account protection is a differentiator to pitch alongside premium card benefits in partner conversations.",
+   "summary_ai": "Capital One and American Express rank highest among US banks and card issuers for account protection.",
+   "take": "Account protection is a differentiator to pitch alongside premium card benefits in partner conversations.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "7ed49050bbf9",
    "title": "Capital One Offers: 18% Back at CVS & 10% Back at Walgreens & Kroger",
    "url": "https://www.doctorofcredit.com/capital-one-offers-18-back-at-cvs-10-back-at-walgreens/",

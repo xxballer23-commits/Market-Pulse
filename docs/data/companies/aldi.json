@@ -1,0 +1,52 @@
+{
+ "name": "Aldi",
+ "slug": "aldi",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "84a52fffedb9",
+   "title": "I Fed My Family for a Week on $75 at Aldi - Here’s Exactly What I Bought",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0NTljMVVGeEpkbUNXMjduMU1pSDlBeHVuQWVfMUQzS1NjQVJxN053alY5enFHWGFWUDBNb25MQ3h6dnJySGpHNE95dU1SNklMaHBFQVNBZzZ1R3RXeWphUDJRaGYwbUlxQjlKSkZobw?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-21T12:30:00Z",
+   "relevance": 1,
+   "why": "A personal blog post describes feeding a family for a week on a $75 grocery budget at Aldi.",
+   "summary_ai": "A personal blog post describes feeding a family for a week on a $75 grocery budget at Aldi.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$75 weekly budget"
+   ],
+   "also": []
+  },
+  {
+   "id": "f2c7ce824245",
+   "title": "9 Aldi Italian Foods That Are Better Than Takeout (For a Fraction of the Cost)",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04SExIcFdET2REa015Mk44UmRRRzhRQ3lCMzdrNEt3RjhNUlljSXpUSzdnLUxUbThfT1dZdDF0NGxLM0VJRVBpcHMxNk51aURVZnJmWEt3NVd5c254YTQ4SVh2eFg5eXl4T3hvRUF4bnBObmxzaDl3?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-21T11:00:00Z",
+   "relevance": 1,
+   "why": "Consumer grocery roundup of Aldi Italian foods said to beat takeout on price.",
+   "summary_ai": "Consumer grocery roundup of Aldi Italian foods said to beat takeout on price.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

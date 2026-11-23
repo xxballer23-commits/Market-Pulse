@@ -1,0 +1,32 @@
+{
+ "name": "Rémy Martin",
+ "slug": "r-my-martin",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "dcba9e8ddb5d",
+   "title": "The Rosewood London hotel turns its London courtyard into an Alpine chalet with LOUIS XIII cognac",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObkhKSnZ6Zm42bEp4bGlEWGhLN2pjRHd2WVJpOEN1S1hZdmpyYld0QlBBNWtrQWhIb1VnVjJrM1lhb2k1YWJFUTB2dXI0Z01PZlNUV3YwWFZJUkdTYkFuMHNSbUptSXRUcHZ1SEZGbDZQWHNPSEplZkp1ZXhOQTdYNlRB?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-22T23:20:45Z",
+   "relevance": 3,
+   "why": "Hotel and spirits co-activations offer a model for seasonal experiences that a premium card could co-host with a hotel brand.",
+   "summary_ai": "The Rosewood London has turned its courtyard into an Alpine chalet activation featuring LOUIS XIII cognac.",
+   "take": "Hotel and spirits co-activations offer a model for seasonal experiences that a premium card could co-host with a hotel brand.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

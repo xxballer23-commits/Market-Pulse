@@ -1,0 +1,31 @@
+{
+ "name": "WeRoad",
+ "slug": "weroad",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f63ea6e2cb0e",
+   "title": "Italy’s WeRoad Lets Korean Superapp NOL Own Its Customers: Exclusive",
+   "url": "https://skift.com/2026/11/22/italys-weroad-lets-korean-superapp-nol-own-its-customers-exclusive/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-23T00:00:00Z",
+   "relevance": 2,
+   "why": "A superapp that owns the customer and distributes travel is a model worth tracking for future travel partner deals.",
+   "summary_ai": "WeRoad is entering South Korea through the NOL superapp, which will own the customer relationship rather than buying trips directly.",
+   "take": "A superapp that owns the customer and distributes travel is a model worth tracking for future travel partner deals.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

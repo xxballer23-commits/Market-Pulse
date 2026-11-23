@@ -1,0 +1,63 @@
+{
+ "name": "Office Depot",
+ "slug": "office-depot",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c458850da3d3",
+   "title": "Office Depot/OfficeMax: Buy $300+ Mastercard Gift Cards, Save $15",
+   "url": "https://frequentmiler.com/office-depot-officemax-buy-300-mastercard-gift-cards-save-15/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-22T18:45:29Z",
+   "relevance": 2,
+   "why": "Office Depot and OfficeMax are offering $15 off when customers buy $300 or more in Mastercard gift cards through November 28.",
+   "summary_ai": "Office Depot and OfficeMax are offering $15 off when customers buy $300 or more in Mastercard gift cards through November 28.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$15 off",
+    "$300+ gift card purchase",
+    "Valid 11/22/26 to 11/28/26",
+    "Limit 10 per household"
+   ],
+   "also": []
+  },
+  {
+   "id": "e1a4868fbd04",
+   "title": "Office Depot/Max Stores: Buy $300 In Mastercard Giftcards & Get $15 Instant Discount (11/22-11/28)",
+   "url": "https://www.doctorofcredit.com/office-depot-max-stores-buy-300-in-mastercard-giftcards-get-15-instant-discount-2-13-2-19/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-22T18:08:43Z",
+   "relevance": 2,
+   "why": "Office Depot and OfficeMax stores offer an instant $15 discount on purchases of $300 in Mastercard gift cards through November 28.",
+   "summary_ai": "Office Depot and OfficeMax stores offer an instant $15 discount on purchases of $300 in Mastercard gift cards through November 28.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$15 instant discount",
+    "$300 gift card purchase",
+    "Nov 22 to Nov 28"
+   ],
+   "also": []
+  }
+ ]
+}

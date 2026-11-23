@@ -5,6 +5,78 @@
  "vets": [],
  "items": [
   {
+   "id": "89126fec4b01",
+   "title": "Minor Hotels creates a director of design role in New Delhi, filled by Rashmi Sharma from IHG",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWFhHaW1TMWtiNnlnY2RLQkg5ZmlmcTZKSnZubFludTMyX2lheGVzMmNNMk1sTXNBS2NyRXViLVlUS05GbmRoR3BsUW5kRHZySGdDLVhMYlMwWG54Mm1Wdndqc1NibnlxclQ0LXNlVURlZTBFNjJHaEhDSjZIUEZrZmEzWHJWNG8?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-21T15:30:00Z",
+   "relevance": 1,
+   "why": "Minor Hotels created a director of design role in New Delhi and hired Rashmi Sharma from IHG.",
+   "summary_ai": "Minor Hotels created a director of design role in New Delhi and hired Rashmi Sharma from IHG.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "e98ec2a0175e",
+   "title": "IHG Opens 34-Room Casa del Compositor Hotel in Jerez, Spain",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2RYNi1FWV9MVHF5UkFFNGdmWWl3c2hPS1ZjekpQODFOMkd4eTdKT2lwSGhUTlBabm5NNS1kQUxHVEM2bkprSUMwX3FOSlFmSjd5VEhVdEVnWnlDUnFKQ1RyVzlVNDF0ZHRfRUp6TE9vbXZ0MVBtWWZYcWJXNUs4bVRGY1p2dWM2Y2FuWUxvMTNwbXNxUHBFUDJYaVRCc3dheGNz?oc=5",
+   "source": "Rus Tourism News",
+   "source_type": "gnews",
+   "published": "2026-11-21T14:02:32Z",
+   "relevance": 2,
+   "why": "IHG has opened the Casa del Compositor hotel in Jerez, Spain.",
+   "summary_ai": "IHG has opened the Casa del Compositor hotel in Jerez, Spain.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "34 rooms"
+   ],
+   "also": []
+  },
+  {
+   "id": "3523d9234c18",
+   "title": "A whole new World of Hyatt, luxury hotels with IHG certificates, great card combos and more",
+   "url": "https://frequentmiler.com/a-whole-new-world-of-hyatt-luxury-hotels-with-ihg-certificates-great-card-combos-and-more/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-21T12:15:15Z",
+   "relevance": 3,
+   "why": "Cardholders are stacking hotel certificates with card pairings, a pattern to watch when designing hotel perks.",
+   "summary_ai": "A weekly newsletter highlights luxury Hyatt hotel stays, IHG certificate uses and card combinations for points travelers.",
+   "take": "Cardholders are stacking hotel certificates with card pairings, a pattern to watch when designing hotel perks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "5fe5429a355f",
    "title": "IHG Cyber Sale: 500 free points and up to 30% off hotel stays",
    "url": "https://frequentmiler.com/ihg-cyber-sale-500-free-points-and-up-to-30-off-hotel-stays/",

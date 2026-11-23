@@ -1,0 +1,32 @@
+{
+ "name": "Tapestry",
+ "slug": "tapestry",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fc4322db0d59",
+   "title": "Coach, Ralph Lauren defy China slump",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQUNXUzFQVTBtczY2enRQeldnai04NkxfcVBqWEhBWHRVb0dQM042WGZDeTNkeFM0ZDdlSUJYY1dRUVB2cGFoWGVhb25wNUFjX1lHZl9MY3d2eUswSkZkTWg2bm84TEloRWV3dW1Fd2Y0NkVFVWlFMmJ6dEFQdWtVa0tKSUVkZVc3SE9rUW9n?oc=5",
+   "source": "KLSE Screener",
+   "source_type": "gnews",
+   "published": "2026-11-21T23:05:37Z",
+   "relevance": 3,
+   "why": "Affluent demand outside China is carrying US luxury names, useful context for retail-category partner pitches.",
+   "summary_ai": "Coach and Ralph Lauren are reportedly growing despite weak demand in China.",
+   "take": "Affluent demand outside China is carrying US luxury names, useful context for retail-category partner pitches.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

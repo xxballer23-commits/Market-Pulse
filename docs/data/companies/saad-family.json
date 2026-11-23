@@ -1,0 +1,33 @@
+{
+ "name": "Saadé family",
+ "slug": "saad-family",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "779f3e565788",
+   "title": "Le Petit Nice Passedat hotel in Marseille sold to the Saadé family: last service on 30 January 2027",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDh1V3JEUnJ3dTVOclVIN1FGRVlBZnp6TG9YRHkyRWp5NGNoSS1GeTBRbXdtRlF1ZEtma1h6a0YzX0Y3ZjdlY2cxQXVSNDJzRFFwMlJaSzhwWExRX01UenlCZWNNc3U2bnEwR2swNVJoZW5UQVBNelBtc1Q0bm1rUE55ZnZoZw?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-21T07:30:00Z",
+   "relevance": 2,
+   "why": "The Le Petit Nice Passedat hotel in Marseille was sold to the Saadé family, with final service set for January 30, 2027.",
+   "summary_ai": "The Le Petit Nice Passedat hotel in Marseille was sold to the Saadé family, with final service set for January 30, 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Last service January 30, 2027"
+   ],
+   "also": []
+  }
+ ]
+}

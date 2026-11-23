@@ -1,0 +1,31 @@
+{
+ "name": "Base Group",
+ "slug": "base-group",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2e34b198714b",
+   "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens",
+   "url": "https://www.cnbc.com/2026/11/22/foundation-future-industries-health-benefits-payroll-base-group.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-22T18:55:05Z",
+   "relevance": 1,
+   "why": "Employees at a robot startup backed by Eric Trump reportedly lost health benefits while the company seeks bridge financing.",
+   "summary_ai": "Employees at a robot startup backed by Eric Trump reportedly lost health benefits while the company seeks bridge financing.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$150 million investment"
+   ],
+   "also": []
+  }
+ ]
+}

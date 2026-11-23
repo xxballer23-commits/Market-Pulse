@@ -1,0 +1,31 @@
+{
+ "name": "Rokkatei",
+ "slug": "rokkatei",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2969dfb13979",
+   "title": "Rokkatei reports unauthorized client credit card use | NHK WORLD-JAPAN News",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uc3U1aF8tZFhGYXk2RWN1V1RuQ1ZNUGg1SEFOdjJpZ0F0R0RBMnUwZm5JRDh5VzVFT2JWLS1pME4tZkpsVU5zT3BUM2NMems2YWtwM2xwZHUyaXBsa01OUTBFYw?oc=5",
+   "source": "NHKニュース",
+   "source_type": "gnews",
+   "published": "2026-11-22T23:00:53Z",
+   "relevance": 2,
+   "why": "Card-on-file misuse at a merchant is a fraud-risk signal worth weighing when vetting merchant and retail partners.",
+   "summary_ai": "Japanese firm Rokkatei has disclosed unauthorized use of client credit cards.",
+   "take": "Card-on-file misuse at a merchant is a fraud-risk signal worth weighing when vetting merchant and retail partners.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,56 @@
  "vets": [],
  "items": [
   {
+   "id": "33e3b74481fb",
+   "title": "Staples: No Purchase Fee On $200 Visa Gift Cards (11/15/26 – 1/2/27)",
+   "url": "https://www.doctorofcredit.com/staples-no-purchase-fee-on-200-visa-gift-cards-10-31-11-6-limit-5/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-22T05:01:28Z",
+   "relevance": 2,
+   "why": "Staples stores are waiving purchase fees on $200 Visa gift cards during a holiday window.",
+   "summary_ai": "Staples stores are waiving purchase fees on $200 Visa gift cards during a holiday window.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$200 Visa gift cards",
+    "Nov 15, 2026 to Jan 2, 2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "7a5245ad9f86",
+   "title": "Adyen Ties Klarna Into AI Checkout While Visa Vets the Agents Behind It",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSXFIV05tTzNWelFYMUVacXV5cGJER0F3akVhdzNVT2Vhd0dlamwzOUZYWFZuU1h0MnN0X1dRcUZFa0hlT28yOGFWcjJXSEt0TGNxU2pSeGwxaVRnX2taQ2VMenVUck9uZFFmbEFhWW5CUUctQVg4SmpMNEVsYk9KSHk0ZEdpWUVTQVItU3hUcEZwQmRySFZiWjJpMXh5ZlN3MGVOOHRaNUZRT3c2UDJHMUxDZjg0TExRdk45MlU4dEQtMFp1dXV6dmtOSUZtMC1rVmU4U0tQb0VtY0E?oc=5",
+   "source": "ad-hoc-news.de",
+   "source_type": "gnews",
+   "published": "2026-11-21T15:13:18Z",
+   "relevance": 3,
+   "why": "Agentic checkout could route BNPL around card rails; track how issuers get placed in AI-driven payment flows.",
+   "summary_ai": "Adyen added Klarna's pay-later option to its AI checkout while Visa reviews the AI agents using it.",
+   "take": "Agentic checkout could route BNPL around card rails; track how issuers get placed in AI-driven payment flows.",
+   "take_kind": "read",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "abd335ca8425",
    "title": "Cyberattack or Outage? CFOs Face the Same Cash Flow Problem",
    "url": "https://www.pymnts.com/back-office/cfo/2026/cyberattack-or-outage-cfos-face-the-same-cash-flow-problem/",

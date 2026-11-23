@@ -5,24 +5,78 @@
  "vets": [],
  "items": [
   {
-   "id": "c0735c257175",
-   "title": "Atmos Rewards Summit Visa card review: Stellar value beyond Alaska and Hawaiian",
-   "url": "https://thepointsguy.com/credit-cards/reviews/atmos-rewards-summit-card-review/",
-   "source": "The Points Guy",
+   "id": "84f881c493a9",
+   "title": "Atmos For Business: Earn Up To 23.5x Points On Alaska & Hawaiian Flights",
+   "url": "https://onemileatatime.com/guides/atmos-for-business/",
+   "source": "One Mile at a Time",
    "source_type": "rss",
-   "published": "2026-11-20T21:00:50Z",
+   "published": "2026-11-22T17:21:35Z",
    "relevance": 3,
-   "why": "A review of this airline co-brand card shows how members judge premium value beyond the core airline, which informs benefit design.",
-   "summary_ai": null,
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": null,
+   "why": "Airline co-brand business earn rates set a benchmark for small business card pitches to travel-heavy owners.",
+   "summary_ai": "Alaska and Hawaiian's small business program adds bonus points and status credits, with the business card offering up to 23.5x per dollar.",
+   "take": "Airline co-brand business earn rates set a benchmark for small business card pitches to travel-heavy owners.",
+   "take_kind": "take",
+   "partner": "Alaska Airlines",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 23.5x per dollar",
+    "Alaska and Hawaiian flights"
+   ],
+   "also": []
+  },
+  {
+   "id": "774a1b1d4835",
+   "title": "Buy Ikon Pass with Alaska Atmos points: 65K Base / 100K full Ikon Pass",
+   "url": "https://frequentmiler.com/buy-ikon-pass-with-alaska-atmos-points-65k-base-100k-full-ikon-pass/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-21T18:45:48Z",
+   "relevance": 3,
+   "why": "Points-to-experience redemptions like this offer a model for adding non-travel sporting rewards to a partner catalog.",
+   "summary_ai": "Alaska's Atmos Unlocked lets members spend points on Ikon Base or full Ikon ski passes.",
+   "take": "Points-to-experience redemptions like this offer a model for adding non-travel sporting rewards to a partner catalog.",
+   "take_kind": "take",
+   "partner": "Atmos Unlocked",
+   "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
    "sections": [
-    "community",
-    "premium_cards"
+    "partnerships",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "65,000 points for Ikon Base Pass",
+    "100,000 points for full Ikon Pass"
+   ],
+   "also": []
+  },
+  {
+   "id": "21b678fb7fd4",
+   "title": "Atmos Rewards Ascent Visa Signature review: Valuable points and solid perks for Alaska Airlines and Hawaiian Airlines flyers",
+   "url": "https://thepointsguy.com/credit-cards/reviews/atmos-rewards-ascent-card-review/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-21T15:00:39Z",
+   "relevance": 3,
+   "why": "A review of the Atmos Rewards Ascent Visa Signature card praises its points value and perks for Alaska and Hawaiian flyers.",
+   "summary_ai": "A review of the Atmos Rewards Ascent Visa Signature card praises its points value and perks for Alaska and Hawaiian flyers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
    "data_points": [],

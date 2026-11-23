@@ -1,0 +1,34 @@
+{
+ "name": "Martin's",
+ "slug": "martins",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1054ef605b87",
+   "title": "Stop&Shop/Giant/Martin’s: 3x Fuel Points on Mastercard Gift Cards (11/20-11/26)",
+   "url": "https://www.doctorofcredit.com/giant-stopshop-martins-3x-fuel-points-on-mastercard-gift-cards-10-8-10-14/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-22T16:00:02Z",
+   "relevance": 2,
+   "why": "Grocery gift card promos reward fuel points; low priority for premium benefit deals.",
+   "summary_ai": "Giant, Stop&Shop and Martin's are offering 3x fuel points on Mastercard gift card purchases for a limited week.",
+   "take": "Grocery gift card promos reward fuel points; low priority for premium benefit deals.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Dates conflict between headline and summary",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "3x fuel points",
+    "11/20-11/26"
+   ],
+   "also": []
+  }
+ ]
+}

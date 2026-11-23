@@ -1,0 +1,31 @@
+{
+ "name": "Procter & Gamble",
+ "slug": "procter-and-gamble",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e4c9bb3f5ea1",
+   "title": "P&G Steps Up Use of Fully Autonomous Factory Shifts",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/pg-steps-up-use-of-fully-autonomous-factory-shifts/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-22T23:19:10Z",
+   "relevance": 1,
+   "why": "Procter & Gamble is reportedly expanding factories that run fully autonomous shifts, targeting up to $10 billion in savings.",
+   "summary_ai": "Procter & Gamble is reportedly expanding factories that run fully autonomous shifts, targeting up to $10 billion in savings.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$10 billion"
+   ],
+   "also": []
+  }
+ ]
+}

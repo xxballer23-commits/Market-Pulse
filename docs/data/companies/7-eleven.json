@@ -1,0 +1,34 @@
+{
+ "name": "7-Eleven",
+ "slug": "7-eleven",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d92ed5c11eac",
+   "title": "7-Eleven 7NOW App Promo Codes: $25 off $50+, FRIENDS",
+   "url": "https://www.doctorofcredit.com/7-eleven-7now-app-promo-codes/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-21T21:15:41Z",
+   "relevance": 1,
+   "why": "7-Eleven's 7NOW app has promo codes for discounts on orders, with one code valid for a single day.",
+   "summary_ai": "7-Eleven's 7NOW app has promo codes for discounts on orders, with one code valid for a single day.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$10 off $20",
+    "$25 off $50+"
+   ],
+   "also": []
+  }
+ ]
+}

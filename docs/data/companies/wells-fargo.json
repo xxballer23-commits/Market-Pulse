@@ -5,6 +5,98 @@
  "vets": [],
  "items": [
   {
+   "id": "1693105585f9",
+   "title": "Wells Fargo warns customers: AI agents are used at their own risk",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTEJfWXlCTEl0SHFxRUpnRG5WUEFidGg1anZEajNYcFhlaU44UzhwbTdHUElMQzZuLUpVbWlEWjNUSVJmNHgzYy1abWpVVFJlTndqaTBHWDQyWko4M2dqNF9sWnJtSFEzNWZGa1VkSGd2MllSTVVOWFpORWx6VzZkQXpB?oc=5",
+   "source": "Mezha.net",
+   "source_type": "gnews",
+   "published": "2026-11-22T11:12:12Z",
+   "relevance": 2,
+   "why": "Signals banks are pushing liability for AI agent account access onto customers, relevant to fraud and data-sharing design.",
+   "summary_ai": "Wells Fargo warned customers that letting AI agents act on their accounts is at their own risk.",
+   "take": "Signals banks are pushing liability for AI agent account access onto customers, relevant to fraud and data-sharing design.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "86a1bdb240ef",
+   "title": "Wells Fargo: Freedom To Grow Is No Longer The Whole Story",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxONER3R2lsSlpMZWNvX0dnZnZnVXZwZm53OXNMXzVtWE1SbXpuWmI1d25WbWdqUFF4ampxNVR3eEtxd2RPNVFZblZhcmRnS25hTDVIT1BMNmQ4NjFnY21qN3hZallhMDVrZjl3TU5tbmJ0dlFiSE9FNU1UaDBpWDUxSFdremU1SXdUaG44X3p5bkR2R2hZZ1Rnc2FtTVRIUQ?oc=5",
+   "source": "Seeking Alpha",
+   "source_type": "gnews",
+   "published": "2026-11-21T15:00:23Z",
+   "relevance": 2,
+   "why": "A Seeking Alpha analysis argues that Wells Fargo's Freedom To Grow theme no longer captures the full picture of the bank.",
+   "summary_ai": "A Seeking Alpha analysis argues that Wells Fargo's Freedom To Grow theme no longer captures the full picture of the bank.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "7ccfccc698c0",
+   "title": "JPMorgan, Wells Fargo Outages Fuel Retail Speculation After Microsoft, FAA Disruptions Last Week: ‘Seems Weird’",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMmltUW5tRGdRSFZlOExNWXhJVkJ0c1FRMFlvOVlYSUJ6ZFBmMndvSEo4bTgwY29FM05RcF90YjdubjZJMFJwa0FjUzg1V3JZR2p0cl9PdGtaV2tTRnRlM2tIbGpqVWI1MHRKLTVHSVBYR18wTC1hcHA3ZDJHanJBZkZVbWN6YkMtMEZEWTNRbEdHV2lycFhCVVYwWU1SbW50UnNEZUVEX1hBU0NfUmNYS1VhNko4Z3lybWhr?oc=5",
+   "source": "Stocktwits",
+   "source_type": "gnews",
+   "published": "2026-11-21T13:09:37Z",
+   "relevance": 1,
+   "why": "Social posts tie recent JPMorgan and Wells Fargo outages to Microsoft and FAA disruptions, speculating on retail trading effects.",
+   "summary_ai": "Social posts tie recent JPMorgan and Wells Fargo outages to Microsoft and FAA disruptions, speculating on retail trading effects.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Social post speculation, unconfirmed",
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "5652f78bc541",
+   "title": "Wells Fargo’s $115 Target Says CoreWeave’s Selloff Went Too Far",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbWEyWGd5dmpRVlhNV0drTVYyWWxELWpTZTNqYVd5Mk1FUVdoM0Y1ZGoyRTM1OUM5Wm9RRXNweHNEWEtnRGZJN2RTYlBtX0t6SmZQVVhjRDRJWjlRSnVJODVEeUU3b1JlX3ZtVjJiM2xXYzZRT2RIWlpvYTVINlZIdEtVZExDSDRJNkppWnJ4d01RZ20xbVpF?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-21T10:33:56Z",
+   "relevance": 1,
+   "why": "A $115 price target from Wells Fargo argues the CoreWeave selloff has gone too far.",
+   "summary_ai": "A $115 price target from Wells Fargo argues the CoreWeave selloff has gone too far.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$115 price target"
+   ],
+   "also": []
+  },
+  {
    "id": "db61eacc45c4",
    "title": "Wells Fargo (WFC) Stock Moves -2.88%: What You Should Know",
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZThBaEJmN0Nrb01JVnVidm5jdzBPSWdaNHQtVVBkLUNoelFjSmQ3cjdiaXFIQ0xDVGFxOExXWS0ycGJLOC0tLXVOYVZ4VEF2dDVQVWxNZUUzdVpoVEFUdFBQblNqRm53NVJoS3ZQR0hUYnJrdGVLUDJld2hiQ1hjQnhYYjI3OHZrVjZidmNMQ0lNam02ekU0?oc=5",

@@ -1,0 +1,31 @@
+{
+ "name": "Jim Beam",
+ "slug": "jim-beam",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a820ab04fcdb",
+   "title": "Taste Test: Jim Beam’s Latest Infinity Blend Bourbon Is One of the Best in Its Little Book Series",
+   "url": "https://robbreport.com/food-drink/spirits/whiskey-review-little-book-the-infinite-edition-iii-1238846774/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-22T18:00:00Z",
+   "relevance": 2,
+   "why": "Robb Report tastes the latest Jim Beam Infinity Blend bourbon, which combines whiskey from the two prior releases.",
+   "summary_ai": "Robb Report tastes the latest Jim Beam Infinity Blend bourbon, which combines whiskey from the two prior releases.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

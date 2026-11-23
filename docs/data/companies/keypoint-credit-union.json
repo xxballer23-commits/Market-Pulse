@@ -1,0 +1,34 @@
+{
+ "name": "KeyPoint Credit Union",
+ "slug": "keypoint-credit-union",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f454f0b59d76",
+   "title": "[CA only] KeyPoint Credit Union $300 Checking Bonus",
+   "url": "https://www.doctorofcredit.com/ca-only-keypoint-credit-union-200-checking-bonus/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-23T02:10:41Z",
+   "relevance": 1,
+   "why": "KeyPoint Credit Union is offering a checking bonus to new accounts in California, with the amount reported inconsistently.",
+   "summary_ai": "KeyPoint Credit Union is offering a checking bonus to new accounts in California, with the amount reported inconsistently.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Conflicting bonus amount, regional eligibility",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$300 checking bonus",
+    "$200 bonus in summary"
+   ],
+   "also": []
+  }
+ ]
+}
