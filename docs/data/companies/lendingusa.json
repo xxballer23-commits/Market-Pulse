@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "cfcfd02b5b45",
+   "title": "LendingUSA, Cross River Bank Debut Bitcoin-Backed Loans Up to $250K",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbC03ZUl6MThmU3U3NkRfd0JUaHpaNDRuaUdaN1lMU2t4dkVuOWtBdnNTR0c4SnJlV1lPbERjZlBSOTBvcmhTUkY1aEoxZXpnQS1oMC1YRzNyS28tVG9nLWtsV2xwZ0l6M0JNbWdHbDVPc0dKNFV2Z1BBZ2s1OVlMQlVmUm9fNXAzSTdybjlfWWc?oc=5",
+   "source": "Bitcoin News",
+   "source_type": "gnews",
+   "published": "2026-11-24T02:30:00Z",
+   "relevance": 2,
+   "why": "LendingUSA and Cross River Bank launched bitcoin-backed loans of up to $250,000.",
+   "summary_ai": "LendingUSA and Cross River Bank launched bitcoin-backed loans of up to $250,000.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $250K"
+   ],
+   "also": []
+  },
+  {
    "id": "a5e613fe09c7",
    "title": "LendingUSA, Cross River Bank Launch Bitcoin-Backed Loans",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVlkU2dUbEZUS0MwTTREaG5UUFFDVzRBS0xacXZOVGRrbk4zbEh6N0t0YmNXZFA1UWM3X091ZlZfZDdTUnpaa3M3eHFiNkU4RVA0LWlvS2ZqSGV5V2d6QWhCaWZEODhZT0d3dkZwenBUNVZCY25CQjNkbkxyZzFwZTlDS3JQOGxBOFVnaGhYbw?oc=5",
@@ -17,6 +42,29 @@
    "take": null,
    "take_kind": null,
    "partner": "Cross River Bank",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c9cf5e76c836",
+   "title": "Cross River Bank launches lending against bitcoin in partnership with LendingUSA, Crypto Briefing states",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMS1pRTJ3VHZHT0tIeFRMa2RVUDE1WlJ2ZWcydTZWSEZCSl80aGprQnYzNy1JV2lsd25pOTZyRmI3ZXJmRGhaVmkwczF2VmhQT3pRajZkUmZDU2J6VDAyakZQYzlZcklkRVdKekpidXFRY2RyanFSRHQ3R3l0TGVKbnc3RUxSeUg1aTJJ?oc=5",
+   "source": "Traders Union",
+   "source_type": "gnews",
+   "published": "2026-11-23T18:41:45Z",
+   "relevance": 2,
+   "why": "Bitcoin-collateral lending is a niche signal, not a near-term premium card partnership lead.",
+   "summary_ai": "Cross River Bank is launching loans secured by bitcoin through a partnership with LendingUSA.",
+   "take": "Bitcoin-collateral lending is a niche signal, not a near-term premium card partnership lead.",
+   "take_kind": "read",
+   "partner": "LendingUSA",
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
@@ -156,6 +204,10 @@
     {
      "source": "KuCoin",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMFhVZUF3WTNfM2tENzlxYm5ZWHFKWnNycEJQN0ltdklmNnZFT2d3X2E2b3I3eWhOZnpWMmJldEY4em1tMFZaNzJPazdINXBvYlM2RjBmSEtvY2Z2d19XT3ZyNS1rNXdlLWhiT3k1b2o3OC1Wck0xdVdXdmdSSEFBNkhYSVZ6SU1VZlZueHZBcU5QNUQzNVlSZ0NZdVhTcHpRQUVHMTNGT09ONGYxWmc?oc=5"
+    },
+    {
+     "source": "CryptoRank",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLVJ1Y3VpV3lXbkplS21xNHgwTDNTWVlpVFVJRThaODVJc1RSWWpXUzZySlNuZTIxQ3FCOXN2c1d4cnJOOFZvMzlYa2JaZmx0YUc1UFRzc1RrcmFNMURUYWplMkltbmFlTnFuMWJ3Y0xlSUw1OFlhUGlFR0o0OElFZA?oc=5"
     }
    ]
   }

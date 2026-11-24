@@ -1,0 +1,29 @@
+{
+ "name": "MLB",
+ "slug": "mlb",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4569c79b1938",
+   "title": "MLB’s Battle Between Owners and Players Is Asymmetrical Warfare",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZzNGTUlZc1BRcGJVcnRsTnc5QngydlcwcVVUc1hxeWpqWG9hSmRXalZKU0ViX1ptTFUtWGJrd0lzZGw1T2FZbjVVOWxVVzFoQnNOMGJWQ3FTUURZaGxGY0FlOVd6aVlqcmJhTWxxQjJtN1h0MFpXa1R0bDY3Vkx0c2lFdkg4V3I3M3ppRUpjdUVjYzN2NGNCVmZNS25YNmRBOFl1Rl9kRTdRX0JGbGk0XzEyb3ZxOXNEb2VUODM1YkU?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T12:00:10Z",
+   "relevance": 1,
+   "why": "A Bloomberg commentary argues the labor fight between MLB owners and players is lopsided.",
+   "summary_ai": "A Bloomberg commentary argues the labor fight between MLB owners and players is lopsided.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

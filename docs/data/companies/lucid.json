@@ -1,0 +1,52 @@
+{
+ "name": "Lucid",
+ "slug": "lucid",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1adc087f67ac",
+   "title": "Lucid, Uber Edge Closer To Taking On Tesla’s Robotaxis – Public Launch Targeted For Q1 2027",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObVZqRjNoM0oyMEotZUNET1FXUnI2QzNDOXl1NGx1WmxGeW9KbU5OZnYtcmtzOFcwV0dicm5QUE90RkI5SW92TnJRVFhtamZpSGVCUl8xNk5NY1dKWlhud2JmWndvVnRDdW1qZWJXaENwYWlXNm9kZi05Ykt3dzNxVkdWNFk0RlpZVkNLamh6UDZNQnBVUFdQbGZRNzZBUTAzc3Z6bXJqTU5lWlVUVmNXcFVYQlVaX2hIXzVLbUl0SC1SSXB1YWNWWE9uQ3VWMDRfbmlqUTcxamdYUG5NUThtdDctVQ?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:10:37Z",
+   "relevance": 1,
+   "why": "Lucid and Uber are moving closer to a robotaxi service that would compete with Tesla, with a public launch targeted for Q1 2027.",
+   "summary_ai": "Lucid and Uber are moving closer to a robotaxi service that would compete with Tesla, with a public launch targeted for Q1 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Q1 2027 target launch"
+   ],
+   "also": []
+  },
+  {
+   "id": "7b6a4ba28b81",
+   "title": "Uber, Nuro to Start Driverless Testing of Lucid Robotaxis in the Bay Area",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWkZEeU9rdmNKLU1IVmNIZElBVW96anRCMkZEdldhN0k3dHVWUl9pSHgyendPbkg0cXVRQzAtODl2ZG4wMWM5LXNKOUhBSlZHbmFFaVhwNHctSkQtOUJfUGlrSUlwcXBWazl2SVdHaFl1TjlQeXlyNklFM2lWLXhXcGxqdFFfUThZeU1hREl1cENud0VMNl9YdUVZaGRaenAtRHRZWnBYQTNtZ01fUndOV1RRTzZ1a3R4THpzLWthN3I?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T13:00:10Z",
+   "relevance": 1,
+   "why": "Uber and Nuro will begin driverless testing of Lucid robotaxis in the San Francisco Bay Area.",
+   "summary_ai": "Uber and Nuro will begin driverless testing of Lucid robotaxis in the San Francisco Bay Area.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

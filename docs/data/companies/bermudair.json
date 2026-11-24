@@ -1,0 +1,33 @@
+{
+ "name": "BermudAir",
+ "slug": "bermudair",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9f8f452eabdc",
+   "title": "BermudAir Adding Flights All Over The Place: I Don’t Know What’s Going On",
+   "url": "https://onemileatatime.com/news/bermudair-adding-flights-all-over-place/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-24T19:09:05Z",
+   "relevance": 2,
+   "why": "BermudAir announced a large summer 2027 expansion with new seasonal routes from Fredericton and Nashville.",
+   "summary_ai": "BermudAir announced a large summer 2027 expansion with new seasonal routes from Fredericton and Nashville.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Summer 2027"
+   ],
+   "also": []
+  }
+ ]
+}

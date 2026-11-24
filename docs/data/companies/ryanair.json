@@ -1,0 +1,31 @@
+{
+ "name": "Ryanair",
+ "slug": "ryanair",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "41bfec3618f9",
+   "title": "Why I’ll Never Fly Ryanair, Even If It’s The Only Option",
+   "url": "https://onemileatatime.com/insights/never-fly-ryanair/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-24T16:18:16Z",
+   "relevance": 2,
+   "why": "A travel blogger explains why they vowed to avoid Ryanair, citing remote airports, outdoor boarding and high daytime fares.",
+   "summary_ai": "A travel blogger explains why they vowed to avoid Ryanair, citing remote airports, outdoor boarding and high daytime fares.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Newrez",
+ "slug": "newrez",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "de70200d6bf8",
+   "title": "Newrez Expands Into Personal Loans as Homeowner Debt Rises",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0pyUVdzUHRFUFhSbExVX1RwcTRIcC1IM2lDUjZYelRMdEFRNzFVQlhuNUkzOFNGbWU2Mm1nT2drY3ROSFRLaElIeDhDMGJtMFJZSjZzd0N0bW5YQkNOa05QVGgyc1FWOGlLQnFOUVBDbGZTbzB1bnJzeGRJOXc1YlhhaEtOSWdzYU1DRXJ6N1VWZkNGMk9rVDN5M2lycUNHZWc?oc=5",
+   "source": "MyChesCo",
+   "source_type": "gnews",
+   "published": "2026-11-24T03:00:00Z",
+   "relevance": 3,
+   "why": "Mortgage lenders moving into personal loans adds competition for the consumer lending shelf.",
+   "summary_ai": "Mortgage lender Newrez is launching personal loans as homeowners carry more debt.",
+   "take": "Mortgage lenders moving into personal loans adds competition for the consumer lending shelf.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

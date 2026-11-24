@@ -1,0 +1,31 @@
+{
+ "name": "First National Bank of Omaha",
+ "slug": "first-national-bank-of-omaha",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3444b3edd82a",
+   "title": "FNBO’s Marc Butterfield on preparing for AI agents that shop for credit cards",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2k5NjFrbGpYeHlzVlBhUGFaQzlTZFg5MEFuMTFDeGpTN2NDcWUyRXdjSEp1VkdwOU9TckpJQjJtcUx0SjVqV3lDZjFUNDlUQk9OaGVxMkRZcWJyMzI1LU52VWRBS1FZck1KeEYwWWo3N2k0eFVrbWl6b1BzWnJBSlhkOWFkRDY0ZmQ5R3pGR1AybUtwX1ZDbjI2T1QyLUtpMkkzU2hjTEg0WG8?oc=5",
+   "source": "Tearsheet",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:21:52Z",
+   "relevance": 3,
+   "why": "Plan now for AI agents as a card distribution channel, since agent shopping will decide which cards get recommended.",
+   "summary_ai": "First National Bank of Omaha's Marc Butterfield discusses preparing card products for AI agents that shop on consumers' behalf.",
+   "take": "Plan now for AI agents as a card distribution channel, since agent shopping will decide which cards get recommended.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

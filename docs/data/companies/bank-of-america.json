@@ -5,6 +5,59 @@
  "vets": [],
  "items": [
   {
+   "id": "2f5b6d79d0ce",
+   "title": "(Repost) Existing Bank of America Relationship Customers Will Keep Status Longer Than Expected (Into 2028 For Some)",
+   "url": "https://www.doctorofcredit.com/existing-bank-of-america-relationship-customers-will-keep-status-longer-than-expected-into-2028-for-some/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T19:00:22Z",
+   "relevance": 3,
+   "why": "New Bank of America cardholders get a lower rate; price this gap into competitive comparisons and acquisition messaging.",
+   "summary_ai": "Bank of America relationship status grandfathering extends into 2027 or 2028, but only for existing cards, not new approvals.",
+   "take": "New Bank of America cardholders get a lower rate; price this gap into competitive comparisons and acquisition messaging.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "other",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2.25% rate",
+    "2.62% rate",
+    "2027 or 2028"
+   ],
+   "also": []
+  },
+  {
+   "id": "779e38379bc3",
+   "title": "Could Wells Fargo Actually Climb 25%? Or Is Bank of America Totally Wrong?",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUlhUVlZXVTlRSVhIYlVIbUQ3elZvSmZsdE1CNHNFdUFieDJ6QXNxaW40RjhkbFJIWWlvRExya1FRWFdObm5tbDdpSWxfNUF2TUdqcUdBUlRNQjJxMmx1S1VUNFJONTVpcl9LWkk5ZTFaMUVMd0lBem9ET0pWY0JWT2RWR1JuMXg1RGlSSmNRYlNmMEtTcV9ETHRqZjJHWnFoM1ZldUhGUWhUTTQ2amlVMlNJaVNEQTNOS3ZrWGdSY3hIOXp3NUIxSzd6MmRIUlk0RVRQcA?oc=5",
+   "source": "TIKR.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T12:59:29Z",
+   "relevance": 1,
+   "why": "A TIKR analysis asks whether Wells Fargo shares could rise 25% and challenges a bearish view on Bank of America.",
+   "summary_ai": "A TIKR analysis asks whether Wells Fargo shares could rise 25% and challenges a bearish view on Bank of America.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [
+    "25% potential gain"
+   ],
+   "also": []
+  },
+  {
    "id": "7207ec591c35",
    "title": "Rakuten Adds More Citi Cards To Portal (Up To $175)",
    "url": "https://www.doctorofcredit.com/rakuten-adds-more-citi-cards-to-portal/",

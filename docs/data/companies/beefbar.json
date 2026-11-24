@@ -1,0 +1,31 @@
+{
+ "name": "Beefbar",
+ "slug": "beefbar",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a060892bca4c",
+   "title": "The Team Behind Beefbar New York Opens Ludico in Tribeca",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41V01Va2RSeDFCVUVpOWM0UVJZR2hzSGFtR0FWbjdGZzRsM3FZOHNyX18yUm1hd1BteGJBU3NiWmFZZHFJamFmUG5HOVZ1Y1ZQb3dXeGhMODhXNHdaSGh0VGkwbno?oc=5",
+   "source": "Haute Living",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:41:15Z",
+   "relevance": 2,
+   "why": "The team behind Beefbar New York is opening a new restaurant called Ludico in Tribeca.",
+   "summary_ai": "The team behind Beefbar New York is opening a new restaurant called Ludico in Tribeca.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

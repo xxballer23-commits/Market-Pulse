@@ -1,0 +1,31 @@
+{
+ "name": "Discover",
+ "slug": "discover",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8b38fc4d0379",
+   "title": "Will Cards & Acquisition Synergies Sustain COF's Revenue Growth?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdy1OUmc2WWFZZElsRkZyeDdvR2gxbXhtSEozeHQyNk5mbzc3cEJQQTMxVl8xb0tqVjNBaWxpakN5ODRDU0pCVUlGSHhuemQxSmdXcjZHREZiVWxHa0RISkl5OFRrb3gwVTVqcXdwS2lKcHc3ZTI1VlB0czA3a3V1VjNUX0VfeEFPY3pwZVIzalNPN0k?oc=5",
+   "source": "Yahoo Finance Australia",
+   "source_type": "gnews",
+   "published": "2026-11-24T14:48:00Z",
+   "relevance": 2,
+   "why": "An analyst piece questions whether Capital One's card business and Discover deal synergies can keep revenue growing.",
+   "summary_ai": "An analyst piece questions whether Capital One's card business and Discover deal synergies can keep revenue growing.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

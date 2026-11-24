@@ -1,0 +1,34 @@
+{
+ "name": "GoodRx",
+ "slug": "goodrx",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b5ce56227fe3",
+   "title": "GoodRx $32 Million Class Action Settlement",
+   "url": "https://www.doctorofcredit.com/goodrx-32-million-class-action-settlement/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T17:00:26Z",
+   "relevance": 2,
+   "why": "Vet data flows with ad and analytics vendors closely in any loyalty or card partnership, given settlement risk.",
+   "summary_ai": "GoodRx agreed to a $32 million class action settlement over alleged sharing of sensitive health data with advertisers from 2017 to 2020.",
+   "take": "Vet data flows with ad and analytics vendors closely in any loyalty or card partnership, given settlement risk.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$32 million settlement",
+    "2017 to 2020"
+   ],
+   "also": []
+  }
+ ]
+}

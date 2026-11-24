@@ -1,0 +1,31 @@
+{
+ "name": "MUFG",
+ "slug": "mufg",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "03f996225678",
+   "title": "MUFG and Standard Chartered back buy now, pay later firm Tamara",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ2ZEaG90ekU5MUxFZ0s3ai1lTkZRakVrTHcxamw3TEtWdTEyanRpZ2tfMFVEU0tLM2ZlZ2NTbE1xSU9zZUpQOWxwX3M2d2ZrTGJCTVhtRmdfamZqY1pLTUZnS0pmZV9DbjV0OEFQdGhIN0hjOEtjbU5xbVJBelNzd1VRT3JiU0YyS2pWQ0loM1RQVlhqbW1rdENuaS1PTnpDd2hEdG9EZFZaRXhGd0J2SzdR?oc=5",
+   "source": "Alternative Credit Investor",
+   "source_type": "gnews",
+   "published": "2026-11-23T13:30:28Z",
+   "relevance": 3,
+   "why": "Bank capital backing BNPL signals institutional comfort with pay-over-time, relevant to embedded installment strategy.",
+   "summary_ai": "Two global banks, MUFG and Standard Chartered, have put backing behind Tamara, a buy now, pay later provider.",
+   "take": "Bank capital backing BNPL signals institutional comfort with pay-over-time, relevant to embedded installment strategy.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+{
+ "name": "Newegg",
+ "slug": "newegg",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d4c0611f0558",
+   "title": "Newegg.com: Save on Albertson’s & Southwest Giftcards (5%/9%)",
+   "url": "https://www.doctorofcredit.com/newegg-com-save-on-albertsons-southwest-giftcards-5-9/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T16:38:52Z",
+   "relevance": 1,
+   "why": "Newegg is offering discounted Albertsons and Southwest e-gift cards for a single day.",
+   "summary_ai": "Newegg is offering discounted Albertsons and Southwest e-gift cards for a single day.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$200 Albertsons e-gift card for $190",
+    "$500 Southwest e-gift card with $50 bonus",
+    "Valid 11/24/26"
+   ],
+   "also": []
+  },
+  {
+   "id": "6aafb97f35bf",
+   "title": "Newegg: Buy $500 Southwest gift card & get $50 Southwest gift card free",
+   "url": "https://frequentmiler.com/newegg-southwest-gift-card-deal/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-24T13:45:32Z",
+   "relevance": 2,
+   "why": "Third-party gift card bonuses shape how cardholders value points, so watch for cards pricing against them.",
+   "summary_ai": "Newegg is offering a $50 free Southwest gift card on a $500 Southwest gift card purchase through November 24, 2026.",
+   "take": "Third-party gift card bonuses shape how cardholders value points, so watch for cards pricing against them.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$50 free on $500 purchase",
+    "Expires Nov 24, 2026",
+    "Limit 5"
+   ],
+   "also": []
+  }
+ ]
+}

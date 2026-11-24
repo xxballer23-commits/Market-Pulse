@@ -5,6 +5,73 @@
  "vets": [],
  "items": [
   {
+   "id": "c15c9dd3df9a",
+   "title": "LVMH: Share transactions disclosure",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUtuUEhXQkZpZ3FDY1VXbG5rTE0yWUhMNDgwcHY3bHg2UE1kZnJBQmwwUHVoVlVjVFBNTXo5WU1uNmU5di1ra2dWQnhMakVWTUZNaTBPbktXbE5iVTdueVRpV1FyMks5bDgzVUtPU25yN0Y1TWUwN0tjaXRGVk1vTXhGVFhvM0R3djhn?oc=5",
+   "source": "Yahoo Finance UK",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:46:00Z",
+   "relevance": 1,
+   "why": "LVMH published a routine disclosure of share transactions.",
+   "summary_ai": "LVMH published a routine disclosure of share transactions.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "7386ace3746d",
+   "title": "LVMN Names Gonzague de Pirey as Chief Digital and Innovation Officer",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSFhEX1JraGY3U1AzdzcwZXNPUldsN3VhSlh1V294YzA1ZzdSai1rNTlyb1VDc0liOGtNeXA2NGpFWFNSLURJLVVlNmRtQ2VmdklWdGZCT2VMSzg2RWw3Z1dHbW5rSkc3NDdINzhnRmZJZl9nSWhzc0h1dGtOYVhiVkZMZEJmaFdMTkZjbkFFaXRGaDlFNXc?oc=5",
+   "source": "Consumer Goods Technology",
+   "source_type": "gnews",
+   "published": "2026-11-24T12:44:28Z",
+   "relevance": 2,
+   "why": "Digital leadership changes at LVMH could reshape how luxury clients are reached through loyalty and clienteling.",
+   "summary_ai": "LVMH has appointed Gonzague de Pirey as its chief digital and innovation officer.",
+   "take": "Digital leadership changes at LVMH could reshape how luxury clients are reached through loyalty and clienteling.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "a8c3063f420a",
+   "title": "Have We Reached Peak Louis Vuitton?",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVmM0bzFrbWtDdjFzeHVqLUNieGRydTVKaDlnUllYSUxaZTFOdWNZMDdmYWx6b25EaGRRTEg5aFNtWUtHSkZScVpaZU42NXpUVFZVdGZfalJKN3FvVVQ3djItRm9kYmtOLS1DM2xWS1dwTTVWOENwa2szeXA1NnBENHpVcl84X1JYbHJ4dDdn?oc=5",
+   "source": "The Business of Fashion",
+   "source_type": "gnews",
+   "published": "2026-11-24T06:00:01Z",
+   "relevance": 3,
+   "why": "A flagship slowdown would signal softer aspirational luxury demand, worth watching against premium card spend categories.",
+   "summary_ai": "Business of Fashion questions whether Louis Vuitton has reached its peak as a growth engine.",
+   "take": "A flagship slowdown would signal softer aspirational luxury demand, worth watching against premium card spend categories.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "59b6efce4722",
    "title": "Oddo BHF Trims LVMH Target on Softer Leather Goods, Even as Dior Merger Reshapes Ownership",
    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQdWRsUUJVUW0wQks4eWtXSmJ5Ukk1emp5QU5iMnNleXJfa015NmJKUkxiU1dyZ3ZvWTRCLUlHbjJOREZYOVhvR0VzNlJ0SFB4SHZ2YU1RR3VqSlpNTTc4b1RzZFBoNVR6Vzl6V3dwNzI0RWt6Zks3VV8wME1YYWJtVjhscGQ5WnNNTzdzZG01bnM3N05MOGt3U29yVnhHaXNOd19ya0ZNQmdEeGxURlBtUDZTWXpFaUN0aXhXNUljelViaGhkNHFoSlJSSzdPa0o2aVk4Z0xHOUthWVdUczY3cmhTZ1Bxc2thcUk4Vk9jVmcyeEk?oc=5",
@@ -570,7 +637,12 @@
    "sections": [],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Yahoo Finance UK",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yd1NXMllMZ2xyS3RYUUhOUE1QQVg5ZFpBUWhodG50SnVzTHBoaGExYU0zN1lpZXp1R1dFdy15WElwVVFrMlMxckh0OXVfdEJiVi00?oc=5"
+    }
+   ]
   },
   {
    "id": "535ffd5253ba",

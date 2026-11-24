@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "45a6094f012f",
+   "title": "M&T Bank's Net Charge-Offs Fall: Is Credit Quality Turning a Corner?",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUUtLRkxQWnJfLUhFQjhvM1hPNHRodFpIVFdmOXZQaDRYdGJCaHZXM0RreG5MalUwQTBaamZJbktQQkJ0cnFRQWVCMHJPdzZPMEg1RHdwR0RubWczUDd0SEZ6SGJfNFNGcHF1MlBEaFhxRjlIUmNNNjZWN1RXOEZfdWdmX0tIRUI4Vm5oNVdQemJRTExrcFJWcEJoajl3QU5zbW0xVXAyQk52QXNITjdWa0JibzY3WktOZFh6ZDJvdw?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-24T13:56:00Z",
+   "relevance": 3,
+   "why": "Falling charge-offs at a regional bank point to easing credit stress, useful context for card underwriting appetite.",
+   "summary_ai": "M&T Bank reported lower net charge-offs, raising the question of whether consumer credit quality is improving.",
+   "take": "Falling charge-offs at a regional bank point to easing credit stress, useful context for card underwriting appetite.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "9ad4ffbf0b07",
    "title": "M&T aims to ‘dial up’ credit card rewards",
    "url": "https://www.paymentsdive.com/news/mt-bank-credit-card-rewards-retail/875212/",

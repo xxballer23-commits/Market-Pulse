@@ -1,0 +1,31 @@
+{
+ "name": "Jaguar Land Rover",
+ "slug": "jaguar-land-rover",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a682eac7e70c",
+   "title": "BYD Is Barred From Selling Its Land Rover Defender Rival in the E.U.",
+   "url": "https://robbreport.com/motors/cars/byd-cannot-sell-land-rover-defender-rival-eu-1238859741/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-24T18:00:00Z",
+   "relevance": 1,
+   "why": "A Dutch court blocked BYD from selling its Defender-style SUV in the EU over design infringement.",
+   "summary_ai": "A Dutch court blocked BYD from selling its Defender-style SUV in the EU over design infringement.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

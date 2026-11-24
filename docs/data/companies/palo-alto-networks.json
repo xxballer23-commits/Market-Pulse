@@ -1,0 +1,32 @@
+{
+ "name": "Palo Alto Networks",
+ "slug": "palo-alto-networks",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4c81a1e75061",
+   "title": "AMEX exits, Palo Alto Networks steps in to sponsor La Quinta PGA Tour event",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRG81MWZkMV9rdENOUVhGbThYVU55ZUd5SUNES2Z2dldIT0dWZ1Q5YVN1Vm5QVW1vbFpxbzVXOUdWUThXUXI1S1g0eHlXT3JVSHZsQzlaMDdHMnVqa29pUzk3Ym40T3RneXBUVUlmSDlhOTZ6TURITFk1Mk16ZWhnNDZTSElMNVdSYm16SDQ1cmZFZzRYMUoySHBvZUZqVndyOUNNcS1lcHM?oc=5",
+   "source": "Sportcal",
+   "source_type": "gnews",
+   "published": "2026-11-24T10:27:03Z",
+   "relevance": 3,
+   "why": "Amex's exit opens a sponsorship slot at a PGA event that a premium card issuer could target for cardholder experiences.",
+   "summary_ai": "American Express is leaving sponsorship of the La Quinta PGA Tour event, and Palo Alto Networks is stepping in as its replacement.",
+   "take": "Amex's exit opens a sponsorship slot at a PGA event that a premium card issuer could target for cardholder experiences.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

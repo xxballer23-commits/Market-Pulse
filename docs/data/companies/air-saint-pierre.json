@@ -1,0 +1,33 @@
+{
+ "name": "Air Saint-Pierre",
+ "slug": "air-saint-pierre",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e3b8555f10b7",
+   "title": "Fascinating Air Saint-Pierre Domestic Transatlantic Flight Returns In 2027",
+   "url": "https://onemileatatime.com/news/air-saint-pierre-domestic-transatlantic-flight/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-24T13:50:13Z",
+   "relevance": 2,
+   "why": "Air Saint-Pierre will resume its once-weekly Paris to Saint-Pierre and Miquelon flight for summer 2027.",
+   "summary_ai": "Air Saint-Pierre will resume its once-weekly Paris to Saint-Pierre and Miquelon flight for summer 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Summer 2027"
+   ],
+   "also": []
+  }
+ ]
+}

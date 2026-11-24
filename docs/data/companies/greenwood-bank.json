@@ -1,0 +1,31 @@
+{
+ "name": "Greenwood Bank",
+ "slug": "greenwood-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "89e5dd42da92",
+   "title": "Greenwood Bank Announces The Closing Of All Accounts As It Forms New Partnership To Continue 'Same Mission'",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYl80dDhrbWtDQVlpQXhhQ1N4NzFMU1BwSUFlQ2pGbHM2cHJncGFfa3htNmpWSlNhc09lWW5fSTR4SXJIZ01ib2lJNnBib3p1TGZIMTgzQ05PckVkZ2pzSTJvTmpJWFRUSHBTMDFoMzRKT2lqRGhxbWJzVmlHZUtGMmF5dw?oc=5",
+   "source": "AfroTech",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:47:39Z",
+   "relevance": 2,
+   "why": "Greenwood Bank is closing all customer accounts while it forms a new partnership to continue its mission.",
+   "summary_ai": "Greenwood Bank is closing all customer accounts while it forms a new partnership to continue its mission.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

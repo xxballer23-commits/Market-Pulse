@@ -1,0 +1,29 @@
+{
+ "name": "Medtronic",
+ "slug": "medtronic",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "aac6e5f03463",
+   "title": "Medtronic’s Sales Growth Slows Despite Broad-Based Gains",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORVZ1U3hlQ242QUFxdEdHbERraDRZYnRldEstY3BDQnVKbjBnMWJ1cDUxM0QwVU1Pa2MyZkdLT2hHNk5JeUdGeUl4MzlEVTdxbW9PU1MwejhyekllVU9jQ19kNmgwWlhtTUEtcTVrdkRONWZpWTNRcFp6WTJKdGN0Umc0dEtEVHVtVGZscG1teVdQQTRvREEwZ2JRWkdCa19xUXVHLQ?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T12:27:00Z",
+   "relevance": 1,
+   "why": "Medtronic reports slower sales growth even though gains were broad across its business.",
+   "summary_ai": "Medtronic reports slower sales growth even though gains were broad across its business.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

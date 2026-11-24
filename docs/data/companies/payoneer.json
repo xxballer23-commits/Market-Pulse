@@ -46,7 +46,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Payments Dive",
+     "url": "https://www.paymentsdive.com/news/payoneer-gets-conditional-approval-trust-bank-occ-payo-digital/875545/"
+    }
+   ]
   },
   {
    "id": "c276b76610dd",

@@ -1,0 +1,32 @@
+{
+ "name": "FinWise",
+ "slug": "finwise",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3c2cc3f20c01",
+   "title": "FinWise Exits Card Receivables, Acquires Tallied Platform",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeDJ2ZnhOcUFqcWpkM2dQVnoxcmVnZnB0LWp2bHpZajdOOF9EZGZ2czh1RHh5dWpBRlNQel9ibERhdUxLWS1TaVplVjFkSHB1aGhuV1FtTHE1aE0ydkxHRVJkZUt3WUt5VXhtYlV6Z1MwWGhDUDdDQTk5a0dGN2ZlYTc1WFpKUXM1cklqYkx5WS1NRFVxME9J?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-24T00:16:12Z",
+   "relevance": 3,
+   "why": "A bank-partner lender stepping back from card receivables may open capacity for new card program partners.",
+   "summary_ai": "FinWise is exiting its card receivables business and acquiring the Tallied platform.",
+   "take": "A bank-partner lender stepping back from card receivables may open capacity for new card program partners.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

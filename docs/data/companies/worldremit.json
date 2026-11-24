@@ -1,0 +1,54 @@
+{
+ "name": "WorldRemit",
+ "slug": "worldremit",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fd3417434821",
+   "title": "WorldRemit founder launches fintech targeting migrants in the US",
+   "url": "https://www.finextra.com/newsarticle/48803/worldremit-founder-launches-fintech-targeting-migrants-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T14:36:00Z",
+   "relevance": 1,
+   "why": "WorldRemit's founder is investing $5 million in Odola, a new US fintech serving immigrants who send money to family abroad.",
+   "summary_ai": "WorldRemit's founder is investing $5 million in Odola, a new US fintech serving immigrants who send money to family abroad.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$5 million"
+   ],
+   "also": []
+  },
+  {
+   "id": "fd153a4a8d1f",
+   "title": "WorldRemit Founder Takes Aim at Global Migrant Banking Market",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMUZ3NVRUTE9rcEt2ZHFHZGhUNjRHRmkwTXpyUDRGdGd3dzJNdFAzNldTeE9FRGtOOElzUjRiUXdpSTNsRUdvclE3eGZXMHdZM3pHaXB5R1J0a2U3RzhCZWxtak1udC02dkRIbjBSMFB0Q29zNEpjUERWU3NiVUFrSnl6OGk1bDMxWE9XYVdYVlgxRlEtUVdCYWNBMUsyRno4MEJxV2Z1U1BjVGRLZlZiVzBn?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T06:21:00Z",
+   "relevance": 2,
+   "why": "A Bloomberg profile covers WorldRemit's founder and his push to win the global migrant banking market.",
+   "summary_ai": "A Bloomberg profile covers WorldRemit's founder and his push to win the global migrant banking market.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

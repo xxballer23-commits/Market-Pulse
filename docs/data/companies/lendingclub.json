@@ -1,0 +1,34 @@
+{
+ "name": "LendingClub",
+ "slug": "lendingclub",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "52091c1300e8",
+   "title": "[Targeted] Happen Bank (Formerly LendingClub) Level Up $400 Checking Bonus",
+   "url": "https://www.doctorofcredit.com/targeted-lendingclub-level-up-200-checking-bonus/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T15:00:32Z",
+   "relevance": 2,
+   "why": "Happen Bank, formerly LendingClub, is offering some users a bonus for opening its LevelUp checking account.",
+   "summary_ai": "Happen Bank, formerly LendingClub, is offering some users a bonus for opening its LevelUp checking account.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown; title and summary bonus amounts differ",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$200 bonus (summary)",
+    "$400 bonus (title)"
+   ],
+   "also": []
+  }
+ ]
+}

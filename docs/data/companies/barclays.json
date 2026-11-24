@@ -5,29 +5,29 @@
  "vets": [],
  "items": [
   {
-   "id": "aa6e951a9171",
-   "title": "Wyndham Rewards Cyber sale: Save up to 30% on paid stays",
-   "url": "https://frequentmiler.com/wyndham-rewards-cyber-sale-save-up-to-30-on-paid-stays-but-cardmember-rate-might-be-better/",
-   "source": "Frequent Miler",
+   "id": "71f306a4716f",
+   "title": "Barclays ‘Luxury Card’ Black Card Offering 75,000 Point Bonus [Ends 11/30]",
+   "url": "https://www.doctorofcredit.com/barclays-luxury-card-black-card-offering-75000-point-bonus/",
+   "source": "Doctor of Credit",
    "source_type": "rss",
-   "published": "2026-11-19T21:46:53Z",
-   "relevance": 2,
-   "why": "Wyndham's extra 5% for card holders is a card-linked offer template to benchmark against hotel partner promos.",
-   "summary_ai": "Wyndham Rewards launched a paid-stay sale with discounts rising by stay length, plus an extra 5% for Earner cardholders.",
-   "take": "Wyndham's extra 5% for card holders is a card-linked offer template to benchmark against hotel partner promos.",
+   "published": "2026-11-24T19:31:27Z",
+   "relevance": 4,
+   "why": "Benchmark this 75K points for $5K spend welcome against our ultra-premium offer before year-end.",
+   "summary_ai": "Barclays is offering 75,000 bonus points on its Luxury Card after $5,000 in spend, through November 30.",
+   "take": "Benchmark this 75K points for $5K spend welcome against our ultra-premium offer before year-end.",
    "take_kind": "take",
-   "partner": "Wyndham Rewards",
+   "partner": null,
    "benefit_move": true,
    "benefit_type": "offer",
-   "low_confidence": "End date and eligibility not stated",
+   "low_confidence": null,
    "sections": [
     "premium_cards"
    ],
    "breaking": false,
    "data_points": [
-    "10% off one-night stays",
-    "Up to 30% off 4+ nights",
-    "Extra 5% for Earner cardholders"
+    "75,000 bonus points",
+    "$5,000 spend",
+    "Ends 11/30"
    ],
    "also": []
   }

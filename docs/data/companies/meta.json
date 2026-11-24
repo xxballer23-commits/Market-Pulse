@@ -1,0 +1,54 @@
+{
+ "name": "Meta",
+ "slug": "meta",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7274690e5691",
+   "title": "As Meta's Muse arrives in the UK, FCA issues agentic AI warning to tech firms",
+   "url": "https://www.finextra.com/newsarticle/48807/as-metas-muse-arrives-in-the-uk-fca-issues-agentic-ai-warning-to-tech-firms?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T19:48:00Z",
+   "relevance": 3,
+   "why": "Regulators are signaling that AI agents handling money will face oversight, which will shape any future assistant-based card partnerships.",
+   "summary_ai": "Meta's Muse AI agent reached the UK as the FCA warned tech and social platforms that money-related AI agents could draw scrutiny.",
+   "take": "Regulators are signaling that AI agents handling money will face oversight, which will shape any future assistant-based card partnerships.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "de8414705fb8",
+   "title": "Walmart Turns to Meta’s Muse to Power Black Friday",
+   "url": "https://www.pymnts.com/news/retail/2026/walmart-turns-to-metas-muse-to-power-black-friday/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-24T19:33:11Z",
+   "relevance": 2,
+   "why": "Agentic shopping is moving checkout into AI assistants, a channel card issuers will need to reach with offers.",
+   "summary_ai": "Walmart is letting shoppers use Meta's Muse agent to find Black Friday deals and buy through its Agent Gateway.",
+   "take": "Agentic shopping is moving checkout into AI assistants, a channel card issuers will need to reach with offers.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "name": "Thrifty Traveler",
+ "slug": "thrifty-traveler",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "54d5518442ce",
+   "title": "Thrifty Traveler Premium: 30% Off With Promo Code DOC",
+   "url": "https://www.doctorofcredit.com/thrifty-traveler-premium-30-off-with-promo-code-doc/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T13:00:27Z",
+   "relevance": 2,
+   "why": "Discounted travel-deal memberships shared via community codes signal demand for bundled membership perks.",
+   "summary_ai": "Thrifty Traveler Premium is offering 30% off with promo code DOC, shared through a card-community blog.",
+   "take": "Discounted travel-deal memberships shared via community codes signal demand for bundled membership perks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Promo code end date unknown",
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30% off",
+    "Code DOC"
+   ],
+   "also": []
+  },
+  {
+   "id": "c1d0e4e27555",
+   "title": "Best price all year: Save 30% with Thrifty Traveler's Black Friday sale",
+   "url": "https://thepointsguy.com/deals/thrifty-travelers-black-sale/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-24T13:00:05Z",
+   "relevance": 2,
+   "why": "The Points Guy is offering 30% off Thrifty Traveler Premium through a promo code for a limited time.",
+   "summary_ai": "The Points Guy is offering 30% off Thrifty Traveler Premium through a promo code for a limited time.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Promo end date unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30% off",
+    "From $90.99"
+   ],
+   "also": []
+  }
+ ]
+}

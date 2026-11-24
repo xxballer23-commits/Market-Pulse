@@ -1,0 +1,31 @@
+{
+ "name": "Experian",
+ "slug": "experian",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4ca9bd55014c",
+   "title": "Experian Unveils Cashflow Data Bureau to Power Smarter Lending in the UK",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOG4wcVF5QkVkZTdoSGw4ZmdWNWlHR3hBZ2JidWFRTnpBOWFyTDl6VlhORWRLSVV4YUFEOEFPeHVKcXlUT05MUVRmWGw3NzFab3cxLXVOX2pKcS16TWo1OF9LWm9xWmZvZjJBOWFXQU8zcW5iX1FIUWJpdmZVNnhTZ1lTTm5CUFFVbmlTNWRlQ01pQmpQVTR3UGVlVmI4UTZXSGZ2eQ?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-24T07:00:00Z",
+   "relevance": 2,
+   "why": "Cashflow-based underwriting data could sharpen card and personal loan decisions; it is UK-only for now, so watch for US equivalents.",
+   "summary_ai": "Experian launched a UK cashflow data bureau designed to support more informed lending decisions.",
+   "take": "Cashflow-based underwriting data could sharpen card and personal loan decisions; it is UK-only for now, so watch for US equivalents.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

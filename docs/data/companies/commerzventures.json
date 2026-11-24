@@ -1,0 +1,33 @@
+{
+ "name": "CommerzVentures",
+ "slug": "commerzventures",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "17592abd95ba",
+   "title": "CommerzVentures launches €50m fund for AI fintechs",
+   "url": "https://www.finextra.com/newsarticle/48804/commerzventures-launches-50m-fund-for-ai-fintechs?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T14:57:00Z",
+   "relevance": 2,
+   "why": "CommerzVentures launched a €50 million fund to back early-stage startups working at the intersection of AI and financial services.",
+   "summary_ai": "CommerzVentures launched a €50 million fund to back early-stage startups working at the intersection of AI and financial services.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "€50 million fund"
+   ],
+   "also": []
+  }
+ ]
+}

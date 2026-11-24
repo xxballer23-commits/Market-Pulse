@@ -1,0 +1,32 @@
+{
+ "name": "Trustly",
+ "slug": "trustly",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d936179df360",
+   "title": "Trustly raises $60m from shareholders for AI-powered growth plan",
+   "url": "https://www.finextra.com/newsarticle/48802/trustly-raises-60m-from-shareholders-for-ai-powered-growth-plan?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T14:03:00Z",
+   "relevance": 2,
+   "why": "Open banking payments firm Trustly raised about $60 million from existing shareholders to fund an AI-driven growth plan.",
+   "summary_ai": "Open banking payments firm Trustly raised about $60 million from existing shareholders to fund an AI-driven growth plan.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "About $60m raise",
+    "Workforce cut by a quarter"
+   ],
+   "also": []
+  }
+ ]
+}

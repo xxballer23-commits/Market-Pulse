@@ -1,0 +1,29 @@
+{
+ "name": "FAA",
+ "slug": "faa",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7aa4fff38f37",
+   "title": "New FAA Rule For Planes Lining Up On Runways May Cause Delays",
+   "url": "https://onemileatatime.com/news/new-faa-rule-planes-lining-up-runways-delays/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-24T17:06:25Z",
+   "relevance": 1,
+   "why": "The FAA now requires a dedicated supervisor for line up and wait runway clearances, which one pilot expects to cause delays.",
+   "summary_ai": "The FAA now requires a dedicated supervisor for line up and wait runway clearances, which one pilot expects to cause delays.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

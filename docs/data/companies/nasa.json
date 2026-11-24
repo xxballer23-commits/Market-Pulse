@@ -1,0 +1,36 @@
+{
+ "name": "NASA",
+ "slug": "nasa",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "aadabc94b9fe",
+   "title": "This Space ETF Breaks Past Its Seven-Day Decline Amid NASA’s Partnership Call For Moon Nuclear Reactor",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxMVhEYXlFQUlCaWJnelY1Q2lEbHJzN1o4alpwZFViNDNWaGVVV3h0d3liYlBGTVZ5WWNvQUptYkZvS2w2MFZZeHhRZGJyMDdwU09VVmhMNXNiSmwxeHJydW1QdERjOExxeDZV?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-23T22:31:45Z",
+   "relevance": 1,
+   "why": "A space-focused ETF snapped a seven-day losing streak as NASA sought partners for a lunar nuclear reactor.",
+   "summary_ai": "A space-focused ETF snapped a seven-day losing streak as NASA sought partners for a lunar nuclear reactor.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Seven-day decline"
+   ],
+   "also": [
+    {
+     "source": "Stocktwits",
+     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOeHZDS256Z3NfZDY2T0RiTjBDWkRYdWQyNUJCQ0NnTlJHcjNsa1F0WkRhV3FlXzVBNzRTTGh0b090M2EwRXVGalF6LTU0Wjhjc1RKMWI5d1NENHpJemxkaXU4OG1hekNBM2dCakk0VzFlN0o0YUVVcnRuSDJReE9EQ0hRZ0JSaUM1OXFqVzNMUmdHblZXSzRJa283WlBfQnNtT3FtdkZCSlVfaS12MGJSQXREMU5BWHFVUnJWYWZXRjA0M1RsS29vSTUyR3BwbGR6b3E1WDRQRjFxbHROY1RDTU9BUk5tS1BDd1NiaVRpODl4c1VRMW5IT3J3?oc=5"
+    }
+   ]
+  }
+ ]
+}

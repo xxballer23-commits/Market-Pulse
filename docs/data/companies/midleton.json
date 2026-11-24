@@ -1,0 +1,33 @@
+{
+ "name": "Midleton",
+ "slug": "midleton",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b670ceb75d56",
+   "title": "One of the Very Best Irish Whiskeys Just Dropped Its New 2026 Vintage",
+   "url": "https://robbreport.com/food-drink/spirits/midleton-very-rare-2026-vintage-irish-whiskey-1238858613/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-24T00:00:00Z",
+   "relevance": 2,
+   "why": "Midleton has released a 2026 vintage of Very Rare, a blend of grain and pot still Irish whiskey.",
+   "summary_ai": "Midleton has released a 2026 vintage of Very Rare, a blend of grain and pot still Irish whiskey.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2026 vintage"
+   ],
+   "also": []
+  }
+ ]
+}

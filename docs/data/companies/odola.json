@@ -1,0 +1,31 @@
+{
+ "name": "Odola",
+ "slug": "odola",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fd3417434821",
+   "title": "WorldRemit founder launches fintech targeting migrants in the US",
+   "url": "https://www.finextra.com/newsarticle/48803/worldremit-founder-launches-fintech-targeting-migrants-in-the-us?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T14:36:00Z",
+   "relevance": 1,
+   "why": "WorldRemit's founder is investing $5 million in Odola, a new US fintech serving immigrants who send money to family abroad.",
+   "summary_ai": "WorldRemit's founder is investing $5 million in Odola, a new US fintech serving immigrants who send money to family abroad.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$5 million"
+   ],
+   "also": []
+  }
+ ]
+}

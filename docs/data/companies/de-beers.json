@@ -1,0 +1,33 @@
+{
+ "name": "De Beers",
+ "slug": "de-beers",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "cad646d1219e",
+   "title": "New De Beers sales price: $1.8 billion",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZY1E1Um9YaUlpM3MweU9RV2JsSVZzNWJlemJ6djFFa2dOOWlObHlsRVFqYjFsMVpJNWxiaW5WQWJ1d18wUjg1TUF4cXZTM1huN0JQNjZSbVRlUnJiM2txMHd3MkZlUF9vRHRmZXdJUldocG01QWc2QlNmeFMtUQ?oc=5",
+   "source": "The Jewelry Wire",
+   "source_type": "gnews",
+   "published": "2026-11-23T15:12:23Z",
+   "relevance": 2,
+   "why": "The Jewelry Wire reports a new $1.8 billion sales price tied to De Beers, with few deal details in the headline.",
+   "summary_ai": "The Jewelry Wire reports a new $1.8 billion sales price tied to De Beers, with few deal details in the headline.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Headline-only, deal details unclear",
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$1.8 billion"
+   ],
+   "also": []
+  }
+ ]
+}

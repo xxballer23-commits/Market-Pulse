@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "5ea55f476477",
+   "title": "Dollar Tree predicts holiday shoppers will ‘buy closer to need’",
+   "url": "https://www.retaildive.com/news/dollar-tree-q3-holiday-shoppers-buy-closer-to-need/875619/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-24T16:26:00Z",
+   "relevance": 2,
+   "why": "Dollar Tree expects holiday shoppers to buy closer to need, after Q3 revenue rose nearly 7% on traffic gains.",
+   "summary_ai": "Dollar Tree expects holiday shoppers to buy closer to need, after Q3 revenue rose nearly 7% on traffic gains.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Q3 revenue up nearly 7%"
+   ],
+   "also": []
+  },
+  {
    "id": "68f23b122373",
    "title": "6 Dollar Tree Beauty Items That Are Identical to Sephora (For Half the Price)",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BLXV6M2lsZHJzTDBuVDI5M1NJMTJrdmlpeDBRTUpyRXRKRnh0SjRDelpsd0x0NXJVQk1rTlF3ZzU2ZlBYTDk4THExb01BelNNbXRLNW5EaWdBU0U2TzlvWjE5WVhoSDVsWG16UDJKU0F4d1NDZnd2d0VkTQ?oc=5",
@@ -90,6 +115,27 @@
    "data_points": [
     "10 products"
    ],
+   "also": []
+  },
+  {
+   "id": "3cfc7cf5028c",
+   "title": "10 Little Luxuries to Snag at Dollar Tree This November",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84djFvSk1ldTk0aWpKTEFocXhVdHJ4QmlQN19qbjV2eGJlM0UxYWk1WE1XY1lDNkRUck1rb3pHN0R6TkVTaXVfbnFtd1hBbVZNc1Ytb0c3V0hlcGtWSmx0YW9ZRTR5N19nbzc4VUV5dlN5QzlsWncxMTJn?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-23T10:00:00Z",
+   "relevance": 1,
+   "why": "A consumer listicle highlights low-cost treats shoppers can pick up at Dollar Tree this November.",
+   "summary_ai": "A consumer listicle highlights low-cost treats shoppers can pick up at Dollar Tree this November.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
    "also": []
   },
   {

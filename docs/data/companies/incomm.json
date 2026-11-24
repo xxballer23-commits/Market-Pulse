@@ -1,0 +1,31 @@
+{
+ "name": "InComm",
+ "slug": "incomm",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "02d6c8856763",
+   "title": "InComm Gift Card Shop on TikTok; Lord & Taylor Adds Zip Payment Option",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOekZsOGdKSkNGSk1kZHYwYXpDbjA1SlNYbGZMZ3AxVlZYTG1aWnZGNzBVc0s4akxEUzl5WWhiZ3BmVUUtcl8wdklJNHJPZEtIRk9mNm96bFZhZm5uTEZpclFqYU9sa01oSjlDUVhORldqbTZMcVEtcmV0Y3d3czNGdEUyaEpyTkxrclJXaFh1RFRqc0ZTS0Q4MWkwaVU1c2VnaW9vYU4tQQ?oc=5",
+   "source": "Digital Transactions",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:07:41Z",
+   "relevance": 2,
+   "why": "Pay-over-time keeps reaching mid-tier retailers, a minor signal for embedded lending pitches.",
+   "summary_ai": "Lord & Taylor added Zip pay-over-time at checkout, while InComm opened a gift card shop on TikTok.",
+   "take": "Pay-over-time keeps reaching mid-tier retailers, a minor signal for embedded lending pitches.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

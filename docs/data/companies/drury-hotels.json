@@ -1,0 +1,34 @@
+{
+ "name": "Drury Hotels",
+ "slug": "drury-hotels",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "562b0e9affec",
+   "title": "Drury Hotels Breaks Ground on 196-Room Chattanooga Downtown Property, Opening Set for 2027",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUExpWW52QW9HYUZYTEN1bmlzUmltcEkwbHZRakZWNThVUDBxX3daTUFPV2dwOG9VelJGcGNIT3Q0dlVoZ25xMlNLa2VyUHY4clRmYlEtTHRpaDd2TWV0OURseE5Pc1R1NFhmV3RZMWxzd0dUb2ZwaVB5eXNyRW9lNzg5aTJNQVJBdTRYYWZRN3AwQjhRQnBQZ3E2UmwtSzdfc3NrQ1h2Ym5jdjBHSGJSekw0Zl9tUzBQUnRmR28yZ2g?oc=5",
+   "source": "Hotel Online",
+   "source_type": "gnews",
+   "published": "2026-11-23T22:34:08Z",
+   "relevance": 1,
+   "why": "Drury Hotels has broken ground on a 196-room downtown Chattanooga property set to open in 2027.",
+   "summary_ai": "Drury Hotels has broken ground on a 196-room downtown Chattanooga property set to open in 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "196 rooms",
+    "2027 opening"
+   ],
+   "also": []
+  }
+ ]
+}

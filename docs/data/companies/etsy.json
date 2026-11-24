@@ -1,0 +1,31 @@
+{
+ "name": "Etsy",
+ "slug": "etsy",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "86ff3ba826f5",
+   "title": "Etsy Rewrites AI Training Terms After Sellers Close Shops",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/etsy-rewrites-ai-training-terms-after-sellers-close-shops/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-24T20:50:16Z",
+   "relevance": 1,
+   "why": "Etsy's new terms let it and its partners use seller photos, art and descriptions to train AI from Dec. 16, and some longtime sellers are leaving.",
+   "summary_ai": "Etsy's new terms let it and its partners use seller photos, art and descriptions to train AI from Dec. 16, and some longtime sellers are leaving.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Dec. 16"
+   ],
+   "also": []
+  }
+ ]
+}

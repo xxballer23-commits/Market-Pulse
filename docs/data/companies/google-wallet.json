@@ -1,0 +1,31 @@
+{
+ "name": "Google Wallet",
+ "slug": "google-wallet",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fa15ca95cb54",
+   "title": "Google Wallet Taps AI to Help Users Maximize Credit Card Rewards",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU0tLV2xNZ0M2LVhWNFhxRDB2V1REa3NJWlU1bFhKMU1NaUtGMTFuWFg0aE5HRGRPdm53MElEM1FJajRJcDVJMUcwTDRQbGR5TEkyajE5VmxtVndYdS0xWWNsUEp5dFZtbC1nN3ZfRGVYcExCS1J4ekRrS2pQN3pFLS13RlVEaWtPRnVCZTNwa2JqVDctcGM5LUhuRjVwUdIBowFBVV95cUxPU1c2b25WNUFHeHdyUTliUmUtWndFcU4zR0JGZXpZMUlOWlBkSUV6c2lNQkQ3TkVyYkU3Uk9zYTVCNV9GRXBUN0hWNV9XTUV0VnNWNm1KOXA3dkhnc3Bsa2xlWkJDNjQybTg0aW5MUDhJUEJkdm9hek1kX0xETkUtTnpqZS1WU0pvbXd1Ml9VaGR1ZTdCaVNmX1hxbnB5cU9uQWlR?oc=5",
+   "source": "PaymentsJournal",
+   "source_type": "gnews",
+   "published": "2026-11-24T17:36:27Z",
+   "relevance": 4,
+   "why": "Wallet-level rewards optimization could shift card selection, so look for integration or card-linked offer opportunities.",
+   "summary_ai": "Google Wallet is adding AI features that help users get more value from their credit card rewards.",
+   "take": "Wallet-level rewards optimization could shift card selection, so look for integration or card-linked offer opportunities.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

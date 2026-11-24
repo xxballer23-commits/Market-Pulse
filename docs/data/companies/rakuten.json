@@ -28,6 +28,33 @@
  "vets": [],
  "items": [
   {
+   "id": "76688d038063",
+   "title": "Rakuten offering up to $175 cashback or 17,500 Bilt points for for Citi cards",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5idDV3bEFad19jT0Zscm5Lc05BbXBHWEtYX2JWR29JOUJVWklMcU9lbTBFdnJ6X0hiQ09LbC1peEY1dWZJNXI5UGdMTHFXa0tKLVBHcWVvWXZjaEhBSGV5eTc4ZEtkS1JSbkZrb3haRmJ0ODNL?oc=5",
+   "source": "Frequent Miler",
+   "source_type": "gnews",
+   "published": "2026-11-23T22:45:14Z",
+   "relevance": 3,
+   "why": "Card-linked shopping portal offers are a partner model to benchmark; confirm terms before citing the figures.",
+   "summary_ai": "Rakuten is promoting up to $175 cash back or 17,500 Bilt points tied to Citi cards, though the headline terms are unclear.",
+   "take": "Card-linked shopping portal offers are a partner model to benchmark; confirm terms before citing the figures.",
+   "take_kind": "take",
+   "partner": "Rakuten",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Confusing terms, offer details unclear",
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$175 cash back",
+    "17,500 Bilt points"
+   ],
+   "also": []
+  },
+  {
    "id": "7207ec591c35",
    "title": "Rakuten Adds More Citi Cards To Portal (Up To $175)",
    "url": "https://www.doctorofcredit.com/rakuten-adds-more-citi-cards-to-portal/",

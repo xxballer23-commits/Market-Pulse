@@ -5,6 +5,52 @@
  "vets": [],
  "items": [
   {
+   "id": "7671b97cf3d1",
+   "title": "Citigold Making Changes To $200/$400 Annual Subscription Benefit (Spotify & Hulu To Be Removed, ChatGPT Added)",
+   "url": "https://www.doctorofcredit.com/citigold-making-changes-to-200-400-annual-subscription-benefit-spotify-hulu-to-be-removed-chatgpt-added/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T18:00:14Z",
+   "relevance": 4,
+   "why": "AI tools are replacing streaming as premium subscription currency; check our own subscription credit mix for the same swap.",
+   "summary_ai": "Citi is replacing Spotify and Hulu with ChatGPT in the Citigold annual subscription benefit.",
+   "take": "AI tools are replacing streaming as premium subscription currency; check our own subscription credit mix for the same swap.",
+   "take_kind": "take",
+   "partner": "OpenAI",
+   "benefit_move": true,
+   "benefit_type": "entertainment",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$200/$400 annual benefit"
+   ],
+   "also": []
+  },
+  {
+   "id": "8bb51c373d42",
+   "title": "OpenAI’s IPO Countdown Clock Is Ticking",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOV3Qxb0R3X0EydVhiOG9yX1ZCczV1eVBZaGdvYVlFWGdTNjBNS3dEYjI1dzZOS2lMQW1tTEZDc1h5cFNtWTFHcUFnSWxzcFJIcDNvLVdNOEZzQnRhNnNlYi1xMFJFUUI5Z3Z0b2xVTHB2NXBlV2RoUGpIVDJQbzZtNQ?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T17:00:00Z",
+   "relevance": 1,
+   "why": "Coverage tracks the timeline for OpenAI's expected initial public offering.",
+   "summary_ai": "Coverage tracks the timeline for OpenAI's expected initial public offering.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "b9af44db211a",
    "title": "OpenAI Pitches Perplexity Score to Set AI Safety Limits",
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-pitches-perplexity-score-to-set-ai-safety-limits/",

@@ -5,6 +5,121 @@
  "vets": [],
  "items": [
   {
+   "id": "fc2ca98be393",
+   "title": "VanillaGift.com: 100% Off Purchase Fees Visa Gift Cards (FLASH26 11/24 Only)",
+   "url": "https://www.doctorofcredit.com/vanillagift-com-100-off-purchase-fees-vanilla-egift-cards-with-promo-code-lastminute23/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T20:21:12Z",
+   "relevance": 2,
+   "why": "VanillaGift is waiving purchase fees on Visa, Mastercard and Amex gift cards for a limited promotion using new codes.",
+   "summary_ai": "VanillaGift is waiving purchase fees on Visa, Mastercard and Amex gift cards for a limited promotion using new codes.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Conflicting end dates, promo window unclear",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "100% off purchase fees",
+    "Codes valid through 8/31/26"
+   ],
+   "also": []
+  },
+  {
+   "id": "897865e30e31",
+   "title": "Visa opens Cameroon office",
+   "url": "https://www.finextra.com/pressarticle/111774/visa-opens-cameroon-office?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T16:53:00Z",
+   "relevance": 1,
+   "why": "Visa opened a representative office in Douala, Cameroon, at its national launch event.",
+   "summary_ai": "Visa opened a representative office in Douala, Cameroon, at its national launch event.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "7adaa0628454",
+   "title": "Deep Dive: Visa’s AI shopping benchmark shows agents still buy when they get it wrong",
+   "url": "https://www.finextra.com/blogposting/33527/deep-dive-visas-ai-shopping-benchmark-shows-agents-still-buy-when-they-get-it-wrong?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T15:42:28Z",
+   "relevance": 2,
+   "why": "Agentic checkout raises the stakes for purchase protection and dispute design on premium cards.",
+   "summary_ai": "Visa's benchmark finds AI shopping agents still complete purchases even when they make mistakes.",
+   "take": "Agentic checkout raises the stakes for purchase protection and dispute design on premium cards.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "d0f8fb0b3809",
+   "title": "UK retail group Frasers partners Visa for virtual card",
+   "url": "https://www.finextra.com/pressarticle/111771/uk-retail-group-frasers-partners-visa-for-virtual-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T13:19:00Z",
+   "relevance": 3,
+   "why": "Retailer loyalty tied to a Visa virtual card is a template for co-brand outreach to merchants with large customer bases.",
+   "summary_ai": "UK retailer Frasers Group partnered with Visa to launch the Frasers Plus Virtual Visa card.",
+   "take": "Retailer loyalty tied to a Visa virtual card is a template for co-brand outreach to merchants with large customer bases.",
+   "take_kind": "read",
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "f6635fc920a1",
+   "title": "Klarna expands Visa partnership across North America and Europe",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOME4xZWRxRzh2N2h2LW1VTHlEbHBNems3ZXlFRXE0OVRfc2x3SGFIcUZVbHJuU3lScWoxMHFzMll2YlhPZXBsS2Y5eWFGRERqcHFDWTZISVZONnJibUtfR2FaRTYtYU92MWtSQlAtdWRsRkt3bGFzQS16WGxzV1lObGt2dUxNUTFELVcxdnhMeDItWTRScUY4S2RwcnJQR0FNOU5Yb2VFaVhIaTN2cFJ0N1lOZ2RhQnNz?oc=5",
+   "source": "Electronic Payments International",
+   "source_type": "gnews",
+   "published": "2026-11-24T08:30:44Z",
+   "relevance": 3,
+   "why": "Visa and Klarna deepening ties shows BNPL moving onto network-level rails, a factor for card pay-over-time strategy.",
+   "summary_ai": "Klarna is widening its partnership with Visa to more markets across North America and Europe.",
+   "take": "Visa and Klarna deepening ties shows BNPL moving onto network-level rails, a factor for card pay-over-time strategy.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "a597c748f159",
    "title": "The Push for Payment Independence Could Make Global Trade More Expensive",
    "url": "https://www.pymnts.com/news/cross-border-payments/2026/the-push-for-payment-independence-could-make-global-trade-more-expensive/",
@@ -21,6 +136,30 @@
    "benefit_type": null,
    "low_confidence": null,
    "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "530e75e7b499",
+   "title": "Visa Acceptance Platform Adds Klarna’s BNPL Offering",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNalJXVDlOWGxwaXRIX1NBemt0WTZKVktYSXMwYmo4OEJwdTZjVTl1eUZTMFBiMWVUcUlISEF3cVFnc01OQjZOVklsWnVzV1ZlNmVkVTFFYkp6RERlaDgtZkZ3Mnp6N0RpMnY3cWFQX1JVeFRpQVJxQ2tzZEZvN0VVYjZFdVdyaTJLTEJPWA?oc=5",
+   "source": "PYMNTS.com",
+   "source_type": "gnews",
+   "published": "2026-11-23T18:06:30Z",
+   "relevance": 3,
+   "why": "Watch whether Visa's merchant rails make BNPL cheaper to add alongside issuer co-brand card programs.",
+   "summary_ai": "Visa's acceptance platform now offers Klarna's buy-now-pay-later option to merchants.",
+   "take": "Watch whether Visa's merchant rails make BNPL cheaper to add alongside issuer co-brand card programs.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []
@@ -151,7 +290,16 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "The Joplin Globe",
+     "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVzBHX0E0TXd1Y1FiYmFfRXBYM0U2ZUNUakZmOThmejdSR3U3aVZLdDFTY2FTRDdBVmw3M0hFX2JQVFNyTTZ5Q25Yb1pnTFo1SzRqaTctUndKMWpCeExxZTJNNUFnTUdVRTl6ZkR4TEtlcUlUMTVvM1Zxbk5HeWJrcUF2N2U3TU9OUFJKZEdtQ0FCbEFfMmpyMVBqSVRkakpFbW8xM1VPRjFPSFFDcFo2dk01elN2S0xBdmFodjZ6eWNrNjJHUGUwaUxCRGNfMGlyMERYZWZVQlVUaThmbm9WZW9XYlZDX1F4R2xwQ0NFUkQtcm1FNDdGYXRkMWxPSkY5V1l3U2FGdVJlbTh0SzBMd2FGd2N3bm5US25KVlpBYUZ2UWJLdGdVTG43YlZWMkN6M1VGOHF0cw?oc=5"
+    },
+    {
+     "source": "NTB Kommunikasjon",
+     "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPS1B0YkJrUnhBU05rbFdZYUZXak9WRndfOVJ4VUJDMUVBT0Vvdy1QTW5WdTNaMmdIakt1X3FfMXRFZllHcDMxVnNSZ3gyVFVLZ29vdWZfUzFlOEFYUVpaVlR3OWM1U2xCcmRINXFaOHlzX3lvQ3pzZmYtUmZLdmVkejI3WmhvNVVIcjNOdERJWVlIbWtfbDdnRHlFVFFqaHR3TFB2ejU3X3R5Z0Ytd21QVllmcHpJQUpoRG5xby1Vbklob1lHQ25LcTV5UDA1NzJvSW1DblYyelM0UjVKeDM0dExUcExrVU9XLUhKVE1aOVdFMnM5Y2RLQW5PWF9MODhKck9RYkYyelRaLUJOR2hUa0N3cFgwQQ?oc=5"
+    }
+   ]
   },
   {
    "id": "27cc462191c9",
@@ -232,6 +380,30 @@
      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdVBPT1MxNy04cVBVX0w4cmszal9JTTBEdXZ3RnZBbFRrRFRYbjFhZVl3MnRQM0tpMllrckJYNnRvbjc0RS1HM3ViQmkycGVKdndjTUUxcjdFWlNZLXhIMkRTOFNvRmxKZFJxSVZfc3BwVmVwUTM5bUFHdzI1TkJfMXBRLWEwVlBscDRsTy03OExJX0I1Rlo0aTRFTEFFWWxiRnU1aGdPN2VudkNMd2pndFBDcE1TemdaNWRZeGlKUWF3RW1lQ1FqYzJiemNrTzY5ZTBOejdnOHpDLURwb0o4?oc=5"
     }
    ]
+  },
+  {
+   "id": "588e0a969d4c",
+   "title": "Klarna expands collaboration with Visa",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMVhBQlhScVg5UFJCak00WmI5QXhHa0lPeDV0OXRBbU1mUlc2Mmw5dUp2S3g5aDNrcDlZdG13cURQUFNGcTZMR2J2WkRpWDU0SzhNVG0tNzRDRGMtRVMxUThEVEhDSm9MOS1nWXp6dXdiVlVSdzMySmdFQ2k3ZHdCcXlURTdQR2xCWHdFZmx3TEtrUQ?oc=5",
+   "source": "TipRanks",
+   "source_type": "gnews",
+   "published": "2026-11-23T13:40:54Z",
+   "relevance": 4,
+   "why": "Watch whether the Klarna and Visa terms extend to card-linked installment options premium issuers could adopt.",
+   "summary_ai": "Klarna and Visa are expanding their collaboration, though the headline gives no specifics on terms.",
+   "take": "Watch whether the Klarna and Visa terms extend to card-linked installment options premium issuers could adopt.",
+   "take_kind": "take",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
   },
   {
    "id": "e4d83be9677f",

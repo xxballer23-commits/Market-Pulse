@@ -1,0 +1,31 @@
+{
+ "name": "Intermex",
+ "slug": "intermex",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4b25a635e76c",
+   "title": "Intermex sues Western Union",
+   "url": "https://www.paymentsdive.com/news/intermex-sues-western-union/875625/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-24T15:48:00Z",
+   "relevance": 1,
+   "why": "Intermex is suing Western Union, alleging it backed out of a $500 million merger over buyer's remorse.",
+   "summary_ai": "Intermex is suing Western Union, alleging it backed out of a $500 million merger over buyer's remorse.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$500 million"
+   ],
+   "also": []
+  }
+ ]
+}

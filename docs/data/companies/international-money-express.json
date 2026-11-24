@@ -1,0 +1,32 @@
+{
+ "name": "International Money Express",
+ "slug": "international-money-express",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3cbe34088b5d",
+   "title": "Western Union Sued Over Scrapped Intermex Merger",
+   "url": "https://www.pymnts.com/legal/2026/western-union-sued-over-scrapped-intermex-merger/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-24T19:04:30Z",
+   "relevance": 1,
+   "why": "International Money Express is suing Western Union in Delaware to enforce a failed $500 million merger.",
+   "summary_ai": "International Money Express is suing Western Union in Delaware to enforce a failed $500 million merger.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$500 million",
+    "Nov. 24"
+   ],
+   "also": []
+  }
+ ]
+}

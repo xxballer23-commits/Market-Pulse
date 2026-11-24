@@ -1,0 +1,31 @@
+{
+ "name": "Jacob & Co.",
+ "slug": "jacob-and-co",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "923b26868e77",
+   "title": "Forget Tourbillons. Jacob & Co. Is Now Selling Caviar.",
+   "url": "https://robbreport.com/food-drink/dining/jacob-co-icone-caviar-imperial-reserve-aged-caviar-1238859650/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-24T12:00:00Z",
+   "relevance": 2,
+   "why": "Ultra-high-end brands are stretching into food collabs, a signal for how affluent buyers are being courted beyond watches.",
+   "summary_ai": "Jacob & Co. launched a caviar product with Icone Caviar, aged for months for added complexity.",
+   "take": "Ultra-high-end brands are stretching into food collabs, a signal for how affluent buyers are being courted beyond watches.",
+   "take_kind": "read",
+   "partner": "Icone Caviar",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

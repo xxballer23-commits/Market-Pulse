@@ -1,0 +1,34 @@
+{
+ "name": "Abercrombie & Fitch",
+ "slug": "abercrombie-and-fitch",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a6be9978dff5",
+   "title": "Abercrombie & Fitch Co. sees net sales climb 11% to $1.4 billion in Q3",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMXZ4dXpnMlZLemxhdlczSWdVWjhDR0dSTmZHX0VtdUNpNTJQU0I1eTFJcEhfR1JpdC1uUWJWMGU2Mi1lN3VfYng3eWI3SW8xT3BJOFd0emszZ1U3akt2LUNLeGNCOG5oTm96eHQyYWpaQ1IxbzZvOHh0SE4tWGdCdTBKVXpUZ19oNVRrdzRrV3RodHhpRWI0bk05eW92Q1V3cFlmUjNTby1UWmJRS1JpbGp1aw?oc=5",
+   "source": "FashionNetwork France",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:52:02Z",
+   "relevance": 2,
+   "why": "Abercrombie & Fitch reported third-quarter net sales up 11 percent to about $1.4 billion.",
+   "summary_ai": "Abercrombie & Fitch reported third-quarter net sales up 11 percent to about $1.4 billion.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$1.4 billion Q3 net sales",
+    "11% sales growth"
+   ],
+   "also": []
+  }
+ ]
+}

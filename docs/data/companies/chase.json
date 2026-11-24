@@ -5,6 +5,57 @@
  "vets": [],
  "items": [
   {
+   "id": "96381a0c4aab",
+   "title": "Southwest Priority Card Review: Strong Airline Benefits For Frequent Flyers",
+   "url": "https://onemileatatime.com/reviews/credit-cards/chase/southwest-priority-card/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-24T15:29:57Z",
+   "relevance": 3,
+   "why": "Airline co-brand reviews show how much members value checked bags and seat perks over raw points.",
+   "summary_ai": "A review of the Southwest Priority Card covers its welcome bonus, annual fee, seat perks and free checked bag offer.",
+   "take": "Airline co-brand reviews show how much members value checked bags and seat perks over raw points.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "90,000 points welcome bonus",
+    "$229 annual fee"
+   ],
+   "also": []
+  },
+  {
+   "id": "3a47e9152d8c",
+   "title": "Redeem up to 15% Fewer Chase Ultimate Rewards Points on Gift Cards",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QM3BLaDNSSmlTYkxtYUZueDlFQnlYSVhWSDRyMnNDcjBJcmpjeHl2b0M5TzJWWThtTnlZMmM1emFRUjg4TU02R2xwVDItUWxjVHlzTkFPS1NjUU9aRUg3b1Y1bkM0M2NrN2Y0d0FkUktUTGlNLVhnZWtn?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-23T22:20:49Z",
+   "relevance": 4,
+   "why": "Gift card redemption cuts invite benchmarking against Amex and Capital One redemption terms for premium card pitches.",
+   "summary_ai": "Chase Ultimate Rewards gift card redemptions now cost up to 15% more points, a devaluation for cardholders.",
+   "take": "Gift card redemption cuts invite benchmarking against Amex and Capital One redemption terms for premium card pitches.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "other",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 15% more points"
+   ],
+   "also": []
+  },
+  {
    "id": "a3b97b9f3c75",
    "title": "Get up to 10% back at Kroger brands with new Chase Offer",
    "url": "https://frequentmiler.com/get-up-to-10-back-at-kroger-brands-with-new-chase-offer/",

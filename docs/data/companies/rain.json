@@ -1,0 +1,34 @@
+{
+ "name": "Rain",
+ "slug": "rain",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "74790789f8e4",
+   "title": "Rain launches instant-issue physical cards",
+   "url": "https://www.finextra.com/pressarticle/111776/rain-launches-instant-issue-physical-cards?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T19:34:00Z",
+   "relevance": 3,
+   "why": "Treat Rain's 3.6x spend claim as vendor data, not an independent benchmark, before using it in issuance planning.",
+   "summary_ai": "Rain now offers instant-issue physical cards, citing much higher spend per physical cardholder than per virtual card holder.",
+   "take": "Treat Rain's 3.6x spend claim as vendor data, not an independent benchmark, before using it in issuance planning.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2.5x physical vs virtual transaction value",
+    "3.6x spend per physical cardholder"
+   ],
+   "also": []
+  }
+ ]
+}

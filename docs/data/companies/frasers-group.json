@@ -1,0 +1,31 @@
+{
+ "name": "Frasers Group",
+ "slug": "frasers-group",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d0f8fb0b3809",
+   "title": "UK retail group Frasers partners Visa for virtual card",
+   "url": "https://www.finextra.com/pressarticle/111771/uk-retail-group-frasers-partners-visa-for-virtual-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T13:19:00Z",
+   "relevance": 3,
+   "why": "Retailer loyalty tied to a Visa virtual card is a template for co-brand outreach to merchants with large customer bases.",
+   "summary_ai": "UK retailer Frasers Group partnered with Visa to launch the Frasers Plus Virtual Visa card.",
+   "take": "Retailer loyalty tied to a Visa virtual card is a template for co-brand outreach to merchants with large customer bases.",
+   "take_kind": "read",
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

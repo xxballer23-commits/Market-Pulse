@@ -1,0 +1,77 @@
+{
+ "name": "Everli",
+ "slug": "everli",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e5fc833a7dd5",
+   "title": "Everli partners with Klarna for grocery payment options in Italy By Investing.com",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUXhYSTVhUGpaQW0tbUctU2YtakNZNGNtMTY4bDlxQ1l6d25xOGlXemZoVW1mZVEwLXgwX1lLY016VVlFeG4xMEJYQWVZenBWQjJ6MFk5cDU1TkwwNklCR0tCU2N1MndMV0FkTmswN2hGN0lJUjc3ZDdsRXI3cXdCSlRrWFI3ZjVXTHRfdk1WQ2RaakVsaTdqRVJkVGdqN2gyUEtXTF90SS1URDkzVUFUUTlGbWltc0FRUlRUdFZpRldFZVE?oc=5",
+   "source": "Investing.com India",
+   "source_type": "gnews",
+   "published": "2026-11-24T14:42:46Z",
+   "relevance": 3,
+   "why": "BNPL is moving into everyday grocery checkout abroad, a useful benchmark for embedded finance pitches.",
+   "summary_ai": "Italian grocery delivery app Everli is adding Klarna payment options for its customers in Italy.",
+   "take": "BNPL is moving into everyday grocery checkout abroad, a useful benchmark for embedded finance pitches.",
+   "take_kind": "read",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "84f7ff5bec74",
+   "title": "Everli partners with Klarna for grocery payments in Italy",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV1dGamJxNXczYWpDLUxWNkFFc3JGblN2Z2xzZFBqdE1WbldpejRLNjMtQ2Q2Mjg0RzNmTXRDMUd6UjRselgwaHJTWmhrNTkzMTlFWENPa0huekJzaWVPdElyTmxFVk1YS2I2cHRFaENtcTFZQjZPR1ZqZTFydEVFZENiU05CVXZjejlNbVlBcml4SFpJU1FVRXhhZWNoNllPdk1HeUlfSW40ajlIMWR3R014XzFHRG8?oc=5",
+   "source": "StreetInsider",
+   "source_type": "gnews",
+   "published": "2026-11-24T14:29:46Z",
+   "relevance": 3,
+   "why": "BNPL is moving into everyday grocery checkout abroad, a useful benchmark for embedded finance pitches.",
+   "summary_ai": "Italian grocery delivery app Everli is adding Klarna payment options for its customers in Italy.",
+   "take": "BNPL is moving into everyday grocery checkout abroad, a useful benchmark for embedded finance pitches.",
+   "take_kind": "read",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "1c0a930a6ae3",
+   "title": "Everli partners with Klarna, bringing flexible payments and cashback to grocery delivery in Italy",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkhzdVdoZVJVYVF2ZTVjOGhJMW1udkJrUUNqMFRGUF90Q2pNalR4M2ZTbWF3cDIyQUNubU8zZGxveUNwQ3lSNjFDNmJZMk1qeWVyY01rM1dpVHE2Zi1zamxyRHFmaFNjWkc0dVNJTThzeHVJSXNHcmN0aFRTMll2bUd0VXlpNkxaSkNLYTVnR2IyOFNNWGg2N2xYbVlqT3hBODdTOFh6NEJTUjNBNXM1U1VTSQ?oc=5",
+   "source": "Quantisnow",
+   "source_type": "gnews",
+   "published": "2026-11-24T14:25:48Z",
+   "relevance": 2,
+   "why": "Klarna embedded in a non-US delivery app shows how BNPL is spreading into everyday spend categories.",
+   "summary_ai": "Italian grocery delivery app Everli is adding Klarna flexible payments and cashback for its customers.",
+   "take": "Klarna embedded in a non-US delivery app shows how BNPL is spreading into everyday spend categories.",
+   "take_kind": "read",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

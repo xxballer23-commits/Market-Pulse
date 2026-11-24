@@ -1,0 +1,31 @@
+{
+ "name": "SiriusXM",
+ "slug": "siriusxm",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f3d42f748a6f",
+   "title": "SiriusXM to Present at the 2026 Wells Fargo 10th Annual TMT Summit",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdmUxcFNjTUxwQ2tGLTZSM0tDVnBINlNrdXZTWThBR1NKTEVfbFlxc2F6TXJ6SzJmd1VpbzFNZHIxQl9PTjJ3SnE0ck50RWt0MHhKd2x0bmFfUjEyQ2pFUTQ1cnBtdWpWYmVuenRXVWhETGJVUi1KdUVCblBWNkdPUUJyNTJLeC1HNnN4NkNYeFpLckl6VktDQnM3UVczRzVuQjRF?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-24T13:00:00Z",
+   "relevance": 1,
+   "why": "SiriusXM will present at Wells Fargo's 10th annual TMT Summit in 2026.",
+   "summary_ai": "SiriusXM will present at Wells Fargo's 10th annual TMT Summit in 2026.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "name": "Equifax",
+ "slug": "equifax",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4e213a1ad080",
+   "title": "Mortgage delinquencies reach 13-year high across Canada: Equifax",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVU4SnRYV0lNaVg4WVpWOTVaNnAxRDBKaFBBS2NGcTNIVlFSZVE0ZEt2TG9LQmxyOGlaaTh1RWk3V0dySnRTbC1xODRlcDVjUVRlQzJUUXhRbDRfUmVQejh5RTBfanRjRUFCaUdXbmo4dG5nVmUtY3FiQlpKUzJRR2VianlDSjZoSUpuR2Jxd0tUOXVOM2hOMDViaXF2MFpW?oc=5",
+   "source": "Toronto Sun",
+   "source_type": "gnews",
+   "published": "2026-11-24T18:43:46Z",
+   "relevance": 1,
+   "why": "Canadian mortgage delinquencies reached a 13-year high, according to Equifax data.",
+   "summary_ai": "Canadian mortgage delinquencies reached a 13-year high, according to Equifax data.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "13-year high"
+   ],
+   "also": []
+  },
+  {
+   "id": "9cde3779d9c5",
+   "title": "Mortgage delinquency rate up 31% in third quarter: Equifax report",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbXNQcEF6MzBicXE5Z0NZUVdjYXR4d3EyeVB5QzEyekQ1dURFa3J3WWxRaTVzNWZTTEVsTy1uYm1qOWVBeld4TjhCN2E0VFlfUWRacHZsWDRUN3ZkdHZMeEVyVC00N2NoUlBMQnVPUTdtSkotNjVxV2FiY1R0SmVoVGtGckltTUNSbTZHa2xJUGMtWWV2VVo5V2E5WlpWVEJqandEYkV0bTlZTW00VnhxbQ?oc=5",
+   "source": "Radio-Canada",
+   "source_type": "gnews",
+   "published": "2026-11-24T18:03:23Z",
+   "relevance": 2,
+   "why": "Mortgage stress is a useful signal to watch alongside card delinquency trends.",
+   "summary_ai": "Equifax reports the mortgage delinquency rate rose 31% in the third quarter.",
+   "take": "Mortgage stress is a useful signal to watch alongside card delinquency trends.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "31% rise in mortgage delinquency rate"
+   ],
+   "also": []
+  },
+  {
+   "id": "6098bf998088",
+   "title": "Equifax Canada Report: Rising Interest Rates, Record Mortgage Delinquency and Growing Debt Pressure Weigh on Homeowners",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbE12bXJ4MHdnMk9kZWtuOENfbkREb21uYzdqWGhKSlh0YVAtVVY3V2dzajNvLXUxRkFPVHVxLXZjeWkybzhmQk14YjlocjhvdVNOTzQwR3YyZW9yV1NIOVdfUktCdmNkN2JidTdBVHR1LUFSdGRRU0J2dGVZY3pEb3VVV1paOHlTbWFxclpXQVhjMi00dFpuQmZfVHdudVplS1RfbVNxMngyNXdHdlBaUHBkLU9uTEZjZGxhbUlVV29yVGlmQW00T0lMcUMyUmRCc1JESWJlaVZrX0R5ZU05b3ZtUUZnZTlXRDA0RQ?oc=5",
+   "source": "Quiver Quantitative",
+   "source_type": "gnews",
+   "published": "2026-11-24T10:50:00Z",
+   "relevance": 2,
+   "why": "Equifax Canada reports rising rates, record mortgage delinquencies and growing household debt pressure in Canada.",
+   "summary_ai": "Equifax Canada reports rising rates, record mortgage delinquencies and growing household debt pressure in Canada.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

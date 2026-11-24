@@ -1,0 +1,31 @@
+{
+ "name": "Freightos",
+ "slug": "freightos",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2a0d5eb843d5",
+   "title": "Freightos Looks to Weave Payments Into Freight Transactions",
+   "url": "https://www.pymnts.com/earnings/2026/freightos-looks-to-weave-payments-into-freight-transactions/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-24T20:36:00Z",
+   "relevance": 1,
+   "why": "Freightos plans to bring AI and embedded payments into air cargo transactions, reporting 494,000 transactions facilitated in its latest quarter.",
+   "summary_ai": "Freightos plans to bring AI and embedded payments into air cargo transactions, reporting 494,000 transactions facilitated in its latest quarter.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "494,000 transactions"
+   ],
+   "also": []
+  }
+ ]
+}

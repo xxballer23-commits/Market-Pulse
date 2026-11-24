@@ -1,0 +1,33 @@
+{
+ "name": "Wilderness Reserve",
+ "slug": "wilderness-reserve",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "764b3ac7afa8",
+   "title": "Sibton Park Hotel to open at Wilderness Reserve in spring 2027",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVi1uYlVsQXdnQV9QUnlEMUp0Qk1fc2FTWFo3U3h3WU9ERk90d1JVcUQ2NnhhVHBkZ1l3OXlBc0lnTjZlLWhpTGRMeV9xU3g2M2FHQnlIWE4zSlNJUG9zd2dFVURuYUxLM2YybFhJVDY3R2pNUjNLQmFld0M2c3BPVEZzekU4ZXJjRXF2QnFmOHNpbmZEWjJUYnJMVWVpdw?oc=5",
+   "source": "Travelling for Business",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:30:16Z",
+   "relevance": 3,
+   "why": "New wilderness hotel openings give issuers an early look at destination travel partner pipelines.",
+   "summary_ai": "Sibton Park Hotel plans to open at Wilderness Reserve in spring 2027.",
+   "take": "New wilderness hotel openings give issuers an early look at destination travel partner pipelines.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Spring 2027"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Macy's",
+ "slug": "macys",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "970c009c213d",
+   "title": "The wonder and ritual of Macy’s Thanksgiving Day Parade",
+   "url": "https://www.retaildive.com/news/macys-hundredth-thanksgiving-day-parade-history/875134/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-24T12:00:00Z",
+   "relevance": 2,
+   "why": "A look at Macy's Thanksgiving Day Parade as a long-running American tradition blending retail, immigration history and pageantry.",
+   "summary_ai": "A look at Macy's Thanksgiving Day Parade as a long-running American tradition blending retail, immigration history and pageantry.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

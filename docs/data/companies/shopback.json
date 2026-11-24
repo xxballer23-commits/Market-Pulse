@@ -1,0 +1,34 @@
+{
+ "name": "ShopBack",
+ "slug": "shopback",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7abd6f53de46",
+   "title": "ShopBack Shopping Portal $30 Signup Bonus & More Deals",
+   "url": "https://www.doctorofcredit.com/shopback-shopping-portal-20-signup-bonus-earn-cashback-on-amazon-ubereats-more/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T17:15:39Z",
+   "relevance": 2,
+   "why": "ShopBack is offering up to a $30 referral bonus for new users who sign up through a referral link and earn $10 in confirmed cashback.",
+   "summary_ai": "ShopBack is offering up to a $30 referral bonus for new users who sign up through a referral link and earn $10 in confirmed cashback.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$30 referral bonus",
+    "$10 confirmed cashback"
+   ],
+   "also": []
+  }
+ ]
+}

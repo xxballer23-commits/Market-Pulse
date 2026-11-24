@@ -1,0 +1,29 @@
+{
+ "name": "London Metal Exchange",
+ "slug": "london-metal-exchange",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8ee44db7b285",
+   "title": "LME Tightens Rules on Big Positions to Ease Aluminum Squeeze",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlFJRDVxWnZKTzNEYTNqRnZRdDNsYnliV1ptYW93TTNIR250UnQwNFd5SkJfdHVjd2RJSzBYb011T29JYzNkLWdudVpwbzIyV3hMVTlRSUJzbWVEZ2hvWXRrcVVaaFNFYUtZMjBfY193c3o1elRTLWU5WEEzM3ptaVZlSnA4Qmw0cjZFdDUxR0JtenJKa195UDktTTA0eWlWNUN6bm9uSVVNal9OUnpCMHp3a00?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:21:20Z",
+   "relevance": 1,
+   "why": "The London Metal Exchange is tightening rules on large positions to ease a squeeze in aluminum.",
+   "summary_ai": "The London Metal Exchange is tightening rules on large positions to ease a squeeze in aluminum.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

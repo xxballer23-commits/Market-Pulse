@@ -1,0 +1,31 @@
+{
+ "name": "NFL",
+ "slug": "nfl",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ddaf0234f954",
+   "title": "Super Bowl to Air Live on Imax Screens in Disney, NFL Deal",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0o5REpwUDZUeHZKNDFKU2Q4aXk1QlhPRjRuVl80LTZXSkFCdVNPNDRwSDBtNUtPUXROdGxNS0R1bEtQQnEteW9QdnNNbDJvTzE4N1lCTUFMQWhYTXltcHgzU0tFOXNLZWxfVlpjNU5qLUJMSUZRU1pweTNiNGNMWGluRzY5WDhmNDRKT3RnUkNtc18xc2xoNk50T3J5U2JiT1JJUzdpOU1yNTA0?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-23T19:00:00Z",
+   "relevance": 2,
+   "why": "Premium live-event screenings are a possible experiential perk for card holders, though this deal is not itself a card partnership.",
+   "summary_ai": "Disney and the NFL will air the Super Bowl live on IMAX screens under a new deal.",
+   "take": "Premium live-event screenings are a possible experiential perk for card holders, though this deal is not itself a card partnership.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "FirstBank",
+ "slug": "firstbank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d8bfc055e3d3",
+   "title": "FirstBank redefines personal lending experience with launch of mApply, mServe",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaXVTblQ5Wi0wTDlRaFQwYkJTdnpoQ0t2NGZkbjFDZ2M1WmI1aHgyMExfeWpheDA5ZGwyWmlOeWJaZ21ONlFpdXRKUzduTHVQbHd6a09sT0FiNmpfNlNUMFVXUFpfN1U5YnFVZS0zNUxZdFhuSkFidDRZeHhsMTRFdk1CRmpudUxxWlJuNThWampKV3NYM1BwcjVMbjA4RmVtNTI2LWxEc2FnX1JydnpZLWhVcWpPcGpnN0tLQXI5OA?oc=5",
+   "source": "Business News Nigeria",
+   "source_type": "gnews",
+   "published": "2026-11-24T13:50:21Z",
+   "relevance": 1,
+   "why": "FirstBank Nigeria launched mApply and mServe to modernize its personal lending experience.",
+   "summary_ai": "FirstBank Nigeria launched mApply and mServe to modernize its personal lending experience.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

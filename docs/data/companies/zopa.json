@@ -1,0 +1,56 @@
+{
+ "name": "Zopa",
+ "slug": "zopa",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "27766547003e",
+   "title": "Zopa Bank joins Warm Homes Loan Scheme",
+   "url": "https://www.finextra.com/pressarticle/111767/zopa-bank-joins-warm-homes-loan-scheme?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T13:09:00Z",
+   "relevance": 2,
+   "why": "Zopa Bank has joined the UK government's Warm Homes Loan Scheme to offer lower-cost financing for green home upgrades.",
+   "summary_ai": "Zopa Bank has joined the UK government's Warm Homes Loan Scheme to offer lower-cost financing for green home upgrades.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2 million customers"
+   ],
+   "also": []
+  },
+  {
+   "id": "8b8551201019",
+   "title": "Zopa Bank Joins Warm Homes Loan Scheme to Slash Green Upgrade Costs",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWjltZDV3MUF6Vm9SVmxQOFpoSGdXMzhuMXNQSFlDbjVjWG9NVEZBUlhlbGJRZmZqbDB5ajNKSWF4Q0R1VmxkLV9WLVY4anpOVmpTb0JJS0MyNWd4QklUNE9BTU1QSnFCWVFiajdmX2RVdGRrVzlTaDhGMjIzOGEyRXNJZkFpbS01WGRfd2xhN09FMjNBbWZwSDA5MmNFVGFDY0JsU1ppYmliblQx?oc=5",
+   "source": "FF News",
+   "source_type": "gnews",
+   "published": "2026-11-24T09:10:50Z",
+   "relevance": 2,
+   "why": "UK lender Zopa Bank is joining a government-backed scheme that offers loans for green home upgrades.",
+   "summary_ai": "UK lender Zopa Bank is joining a government-backed scheme that offers loans for green home upgrades.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

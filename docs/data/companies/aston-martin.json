@@ -1,0 +1,33 @@
+{
+ "name": "Aston Martin",
+ "slug": "aston-martin",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "65f818257c19",
+   "title": "Glenfiddich and Aston Martin Just Dropped Two New Whiskies at the F1 Las Vegas Grand Prix",
+   "url": "https://robbreport.com/food-drink/spirits/glenfiddich-aston-martin-formula-one-whiskies-1238859657/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-24T20:00:00Z",
+   "relevance": 2,
+   "why": "Glenfiddich and Aston Martin released two new whiskies aged 16 and 28 years, timed to the F1 Las Vegas Grand Prix.",
+   "summary_ai": "Glenfiddich and Aston Martin released two new whiskies aged 16 and 28 years, timed to the F1 Las Vegas Grand Prix.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "16-year and 28-year whiskies"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -25,7 +25,12 @@
    "data_points": [
     "15% off"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "The Register-Guard",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWk45eE1LUUFsSFpnb1NsZ1AtRU9sOXhJaDY4ajVwa0V5eEdMWGtOODZFV0hoRWYtM09sS1ROWFFKdUc0eGNCejg4aEx0eVRVX29YV05oQmhDaXBjcHNfNlBxX3pMUFR6b0Uzd09GX1A5S0FxaUZ4RkY1RF9KbUVyYXdPcTRHbmprVHlnbzZfNkR0SEl2QmlKQ2JzSUhRei11V0FsQTU2QV8yVUVuaVN6dE45d3d6bFEtSHNSVGUwNWJLRTl6MnBCT3E1Z2g?oc=5"
+    }
+   ]
   }
  ]
 }

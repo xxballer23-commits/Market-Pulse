@@ -1,0 +1,31 @@
+{
+ "name": "AirAsia",
+ "slug": "airasia",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "da3ccd235e3b",
+   "title": "AirAsia’s Q3 Shows Why Fernandes Pushed the Comeback to 2028",
+   "url": "https://skift.com/2026/11/24/airasias-q3-shows-why-fernandes-pushed-the-comeback-to-2028/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-24T11:12:46Z",
+   "relevance": 1,
+   "why": "AirAsia's Q3 shows higher fares but unproven profitability at its smaller size, with a $1 billion debt financing still pending.",
+   "summary_ai": "AirAsia's Q3 shows higher fares but unproven profitability at its smaller size, with a $1 billion debt financing still pending.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$1 billion debt financing"
+   ],
+   "also": []
+  }
+ ]
+}

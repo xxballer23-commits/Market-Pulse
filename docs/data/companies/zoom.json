@@ -1,0 +1,31 @@
+{
+ "name": "Zoom",
+ "slug": "zoom",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "97fa9f144dbb",
+   "title": "Zoom Focuses on AI-Driven Automation Amid Enterprise Growth",
+   "url": "https://www.pymnts.com/earnings/2026/zoom-focuses-on-ai-driven-automation-amid-enterprise-growth/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-24T20:31:50Z",
+   "relevance": 1,
+   "why": "Zoom reported 4.9% year-over-year revenue growth and is pushing AI-driven workflow automation for enterprises and financial institutions.",
+   "summary_ai": "Zoom reported 4.9% year-over-year revenue growth and is pushing AI-driven workflow automation for enterprises and financial institutions.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "4.9% revenue growth"
+   ],
+   "also": []
+  }
+ ]
+}

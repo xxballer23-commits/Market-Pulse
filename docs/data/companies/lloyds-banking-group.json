@@ -1,0 +1,29 @@
+{
+ "name": "Lloyds Banking Group",
+ "slug": "lloyds-banking-group",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "afee2d64f355",
+   "title": "Lloyds publishes guide on scaling AI responsibly",
+   "url": "https://www.finextra.com/newsarticle/48800/lloyds-publishes-guide-on-scaling-ai-responsibly?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T00:01:00Z",
+   "relevance": 1,
+   "why": "Lloyds Banking Group published a guide on scaling AI responsibly, drawn from its own rollout experience.",
+   "summary_ai": "Lloyds Banking Group published a guide on scaling AI responsibly, drawn from its own rollout experience.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

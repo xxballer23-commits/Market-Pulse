@@ -5,6 +5,55 @@
  "vets": [],
  "items": [
   {
+   "id": "a449ac15f572",
+   "title": "Best Buy sales outperform even as computing gets more expensive",
+   "url": "https://www.modernretail.co/operations/best-buy-customers-undeterred-by-rising-prices/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+   "source": "Modern Retail",
+   "source_type": "rss",
+   "published": "2026-11-24T18:28:03Z",
+   "relevance": 2,
+   "why": "Best Buy's computing sales held up this quarter despite higher memory prices, driven by gaming and AI demand.",
+   "summary_ai": "Best Buy's computing sales held up this quarter despite higher memory prices, driven by gaming and AI demand.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "d36e529bf39c",
+   "title": "Best Buy reports comparable sales growth of 6.1%, highest in five years",
+   "url": "https://www.cnbc.com/2026/11/24/best-buy-bby-q3-2027-earnings.html",
+   "source": "CNBC Retail",
+   "source_type": "rss",
+   "published": "2026-11-24T14:51:58Z",
+   "relevance": 2,
+   "why": "Strong electronics spending suggests discretionary budgets among card spenders are holding up.",
+   "summary_ai": "Best Buy beat fiscal third-quarter expectations with 6.1% comparable sales growth, its best in five years, and raised full-year guidance.",
+   "take": "Strong electronics spending suggests discretionary budgets among card spenders are holding up.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "6.1% comparable sales growth",
+    "Highest in five years"
+   ],
+   "also": []
+  },
+  {
    "id": "79b5ee3807a1",
    "title": "Major Retailers: Apple Airpods Pro 3 for $149 (reg. $249)",
    "url": "https://www.doctorofcredit.com/major-retailers-apple-airpods-pro-3-for-149-reg-249/",

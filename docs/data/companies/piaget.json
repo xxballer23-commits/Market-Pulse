@@ -1,0 +1,31 @@
+{
+ "name": "Piaget",
+ "slug": "piaget",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "75414e006ae7",
+   "title": "Gold Standard",
+   "url": "https://robbreport.com/partners/piaget-gold-standard-1238837423/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-24T05:01:00Z",
+   "relevance": 2,
+   "why": "Piaget is relaunching its gadrooned Polo sport watch with a new round of novelties.",
+   "summary_ai": "Piaget is relaunching its gadrooned Polo sport watch with a new round of novelties.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

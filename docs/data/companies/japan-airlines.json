@@ -1,0 +1,33 @@
+{
+ "name": "Japan Airlines",
+ "slug": "japan-airlines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "821e61c93239",
+   "title": "Island Mayor Pleads With Japan Airlines Mileage Runners After Locals Can’t Book Flights",
+   "url": "https://onemileatatime.com/news/island-mayor-pleads-japan-airlines-mileage-runners-locals-cant-book-flights/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-24T11:03:59Z",
+   "relevance": 2,
+   "why": "Promo-driven mileage running can crowd out local demand and draw backlash that shapes how future loyalty promotions are designed.",
+   "summary_ai": "A Japan Airlines double status points promotion drew mileage runners to Okinawa's remote islands, filling seats locals needed.",
+   "take": "Promo-driven mileage running can crowd out local demand and draw backlash that shapes how future loyalty promotions are designed.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 12 flights booked per day"
+   ],
+   "also": []
+  }
+ ]
+}

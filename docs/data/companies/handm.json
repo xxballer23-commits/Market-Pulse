@@ -1,0 +1,33 @@
+{
+ "name": "H&M",
+ "slug": "handm",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "21cffd3f105a",
+   "title": "H&M's Hermès-inspired blanket is 20% off for Black Friday — just in time to cosy up for winter",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVNGckRGbXlQTzJwX3hpamdRYXRSaDNrSExuM0pjSjNaMlpXLXpqZlNSN2J6aF9pWnhNMXp5X3BHeE1VVDVLYWRqYjhMcGRVc0tmbk5Qa0Mzak43VzVVcE5xRXZzTG01ZDJVX1Vrc2MybjJyQmk5bHgtVXBFRWJPelAwaUdQWE9ndEh0Vjk5ajUzY1VYaURIS3JONHlTWHFXRzlsa2hJR0tHTHNTdmc?oc=5",
+   "source": "House Beautiful",
+   "source_type": "gnews",
+   "published": "2026-11-23T15:22:42Z",
+   "relevance": 2,
+   "why": "H&M is discounting its Hermès-inspired blanket by 20% for Black Friday.",
+   "summary_ai": "H&M is discounting its Hermès-inspired blanket by 20% for Black Friday.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20% off"
+   ],
+   "also": []
+  }
+ ]
+}

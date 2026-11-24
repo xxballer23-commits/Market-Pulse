@@ -1,0 +1,58 @@
+{
+ "name": "Acolyte",
+ "slug": "acolyte",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7dbfdbf680e7",
+   "title": "New wellness hotel brand Acolyte plots three London openings",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdTNNUHRVcG9kZS1Sakg3cEhIVmlFZDB2VkR1c0VBZkx6QTJOTVRpUDhiWmtpRG5JVGpnQXZXQzRER2lMaTFpY2NnVjNQVUJ1Z3BlWk5jWnExUEpRY2lXNG1WX0t1Zk4zeWE0VXhfc2dLeHdhczZHV2NzR2tOUW53RnNQNkZsTjhvVnJyWEE2dEZDdlF3MEtF?oc=5",
+   "source": "The Caterer",
+   "source_type": "gnews",
+   "published": "2026-11-24T13:36:18Z",
+   "relevance": 2,
+   "why": "Wellness hotel brand Acolyte plans three new hotels in London.",
+   "summary_ai": "Wellness hotel brand Acolyte plans three new hotels in London.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Three London openings"
+   ],
+   "also": []
+  },
+  {
+   "id": "5b8b696887dd",
+   "title": "Introducing Acolyte – a new hotel brand with a pipeline in place for 2027",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFhieHdtS3RXNW85SEY5QU5rTmlYNFRmRnJzV2ozR2w2c0xFRXk5cmpUclN0YmYyajhWaTlMVm4wNGY5Tk1hd2hPc0xpLWFtM2p2MWdDbzlDVVRQZ1ZPdkVtRzdhbXpVN0d2RWJaOXdmd0QzMVpMRUVYZnZjUzhONVNBbjlRd3FSX2N4aVdHc0o2ZWR4anJVU054Q3NxS041RXZ4dzZwMk5tWDVEeUJncA?oc=5",
+   "source": "Hotel Designs",
+   "source_type": "gnews",
+   "published": "2026-11-24T12:49:21Z",
+   "relevance": 2,
+   "why": "Too early for partner talks, but track whether Acolyte signs with major loyalty programs for future hotel credits.",
+   "summary_ai": "A new hotel brand called Acolyte has launched with a development pipeline set for 2027.",
+   "take": "Too early for partner talks, but track whether Acolyte signs with major loyalty programs for future hotel credits.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Pipeline set for 2027"
+   ],
+   "also": []
+  }
+ ]
+}

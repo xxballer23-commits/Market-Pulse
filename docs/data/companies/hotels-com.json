@@ -1,0 +1,35 @@
+{
+ "name": "Hotels.com",
+ "slug": "hotels-com",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d62e17d0fc2b",
+   "title": "Save 10%-15% on Hotels.com gift cards",
+   "url": "https://frequentmiler.com/save-10-15-on-hotels-com-gift-cards/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-24T14:45:37Z",
+   "relevance": 2,
+   "why": "Hotels.com is discounting its gift cards by 10 to 15 percent, depending on the purchase amount, through year end.",
+   "summary_ai": "Hotels.com is discounting its gift cards by 10 to 15 percent, depending on the purchase amount, through year end.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10% off $100+ gift cards",
+    "15% off $300+ gift cards",
+    "Ends Dec 31, 2026"
+   ],
+   "also": []
+  }
+ ]
+}

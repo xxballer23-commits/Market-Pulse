@@ -1,0 +1,34 @@
+{
+ "name": "Concierge Auctions",
+ "slug": "concierge-auctions",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c07464f5cb09",
+   "title": "Concierge Auctions’ Announces Success of November London Global Sale Drawing Over US$565M in Aggregate Bids",
+   "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPYmJFdkFFYmV1Qm0yV2E5ajRTaDBGSldMNk5LNEZfN2dQVzJJVXoyNmctc1F1MzEzbnREaXUtRHE0YkxhRDgtMnhRek9NYUJ3anZzSE1uTmRIbncwazdRbzloaDdibjdwaW40eTYtM1dXa1lSYTJmT3VVcV9faE5vY0VGUklQZVBMa3JqTmxtcHZYNGJIZDlIZXE1RDM2aVp5WEtNZXNYSnpHcmptQXdTNmJMUnVrLXJjamYzZ1VRR0JzNi14WDZZX1ZoUkx4UFdxbTVkZTJOR2RYVThHcjAweTZnYlVyWEFINEI4ZWE1MGhNTTR5aG1YeDB3cEc1U1U?oc=5",
+   "source": "Democrat and Chronicle",
+   "source_type": "gnews",
+   "published": "2026-11-24T00:24:13Z",
+   "relevance": 3,
+   "why": "Strong London bidding points to healthy HNW appetite for luxury property, useful context for affluent spend benchmarks.",
+   "summary_ai": "Concierge Auctions reported that its November London global sale drew more than US$565 million in aggregate bids.",
+   "take": "Strong London bidding points to healthy HNW appetite for luxury property, useful context for affluent spend benchmarks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "US$565M aggregate bids",
+    "November London sale"
+   ],
+   "also": []
+  }
+ ]
+}

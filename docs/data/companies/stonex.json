@@ -1,0 +1,29 @@
+{
+ "name": "StoneX",
+ "slug": "stonex",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "069827a4a245",
+   "title": "JP Morgan, HSBC and StoneX pilot digital gold trades",
+   "url": "https://www.finextra.com/newsarticle/48805/jp-morgan-hsbc-and-stonex-pilot-digital-gold-trades?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-24T15:29:00Z",
+   "relevance": 1,
+   "why": "JPMorgan, HSBC and StoneX completed first live trades using fractions of physical gold bars as collateral in wholesale transactions.",
+   "summary_ai": "JPMorgan, HSBC and StoneX completed first live trades using fractions of physical gold bars as collateral in wholesale transactions.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

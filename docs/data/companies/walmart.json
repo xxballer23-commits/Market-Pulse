@@ -5,6 +5,75 @@
  "vets": [],
  "items": [
   {
+   "id": "de8414705fb8",
+   "title": "Walmart Turns to Meta’s Muse to Power Black Friday",
+   "url": "https://www.pymnts.com/news/retail/2026/walmart-turns-to-metas-muse-to-power-black-friday/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-24T19:33:11Z",
+   "relevance": 2,
+   "why": "Agentic shopping is moving checkout into AI assistants, a channel card issuers will need to reach with offers.",
+   "summary_ai": "Walmart is letting shoppers use Meta's Muse agent to find Black Friday deals and buy through its Agent Gateway.",
+   "take": "Agentic shopping is moving checkout into AI assistants, a channel card issuers will need to reach with offers.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2751af5764e6",
+   "title": "11 Little Luxuries to Snag at Walmart This November",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9iTnljb0dnTDdxdjBsTm8wOWF1M1pkbVFsQjZfcTl3eWhrelNVQllyZ21tSmkzVDdkdEItSkJZclpCX3psaWxXTW5RSHZNeS1tdjFTWEhkTUN6aGZhdUl6ZjVDaF9JY1ZmSWt2d250NTRCanY4?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:00:00Z",
+   "relevance": 1,
+   "why": "A consumer guide lists affordable indulgence items to buy at Walmart this November.",
+   "summary_ai": "A consumer guide lists affordable indulgence items to buy at Walmart this November.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c085b2fccc4e",
+   "title": "Walmart Raises Full-Year Outlook as Third-Quarter Revenue Rises 5.2%",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aYWhvc1diUXNNalM3RDBLeW42cXBmMVREYkJaTEdCX2ZiZ2tSb3dkTUhlcGhlQVluZE5US1FMTWNCUWN6MWVRUU9fZFR5OTdkNVdCTXl0UDN1bjFtZGFmTFhNSQ?oc=5",
+   "source": "Oui Speak Fashion",
+   "source_type": "gnews",
+   "published": "2026-11-24T07:17:40Z",
+   "relevance": 2,
+   "why": "Walmart raised its full-year outlook after third-quarter revenue rose, a sign of resilient mass-market consumer spending.",
+   "summary_ai": "Walmart raised its full-year outlook after third-quarter revenue rose, a sign of resilient mass-market consumer spending.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5.2% revenue growth"
+   ],
+   "also": []
+  },
+  {
    "id": "95151d271699",
    "title": "Walmart.com Amex Offer: Save $20 on $60 in purchases",
    "url": "https://frequentmiler.com/walmart-com-amex-offer-save-20-on-60-in-purchases/",

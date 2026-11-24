@@ -1,0 +1,31 @@
+{
+ "name": "MySize",
+ "slug": "mysize",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0b949d141016",
+   "title": "Fashion AI Company MySize Reports 28% Revenue Drop and Going-Concern Doubts",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00c3NEcGc4TDRzT05zU1NybWV2M1o2SDAtc3BkelM1TS1wSU1kdC1GZ3Z1aFZXZ05pZ18zbDN3MEhfRkNrVHFuRFlERGJHU0xlNG4wQUZxNTg1T015MkJ4QUFTbkhhOEJXV3o0Z1ZzM3EwSXM?oc=5",
+   "source": "Oui Speak Fashion (OSF)",
+   "source_type": "gnews",
+   "published": "2026-11-23T16:15:06Z",
+   "relevance": 1,
+   "why": "Fashion AI company MySize reported a 28% revenue drop and raised going-concern doubts.",
+   "summary_ai": "Fashion AI company MySize reported a 28% revenue drop and raised going-concern doubts.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "28% revenue drop"
+   ],
+   "also": []
+  }
+ ]
+}
