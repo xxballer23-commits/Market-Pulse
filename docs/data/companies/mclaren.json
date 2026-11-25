@@ -1,0 +1,31 @@
+{
+ "name": "McLaren",
+ "slug": "mclaren",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "bdc10566b26c",
+   "title": "The Last SLR McLaren Stirling Moss Is Heading to Auction",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPb3hPVThHUTdGblZBTkFOb3A1VXVDVExaODdHWG4yWEM4dWZRaVUwTWVpYlNfUk1VV0hIU1drZFZpUTVmYjh4enZQcHNKUjJBZzB5LWo4T0FwcklpNnFMSGFGOFlzazdPaEJ1Z2xVLXEzNjd0OURmTmxvUXA3LVJYdGJ2SDg1SnBmNGdmTFJn?oc=5",
+   "source": "Sports Car Digest",
+   "source_type": "gnews",
+   "published": "2026-11-25T19:30:00Z",
+   "relevance": 2,
+   "why": "The final SLR McLaren Stirling Moss is heading to auction, adding a collector car to the high-end sale calendar.",
+   "summary_ai": "The final SLR McLaren Stirling Moss is heading to auction, adding a collector car to the high-end sale calendar.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

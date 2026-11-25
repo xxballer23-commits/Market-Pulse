@@ -1,0 +1,31 @@
+{
+ "name": "Mercedes-Maybach",
+ "slug": "mercedes-maybach",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4b2e52aed91e",
+   "title": "LeBron James on How He Worked With Mercedes-Maybach to Design a Custom S-Class",
+   "url": "https://robbreport.com/motors/cars/lebron-james-on-custom-mercedes-maybach-1238862980/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-25T13:00:00Z",
+   "relevance": 2,
+   "why": "LeBron James describes how he worked with Mercedes-Maybach on a custom S-Class and who benefits from the auctioned twin.",
+   "summary_ai": "LeBron James describes how he worked with Mercedes-Maybach on a custom S-Class and who benefits from the auctioned twin.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

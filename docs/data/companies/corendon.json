@@ -1,0 +1,34 @@
+{
+ "name": "Corendon",
+ "slug": "corendon",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ce26fa691713",
+   "title": "Corendon Website Adds Klarna Options in Seven European Markets",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZlJxWjFPVVQzU2h1THpRTDJGMkJfblp5X1dFTjItREdDTnZnYzVJal9SRW5lb2xhU2VkTUZkejhLb0RaWUZEM1FSeGRuQjdCTjFJUDRyWXpGX1VlMVVFZk5ITG5ZVkRJcEhDXzEzZXVLTEJVNUVMZmRjSExfNVk0T055dnpEUmJsLWkzT0swQW1Jblk?oc=5",
+   "source": "Securities.io",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:58:04Z",
+   "relevance": 3,
+   "why": "Travel checkout BNPL is spreading to European leisure operators; a US travel-lending pitch could follow.",
+   "summary_ai": "Travel operator Corendon now offers Klarna payment options on its website across seven European markets.",
+   "take": "Travel checkout BNPL is spreading to European leisure operators; a US travel-lending pitch could follow.",
+   "take_kind": "take",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Seven European markets"
+   ],
+   "also": []
+  }
+ ]
+}

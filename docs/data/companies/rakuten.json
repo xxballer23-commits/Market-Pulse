@@ -28,6 +28,88 @@
  "vets": [],
  "items": [
   {
+   "id": "ff79f5d593f2",
+   "title": "Rakuten Referral Bonus Jumps to $70 [Or 7,000 Points From Amex or Bilt]",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ESFYzRTVlSDdLWmpHVGY0cXJWaENGY1FmZHYwQU83eXlpVk1fakF6NDdHcUQ2MmMwTmJldVo0TDBsdGt1WG5yWXVnWHRjRFRoVzJWNi03aFhuX1lSLU8tZWpDOWd4YXEwRWFZTA?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T17:11:43Z",
+   "relevance": 3,
+   "why": "Benchmark Rakuten's referral economics against our own card referral bonuses and shopping-portal spend.",
+   "summary_ai": "Rakuten raised its referral bonus to $70 or 7,000 points for sign-ups to American Express or Bilt cards.",
+   "take": "Benchmark Rakuten's referral economics against our own card referral bonuses and shopping-portal spend.",
+   "take_kind": "take",
+   "partner": "Rakuten",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$70 referral bonus",
+    "7,000 points"
+   ],
+   "also": []
+  },
+  {
+   "id": "a7636189828f",
+   "title": "Rakuten cardholders can earn 4X at Walmart both in-store & online through 12/31/26",
+   "url": "https://frequentmiler.com/rakuten-cardholders-can-earn-4x-at-walmart-both-in-store-online-through-12-31-26/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-25T14:45:47Z",
+   "relevance": 3,
+   "why": "Merchant-specific multipliers on mid-tier co-brands are a cheap benchmark for how issuers price retail partner offers.",
+   "summary_ai": "Rakuten Amex cardholders can earn 4X at Walmart in-store and online through year end, on up to $1,000 of extra spend.",
+   "take": "Merchant-specific multipliers on mid-tier co-brands are a cheap benchmark for how issuers price retail partner offers.",
+   "take_kind": "read",
+   "partner": "Walmart",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "4X at Walmart",
+    "$1,000 bonus spend cap",
+    "$10,000 4X spending cap",
+    "Through 12/31/26"
+   ],
+   "also": []
+  },
+  {
+   "id": "9faa9f8ec478",
+   "title": "Rakuten Offering up to 15% Cash-Back or 15x Points for Black Friday and Cyber Monday",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uT2Z5RnVrMDI5SjJIelhzdmZ1akhEMFAxcUxkeVVKQkF6SE1paU9IeFpQbElKWDlIdnUyZXVjamJtU21Tdzd2djVSblBlWnYtTUhISjRzRHdfaGFNQUhlelA3eDl6dnROZFI4aDVsRnd2LVFETlJNOW9vSQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T13:05:00Z",
+   "relevance": 3,
+   "why": "Holiday cash-back promos from shopping portals set the bar for card-linked offer pricing this season.",
+   "summary_ai": "Rakuten is offering up to 15% cash back or 15x points on Black Friday and Cyber Monday shopping.",
+   "take": "Holiday cash-back promos from shopping portals set the bar for card-linked offer pricing this season.",
+   "take_kind": "read",
+   "partner": "Rakuten",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 15% cash back",
+    "15x points",
+    "Black Friday and Cyber Monday"
+   ],
+   "also": []
+  },
+  {
    "id": "4ea74707cb9f",
    "title": "Earn $70 / 7,000 points when referring someone to Rakuten (targeted?)",
    "url": "https://frequentmiler.com/earn-70-7000-points-when-referring-someone-to-rakuten-targeted/",

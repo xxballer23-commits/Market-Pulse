@@ -1,0 +1,31 @@
+{
+ "name": "Highnote",
+ "slug": "highnote",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fc286185d5cc",
+   "title": "Highnote files for national bank charter",
+   "url": "https://www.bankingdive.com/news/highnote-applies-national-bank-charter-occ-fdic/875785/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-25T16:50:00Z",
+   "relevance": 3,
+   "why": "A card-issuing platform gaining a charter could compete directly for embedded card programs, so track its partner pipeline.",
+   "summary_ai": "Embedded finance firm Highnote has applied for a national bank charter, with BNY and Lowe's named as clients.",
+   "take": "A card-issuing platform gaining a charter could compete directly for embedded card programs, so track its partner pipeline.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

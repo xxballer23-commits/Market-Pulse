@@ -5,6 +5,55 @@
  "vets": [],
  "items": [
   {
+   "id": "fc286185d5cc",
+   "title": "Highnote files for national bank charter",
+   "url": "https://www.bankingdive.com/news/highnote-applies-national-bank-charter-occ-fdic/875785/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-25T16:50:00Z",
+   "relevance": 3,
+   "why": "A card-issuing platform gaining a charter could compete directly for embedded card programs, so track its partner pipeline.",
+   "summary_ai": "Embedded finance firm Highnote has applied for a national bank charter, with BNY and Lowe's named as clients.",
+   "take": "A card-issuing platform gaining a charter could compete directly for embedded card programs, so track its partner pipeline.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "277209254ab7",
+   "title": "Giftcards.com: Save 10% on Lowe’s & Uber eGiftcards",
+   "url": "https://www.doctorofcredit.com/giftcards-com-save-10-on-lowes-uber-egiftcards/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T15:49:29Z",
+   "relevance": 1,
+   "why": "Giftcards.com is offering discounted Lowe's and Uber e-gift cards, plus other deals, via promo codes.",
+   "summary_ai": "Giftcards.com is offering discounted Lowe's and Uber e-gift cards, plus other deals, via promo codes.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 Lowe's card for $90",
+    "$100 Uber card for $90"
+   ],
+   "also": []
+  },
+  {
    "id": "91d834ab940c",
    "title": "Home Depot vs. Lowe's: Which stock has the edge and our support after earnings",
    "url": "https://www.cnbc.com/2026/11/20/home-depot-vs-lowes-which-stock-has-the-edge-after-earnings-and-our-support.html",

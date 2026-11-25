@@ -1,0 +1,34 @@
+{
+ "name": "Mercedes",
+ "slug": "mercedes",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2c704df54744",
+   "title": "Mercedes Never Sold a C 111. Now RM Sotheby’s Values One at More Than $27.5 Million",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVDFyb0w0SDBmQnpSbE9hYWlXc3ZiZjMxT3JnZUJZWDRabG11V0ZPWUZaTHZ6cXlnUkRSbzhvLXZtQzZhZGFpaVBMVHBBQk9EeklkMzA5RVBlUFhZbUpZRXo1YjFLcGhFallPZjdQZlFNRWJfVG1lU3NPWHJrQzZKZUxUN0QtQmRGSjNwSk1Md3ZqWWlINUFTaDZoT0lBcHZuWVBGVjhkRklkR09nZV9R?oc=5",
+   "source": "MotorBiscuit",
+   "source_type": "gnews",
+   "published": "2026-11-25T17:03:45Z",
+   "relevance": 3,
+   "why": "Ultra-rare collector cars signal UHNW wealth, but the fit with card partnership plays is limited.",
+   "summary_ai": "RM Sotheby's now values a Mercedes C 111, a model never sold to customers, at more than $27.5 million.",
+   "take": "Ultra-rare collector cars signal UHNW wealth, but the fit with card partnership plays is limited.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "More than $27.5 million"
+   ],
+   "also": []
+  }
+ ]
+}

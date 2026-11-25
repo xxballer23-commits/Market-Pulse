@@ -1,0 +1,52 @@
+{
+ "name": "Ant International",
+ "slug": "ant-international",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5fd018f0ef60",
+   "title": "Ant International and BNY Partner On Cross-Border Payments",
+   "url": "https://www.pymnts.com/partnerships/2026/ant-international-and-bny-partner-on-cross-border-payments/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T17:23:24Z",
+   "relevance": 2,
+   "why": "Ant International and BNY signed an MOU to explore cross-border payments, tokenized deposits and digital asset solutions.",
+   "summary_ai": "Ant International and BNY signed an MOU to explore cross-border payments, tokenized deposits and digital asset solutions.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "972b5d0045ad",
+   "title": "Ant International and BNY ink MoU to explore 24/7 FX and payments innovation",
+   "url": "https://www.finextra.com/pressarticle/111781/ant-international-and-bny-ink-mou-to-explore-247-fx-and-payments-innovation?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T13:11:00Z",
+   "relevance": 1,
+   "why": "Ant International and BNY signed an MoU to explore 24/7 FX, treasury and interoperable payments.",
+   "summary_ai": "Ant International and BNY signed an MoU to explore 24/7 FX, treasury and interoperable payments.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

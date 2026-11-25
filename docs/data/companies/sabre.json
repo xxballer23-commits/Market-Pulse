@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "82cc87d200d9",
+   "title": "How Amadeus Pulled Away From Sabre and Travelport",
+   "url": "https://skift.com/2026/11/25/how-amadeus-pulled-away-from-sabre-and-travelport/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-25T14:30:00Z",
+   "relevance": 2,
+   "why": "Shifts in distribution share affect which booking platforms premium card travel portals can plug into.",
+   "summary_ai": "Amadeus has gained distribution share and grown its airline IT business, while Sabre and Travelport remain burdened by debt.",
+   "take": "Shifts in distribution share affect which booking platforms premium card travel portals can plug into.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "8542c776c1b2",
    "title": "Sabre Wants to Be the Transaction Engine Behind AI Travel Bookings",
    "url": "https://skift.com/2026/11/19/sabre-wants-to-be-the-transaction-engine-behind-ai-travel-bookings/",

@@ -1,0 +1,29 @@
+{
+ "name": "Zytra AI",
+ "slug": "zytra-ai",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "35cd8179e704",
+   "title": "Zytra AI launches AI governance platform",
+   "url": "https://www.finextra.com/pressarticle/111788/zytra-ai-launches-ai-governance-platform?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T16:40:00Z",
+   "relevance": 1,
+   "why": "Zytra AI released FinProof, a publicly available AI safety benchmark for banking, under a CC BY 4.0 license.",
+   "summary_ai": "Zytra AI released FinProof, a publicly available AI safety benchmark for banking, under a CC BY 4.0 license.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

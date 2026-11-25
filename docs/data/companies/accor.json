@@ -5,6 +5,79 @@
  "vets": [],
  "items": [
   {
+   "id": "f902e4fa10fa",
+   "title": "Your complete guide to the ALL Accor hotel loyalty program",
+   "url": "https://thepointsguy.com/loyalty-programs/accor-live-limitless/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-25T16:00:18Z",
+   "relevance": 3,
+   "why": "The paid ALL Accor+ tier is a useful benchmark when comparing hotel status benefits offered through premium cards.",
+   "summary_ai": "A guide explains how to earn and redeem ALL Accor points, reach elite status and whether the paid ALL Accor+ tier is worth it.",
+   "take": "The paid ALL Accor+ tier is a useful benchmark when comparing hotel status benefits offered through premium cards.",
+   "take_kind": "read",
+   "partner": "Accor",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "320ce25427d0",
+   "title": "It might be time to finally become a hotel free agent",
+   "url": "https://frequentmiler.com/it-might-be-time-to-finally-become-a-hotel-free-agent/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-25T12:59:31Z",
+   "relevance": 3,
+   "why": "Hyatt's program changes are pushing loyal members to rivals, so pitch premium card hotel partners to capture that shift.",
+   "summary_ai": "A Frequent Miler writer says Rove's elite status launch and Hyatt's changes may push them to switch hotel loyalty.",
+   "take": "Hyatt's program changes are pushing loyal members to rivals, so pitch premium card hotel partners to capture that shift.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "372c11e5eeaf",
+   "title": "The Sofitel Rio de Janeiro Ipanema hotel will reopen on 1 December on the beach, with a two-star restaurant",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVUs5dVpOWUFPOHFqck5COWJ6RWlEZVdEMHozaHgybU1wR0ZudkRpSWNqcUxZSGlWaElzYXh4UzdxSk14bFdxcUl3eWFBbHQ4amlEU3U0UXc4bC1EMWxHQWxaZGxkTGFDNTlKeFEyTTkybWxGZXpJb2pIaXhZRU9vSnZqYng?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-25T10:09:06Z",
+   "relevance": 2,
+   "why": "The Sofitel Rio de Janeiro Ipanema reopens on the beach with a two-star restaurant on the property.",
+   "summary_ai": "The Sofitel Rio de Janeiro Ipanema reopens on the beach with a two-star restaurant on the property.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Reopens 1 December"
+   ],
+   "also": []
+  },
+  {
    "id": "9e1a82d1fe28",
    "title": "ALL Accor offering 4X points at “new” properties",
    "url": "https://frequentmiler.com/all-accor-offering-4x-points-at-new-properties/",

@@ -1,0 +1,31 @@
+{
+ "name": "FinCEN",
+ "slug": "fincen",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9ccbf1a641a6",
+   "title": "FinCEN takes some systems offline after suspected cyber attack",
+   "url": "https://www.finextra.com/newsarticle/48816/fincen-takes-some-systems-offline-after-suspected-cyber-attack?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T18:16:00Z",
+   "relevance": 2,
+   "why": "FinCEN took some of its systems offline after a suspected cyber attack, according to Finextra.",
+   "summary_ai": "FinCEN took some of its systems offline after a suspected cyber attack, according to Finextra.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

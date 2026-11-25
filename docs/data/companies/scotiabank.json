@@ -1,0 +1,31 @@
+{
+ "name": "Scotiabank",
+ "slug": "scotiabank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5e84489c3c0a",
+   "title": "Scotiabank American Express Card Review: Earn rates, point value, and whether to upgrade",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelZwMEFFdjRCU0puT3Q2cmp1SnhTVENkck1xSWRYbi13cmU3LTdFeWVfRzU0VTZmNGZEd0tPSU9RamVyTGJJS2RneTBvUC13V1dVZi1QYzVCbDZGWDJ6M3dhVW1BY05wV3kteXdrbmpXZ2xLekNLNUt0bEZ4ZmhTdHNqUHhpNDRVMm4xeXVMTlFYWHNyS2E4?oc=5",
+   "source": "NerdWallet",
+   "source_type": "gnews",
+   "published": "2026-11-25T16:57:36Z",
+   "relevance": 2,
+   "why": "NerdWallet reviews the Scotiabank American Express card's earn rates, point value and whether an upgrade is worth it.",
+   "summary_ai": "NerdWallet reviews the Scotiabank American Express card's earn rates, point value and whether an upgrade is worth it.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

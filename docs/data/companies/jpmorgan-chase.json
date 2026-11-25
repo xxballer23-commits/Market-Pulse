@@ -314,6 +314,10 @@
     {
      "source": "AP News",
      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXBwN0pGMkswcklEdk5wanFSYmJla2VYVWRXU0g2RDVFaVU1d0kxTTAtWnl0bFhoNmpnX3lSZHBSRzBtMHhFNGhMamtvZEN2c01JWTdlYl9wZXlQemRvSW9rR2J1ZUxXWGdBUHVpc3gzdm55VlZjVUcxQnlySjhtTXdkREFPYlNIcnRMczk1QVNBVzVJcEVIOGoyZlFuUUlvWjZFVkFR?oc=5"
+    },
+    {
+     "source": "Hartford Courant",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMFJ2eVBMWHU5TlVqV25oY2xINUFsSWg2TWJaMlhsamtxaXZ6NU5QM0hSNkR1VFZPc1U4OHhQX2VPajU2YVZnSEtiaDBqT0N0c0w0QkVSTTZKY1VkM2Y4YXJmVlpBTnlDVlA1aUZsVkxQVXNaakFCZG5hS3JuSFdEZXVwLVZnNlB5bmdSNVJ3bVNGUmFtazFUSmpWcVVHazFJWGlKMXZIN0s1X0RLVGpwUDRyM2QwbmZVV1o4VTZENnBldmc?oc=5"
     }
    ]
   },
@@ -334,6 +338,30 @@
    "benefit_type": null,
    "low_confidence": "No detail in headline",
    "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "88c202caa782",
+   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
+   "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-23T06:06:55Z",
+   "relevance": 4,
+   "why": "Agentic checkout could reshape how card benefits and offers get triggered, so test whether premium perks can attach to agent-initiated purchases.",
+   "summary_ai": "JPMorgan and Hyundai Card are exploring AI agents that complete financial transactions without human involvement.",
+   "take": "Agentic checkout could reshape how card benefits and offers get triggered, so test whether premium perks can attach to agent-initiated purchases.",
+   "take_kind": "take",
+   "partner": "Hyundai Card",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "premium_cards"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []
@@ -657,29 +685,6 @@
    "low_confidence": null,
    "sections": [
     "wells"
-   ],
-   "breaking": false,
-   "data_points": [],
-   "also": []
-  },
-  {
-   "id": "88c202caa782",
-   "title": "JPMorgan is working on AI agent transactions that don’t involve humans",
-   "url": "https://www.cnbc.com/2026/11/18/jpmorgan-hyundai-card-ai-agents-payments.html",
-   "source": "CNBC Finance",
-   "source_type": "rss",
-   "published": "2026-11-18T06:18:11Z",
-   "relevance": 3,
-   "why": "Agentic commerce could reshape card-linked offers; identify which JPMorgan rails might open to co-brand partner programs.",
-   "summary_ai": "JPMorgan is developing payment flows where AI agents transact without a human approving each step.",
-   "take": "Agentic commerce could reshape card-linked offers; identify which JPMorgan rails might open to co-brand partner programs.",
-   "take_kind": "take",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "partnerships"
    ],
    "breaking": false,
    "data_points": [],

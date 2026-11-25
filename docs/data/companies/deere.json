@@ -1,0 +1,29 @@
+{
+ "name": "Deere",
+ "slug": "deere",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b6223d77d19f",
+   "title": "Deere Quarterly Profit Falls as Large Agricultural Equipment Sales Decline",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOb0Q2YjVUWFNlSzZQNWVWWklzQnZjalVPekJBZTJ4SjcyWWxpeFFqMDNnd2FIVXhHTnRCVWk5eEJVMTBqZGdPN0Vod2IzSGFoV09aQVVkWHZhX0EwWWw2cGlocDlwbmNhRFFZWk1zSVNFMFNUb2JjemdQb281bk1vVmQ1WENwX1UyR21FWWpwZEhfYU1ETVZkQUJ2WmtCcWtPel9IdVp6QzlaOWpSenM2dDczamFqZVBMTlFkSmhR?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-25T13:25:24Z",
+   "relevance": 1,
+   "why": "Deere's quarterly profit fell as sales of large agricultural equipment declined.",
+   "summary_ai": "Deere's quarterly profit fell as sales of large agricultural equipment declined.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

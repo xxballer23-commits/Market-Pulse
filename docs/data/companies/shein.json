@@ -1,0 +1,81 @@
+{
+ "name": "Shein",
+ "slug": "shein",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "74ebd887591c",
+   "title": "Shein to pay $100M in FTC settlement over deceptive practices claims",
+   "url": "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-25T16:25:00Z",
+   "relevance": 2,
+   "why": "Shein agreed to pay $100M to settle FTC claims over shipping promises and product review practices.",
+   "summary_ai": "Shein agreed to pay $100M to settle FTC claims over shipping promises and product review practices.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100M settlement"
+   ],
+   "also": []
+  },
+  {
+   "id": "4d85295d5c7e",
+   "title": "Shein Profit Rises Despite Lower Revenue as It Adapts to Trade Challenges",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRkJPeGRJc1h0T2dFNG9RdkJOS3JGcnp6Sk53aG9hazRuMEJYbU90OHBMTGlpQ01TYzh0S3lMTkpTdXdzU0tHTlFpc3NtZEdGWkhXU0E1MGdMVHl5YWt5WS1MRjNoaG5EMG1JYlQyMjR0aVBwZ0xSTUhkWmdWRXNBZFFWb0k2VmszZ2g5blFUUUtxOVBZWFBBRHYtSlRWQUphX1AxWk5hVGotN3hFSWNwOHNvNldBYXM?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-25T11:56:32Z",
+   "relevance": 2,
+   "why": "Shein reported higher profit on lower revenue as it adjusts to trade challenges.",
+   "summary_ai": "Shein reported higher profit on lower revenue as it adjusts to trade challenges.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "3ac51ce6af18",
+   "title": "Shein to Pay $100 Million to Settle FTC Claims of Unfair Customer Service",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWWJmMzZNYS03ellqaG1mNHlrSXRYdjRCc0tWZk9hWU8xb0doR3VQblJGaWktaVRDWWNuM2RaYlE5TUJTMXN1VEJZbDNNMmdnUVFmMTlMSENsdGE4U05PWEgzLUpLMFV1ZmxES0Q0SklZR3lFVFhILU5GWm56RDROU2tEYUhrT3BKU240ZlBqQjhxbUdDZy12WFVkRUNFWGFrcVF3WkgzU2U1aFhXRV9RakNTeTBnQko3?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T21:13:41Z",
+   "relevance": 1,
+   "why": "Shein has agreed to pay $100 million to settle FTC claims over customer service practices.",
+   "summary_ai": "Shein has agreed to pay $100 million to settle FTC claims over customer service practices.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 million settlement"
+   ],
+   "also": []
+  }
+ ]
+}

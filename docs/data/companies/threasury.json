@@ -1,0 +1,29 @@
+{
+ "name": "Threasury",
+ "slug": "threasury",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1ec695d45aa9",
+   "title": "Threasury secures FCA agent registration",
+   "url": "https://www.finextra.com/pressarticle/111785/threasury-secures-fca-agent-registration?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T13:19:00Z",
+   "relevance": 1,
+   "why": "Threasury secured FCA agent registration with Finexer, supporting its Commitment Banking platform build.",
+   "summary_ai": "Threasury secured FCA agent registration with Finexer, supporting its Commitment Banking platform build.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -28,7 +28,12 @@
     "US$565M aggregate bids",
     "November London sale"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "Knoxville News Sentinel",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZFhYMnJ6dGp0YmFoT0k4MHMtX0p2ZWl6QUZGS1c0bDVyMzJoQ3cyaG5BLWRUXzJ5V25Wc0hCXzg1cFBEZUUxeEhNZnVOdXpaM2s2UzBUQUpKX0loVlhnRkFQRHB1X3Fhc2YzQXlwSy1ETEpKdW1UQjBpRUlTVExBZVVucEtxM0tCWENzTDgybGFQcXFYek0yM3hvYWZNTkZrNF8zUFdTY2I1anRJS3VZa041cjBKRzVGNFRDVHFpVUdseFpoNUw2ZXhtVTNNYTNWNkhuTEdqakpSTFNFOU5NcnRudEdRcGV2eDdaWllnNA?oc=5"
+    }
+   ]
   }
  ]
 }

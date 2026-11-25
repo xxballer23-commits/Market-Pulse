@@ -1,0 +1,32 @@
+{
+ "name": "Malaysia Airlines",
+ "slug": "malaysia-airlines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "00df8defdacb",
+   "title": "Malaysia Airlines Orders Up To 16 Boeing 787-10s, Deliveries Start 2032",
+   "url": "https://onemileatatime.com/news/malaysia-airlines-boeing-787-order/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-25T16:19:47Z",
+   "relevance": 1,
+   "why": "Malaysia Airlines placed its first Dreamliner order for up to 16 Boeing 787-10s, with deliveries starting in 2032.",
+   "summary_ai": "Malaysia Airlines placed its first Dreamliner order for up to 16 Boeing 787-10s, with deliveries starting in 2032.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Up to 16 Boeing 787-10s",
+    "Deliveries from 2032"
+   ],
+   "also": []
+  }
+ ]
+}

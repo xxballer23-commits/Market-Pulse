@@ -29,6 +29,10 @@
     {
      "source": "Investing.com Canada",
      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVhJbmRVbzdKbWEyOTJycmI1cDBHMXcxb1pQOElHTnczLU5Pb2U1cURZeTRFU3ZGOFAya19nMXpfYmlJV24yYllucl9LRElBRFhINjF5UGNYT2tDbG1Ub0tOeU9lWmhITVdINUJITHhUNUs4VFJFWFpMSERVTm5VcEU3MGxPaWkzVi03RVVnNG9hLXZEUnRKUl9LbUlhNWprQUNPdjNCcGR6ZGFaWmFoSFAyaGY3QzFtd2xxRHdjSGJrWTg?oc=5"
+    },
+    {
+     "source": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcW4tNmp5cmt1blMzNkM2QmxuV2c5TTV0Tld6UlVINW1oaE9EQVRqRVdNZmxKMHdSNzFTeWFGVmt6MWtEVmVRRFd0bk94V2VMLW1sYkRuUE9zaFJpYnhpRmlTNlBTdkg3VFhkY1BlYVNuRjMtamZOMmVuTW43bVFSRDFia2hTazJXb05tMmJSLURVYmY1UzlkMDR2cHU0dS1MYS1tSk9CdWF2cHA3Q1JGejNyZXd1SXBSWkhfQzln?oc=5"
     }
    ]
   },
@@ -76,7 +80,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "GlobeNewswire",
+     "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPZmVrQVJpNzF4SE94SlBMMDV2dHNocVlxMW9SSDlFOUMxTXFqOEdTWk5tbXk5cExqZEczMzYtWkN3ZVZ1MzMzOE03UzJ1T1NZaUdOZlRGeW5WMUR3cEprNC1lbXAwOVVqNThrZm9hRTR6RkVsdThIRF9rTzYxLVloSnBaWDVSVjVhZ2Faem1zNmxDdmhfOU5JVHh0QXFOSEhoRTROQ25xcW5mWVByaUpnWUpUMHhkcjRwNmx3UjQ3TTdHUS1iU3hidlVISXNnTks1a1EtSURJM0ZTTW1xd3VGNlFfdk9qNW1zdXViT3NGemJLLUJFalNyaE5yVHM?oc=5"
+    }
+   ]
   }
  ]
 }

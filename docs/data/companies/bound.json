@@ -1,0 +1,32 @@
+{
+ "name": "Bound",
+ "slug": "bound",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e380a216aa42",
+   "title": "FX risk management platform Bound secures $50m deb facility",
+   "url": "https://www.finextra.com/pressarticle/111782/fx-risk-management-platform-bound-secures-50m-deb-facility?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T13:13:00Z",
+   "relevance": 1,
+   "why": "Bound, an AI-powered FX risk platform, secured a three-year $50m debt facility to fund trading growth.",
+   "summary_ai": "Bound, an AI-powered FX risk platform, secured a three-year $50m debt facility to fund trading growth.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$50m debt facility",
+    "Three-year term"
+   ],
+   "also": []
+  }
+ ]
+}

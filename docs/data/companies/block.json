@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "a695949c4eeb",
+   "title": "California fines Afterpay $2.7M",
+   "url": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-25T16:05:00Z",
+   "relevance": 3,
+   "why": "BNPL ability-to-repay scrutiny is rising; build underwriting and affordability checks into diligence on any embedded BNPL partner.",
+   "summary_ai": "California fined Afterpay $2.7M for failing to assess customers' ability to repay its BNPL loans.",
+   "take": "BNPL ability-to-repay scrutiny is rising; build underwriting and affordability checks into diligence on any embedded BNPL partner.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$2.7M fine"
+   ],
+   "also": []
+  },
+  {
    "id": "bbce829c27b0",
    "title": "Buy-Now-Pay-Later Catches On With Wealthy Households Earning Over ¥16 Million, Block Survey Finds",
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtTWl2TlF4cnBRUmw2WUFxaVZwN2lsd09CU3psTDBtYXc3aHpSVnRZSUZwME1qNVJuNzh1V3RjcmxWWG5RWk02eEZMSXdjOUhDUTRoNGhtS2R0MEhHQnBnZWdZOW9mcmdRb0REQ3NURnQtb2JRZUE?oc=5",

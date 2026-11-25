@@ -1,0 +1,31 @@
+{
+ "name": "Cambridge Savings Bank",
+ "slug": "cambridge-savings-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3f92c0217995",
+   "title": "Dive Deposits: Ex-Jenius president lands at Cambridge Savings Bank",
+   "url": "https://www.bankingdive.com/news/rosenfeld-cambridge-savings-bank-board-jenius/875738/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-25T14:46:24Z",
+   "relevance": 1,
+   "why": "Cambridge Savings Bank added a former Jenius president, who previously ran SMBC's closed US digital bank, to its board.",
+   "summary_ai": "Cambridge Savings Bank added a former Jenius president, who previously ran SMBC's closed US digital bank, to its board.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$7.5 billion in assets"
+   ],
+   "also": []
+  }
+ ]
+}

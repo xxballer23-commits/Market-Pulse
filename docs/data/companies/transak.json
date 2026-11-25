@@ -1,0 +1,29 @@
+{
+ "name": "Transak",
+ "slug": "transak",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9f75e2b8a6ad",
+   "title": "Transak secures MiCA licence",
+   "url": "https://www.finextra.com/pressarticle/111787/transak-secures-mica-licence?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T14:23:00Z",
+   "relevance": 1,
+   "why": "Transak's Austrian entity received MiCA authorisation from Austria's financial regulator to operate crypto and stablecoin payment services in the EU.",
+   "summary_ai": "Transak's Austrian entity received MiCA authorisation from Austria's financial regulator to operate crypto and stablecoin payment services in the EU.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

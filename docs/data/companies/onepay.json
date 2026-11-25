@@ -1,0 +1,36 @@
+{
+ "name": "OnePay",
+ "slug": "onepay",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "03e368c18042",
+   "title": "[Extended 1/15/27] OnePay: $1 Cashback Per Gallon Of Gas Every Wednesday (50 Gallons, Two Redemptions Per Day)",
+   "url": "https://www.doctorofcredit.com/onepay-1-cashback-per-gallon-of-gas-every-wednesday-50-gallons-two-redemptions-per-day/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T05:01:18Z",
+   "relevance": 3,
+   "why": "Weekly fuel cashback is steering users onto OnePay's own cards, a useful model for gas perks tied to proprietary products.",
+   "summary_ai": "OnePay extended its weekly Wednesday gas cashback through January 15, 2027, now requiring a OnePay debit or Builder card.",
+   "take": "Weekly fuel cashback is steering users onto OnePay's own cards, a useful model for gas perks tied to proprietary products.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$1 per gallon",
+    "50 gallons per cycle",
+    "Through 1/15/27"
+   ],
+   "also": []
+  }
+ ]
+}

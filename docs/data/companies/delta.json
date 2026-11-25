@@ -5,6 +5,57 @@
  "vets": [],
  "items": [
   {
+   "id": "cd18709d89aa",
+   "title": "Delta Amex current offers: Earn up to 125,000 SkyMiles with a new card",
+   "url": "https://thepointsguy.com/credit-cards/delta-amex-current-offers/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-25T19:00:52Z",
+   "relevance": 3,
+   "why": "Use this 125,000-mile ceiling as a benchmark when comparing our airline co-brand welcome bonuses against Amex and Delta.",
+   "summary_ai": "A roundup of current Delta Amex welcome offers, including up to 125,000 SkyMiles for new personal and business cardholders.",
+   "take": "Use this 125,000-mile ceiling as a benchmark when comparing our airline co-brand welcome bonuses against Amex and Delta.",
+   "take_kind": "take",
+   "partner": "Delta",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 125,000 SkyMiles"
+   ],
+   "also": []
+  },
+  {
+   "id": "7689c468102c",
+   "title": "Earn up to 5x SkyMiles on Delta Gift Cards This Holiday Season",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SSXc3RmZvaUt3MVRvVERBMzdieExWb3BKMWZKaUR1enV1X214ZUkzZWNQYkh0ckpyR0VqTkhxR05aSEhrMG1PSVhPMlVSYVhLZVp5cWVnX01qT3JLQVE2c0EyNE0?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T22:14:56Z",
+   "relevance": 2,
+   "why": "Delta gift card purchases earn up to 5x SkyMiles during the holiday season, promoted by a points blog.",
+   "summary_ai": "Delta gift card purchases earn up to 5x SkyMiles during the holiday season, promoted by a points blog.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 5x SkyMiles"
+   ],
+   "also": []
+  },
+  {
    "id": "7d771bbebe5e",
    "title": "Black Friday travel gift card deals: Delta, Air Canada, Marcus Hotels, & Kalahari Resorts",
    "url": "https://frequentmiler.com/black-friday-travel-gift-card-deals-delta-air-canada-marcus-hotels-kalahari-resorts/",
@@ -27,6 +78,31 @@
    "data_points": [
     "Up to 5X SkyMiles",
     "$400+ Delta gift card purchase"
+   ],
+   "also": []
+  },
+  {
+   "id": "967481281e86",
+   "title": "Delta Baggage Fees: $45 First Bag & How To Avoid It [2026]",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xazdHNzdKOS1GcElmZEtSeHV6RnhydzNtSzROLTFlNkF0WDZnOWV2cC1rYUhlRkx5UGI0d29KY295TDJ0NzZGcFc3WHVkUEhtU1ZWMTI4RVBSd3FuSTRTLTdiQlRZQTFleU54WWhQVm9mNFdsbFVLag?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:25:28Z",
+   "relevance": 2,
+   "why": "A guide explains Delta's $45 first checked bag fee and ways to avoid it in 2026.",
+   "summary_ai": "A guide explains Delta's $45 first checked bag fee and ways to avoid it in 2026.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$45 first bag"
    ],
    "also": []
   },

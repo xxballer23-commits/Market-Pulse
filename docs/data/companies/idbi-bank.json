@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T11:49:35Z",
    "relevance": 1,
-   "why": "Three public sector bank unions plan a nationwide strike on December 3 to oppose the sale of IDBI Bank.",
-   "summary_ai": "Three public sector bank unions plan a nationwide strike on December 3 to oppose the sale of IDBI Bank.",
+   "why": "Three public sector bank unions in India threaten a nationwide strike over the proposed sale of IDBI Bank.",
+   "summary_ai": "Three public sector bank unions in India threaten a nationwide strike over the proposed sale of IDBI Bank.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -23,7 +23,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "Strike on Dec 3"
+    "Dec 3 strike date"
    ],
    "also": []
   },
@@ -35,8 +35,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T05:32:06Z",
    "relevance": 1,
-   "why": "Indian bank unions plan a nationwide strike on December 3 over the proposed sale of IDBI Bank to Fairfax.",
-   "summary_ai": "Indian bank unions plan a nationwide strike on December 3 over the proposed sale of IDBI Bank to Fairfax.",
+   "why": "Indian bank unions plan a nationwide strike on December 3 over the proposed IDBI Bank sale to Fairfax.",
+   "summary_ai": "Indian bank unions plan a nationwide strike on December 3 over the proposed IDBI Bank sale to Fairfax.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -46,7 +46,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "December 3"
+    "December 3 strike date"
    ],
    "also": []
   }

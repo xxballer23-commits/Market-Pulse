@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "277209254ab7",
+   "title": "Giftcards.com: Save 10% on Lowe’s & Uber eGiftcards",
+   "url": "https://www.doctorofcredit.com/giftcards-com-save-10-on-lowes-uber-egiftcards/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T15:49:29Z",
+   "relevance": 1,
+   "why": "Giftcards.com is offering discounted Lowe's and Uber e-gift cards, plus other deals, via promo codes.",
+   "summary_ai": "Giftcards.com is offering discounted Lowe's and Uber e-gift cards, plus other deals, via promo codes.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 Lowe's card for $90",
+    "$100 Uber card for $90"
+   ],
+   "also": []
+  },
+  {
    "id": "11a0a6ae6733",
    "title": "Target.com: Save 15% On Uber eGiftcards (Today Only, 11/24)",
    "url": "https://www.doctorofcredit.com/target-com-save-15-on-uber-egiftcards-today-only-11-24/",
@@ -28,6 +54,31 @@
     "15% off",
     "5% off with REDcard",
     "Valid 11/24/26"
+   ],
+   "also": []
+  },
+  {
+   "id": "21e5c5833359",
+   "title": "Amex Platinum Uber Credit: How To Use Up to $200 a Year",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHNuV20tOG04OExnTGdaaUcwSUk4RFpDVVlNLXFmU0MwWElxZUt4NEZsVm0xdzR1LXdyTnZvZmFpWDA4d3hIVWJvMTJtM3B0djQwU0stdmVTbUF5NGI1SzNFN3hlNUcwcjhwQXQzSVB4WlI5MlZIdVhtc19yQ2FNVW5fRjhqekYzdlprZUJOakJaSVhBTlE?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:04:01Z",
+   "relevance": 3,
+   "why": "Ride-hail credits like this show how issuers pair premium cards with a single everyday partner brand.",
+   "summary_ai": "A guide explains how Amex Platinum cardholders can use the up to $200 annual Uber credit.",
+   "take": "Ride-hail credits like this show how issuers pair premium cards with a single everyday partner brand.",
+   "take_kind": "read",
+   "partner": "Uber",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$200 annual Uber credit"
    ],
    "also": []
   },
@@ -99,6 +150,29 @@
    "data_points": [
     "Up to 3 points per $1"
    ],
+   "also": []
+  },
+  {
+   "id": "f313478e21c6",
+   "title": "Uber Elite is here: A luxury 'invite-only' feature has just arrived in Australia after huge success in LA and NYC",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMkJYcWt2cmhKZW5YSkpKUzNPZWhDcEFRYWxtTUZ3N1liSGFvclJBTVNna245clZ1VVFhNFliZEtaZm9aT2YyVHo2b3Y4cUhfeDgyQUdjNGRRVVI3Yk5wUVJWSEhuc28zZ0lTREZfd210MjZFbktpbzdSODJQVzZUb0Vxd1hPckxDclFKOVR6QXM3WUJfMzlBRzIzdm5HWVpBQ2I2Rw?oc=5",
+   "source": "Daily Mail",
+   "source_type": "gnews",
+   "published": "2026-11-24T00:16:00Z",
+   "relevance": 3,
+   "why": "A premium invite-only tier signals how ride-hailing loyalty is moving upmarket, a possible perk-pairing angle for card partners.",
+   "summary_ai": "Uber's invite-only Elite tier has launched in Australia after rollouts in Los Angeles and New York.",
+   "take": "A premium invite-only tier signals how ride-hailing loyalty is moving upmarket, a possible perk-pairing angle for card partners.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   },
   {

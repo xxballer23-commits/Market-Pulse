@@ -1,0 +1,31 @@
+{
+ "name": "Family Savings Credit Union",
+ "slug": "family-savings-credit-union",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7cb5dda79c83",
+   "title": "Alabama’s Family Savings Credit Union to buy in-state bank",
+   "url": "https://www.bankingdive.com/news/alabama-family-savings-credit-union-buys-liberty-bank/875745/",
+   "source": "Banking Dive",
+   "source_type": "rss",
+   "published": "2026-11-25T15:15:54Z",
+   "relevance": 2,
+   "why": "Family Savings Credit Union plans to buy an Alabama bank, one of many credit union bank acquisitions this year.",
+   "summary_ai": "Family Savings Credit Union plans to buy an Alabama bank, one of many credit union bank acquisitions this year.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "11th proposed credit union bank acquisition this year"
+   ],
+   "also": []
+  }
+ ]
+}

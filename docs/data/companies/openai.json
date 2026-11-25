@@ -5,6 +5,79 @@
  "vets": [],
  "items": [
   {
+   "id": "846cc1591810",
+   "title": "You Can Now Get a ChatGPT Business Subscription Covered by Amex Business Card Credits",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRm5WU3hMWGlweGtrcWM0YmN5bW1qbGY0RlpOWlBlcDVkMW1NdWtRM0JnQ2lObk96S0lQRVpnczYzOHoxeFg3eFNoUlFBNkRVLXRncFRxdXAzUXdSRmRMaWRRVUlhQXhCcDVPTFdTUl9pYW5uM3Etd2NJT0czOXJ6WThfa2ZSMjFnS3FBeFp3?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T18:39:39Z",
+   "relevance": 4,
+   "why": "Credit-covered AI subscriptions show issuers can attach benefits to fast-growing software, a template for co-brand deals.",
+   "summary_ai": "Amex Business card credits can now cover a ChatGPT Business subscription, according to Upgraded Points.",
+   "take": "Credit-covered AI subscriptions show issuers can attach benefits to fast-growing software, a template for co-brand deals.",
+   "take_kind": "take",
+   "partner": "OpenAI",
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "092caf82715c",
+   "title": "Prediction markets push OpenAI IPO expectations later into 2027",
+   "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-25T17:08:03Z",
+   "relevance": 1,
+   "why": "Kalshi traders cut the odds that OpenAI confirms an IPO before June 2027 as AI stocks and related markets weakened.",
+   "summary_ai": "Kalshi traders cut the odds that OpenAI confirms an IPO before June 2027 as AI stocks and related markets weakened.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Before June 2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "ae1d0dbbf161",
+   "title": "ChatGPT Business Now Allows One Seat ($25/Month, Covered By Amex Credit)",
+   "url": "https://www.doctorofcredit.com/chatgpt-business-now-allows-one-seat-25-month-covered-by-amex-credit/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T13:46:45Z",
+   "relevance": 4,
+   "why": "Solo operators can now fully use this credit, so check whether other business-software perks can be packaged in single-seat form.",
+   "summary_ai": "Amex business Platinum and Gold cardholders can now buy a single ChatGPT Business seat at $25 a month, fully covered by the monthly credit.",
+   "take": "Solo operators can now fully use this credit, so check whether other business-software perks can be packaged in single-seat form.",
+   "take_kind": "take",
+   "partner": "OpenAI",
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$25/month credit",
+    "$25/month single seat"
+   ],
+   "also": []
+  },
+  {
    "id": "cd353ebb2890",
    "title": "WSJ Says OpenAI IPO Delay May Increase Exposure to Potential AI Downturn",
    "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wsj-says-openai-ipo-delay-may-increase-exposure-to-potential-ai-downturn/",

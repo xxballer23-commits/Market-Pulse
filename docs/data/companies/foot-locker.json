@@ -1,0 +1,31 @@
+{
+ "name": "Foot Locker",
+ "slug": "foot-locker",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c91cf5f253e5",
+   "title": "Nike ‘absolutely making the right decision with Jordan’: Dick’s Sporting Goods",
+   "url": "https://www.retaildive.com/news/nike-jordan-dicks-sporting-goods-foot-locker-q3/875628/",
+   "source": "Retail Dive",
+   "source_type": "rss",
+   "published": "2026-11-25T14:18:00Z",
+   "relevance": 2,
+   "why": "Dick's Sporting Goods' chairman praised Nike's long-term approach to the Jordan brand while Foot Locker shows early signs of recovery.",
+   "summary_ai": "Dick's Sporting Goods' chairman praised Nike's long-term approach to the Jordan brand while Foot Locker shows early signs of recovery.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

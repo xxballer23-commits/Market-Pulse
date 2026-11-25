@@ -1,0 +1,31 @@
+{
+ "name": "MSC Cruises",
+ "slug": "msc-cruises",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c1857e458318",
+   "title": "Yet another giant new cruise ship takes to the sea",
+   "url": "https://thepointsguy.com/cruise/msc-world-asia-ship-delivery/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-25T14:54:41Z",
+   "relevance": 1,
+   "why": "MSC Cruises' new MSC World Asia ship is now in service and ranks as the tenth largest cruise ship ever built.",
+   "summary_ai": "MSC Cruises' new MSC World Asia ship is now in service and ranks as the tenth largest cruise ship ever built.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Tenth largest cruise ship ever built"
+   ],
+   "also": []
+  }
+ ]
+}

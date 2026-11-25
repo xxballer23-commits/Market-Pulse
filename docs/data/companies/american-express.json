@@ -5,6 +5,160 @@
  "vets": [],
  "items": [
   {
+   "id": "cd18709d89aa",
+   "title": "Delta Amex current offers: Earn up to 125,000 SkyMiles with a new card",
+   "url": "https://thepointsguy.com/credit-cards/delta-amex-current-offers/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-25T19:00:52Z",
+   "relevance": 3,
+   "why": "Use this 125,000-mile ceiling as a benchmark when comparing our airline co-brand welcome bonuses against Amex and Delta.",
+   "summary_ai": "A roundup of current Delta Amex welcome offers, including up to 125,000 SkyMiles for new personal and business cardholders.",
+   "take": "Use this 125,000-mile ceiling as a benchmark when comparing our airline co-brand welcome bonuses against Amex and Delta.",
+   "take_kind": "take",
+   "partner": "Delta",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 125,000 SkyMiles"
+   ],
+   "also": []
+  },
+  {
+   "id": "846cc1591810",
+   "title": "You Can Now Get a ChatGPT Business Subscription Covered by Amex Business Card Credits",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRm5WU3hMWGlweGtrcWM0YmN5bW1qbGY0RlpOWlBlcDVkMW1NdWtRM0JnQ2lObk96S0lQRVpnczYzOHoxeFg3eFNoUlFBNkRVLXRncFRxdXAzUXdSRmRMaWRRVUlhQXhCcDVPTFdTUl9pYW5uM3Etd2NJT0czOXJ6WThfa2ZSMjFnS3FBeFp3?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T18:39:39Z",
+   "relevance": 4,
+   "why": "Credit-covered AI subscriptions show issuers can attach benefits to fast-growing software, a template for co-brand deals.",
+   "summary_ai": "Amex Business card credits can now cover a ChatGPT Business subscription, according to Upgraded Points.",
+   "take": "Credit-covered AI subscriptions show issuers can attach benefits to fast-growing software, a template for co-brand deals.",
+   "take_kind": "take",
+   "partner": "OpenAI",
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "ff79f5d593f2",
+   "title": "Rakuten Referral Bonus Jumps to $70 [Or 7,000 Points From Amex or Bilt]",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ESFYzRTVlSDdLWmpHVGY0cXJWaENGY1FmZHYwQU83eXlpVk1fakF6NDdHcUQ2MmMwTmJldVo0TDBsdGt1WG5yWXVnWHRjRFRoVzJWNi03aFhuX1lSLU8tZWpDOWd4YXEwRWFZTA?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T17:11:43Z",
+   "relevance": 3,
+   "why": "Benchmark Rakuten's referral economics against our own card referral bonuses and shopping-portal spend.",
+   "summary_ai": "Rakuten raised its referral bonus to $70 or 7,000 points for sign-ups to American Express or Bilt cards.",
+   "take": "Benchmark Rakuten's referral economics against our own card referral bonuses and shopping-portal spend.",
+   "take_kind": "take",
+   "partner": "Rakuten",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$70 referral bonus",
+    "7,000 points"
+   ],
+   "also": []
+  },
+  {
+   "id": "5e84489c3c0a",
+   "title": "Scotiabank American Express Card Review: Earn rates, point value, and whether to upgrade",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelZwMEFFdjRCU0puT3Q2cmp1SnhTVENkck1xSWRYbi13cmU3LTdFeWVfRzU0VTZmNGZEd0tPSU9RamVyTGJJS2RneTBvUC13V1dVZi1QYzVCbDZGWDJ6M3dhVW1BY05wV3kteXdrbmpXZ2xLekNLNUt0bEZ4ZmhTdHNqUHhpNDRVMm4xeXVMTlFYWHNyS2E4?oc=5",
+   "source": "NerdWallet",
+   "source_type": "gnews",
+   "published": "2026-11-25T16:57:36Z",
+   "relevance": 2,
+   "why": "NerdWallet reviews the Scotiabank American Express card's earn rates, point value and whether an upgrade is worth it.",
+   "summary_ai": "NerdWallet reviews the Scotiabank American Express card's earn rates, point value and whether an upgrade is worth it.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "a7636189828f",
+   "title": "Rakuten cardholders can earn 4X at Walmart both in-store & online through 12/31/26",
+   "url": "https://frequentmiler.com/rakuten-cardholders-can-earn-4x-at-walmart-both-in-store-online-through-12-31-26/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-25T14:45:47Z",
+   "relevance": 3,
+   "why": "Merchant-specific multipliers on mid-tier co-brands are a cheap benchmark for how issuers price retail partner offers.",
+   "summary_ai": "Rakuten Amex cardholders can earn 4X at Walmart in-store and online through year end, on up to $1,000 of extra spend.",
+   "take": "Merchant-specific multipliers on mid-tier co-brands are a cheap benchmark for how issuers price retail partner offers.",
+   "take_kind": "read",
+   "partner": "Walmart",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "4X at Walmart",
+    "$1,000 bonus spend cap",
+    "$10,000 4X spending cap",
+    "Through 12/31/26"
+   ],
+   "also": []
+  },
+  {
+   "id": "ae1d0dbbf161",
+   "title": "ChatGPT Business Now Allows One Seat ($25/Month, Covered By Amex Credit)",
+   "url": "https://www.doctorofcredit.com/chatgpt-business-now-allows-one-seat-25-month-covered-by-amex-credit/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T13:46:45Z",
+   "relevance": 4,
+   "why": "Solo operators can now fully use this credit, so check whether other business-software perks can be packaged in single-seat form.",
+   "summary_ai": "Amex business Platinum and Gold cardholders can now buy a single ChatGPT Business seat at $25 a month, fully covered by the monthly credit.",
+   "take": "Solo operators can now fully use this credit, so check whether other business-software perks can be packaged in single-seat form.",
+   "take_kind": "take",
+   "partner": "OpenAI",
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$25/month credit",
+    "$25/month single seat"
+   ],
+   "also": []
+  },
+  {
    "id": "a4e55d9efe9f",
    "title": "(Extended) Marriott Amex Offer: Spend $375, get $150 back (targeted)",
    "url": "https://frequentmiler.com/marriott-amex-offer-spend-375-get-150-back-targeted/",
@@ -50,6 +204,30 @@
    "low_confidence": null,
    "sections": [
     "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "9bdb8154fe7d",
+   "title": "American Express Platinum Card Review: An Expensive but Valuable Coupon Book",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xbTBad0xuSVh0V2NEVUctOURMUEFPTVU2Y1I3MjJQNnRmZjE5Zy1USWNMX3FkaW9ES2hLTWVhMU40dFZkelU3dkpzNWVtaXBjRTlMc2tDcWx0N3ZYbXMyaUVPRTdYT0xLbDgyR01Zamd5dUlIUEFj?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-24T22:50:42Z",
+   "relevance": 3,
+   "why": "Reviewers judge Platinum value by credit redemption, so partner perks that get used will matter more than headline fee justification.",
+   "summary_ai": "Credit Karma's review calls the American Express Platinum Card expensive but valuable, comparing its credits to a coupon book.",
+   "take": "Reviewers judge Platinum value by credit redemption, so partner perks that get used will matter more than headline fee justification.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
    ],
    "breaking": false,
    "data_points": [],
@@ -153,6 +331,152 @@
    "also": []
   },
   {
+   "id": "27a4fb8d77bd",
+   "title": "Amex Platinum Hotel Credit: How To Use Up to $600 [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORXd2TlFMdkZwQjdDYmIzbzVWZ3lodExFc0x6ZjNhaE1sYzFYYlpUdXFnVzA2WmQyenFkQVBxUHduUWtSaDh5MTVKdkZKMEx0TElmTlk0bF9RTzRsbkY0M1l0Vm1LSDk2R1c1WnRPZEU0TTFFVnBJS0pqV2pQNThvMm45Q05XRlR0aWNBTWFQT1pFZ2pLbHVYRkMtaEV1VkpPZXc?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:11:02Z",
+   "relevance": 3,
+   "why": "A guide explains how cardholders can use the Amex Platinum hotel credit of up to $600.",
+   "summary_ai": "A guide explains how cardholders can use the Amex Platinum hotel credit of up to $600.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $600 hotel credit"
+   ],
+   "also": []
+  },
+  {
+   "id": "21e5c5833359",
+   "title": "Amex Platinum Uber Credit: How To Use Up to $200 a Year",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTHNuV20tOG04OExnTGdaaUcwSUk4RFpDVVlNLXFmU0MwWElxZUt4NEZsVm0xdzR1LXdyTnZvZmFpWDA4d3hIVWJvMTJtM3B0djQwU0stdmVTbUF5NGI1SzNFN3hlNUcwcjhwQXQzSVB4WlI5MlZIdVhtc19yQ2FNVW5fRjhqekYzdlprZUJOakJaSVhBTlE?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:04:01Z",
+   "relevance": 3,
+   "why": "Ride-hail credits like this show how issuers pair premium cards with a single everyday partner brand.",
+   "summary_ai": "A guide explains how Amex Platinum cardholders can use the up to $200 annual Uber credit.",
+   "take": "Ride-hail credits like this show how issuers pair premium cards with a single everyday partner brand.",
+   "take_kind": "read",
+   "partner": "Uber",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$200 annual Uber credit"
+   ],
+   "also": []
+  },
+  {
+   "id": "db421423f606",
+   "title": "Amex Platinum vs. Amex Schwab Platinum Card [2026]",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWx6REU4T05pYWlMN2VtVXRzd214OW1ZZ0c5UWpqeWdzZFQwVnJwcU1PZG9aaWVCeXlLN2UxRmJGLXhtV1d1MHhYTFJpSnVFUU1kTlFkUFhHeEhGdWlOZXJHWHI2bUk4ZXd0a3pxdzBvNGJXbzMyYlBNUkdmQlhWMm5yTUlKMFVJNndPQi1JS1NGUQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:59:29Z",
+   "relevance": 3,
+   "why": "Brokerage-linked premium cards show Amex extending its platinum franchise into financial services partners.",
+   "summary_ai": "A comparison weighs the Amex Platinum card against the Amex Schwab Platinum card for 2026.",
+   "take": "Brokerage-linked premium cards show Amex extending its platinum franchise into financial services partners.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "ef1e0b481170",
+   "title": "Amex Gold Additional Cardholders [Fees and 20 Benefits]",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWXR6U3JPQl8taGdRWWpLeHhqUERlVGtjWFR3VFIycXVhSDBhUWlxWWcxRU5wYWFsWmQtWE94eEpnNjFDQkFpUmRZTHlrZFRGX2IydlBRZENFcGdZYVhkR3d4cmQ0dHVBR2R5cWhIWkliVks0R3dMekE3dGFZT3RzOE0yUEN4SzlXWVFfWWhyLVFDQ1JIQUZ3Z3lCTGJjRHo2?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:58:20Z",
+   "relevance": 2,
+   "why": "A guide covers fees for Amex Gold additional cardholders and the benefits they can receive.",
+   "summary_ai": "A guide covers fees for Amex Gold additional cardholders and the benefits they can receive.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20 benefits"
+   ],
+   "also": []
+  },
+  {
+   "id": "bf9ce50cff1e",
+   "title": "Amex Platinum Travel Insurance Benefits: Full List [2026]",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbmJhd01qN2lpblhmeEtrNFBHbURWcERKbHMyWlUwMmk4QW83Zk94LVh5YUlQUFFWanQtcEdod25mUGJWa1l1UHBzb2FtQmd3bGtZaHByeEFGSjUtdEJCY2lwOVRIbFJ1S05lUkFtR1BZU2V2MjVNNTBmMDJ4SmFvWGk5VFVJSmhIZ19GZXBEaVotcktORHFRRF9vYTFXVnRrSTFKYTlEN2s?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:57:48Z",
+   "relevance": 3,
+   "why": "A reference guide to the travel insurance coverage included with The Platinum Card from American Express in 2026.",
+   "summary_ai": "A reference guide to the travel insurance coverage included with The Platinum Card from American Express in 2026.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "013ba0e6de9a",
+   "title": "Amex Business Platinum Additional Cardholders: 17 Benefits",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZ3YwTU1pN1ZaWmxQaldqbEZONW5uRlVrWHJzOTdvWXdlOVczWUFMS19sOXVneVVocVIyMXM3Um1aX3lkOUZxR2xLdHRoVGVYMVMwc2ZBREJRX3NzRmRnaXowNVMxUFJWR28ta0RRbDY5ajZxNTBnVDBJeHZLcXFvTTN0b0dUbGF6bldvOXlSSmNrQQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:52:59Z",
+   "relevance": 3,
+   "why": "A guide to the 17 benefits available to additional cardholders on the Business Platinum card from American Express.",
+   "summary_ai": "A guide to the 17 benefits available to additional cardholders on the Business Platinum card from American Express.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "17 benefits"
+   ],
+   "also": []
+  },
+  {
    "id": "afbce4ea8401",
    "title": "Amex Platinum Offer Eligibility [Rule Changes 2014 to 2026]",
    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWjNPd3hxQXNPeGpocVZPdGE0Qm9CUzZseWtnV0o1NHJKZVJYN2hRY0RldHJnMzduelhhdXpCQk1RbzRFN2FlaHBKZGVIRXNCZEZIMHhWaUg5c3ZxRjRGT0F6ZDVtVlFtTkxUdUt6NkRuSFpWOHFBT1p2RGl3bFp4NktnNDh4aTNrV2FqVWg2YlNtbU9MLTV5VmxPM0FNbHJ6aFBaWWpGUUR2dFhEbDhoOFBXYw?oc=5",
@@ -174,6 +498,32 @@
    "breaking": false,
    "data_points": [
     "2014 to 2026"
+   ],
+   "also": []
+  },
+  {
+   "id": "362a8de93b7d",
+   "title": "The Amex Platinum Card Perks I Actually Used Over 30 Days",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xbmxRNlllR254U3ljUFBvWC1tVW5EeGdYQk1jdmFmQXNEQnI1ZG9tS181dmg4YURqeHRjZ0RmcEhidURndlg1Q1cwbzl2cVZRSWZxVDg3Zl84S3pzQk5iRDBtWkF4Nk1HN3F1VThHUHphRGZv?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T12:26:23Z",
+   "relevance": 3,
+   "why": "First-hand usage accounts show which Platinum benefits members actually engage with.",
+   "summary_ai": "A reviewer documents which Amex Platinum perks they used during a 30-day period.",
+   "take": "First-hand usage accounts show which Platinum benefits members actually engage with.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30 days"
    ],
    "also": []
   },

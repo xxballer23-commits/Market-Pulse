@@ -5,6 +5,54 @@
  "vets": [],
  "items": [
   {
+   "id": "dbcf1b45b182",
+   "title": "Klarna Checkout Expansion Could Be A Game Changer For Visa (V)",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjY2TGxUZnR5YjVQZFdQbmxKYUJBVG9LSjhxLTd3bDAwdFJibktBUFJfanl0TEhzdDRkZnp5em1vMm8yUnZScURublc4RzVvbjhvRlBLYW41LXlnUDMzekxkQm0zaXo3VFV4SDNyV1FhUjVHbkhTVXB3V1V2SU92b3FYX3Z6VzBtRFIxV0FpTzVIV2NrcDJrT0wxcXVTMno2bXNmUENFOGlxdHI3elpvTHhtdDlYalRldzIyTDNvX2FWbndfOV9SSnZ2RVLSAdIBQVVfeXFMT0F2aG9jMVJFVW5LMXFTSEdoeUNaSl9CaVhTbGU0NVVnZmpidHhOSDVhdmhuTVNEbmZtTUVnbS1Fek1XMU53T0hNZTExTFN6ZmxWa0liU1BGUDB1bUFaMzNfSlAybTNLWmNGcWFBZ01US1c1WU42M3JYWWUzbEVMWHhGSnB5ZFVRbTFlbU03b0taS3BCN0tLNHpqTnppb1R6WC1vWF96TENROENHMHFFX1AyMGlaRldJTHNUSVVfcnpMbE1kTlJsTlpuNDRTdjlUOU9n?oc=5",
+   "source": "Simply Wall St",
+   "source_type": "gnews",
+   "published": "2026-11-25T16:12:17Z",
+   "relevance": 3,
+   "why": "Klarna's checkout push strengthens the BNPL-network tie-up; a useful signal when assessing BNPL options alongside card partners.",
+   "summary_ai": "Simply Wall St argues Klarna's checkout expansion could be a meaningful opportunity for Visa.",
+   "take": "Klarna's checkout push strengthens the BNPL-network tie-up; a useful signal when assessing BNPL options alongside card partners.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "6cefd61ba1b2",
+   "title": "£1.3bn Visa and Mastercard consumer claim targets hidden costs of card payments",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHNCdzdya19xOHZZcHh4VkhDUjRHWjFnc1RJbzdXLWxoYzZSVGZXQjF3QnNLX016ZHBMdXNuR0FCWUItWm1aRDEtWnkwczBmb2syYXYycWo0NjRKc1RGN2lzUWVCRV92UEtTcDl3WE1hVUNKTlVZUklXaUMwelRtZ2NadDhnSHEwQ3lGX3FR?oc=5",
+   "source": "Consumer Voice",
+   "source_type": "gnews",
+   "published": "2026-11-25T01:01:00Z",
+   "relevance": 3,
+   "why": "Collective claims over card fees keep interchange economics under legal pressure, and US issuers should track whether similar suits follow.",
+   "summary_ai": "A £1.3bn consumer claim against Visa and Mastercard targets hidden costs that consumers pay on card transactions.",
+   "take": "Collective claims over card fees keep interchange economics under legal pressure, and US issuers should track whether similar suits follow.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "£1.3bn claim"
+   ],
+   "also": []
+  },
+  {
    "id": "c3c246647074",
    "title": "iwoca and Visa launch credit card to widen SME funding choice",
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYWF2WHN3bzZmaDVvREt0dE9wZFJPMV91NlFyWnRlWHFNSGp4Z2JCLWRtcVNlWDUxT2tuaXZqa3FkTWo0UmFnU0NPSk0zeW9DYm5oREJTX3prelZrcTJmeFdoMXc2WnVySGRib2U2TnNVUWxCd0Nack5mYUk5N1RBWEVlZWRNUGhLWEVYaVpGWGFITlR5UVg1b1h3?oc=5",
@@ -118,6 +166,29 @@
    "low_confidence": null,
    "sections": [
     "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2174f69f413d",
+   "title": "Visa (V) Broadens Checkout Options On Its Acceptance Platform",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR0l4YWhRNmVPRURfekdGVU9OQmhqSXh2RWt2OWk0SmhINW9WMkU2ZlFhWVVPUmx3ZEgtU05lMG0tUDJRWFdEY3ZHWlVBbnBRQm1qeDBiRFpHSGVtMmRReXVCMkluTlh1MzluR1h5TDVmUTJCMjJESzFuT3RCVFdlR3V3Z19PV0hjNi1MMWhtSFVZMjBTNHZPMW1qUEtOQQ?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-24T11:18:40Z",
+   "relevance": 2,
+   "why": "Visa expanded checkout payment options on its acceptance platform, per a Yahoo Finance report.",
+   "summary_ai": "Visa expanded checkout payment options on its acceptance platform, per a Yahoo Finance report.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
    ],
    "breaking": false,
    "data_points": [],

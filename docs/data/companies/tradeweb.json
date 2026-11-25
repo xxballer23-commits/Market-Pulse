@@ -1,0 +1,29 @@
+{
+ "name": "Tradeweb",
+ "slug": "tradeweb",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "db35fb16781b",
+   "title": "LSEG and Tradeweb launch RepoAgent",
+   "url": "https://www.finextra.com/pressarticle/111784/lseg-and-tradeweb-launch-repoagent?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T13:17:00Z",
+   "relevance": 1,
+   "why": "LSEG and Tradeweb launched RepoAgent to streamline post-trade processing in the non-cleared repo market.",
+   "summary_ai": "LSEG and Tradeweb launched RepoAgent to streamline post-trade processing in the non-cleared repo market.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

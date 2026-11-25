@@ -1,0 +1,31 @@
+{
+ "name": "Airelles",
+ "slug": "airelles",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "913230eec665",
+   "title": "The Airelles Palladio hotel in Venice opens Elton's Club",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNUdKWDdSZWROZ09ZdWZnZTZ5dzhCOTRHZUcyMjRHTzBkNjV5RVdWSXRqVmVCYjJuREp4WXpXWmY5MjhCcE9TY1lMc1BuTHhFUW1aTVZxZHQ1SE5HLWtncGlZNWo4NFJaaXppVkVXNllXWU9qT05HUmF4TzFpYzd1dHZ2OTBmV2NDOXFHbGtR?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-25T10:23:27Z",
+   "relevance": 2,
+   "why": "The Airelles Palladio hotel in Venice has opened Elton's Club on its premises.",
+   "summary_ai": "The Airelles Palladio hotel in Venice has opened Elton's Club on its premises.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

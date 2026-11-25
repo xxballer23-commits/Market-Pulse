@@ -1,0 +1,54 @@
+{
+ "name": "Norse Atlantic Airways",
+ "slug": "norse-atlantic-airways",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5528a01b83b1",
+   "title": "Norse Atlantic Faces Fight for Survival as Cash Crisis Deepens",
+   "url": "https://skift.com/2026/11/25/norse-atlantic-faces-fight-for-survival-as-cash-crisis-deepens/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-25T13:27:47Z",
+   "relevance": 2,
+   "why": "Not a premium card partner, but a carrier collapse would affect long-haul travel options; monitor only.",
+   "summary_ai": "Norse Atlantic Airways says it needs fresh funding to keep operating and calls its financial position critical.",
+   "take": "Not a premium card partner, but a carrier collapse would affect long-haul travel options; monitor only.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "141975ce73f5",
+   "title": "Norse Atlantic On Brink Of Collapse, Admits “Financial Situation Is Critical”",
+   "url": "https://onemileatatime.com/news/norse-atlantic-collapse-financial-situation-critical/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-25T12:20:46Z",
+   "relevance": 2,
+   "why": "A carrier in financing distress is a risk for any loyalty or transfer partnership tied to its routes, though Norse is not a major partner.",
+   "summary_ai": "Norse Atlantic Airways says its financial situation is critical and it needs short-term financing to keep flying.",
+   "take": "A carrier in financing distress is a risk for any loyalty or transfer partnership tied to its routes, though Norse is not a major partner.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

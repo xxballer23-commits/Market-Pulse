@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "881fd5a07eed",
+   "title": "Photos: Peek inside American Airlines’ new Austin lounge",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYWxJMDZxY2UyVnFBZUNzWGs5a2I5eGZWOTVHNmxjUEF0QnpFbW9BM0JVQlVJc0RJRmlUamYwdV9SUkk5M0ZycnVzRGtUYUJvRGdINDFHU05KSW11a19hdVVMS21oVW9xdEJ6aWJrVUx4M3R3R29NbGl1TVAxY0xueGZMU0RZLWxTWnlOdmZTY3lrNjFfWlg3b0NlbTJLNTJTY0M4eA?oc=5",
+   "source": "Austin American-Statesman",
+   "source_type": "gnews",
+   "published": "2026-11-25T15:29:46Z",
+   "relevance": 3,
+   "why": "New airline lounges in Texas hubs affect which premium cards' lounge access matters most to cardholders there.",
+   "summary_ai": "Photos show the interior of American Airlines' new lounge at Austin airport.",
+   "take": "New airline lounges in Texas hubs affect which premium cards' lounge access matters most to cardholders there.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "2e9218e3af0d",
    "title": "American Drops Lawsuit Over Gates at Chicago O’Hare but It’s Still Locked in a Battle With United",
    "url": "https://skift.com/2026/11/24/american-drops-lawsuit-over-gates-at-chicago-o-hare/",
@@ -95,6 +118,31 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "1b2f3a749b38",
+   "title": "Admirals Club Lounge at Miami International Airport Gate D30 [Review]",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObHZOTEI2a1J0VEhpVDdHMHlvaEFVYklmLU9DMUdZWlJjX2JKTUhFUWZUc01aNy1KcjNBVHRDeWNYRDNWaDBjOGVueFpMVlNmM2paaEI1V0czX2dkWEU1VjRuak5naWhkM0xsNE5MZVRlMmFnbGEtSlpYZGJNclJFdFB6OERFUURqN1lFczVORQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T11:44:39Z",
+   "relevance": 3,
+   "why": "Lounge reviews help benchmark the airport access quality premium cardholders expect.",
+   "summary_ai": "A reviewer describes the Admirals Club lounge at Miami International Airport, Gate D30.",
+   "take": "Lounge reviews help benchmark the airport access quality premium cardholders expect.",
+   "take_kind": "read",
+   "partner": "American Airlines",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Gate D30"
+   ],
    "also": []
   },
   {

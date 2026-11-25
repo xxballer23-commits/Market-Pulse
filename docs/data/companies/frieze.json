@@ -1,0 +1,34 @@
+{
+ "name": "Frieze",
+ "slug": "frieze",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "66049f19e271",
+   "title": "Here’s What Exhibitors You Can Expect at Frieze Los Angeles Next Year",
+   "url": "https://robbreport.com/shelter/art-collectibles/frieze-los-angeles-2027-exhibitors-1238863092/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-25T16:00:00Z",
+   "relevance": 2,
+   "why": "Explore cardholder access or an event partnership with Frieze LA to reach affluent art buyers.",
+   "summary_ai": "Robb Report previews the exhibitors expected at next year's Frieze Los Angeles, held February 25 to 28 at Santa Monica Airport.",
+   "take": "Explore cardholder access or an event partnership with Frieze LA to reach affluent art buyers.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "February 25 to 28 run",
+    "Santa Monica Airport venue"
+   ],
+   "also": []
+  }
+ ]
+}

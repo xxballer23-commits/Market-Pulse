@@ -1,0 +1,31 @@
+{
+ "name": "Baseline",
+ "slug": "baseline",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f4b1db220b8a",
+   "title": "Baseline Integrates with Elementix to Bring Borrower Intelligence Directly Into Its Loan Management Platform",
+   "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcHVOc284dWxtZ1lYdnQ3c1RpaHN4QzJ2TnJfbnpFN0tFbzNwS2lGQmthblpiMk56TFdiUGNHNWxidDZOemFFNExDMVdabFA1d05CbHg5X2I3dVlKZnZtdGlwQk1UYXl6YVAxS05TcEZDTlB1b2hIT3BsT1hfVzJ2SjNDZE9ZRHY3TW44cThIaHoyNENzRVlxaGRpbVVvN2MyZ2lFY3VvSmRramV6UzlldzA3RmtjVG9FQTVYT0lBN3JYMThVUm5KNzNERDI3MkRIUUVKR2hKcks5LThhdUlQZGZGOU1HVVJ1MGlSLTVzeUpxZTNXMktr?oc=5",
+   "source": "PR Newswire",
+   "source_type": "gnews",
+   "published": "2026-11-25T13:55:00Z",
+   "relevance": 2,
+   "why": "Baseline is linking its loan management platform with Elementix to bring borrower intelligence into the system.",
+   "summary_ai": "Baseline is linking its loan management platform with Elementix to bring borrower intelligence into the system.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

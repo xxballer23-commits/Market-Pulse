@@ -1,0 +1,32 @@
+{
+ "name": "Urban Outfitters",
+ "slug": "urban-outfitters",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "cb95feae9397",
+   "title": "Urban Outfitters posts record quarterly growth on Free People",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeUhrc09MMEV1cjhTaXVpWUh5Mm9keldzbHpaZU9sQnBnSEFMRlhuV1JkR1VXckVUQWJmdjFYYkQ2TGJyUGg2THFQV0xaeFJPS3p2ZVctYmlOaFRIeU1rTW96dW1KdlZwdzFwME0zT0l1RVlnVlgtRWZ4UGV6MVh2SW15bnVqUWxhTjlfWEhpZ3EtNVNHbjdubkt4aV9fY1RFOHp3ejRRbUEwR2xzcVE?oc=5",
+   "source": "FashionNetwork France",
+   "source_type": "gnews",
+   "published": "2026-11-25T04:32:29Z",
+   "relevance": 2,
+   "why": "Urban Outfitters reported record quarterly growth, driven by its Free People brand.",
+   "summary_ai": "Urban Outfitters reported record quarterly growth, driven by its Free People brand.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

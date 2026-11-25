@@ -1,0 +1,33 @@
+{
+ "name": "Kempinski",
+ "slug": "kempinski",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8c665e8cce0e",
+   "title": "Kempinski to Reopen Luxury Hotel in Prague’s 800-Year-Old Monastery",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZDJuZXFqYnZWeFNST1JmYUNpSlNQMGM0blo2cFNHTmFucnNLcVNEZHozVDFzMVB2UW9paDlEdWVlbVBQdVctTW9HSDZRV2QtZXlxZmJOcjVRbVF3TjRPYlViTVIzOVFaTFBkVVBDMlUzVFlvUFh5cVlSOXdSaTdzZkd6OTByUFk1ekJoLWJnLW5SRk9Bc080?oc=5",
+   "source": "FTN news",
+   "source_type": "gnews",
+   "published": "2026-11-25T11:12:13Z",
+   "relevance": 2,
+   "why": "Kempinski is set to reopen a luxury hotel housed in a roughly 800-year-old Prague monastery.",
+   "summary_ai": "Kempinski is set to reopen a luxury hotel housed in a roughly 800-year-old Prague monastery.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "800-year-old monastery"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "name": "GameStop",
+ "slug": "gamestop",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "20c736ada04d",
+   "title": "GameStop Tops Amazon in Stock Ratings Ahead of Holiday Season",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWTNRMkhpeXc4M19jeUFWczNCNC1QcUQxREFQZ0pWeklFLXh1dEJZYXdmSmZpRjBlbV80X2d2c1AtZk5UY0VqQndnaDlTWEg5aG55blZMbjUxVnRQRGw5bWh1N29seTdzRHRaaDhiMzVWZl9FZjgwd0NnbTRobUdtYmVtQjRtRlFSbHE0ZTVnYWJlYWZ1dTdXdjA0WHZlNXBlb1hfTmZPNUl1OHBJZ0d0RGM5Z3dBbXphNUVIOUl3?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-25T12:54:29Z",
+   "relevance": 1,
+   "why": "Analyst stock ratings put GameStop ahead of Amazon ahead of the holiday season.",
+   "summary_ai": "Analyst stock ratings put GameStop ahead of Amazon ahead of the holiday season.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

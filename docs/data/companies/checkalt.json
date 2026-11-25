@@ -1,0 +1,29 @@
+{
+ "name": "CheckAlt",
+ "slug": "checkalt",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "979e671c16aa",
+   "title": "CFOs Shift Working Capital Strategy From Holding Cash to Moving It",
+   "url": "https://www.pymnts.com/loans/working-capital/2026/chief-financial-officers-shift-working-capital-strategy-from-holding-cash-moving-it/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T16:33:40Z",
+   "relevance": 1,
+   "why": "CFOs are focusing on how much business each dollar can support, shown by CheckAlt agreeing to buy Finexio.",
+   "summary_ai": "CFOs are focusing on how much business each dollar can support, shown by CheckAlt agreeing to buy Finexio.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Stop & Shop",
+ "slug": "stop-and-shop",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "160d7b60c364",
+   "title": "Stop & Shop Has Closed 4 Stores in 2026 (See if Yours Is on the List)",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5OaEZfOS12azRaZXVzRWV0dXVPNHhNSDN1cUxCd0hNNmxHRHJzaWpXSnk5cTdWOG5PcjF4czJNOHJ1ZUtFSndDby1UZWVYbGFZaHliek5rTEFzeHliVjNuZXB3?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-25T16:35:00Z",
+   "relevance": 1,
+   "why": "Stop & Shop has closed four stores so far in 2026, according to a FinanceBuzz list.",
+   "summary_ai": "Stop & Shop has closed four stores so far in 2026, according to a FinanceBuzz list.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "4 stores closed in 2026"
+   ],
+   "also": []
+  }
+ ]
+}

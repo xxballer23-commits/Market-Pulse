@@ -5,6 +5,83 @@
  "vets": [],
  "items": [
   {
+   "id": "bd4fa4d406a1",
+   "title": "[Award Alert] Book Miraval Arizona Resort and Spa From Just 40K Hyatt Points per Night",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VTTlteXhCc0RvUTJJQXYyeWc4V2E0R0lWZXoycGhXMUZ4TExGMEFtUVowTXBCSVVNRTR2U3dvQW5NV1V6OXV1YVlKNlN4bkNUMzJ4WEZwUEhrdVh6T3JzVDk0MXB5cDZScDZNcQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T15:29:26Z",
+   "relevance": 3,
+   "why": "A Hyatt points award rate puts the Miraval Arizona resort within reach for about 40,000 points per night.",
+   "summary_ai": "A Hyatt points award rate puts the Miraval Arizona resort within reach for about 40,000 points per night.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "40K Hyatt points per night"
+   ],
+   "also": []
+  },
+  {
+   "id": "f5b8fc08ea93",
+   "title": "Capital One Offers: Earn up to 8X on Hyatt stays (less if you have status)",
+   "url": "https://frequentmiler.com/capital-one-offers-earn-up-to-8x-on-hyatt-stays-less-if-you-have-status/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-25T13:45:06Z",
+   "relevance": 3,
+   "why": "Targeted card-linked hotel rates are shifting; track whether these offers keep Hyatt economics attractive for premium cardholders.",
+   "summary_ai": "World of Hyatt is back on Capital One Offers, with stays earning up to 8X miles, though the top rate depends on status.",
+   "take": "Targeted card-linked hotel rates are shifting; track whether these offers keep Hyatt economics attractive for premium cardholders.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to 8X miles",
+    "Up to 15% cashback"
+   ],
+   "also": []
+  },
+  {
+   "id": "320ce25427d0",
+   "title": "It might be time to finally become a hotel free agent",
+   "url": "https://frequentmiler.com/it-might-be-time-to-finally-become-a-hotel-free-agent/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-25T12:59:31Z",
+   "relevance": 3,
+   "why": "Hyatt's program changes are pushing loyal members to rivals, so pitch premium card hotel partners to capture that shift.",
+   "summary_ai": "A Frequent Miler writer says Rove's elite status launch and Hyatt's changes may push them to switch hotel loyalty.",
+   "take": "Hyatt's program changes are pushing loyal members to rivals, so pitch premium card hotel partners to capture that shift.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "471d2fd1c18f",
    "title": "Hyatt Is ‘Sharpening’ Its Brands So AI Can Tell Them Apart",
    "url": "https://skift.com/2026/11/24/hyatt-is-sharpening-its-brands-so-ai-can-tell-them-apart/",

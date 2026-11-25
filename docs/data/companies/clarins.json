@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "ddac6217518a",
+   "title": "Clarins Family Takes Full Ownership of Luxury Hotel Group Evok",
+   "url": "https://skift.com/2026/11/25/clarins-family-takes-full-ownership-of-luxury-hotel-group-evok/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-25T18:03:57Z",
+   "relevance": 3,
+   "why": "Single-owner luxury hotel groups may become a new operator to pursue for hotel and lifestyle benefit partnerships.",
+   "summary_ai": "The Courtin family behind Clarins now fully owns luxury hotel group Evok, controlling its buildings, brands and operations.",
+   "take": "Single-owner luxury hotel groups may become a new operator to pursue for hotel and lifestyle benefit partnerships.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "9b7f9b4c5b1d",
    "title": "Clarins Heirs Take Over Luxury Spa Hotels With €1 Billion Aim",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMU95ODhnYld5SmNJSTl5cHdvSmx2R2VtVUtrUmFqT1A1N3F2emlTTkpEZTRqVE80c25WUzVmeTItZzRoSnBUZER1NE5JMFZoWmYyaEE3SFNWcjNYZjV6OUZDdWZheXpIWkFHRXQ3aHZEYmdPMXNhb1JrRU02VDBfWTcyTGNWa2I4WGp4MUtRdE9EYXZZeUVlYVlQaXVjR3NDTC12WUx0aWJYYVdERjRCVg?oc=5",
@@ -27,6 +50,29 @@
    "data_points": [
     "€1 billion target"
    ],
+   "also": []
+  },
+  {
+   "id": "42c8b4b4c705",
+   "title": "Clarins Owners Acquire Evok Hotel Group",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbXA0elRmZF9BOTdIODVzbmUxS2RrWVFjamsyT0NIRDR4ck4yX3FGNUxIZXFLWnVVbVl4dXpKaXZSVzZJLXJfUXVoRE9OOUExRjZlZzhNSmc3S05kYVgyNzgtTWlWeVBnZ3dRblJsTDB4OGxHbTFfWi1OTXFtX1RsMVh3cEFnV3I2RXRZdkVSU3E?oc=5",
+   "source": "The Business of Fashion",
+   "source_type": "gnews",
+   "published": "2026-11-24T12:07:58Z",
+   "relevance": 3,
+   "why": "Luxury beauty owners moving into hotels signals lifestyle brands expanding into hospitality stays.",
+   "summary_ai": "Clarins' owners have acquired Evok Hotel Group, a hospitality business.",
+   "take": "Luxury beauty owners moving into hotels signals lifestyle brands expanding into hospitality stays.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   }
  ]

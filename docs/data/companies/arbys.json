@@ -1,0 +1,31 @@
+{
+ "name": "Arby's",
+ "slug": "arbys",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3754839f2488",
+   "title": "9 Arby's Items to Avoid Ordering Based on Reviews",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5BNk5FUU1YQmF6N1NzNXpoTE5PakxyMDdsMjB1NFd6RXozSkg4QmQ3N211eXRHRFhUTWc3UGRfcC0taEYwcm9jVWluRmNKMXZsemVaSVQ3TUtPVE1aTXRVc0tYdnJkamhSUDRfXw?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:00:00Z",
+   "relevance": 1,
+   "why": "A FinanceBuzz list flags nine Arby's menu items that reviewers advise skipping.",
+   "summary_ai": "A FinanceBuzz list flags nine Arby's menu items that reviewers advise skipping.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "9 items"
+   ],
+   "also": []
+  }
+ ]
+}

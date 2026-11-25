@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "8092d92e7c5f",
+   "title": "LATAM Refused My Refund Within 24 Hours, And The Reason Makes No Sense",
+   "url": "https://onemileatatime.com/insights/latam-refused-refund-within-24-hours/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-25T11:41:43Z",
+   "relevance": 2,
+   "why": "A traveler says LATAM denied a refund for a ticket cancelled in time, blaming a booking mix-up on a UK credit card.",
+   "summary_ai": "A traveler says LATAM denied a refund for a ticket cancelled in time, blaming a booking mix-up on a UK credit card.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "24-hour cooling-off period"
+   ],
+   "also": []
+  },
+  {
    "id": "fa191d185593",
    "title": "LATAM Unveils New Airbus A321XLR Business Class Suites, Coming March 2027",
    "url": "https://onemileatatime.com/news/latam-a321xlr-business-class/",

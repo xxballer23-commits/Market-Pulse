@@ -12,15 +12,17 @@
    "source_type": "gnews",
    "published": "2026-11-19T13:00:00Z",
    "relevance": 1,
-   "why": "NEXA Lending has added a VA loan producer with $100 million in volume to its national network.",
-   "summary_ai": "NEXA Lending has added a VA loan producer with $100 million in volume to its national network.",
+   "why": "NEXA Lending added a VA loan producer who brings roughly $100 million in volume to its national network.",
+   "summary_ai": "NEXA Lending added a VA loan producer who brings roughly $100 million in volume to its national network.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "lending"
+   ],
    "breaking": false,
    "data_points": [
     "$100 million volume"

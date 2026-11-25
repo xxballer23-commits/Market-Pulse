@@ -1,0 +1,31 @@
+{
+ "name": "Cadillac",
+ "slug": "cadillac",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7efcb3c30345",
+   "title": "What Cadillac F1 Has Learned From Its Difficult First Season",
+   "url": "https://robbreport.com/motors/cars/cadillac-f1-tyler-epp-house-of-robb-interview-1238862637/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-25T18:00:46Z",
+   "relevance": 2,
+   "why": "Cadillac's debut F1 season has yet to score a point, but the team sees campaign value despite the struggle.",
+   "summary_ai": "Cadillac's debut F1 season has yet to score a point, but the team sees campaign value despite the struggle.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

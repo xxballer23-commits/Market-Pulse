@@ -1,0 +1,31 @@
+{
+ "name": "Evok",
+ "slug": "evok",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ddac6217518a",
+   "title": "Clarins Family Takes Full Ownership of Luxury Hotel Group Evok",
+   "url": "https://skift.com/2026/11/25/clarins-family-takes-full-ownership-of-luxury-hotel-group-evok/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-25T18:03:57Z",
+   "relevance": 3,
+   "why": "Single-owner luxury hotel groups may become a new operator to pursue for hotel and lifestyle benefit partnerships.",
+   "summary_ai": "The Courtin family behind Clarins now fully owns luxury hotel group Evok, controlling its buildings, brands and operations.",
+   "take": "Single-owner luxury hotel groups may become a new operator to pursue for hotel and lifestyle benefit partnerships.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

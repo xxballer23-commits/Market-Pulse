@@ -1,0 +1,29 @@
+{
+ "name": "IHOP",
+ "slug": "ihop",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d6f5ea5312f6",
+   "title": "Applebee’s Closes More Locations as It Bets on a New IHOP Combo - Is Your Spot Affected?",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE01ajR1b1o1YS1qY3lqdWJkSzV5aThnNjNIMlpQcTFkYUF0MW85dEs3dHg5S1FWZmRPbVNwVUltb0xIdHh0SjZ0OW9aQWN2TURQaWh5T2VQbFlUSUpDNmc?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-24T11:00:00Z",
+   "relevance": 1,
+   "why": "Applebee's is closing more locations while testing a combined restaurant concept with IHOP.",
+   "summary_ai": "Applebee's is closing more locations while testing a combined restaurant concept with IHOP.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

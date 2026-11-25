@@ -1,0 +1,32 @@
+{
+ "name": "Everli Global",
+ "slug": "everli-global",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d6e442e6320f",
+   "title": "Everli Global Collaborating With Klarna for Grocery Payment Options in Italy",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaHRiQ0VKLXBBQWl4RjljUEptVXJBaFhXZHhMODVpX2FuaXBHckI5eVh3YVFEYS1ubC1lSzdNTURXdndWZG5pb2J1T3FKZzc2R0dEY0owRkdpMEZ4TmN1MVRoY2owQVo1cXJVTklaMVFQRHdDNExOSE1CNV8yOGJ1WUs0VXFVS203ZG5kSmJDMmhrUTRiMF9rMjdQeFNtSmY0VE1GV1AzQi1LYWlxRnJnZ3VXbXNuX2Q5c21MVmctRGprZ2NhMHZXTw?oc=5",
+   "source": "www.marketscreener.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:06:56Z",
+   "relevance": 3,
+   "why": "Embedded BNPL at grocery checkout is a live model to benchmark for US point-of-sale installment conversations.",
+   "summary_ai": "Everli Global is adding Klarna payment options for grocery orders in Italy.",
+   "take": "Embedded BNPL at grocery checkout is a live model to benchmark for US point-of-sale installment conversations.",
+   "take_kind": "read",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

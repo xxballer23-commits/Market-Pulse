@@ -1,0 +1,52 @@
+{
+ "name": "IndiGo",
+ "slug": "indigo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "b642fdcaa2e3",
+   "title": "Wanted: A Strategy Chief to Bring Air India’s Two Airlines Closer",
+   "url": "https://skift.com/2026/11/25/wanted-a-strategy-chief-to-bring-air-indias-two-airlines-closer/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-25T15:45:26Z",
+   "relevance": 1,
+   "why": "Air India is creating a strategy role after IndiGo hired a former Air India Express chief as its strategy officer.",
+   "summary_ai": "Air India is creating a strategy role after IndiGo hired a former Air India Express chief as its strategy officer.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "05a7afc8dd6f",
+   "title": "IndiGo Adds Southeast Asia Flights as Westbound Costs Climb",
+   "url": "https://skift.com/2026/11/25/indigo-adds-southeast-asia-flights-as-westbound-costs-climb/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-25T08:30:00Z",
+   "relevance": 1,
+   "why": "IndiGo is adding Southeast Asia flights, shifting capacity from routes where costs are rising, though it cut six routes there this summer.",
+   "summary_ai": "IndiGo is adding Southeast Asia flights, shifting capacity from routes where costs are rising, though it cut six routes there this summer.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Six routes cut this summer"
+   ],
+   "also": []
+  }
+ ]
+}

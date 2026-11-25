@@ -5,6 +5,33 @@
  "vets": [],
  "items": [
   {
+   "id": "b776629dc4e9",
+   "title": "A 1965 Ferrari 275 GTS Unseen in Public for Over 40 Years Sold for $995,000",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPM3NaNExrUmFkaElBNUN4amJ2ZkNfQ1M2U3FNc1VzRWd1UnZSNmM0U2NrdkJIQjZ6VDVTUEpXand4WUFtckc1ZFlSSml6MUQ5eG4wcE5pSU5KNEcxSnBnd3NUYjNLMElLNDVHVWx0LXhCOElwZ09YeU05S1lfb1FfNE1YWkhBcDFCY3lDOHprRTJLVVBLSUpZdUFKN3ZZT241bjBfVHNR?oc=5",
+   "source": "MotorBiscuit",
+   "source_type": "gnews",
+   "published": "2026-11-25T16:01:07Z",
+   "relevance": 2,
+   "why": "Seven-figure collector car sales point to ultra-affluent spending on collectibles, a niche signal for top-tier card audiences.",
+   "summary_ai": "A 1965 Ferrari 275 GTS that had been out of public view for over 40 years sold for $995,000 at auction.",
+   "take": "Seven-figure collector car sales point to ultra-affluent spending on collectibles, a niche signal for top-tier card audiences.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$995,000 sale price",
+    "1965 model year"
+   ],
+   "also": []
+  },
+  {
    "id": "9a815cbb3650",
    "title": "Gooding Christie's Inaugural Retromobile New York Sale Achieves Over $51 Million, Steve McQueen's Former Ferrari NART Spider Leads as Top Seller",
    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQOUJ0Q21qYmVfT1BHbHpDOVlzbkxTdS1qdm9QcXpsYWtNVUp5ekF3NGNMSThRMEdRYl9tQW9KT2YzdHl6RTBiRFFDWjNLNWx1Ty0yODFQdm5SdTdhR2V2QmgtOUw4ME40OUNXZFY0Zmo1MHBuWnN1SVR4cGx5M01MWnVqcUp5ZnJjNmhlTDFjcGFWaTZ0YlBmV08xMndvdm4xem8yeklGTXduV2w1SjhTYWtSOWdsMzdFYmdVZ1lMeVhsVGdSNl9mZVJNei1iTEZPbnRWRnhKejFlYk13UWpRTk5HRG9BQ3NsSUZqZVg3OWh3bUwwMnBrQlpyMVlUUQ?oc=5",
@@ -54,6 +81,34 @@
    "data_points": [
     "433 miles",
     "$9.4 million valuation"
+   ],
+   "also": []
+  },
+  {
+   "id": "3f06d0bec487",
+   "title": "Gooding Christie’s Delivers a Triumph at Retromobile New York: $51 Million, 92% Sold and a McQueen Ferrari at $18.9 Million",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVZKVjJrRUcwd1hQWWYtbTJ2WnA3LTJrNkg0SndQOVRGQmtZQzROOHducnNQX2JzalhDV0VSNjBpaXM0X1FlbmVBMlNnT0tWeExLb202YkZvZm1aQzEzV0RPOG5MOENVcXdjMlluQ08tODJTVV9oS0pzZEtRcEpKX3pQRGVIQ3owMThhWWdFcGZXZTZEM3RIUDBPQ1BUTEx4UWdhbl83eW1WZWgwMDVBOVhuSmlnZw?oc=5",
+   "source": "Yahoo Autos",
+   "source_type": "gnews",
+   "published": "2026-11-23T23:03:17Z",
+   "relevance": 3,
+   "why": "Strong collector-car auction results suggest continued high-net-worth appetite for rare sporting assets.",
+   "summary_ai": "Gooding and Christie's Retromobile New York sale totaled $51 million, 92% sold, including a McQueen Ferrari at $18.9 million.",
+   "take": "Strong collector-car auction results suggest continued high-net-worth appetite for rare sporting assets.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$51 million total",
+    "92% sold",
+    "$18.9 million McQueen Ferrari"
    ],
    "also": []
   },

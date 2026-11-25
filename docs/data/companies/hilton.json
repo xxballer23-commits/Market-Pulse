@@ -5,6 +5,55 @@
  "vets": [],
  "items": [
   {
+   "id": "b9dac073a732",
+   "title": "[Award Alert] Conrad Tokyo Award Nights Available From 130K Points per Night",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FTHFwTkx1RUQ5R3F0QXY1bFJ6TGdLV214NGs2U21vc0pBNEdJTmVITWJOTjUwQ25oYjNwTThPYnBYeTJIaC1lU3RLUFBWOTh0QW8xQWFCWDR5RjlsSnhneG50NFBhWTRK?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T15:39:03Z",
+   "relevance": 3,
+   "why": "Luxury hotel award pricing in Hilton's portfolio is a useful benchmark for transfer partner value discussions.",
+   "summary_ai": "Award nights at the Conrad Tokyo are bookable from 130,000 points per night, according to an award alert.",
+   "take": "Luxury hotel award pricing in Hilton's portfolio is a useful benchmark for transfer partner value discussions.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "130K points per night"
+   ],
+   "also": []
+  },
+  {
+   "id": "46d193dd938c",
+   "title": "The Lan Kwai Fong hotel opens Hong Kong’s first Tapestry Collection, opposite the Tai Kwun arts centre",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObFRhcW9MZVEtUnZCMGZZZTBINVZKcFZRY3pCNlJrcVVLbEVRYWVGQ19CaDZyd2ltWUExcFJkcXVJaW9jcGdBSEh0TndMNTlmSG1FalFPM0ItSVdUblpnTU9iWURKZUJTQXJoT0Jzc016V3RLUDNtMnhiT01DZDFTUXhyV0dRYWNSNnNPUW1abV9BTUZ0blFpX3M0amtaa28?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-25T10:09:38Z",
+   "relevance": 2,
+   "why": "Hilton's Tapestry Collection brand opens its first Hong Kong hotel, located opposite the Tai Kwun arts centre.",
+   "summary_ai": "Hilton's Tapestry Collection brand opens its first Hong Kong hotel, located opposite the Tai Kwun arts centre.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "346fc2ccc273",
    "title": "Hilton cardholder promo: Get 5K bonus points on next stay",
    "url": "https://frequentmiler.com/hilton-cardholder-promo-get-5k-bonus-points-on-next-stay/",

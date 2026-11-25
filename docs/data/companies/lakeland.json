@@ -1,0 +1,31 @@
+{
+ "name": "Lakeland",
+ "slug": "lakeland",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3e781949339b",
+   "title": "Klarna : launches at Lakeland, bringing flexible payments to the UK’s highest-rated kitchenware brand",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOVJvdGdPTzhjRVRIU0tmb2xvY0gzV3h3ZDlzRHREOGJveFlGblpqSHlYQXEwOEV5bDBlNjVGT1VuWXRjUG9fYkJfekd4RkEtdllrVEFSN1QxSkZhMDRCY0NaamhzUjlNbVpLTVFOM0RHQ2dLdlIxYy1xTV9LYkVtbmVfWVVuSy1KNExNaUEzdUVvWlZHWlFFOG41RGdFXzZjdy1PU2dma0EzU1JRTURpVE9qa3VrYVJmN181OE13YmNkd1NXWnJzNVE1ekkwTnlyb2EtclVMclFGMXhZZ3dWMGlQNA?oc=5",
+   "source": "www.marketscreener.com",
+   "source_type": "gnews",
+   "published": "2026-11-25T11:16:12Z",
+   "relevance": 3,
+   "why": "Klarna keeps signing merchant partners, a useful benchmark for pay-over-time features on bank cards.",
+   "summary_ai": "Klarna has launched flexible payments at UK kitchenware retailer Lakeland.",
+   "take": "Klarna keeps signing merchant partners, a useful benchmark for pay-over-time features on bank cards.",
+   "take_kind": "read",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

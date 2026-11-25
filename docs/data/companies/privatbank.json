@@ -12,15 +12,17 @@
    "source_type": "gnews",
    "published": "2026-11-19T08:00:00Z",
    "relevance": 1,
-   "why": "A Ukrainian bank promotes buying new and used cars on credit through its Ecodrive Auto program.",
-   "summary_ai": "A Ukrainian bank promotes buying new and used cars on credit through its Ecodrive Auto program.",
+   "why": "PrivatBank promotes car purchases on credit through the Ecodrive Auto dealership in Ukraine.",
+   "summary_ai": "PrivatBank promotes car purchases on credit through the Ecodrive Auto dealership in Ukraine.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "lending"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

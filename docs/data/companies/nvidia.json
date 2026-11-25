@@ -5,6 +5,27 @@
  "vets": [],
  "items": [
   {
+   "id": "41209e3c7e99",
+   "title": "Liesman: Nvidia whiplash tests Kevin Warsh’s push to read market signals",
+   "url": "https://www.cnbc.com/2026/11/25/nvidia-kevin-warsh-fed-market-signals.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-25T12:26:41Z",
+   "relevance": 1,
+   "why": "CNBC commentary on Nvidia market swings and the challenge they pose for Fed Chair Kevin Warsh.",
+   "summary_ai": "CNBC commentary on Nvidia market swings and the challenge they pose for Fed Chair Kevin Warsh.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "dd9641ab20f4",
    "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
    "url": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html",
@@ -119,6 +140,27 @@
    "relevance": 1,
    "why": "The Nasdaq extended its selloff as shares of Nvidia and Anthropic fell.",
    "summary_ai": "The Nasdaq extended its selloff as shares of Nvidia and Anthropic fell.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "b7fde50e2c2b",
+   "title": "The Retail Investors Who Believed Nvidia’s Board—and Got Burned by Its U-Turn",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlFlMDJyN1daWmpBcWlPdU1jMTFxLU1UNGEyOW14YjB1RXQtRFJScE5ud0FWd3N1YmdFXzlYZ2lPRWp5M2kzc2RyZDB6c1VpUUlaZlkwV2ZLUEZWWEhESVd4anl5bWVwWkJhRnlnMVhKb1ROTG9waU5HVTh4UUhTRUsyYkJBN3VlT2Zxc0RxWGFodE1teGt5b1dHUjV3ZHNhZ3VDdy0yYjdEajI2aGlFSTd5NVZiNTZ0RF9z?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:01:48Z",
+   "relevance": 1,
+   "why": "A WSJ piece covers retail investors who lost money after Nvidia's board reversed course.",
+   "summary_ai": "A WSJ piece covers retail investors who lost money after Nvidia's board reversed course.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -897,8 +939,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T02:00:00Z",
    "relevance": 1,
-   "why": "Wall Street firms pledged to mobilize $500 billion for Nvidia, but have not committed any funds yet.",
-   "summary_ai": "Wall Street firms pledged to mobilize $500 billion for Nvidia, but have not committed any funds yet.",
+   "why": "Reporting says Wall Street pledged to mobilize $500 billion tied to Nvidia but has not yet put up funds.",
+   "summary_ai": "Reporting says Wall Street pledged to mobilize $500 billion tied to Nvidia but has not yet put up funds.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -908,7 +950,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "$500 billion"
+    "$500 billion pledge"
    ],
    "also": []
   }
