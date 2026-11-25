@@ -1,6 +1,30 @@
 {
  "entries": [
   {
+   "id": "2026-11-25-update",
+   "type": "update",
+   "product": "briefing",
+   "date": "2026-11-25",
+   "title": "Briefing Update, Wed Nov 25",
+   "file": "digests/2026-11-25-update.md",
+   "generated": "2026-11-25T20:38:33Z",
+   "item_count": 6,
+   "high_signal": 6,
+   "item_ids": [
+    "846cc1591810",
+    "fb7ea34b5e20",
+    "ae1d0dbbf161",
+    "3b9f46ad4a7d",
+    "48e13c95dd14",
+    "88c202caa782"
+   ],
+   "curator": "Jackson Cummiskey",
+   "status": "draft",
+   "cut": "internal",
+   "sources": 6,
+   "unverified_links_removed": 0
+  },
+  {
    "id": "2026-11-24-radar_update",
    "type": "radar_update",
    "product": "radar",
