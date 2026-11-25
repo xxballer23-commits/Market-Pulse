@@ -1,59 +1,76 @@
 {
- "updated": "2026-11-24T21:30:16Z",
+ "updated": "2026-11-25T04:41:50Z",
  "companies": [
   {
    "name": "American Express",
    "slug": "american-express",
-   "count": 48,
-   "count_30d": 48,
+   "count": 52,
+   "count_30d": 52,
    "first_seen": "2026-11-18T15:41:55Z",
-   "last_seen": "2026-11-24T20:21:12Z",
+   "last_seen": "2026-11-25T00:45:58Z",
    "sections": {
-    "premium_cards": 37,
-    "community": 21,
+    "premium_cards": 42,
+    "community": 22,
     "partnerships": 6,
-    "luxury": 2
+    "luxury": 3
    },
    "top_relevance": 5,
-   "latest_summary": "VanillaGift is waiving purchase fees on Visa, Mastercard and Amex gift cards for a limited promotion using new codes.",
+   "latest_summary": "Amex's targeted Marriott Bonvoy offer, a $150 credit on $375 spend, was extended through December 2.",
    "watch_status": null,
    "has_vet": false
   },
   {
    "name": "Nvidia",
    "slug": "nvidia",
-   "count": 40,
-   "count_30d": 40,
+   "count": 43,
+   "count_30d": 43,
    "first_seen": "2026-11-19T02:00:00Z",
-   "last_seen": "2026-11-24T20:39:30Z",
+   "last_seen": "2026-11-25T01:13:56Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Bloomberg commentary looks at unresolved weaknesses at Nvidia in the context of Jensen Huang's return.",
+   "latest_summary": "Jensen Huang's return as Nvidia CEO is framed as part of a US-China AI race centered on talent, not just chips.",
    "watch_status": null,
    "has_vet": false
   },
   {
    "name": "Wells Fargo",
    "slug": "wells-fargo",
-   "count": 39,
-   "count_30d": 39,
+   "count": 41,
+   "count_30d": 41,
    "first_seen": "2026-11-19T02:03:45Z",
-   "last_seen": "2026-11-24T20:10:10Z",
+   "last_seen": "2026-11-24T21:11:24Z",
    "sections": {
-    "wells": 24,
+    "wells": 27,
     "partnerships": 1,
     "lending": 1
    },
    "top_relevance": 3,
-   "latest_summary": "Crown Castle's efficiency story is drawing investor attention after the tower company spoke at a Wells Fargo conference.",
+   "latest_summary": "An analysis argues Wells Fargo shares still look undervalued after their large rally.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "LVMH",
+   "slug": "lvmh",
+   "count": 38,
+   "count_30d": 38,
+   "first_seen": "2026-11-19T05:21:12Z",
+   "last_seen": "2026-11-24T23:19:05Z",
+   "sections": {
+    "luxury": 34,
+    "spending_data": 2,
+    "nyc_dining": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "An analysis of investor missteps ahead of a recent slide in LVMH shares.",
    "watch_status": null,
    "has_vet": false
   },
   {
    "name": "Anthropic",
    "slug": "anthropic",
-   "count": 37,
-   "count_30d": 37,
+   "count": 35,
+   "count_30d": 35,
    "first_seen": "2026-11-19T11:19:31Z",
    "last_seen": "2026-11-24T17:41:32Z",
    "sections": {
@@ -65,19 +82,20 @@
    "has_vet": false
   },
   {
-   "name": "LVMH",
-   "slug": "lvmh",
-   "count": 35,
-   "count_30d": 35,
-   "first_seen": "2026-11-19T05:21:12Z",
-   "last_seen": "2026-11-24T16:46:00Z",
+   "name": "Capital One",
+   "slug": "capital-one",
+   "count": 33,
+   "count_30d": 33,
+   "first_seen": "2026-11-19T13:49:58Z",
+   "last_seen": "2026-11-25T04:02:51Z",
    "sections": {
-    "luxury": 32,
+    "premium_cards": 23,
+    "community": 12,
     "spending_data": 2,
-    "nyc_dining": 1
+    "regulatory": 1
    },
-   "top_relevance": 3,
-   "latest_summary": "LVMH published a routine disclosure of share transactions.",
+   "top_relevance": 5,
+   "latest_summary": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
    "watch_status": null,
    "has_vet": false
   },
@@ -100,38 +118,55 @@
    "has_vet": false
   },
   {
-   "name": "Visa",
-   "slug": "visa",
-   "count": 29,
-   "count_30d": 29,
-   "first_seen": "2026-11-19T14:59:48Z",
-   "last_seen": "2026-11-24T20:21:12Z",
+   "name": "Chase",
+   "slug": "chase",
+   "count": 31,
+   "count_30d": 31,
+   "first_seen": "2026-11-19T06:35:41Z",
+   "last_seen": "2026-11-25T03:00:57Z",
    "sections": {
-    "partnerships": 12,
-    "lending": 12,
-    "premium_cards": 3,
-    "community": 2
+    "premium_cards": 18,
+    "community": 15,
+    "partnerships": 6
    },
-   "top_relevance": 4,
-   "latest_summary": "VanillaGift is waiving purchase fees on Visa, Mastercard and Amex gift cards for a limited promotion using new codes.",
+   "top_relevance": 5,
+   "latest_summary": "A Chase Offers listing gives 5% back at Giftcards.com, but the listing shows a 2024 expiry, so it is likely stale.",
    "watch_status": null,
    "has_vet": false
   },
   {
-   "name": "Capital One",
-   "slug": "capital-one",
+   "name": "Visa",
+   "slug": "visa",
+   "count": 30,
+   "count_30d": 30,
+   "first_seen": "2026-11-19T14:59:48Z",
+   "last_seen": "2026-11-25T00:01:00Z",
+   "sections": {
+    "lending": 13,
+    "partnerships": 12,
+    "premium_cards": 3,
+    "community": 2
+   },
+   "top_relevance": 4,
+   "latest_summary": "iwoca and Visa have launched a credit card aimed at small businesses seeking more funding options.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "JPMorgan Chase",
+   "slug": "jpmorgan-chase",
    "count": 29,
    "count_30d": 29,
-   "first_seen": "2026-11-19T13:49:58Z",
-   "last_seen": "2026-11-24T19:46:44Z",
+   "first_seen": "2026-11-18T06:18:11Z",
+   "last_seen": "2026-11-24T23:36:27Z",
    "sections": {
-    "premium_cards": 21,
-    "community": 11,
-    "spending_data": 2,
-    "regulatory": 1
+    "wells": 4,
+    "partnerships": 3,
+    "premium_cards": 3,
+    "spending_data": 2
    },
    "top_relevance": 5,
-   "latest_summary": "Capital One's Venture Rewards welcome offer, pairing 75K miles with a $300 Capital One Travel credit, is reportedly ending soon with no date confirmed.",
+   "latest_summary": "A JPMorgan research note pushed dLocal's shares lower.",
    "watch_status": null,
    "has_vet": false
   },
@@ -146,7 +181,7 @@
     "premium_cards": 13,
     "community": 11,
     "partnerships": 6,
-    "spending_data": 2
+    "spending_data": 3
    },
    "top_relevance": 5,
    "latest_summary": "A detailed review argues the Citi AAdvantage Platinum Select remains a strong card for earning American status through spending.",
@@ -156,69 +191,34 @@
   {
    "name": "Christie's",
    "slug": "christies",
-   "count": 26,
-   "count_30d": 26,
+   "count": 27,
+   "count_30d": 27,
    "first_seen": "2026-11-19T01:00:00Z",
-   "last_seen": "2026-11-24T18:52:51Z",
+   "last_seen": "2026-11-25T03:04:27Z",
    "sections": {
-    "spending_data": 24,
-    "luxury": 15
+    "spending_data": 25,
+    "luxury": 16
    },
    "top_relevance": 3,
-   "latest_summary": "Christie's first Retromobile New York sale topped $51 million, led by Steve McQueen's former Ferrari NART Spider.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Chase",
-   "slug": "chase",
-   "count": 26,
-   "count_30d": 26,
-   "first_seen": "2026-11-19T06:35:41Z",
-   "last_seen": "2026-11-24T15:29:57Z",
-   "sections": {
-    "premium_cards": 17,
-    "community": 12,
-    "partnerships": 6
-   },
-   "top_relevance": 5,
-   "latest_summary": "A review of the Southwest Priority Card covers its welcome bonus, annual fee, seat perks and free checked bag offer.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "JPMorgan Chase",
-   "slug": "jpmorgan-chase",
-   "count": 26,
-   "count_30d": 26,
-   "first_seen": "2026-11-18T06:18:11Z",
-   "last_seen": "2026-11-24T15:29:00Z",
-   "sections": {
-    "wells": 4,
-    "partnerships": 3,
-    "premium_cards": 3,
-    "spending_data": 2
-   },
-   "top_relevance": 5,
-   "latest_summary": "JPMorgan, HSBC and StoneX completed first live trades using fractions of physical gold bars as collateral in wholesale transactions.",
+   "latest_summary": "Christie's Hong Kong Magnificent Jewels sale raised HK$536.9 million, with 91% of lots sold and prices well above estimates.",
    "watch_status": null,
    "has_vet": false
   },
   {
    "name": "American Airlines",
    "slug": "american-airlines",
-   "count": 23,
-   "count_30d": 23,
+   "count": 24,
+   "count_30d": 24,
    "first_seen": "2026-11-20T13:00:49Z",
-   "last_seen": "2026-11-24T19:34:46Z",
+   "last_seen": "2026-11-24T23:18:37Z",
    "sections": {
     "community": 13,
     "premium_cards": 9,
-    "luxury": 4,
+    "luxury": 5,
     "partnerships": 3
    },
    "top_relevance": 4,
-   "latest_summary": "American Airlines opened a new Austin lounge with roughly double the space, an outdoor terrace and skyline views.",
+   "latest_summary": "American dropped its O'Hare gate lawsuit but remains locked in a capacity fight with United in Chicago.",
    "watch_status": null,
    "has_vet": false
   },
@@ -259,18 +259,18 @@
   {
    "name": "Walmart",
    "slug": "walmart",
-   "count": 19,
-   "count_30d": 19,
+   "count": 21,
+   "count_30d": 21,
    "first_seen": "2026-11-19T05:30:00Z",
-   "last_seen": "2026-11-24T19:33:11Z",
+   "last_seen": "2026-11-25T04:02:51Z",
    "sections": {
     "spending_data": 4,
+    "community": 3,
     "partnerships": 2,
-    "premium_cards": 2,
-    "community": 2
+    "premium_cards": 2
    },
    "top_relevance": 3,
-   "latest_summary": "Walmart is letting shoppers use Meta's Muse agent to find Black Friday deals and buy through its Agent Gateway.",
+   "latest_summary": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
    "watch_status": null,
    "has_vet": false
   },
@@ -290,6 +290,41 @@
    "top_relevance": 4,
    "latest_summary": "Some Capital One cardholders can earn 2,200 miles or $22 back on Alaska Airlines flights through targeted Capital One offers.",
    "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Mastercard",
+   "slug": "mastercard",
+   "count": 18,
+   "count_30d": 18,
+   "first_seen": "2026-11-19T14:59:48Z",
+   "last_seen": "2026-11-24T23:13:00Z",
+   "sections": {
+    "community": 6,
+    "premium_cards": 5,
+    "partnerships": 3,
+    "regulatory": 2
+   },
+   "top_relevance": 4,
+   "latest_summary": "N26 launched a new account bundling a ceramic Mastercard, eSIM service and Amazon Prime.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "JetBlue",
+   "slug": "jetblue",
+   "count": 18,
+   "count_30d": 18,
+   "first_seen": "2026-11-19T10:53:57Z",
+   "last_seen": "2026-11-24T21:45:03Z",
+   "sections": {
+    "premium_cards": 13,
+    "partnerships": 8,
+    "community": 7
+   },
+   "top_relevance": 4,
+   "latest_summary": "JetBlue is running an award sale allowing one-way flights from 3,200 TrueBlue points, bookable through late November.",
+   "watch_status": "signed",
    "has_vet": false
   },
   {
@@ -328,24 +363,6 @@
    "has_vet": false
   },
   {
-   "name": "Mastercard",
-   "slug": "mastercard",
-   "count": 17,
-   "count_30d": 17,
-   "first_seen": "2026-11-19T14:59:48Z",
-   "last_seen": "2026-11-24T20:21:12Z",
-   "sections": {
-    "community": 6,
-    "premium_cards": 4,
-    "partnerships": 2,
-    "regulatory": 2
-   },
-   "top_relevance": 4,
-   "latest_summary": "VanillaGift is waiving purchase fees on Visa, Mastercard and Amex gift cards for a limited promotion using new codes.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Delta",
    "slug": "delta",
    "count": 17,
@@ -364,20 +381,21 @@
    "has_vet": false
   },
   {
-   "name": "JetBlue",
-   "slug": "jetblue",
-   "count": 17,
-   "count_30d": 17,
-   "first_seen": "2026-11-19T10:53:57Z",
-   "last_seen": "2026-11-24T17:00:28Z",
+   "name": "Marriott",
+   "slug": "marriott",
+   "count": 16,
+   "count_30d": 16,
+   "first_seen": "2026-11-19T16:43:08Z",
+   "last_seen": "2026-11-25T00:45:58Z",
    "sections": {
-    "premium_cards": 13,
-    "partnerships": 8,
-    "community": 6
+    "luxury": 12,
+    "premium_cards": 3,
+    "community": 2,
+    "partnerships": 2
    },
-   "top_relevance": 4,
-   "latest_summary": "A guide explains how JetBlue TrueBlue earning, redemption, transfer partners and Mosaic elite status work.",
-   "watch_status": "signed",
+   "top_relevance": 3,
+   "latest_summary": "Amex's targeted Marriott Bonvoy offer, a $150 credit on $375 spend, was extended through December 2.",
+   "watch_status": null,
    "has_vet": false
   },
   {
@@ -390,24 +408,6 @@
    "sections": {},
    "top_relevance": 1,
    "latest_summary": "Federated Hermes filed an insider transaction report covering fixed income securities dated 24 November.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Marriott",
-   "slug": "marriott",
-   "count": 15,
-   "count_30d": 15,
-   "first_seen": "2026-11-19T16:43:08Z",
-   "last_seen": "2026-11-24T16:11:04Z",
-   "sections": {
-    "luxury": 12,
-    "premium_cards": 2,
-    "partnerships": 2,
-    "community": 1
-   },
-   "top_relevance": 3,
-   "latest_summary": "Marriott Bonvoy is running a Cyber Week promotion offering savings of up to 25% on stays.",
    "watch_status": null,
    "has_vet": false
   },
@@ -436,7 +436,7 @@
    "first_seen": "2026-11-19T05:30:00Z",
    "last_seen": "2026-11-24T18:31:32Z",
    "sections": {
-    "luxury": 9,
+    "luxury": 8,
     "spending_data": 1
    },
    "top_relevance": 3,
@@ -445,10 +445,26 @@
    "has_vet": false
   },
   {
+   "name": "Burberry",
+   "slug": "burberry",
+   "count": 12,
+   "count_30d": 12,
+   "first_seen": "2026-11-18T19:54:34Z",
+   "last_seen": "2026-11-25T00:59:13Z",
+   "sections": {
+    "luxury": 2,
+    "spending_data": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "Burberry has posted a product developer job opening in Florence, Italy.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Bank of America",
    "slug": "bank-of-america",
-   "count": 11,
-   "count_30d": 11,
+   "count": 12,
+   "count_30d": 12,
    "first_seen": "2026-11-19T14:45:07Z",
    "last_seen": "2026-11-24T19:00:22Z",
    "sections": {
@@ -463,6 +479,24 @@
    "has_vet": false
   },
   {
+   "name": "United",
+   "slug": "united",
+   "count": 11,
+   "count_30d": 11,
+   "first_seen": "2026-11-19T16:42:20Z",
+   "last_seen": "2026-11-24T23:18:37Z",
+   "sections": {
+    "luxury": 3,
+    "premium_cards": 3,
+    "community": 3,
+    "partnerships": 3
+   },
+   "top_relevance": 3,
+   "latest_summary": "American dropped its O'Hare gate lawsuit but remains locked in a capacity fight with United in Chicago.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Target",
    "slug": "target",
    "count": 11,
@@ -472,26 +506,11 @@
    "sections": {
     "partnerships": 2,
     "spending_data": 2,
-    "community": 1
+    "community": 1,
+    "luxury": 1
    },
    "top_relevance": 2,
    "latest_summary": "Target is selling Uber eGift cards at 15% off for one day, with an extra 5% off using REDcard.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Burberry",
-   "slug": "burberry",
-   "count": 11,
-   "count_30d": 11,
-   "first_seen": "2026-11-18T19:54:34Z",
-   "last_seen": "2026-11-23T19:54:45Z",
-   "sections": {
-    "luxury": 2,
-    "spending_data": 1
-   },
-   "top_relevance": 3,
-   "latest_summary": "Burberry has posted a raw material development assistant job in London.",
    "watch_status": null,
    "has_vet": false
   },
@@ -514,6 +533,56 @@
    "has_vet": false
   },
   {
+   "name": "Google",
+   "slug": "google",
+   "count": 10,
+   "count_30d": 10,
+   "first_seen": "2026-11-19T14:47:15Z",
+   "last_seen": "2026-11-25T00:23:17Z",
+   "sections": {
+    "partnerships": 5,
+    "luxury": 1
+   },
+   "top_relevance": 4,
+   "latest_summary": "Google will let users connect Wallet, Drive and Gemini to Personal Intelligence for personalized spending and card rewards advice.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Rakuten",
+   "slug": "rakuten",
+   "count": 10,
+   "count_30d": 10,
+   "first_seen": "2026-11-19T23:45:33Z",
+   "last_seen": "2026-11-24T23:45:41Z",
+   "sections": {
+    "partnerships": 8,
+    "community": 6,
+    "premium_cards": 4
+   },
+   "top_relevance": 4,
+   "latest_summary": "A forum post reports a targeted Rakuten referral bonus of $70 or 7,000 points, above the usual $50 rate.",
+   "watch_status": "signed",
+   "has_vet": false
+  },
+  {
+   "name": "Amazon",
+   "slug": "amazon",
+   "count": 10,
+   "count_30d": 10,
+   "first_seen": "2026-11-19T13:56:34Z",
+   "last_seen": "2026-11-24T23:13:00Z",
+   "sections": {
+    "partnerships": 3,
+    "community": 2,
+    "premium_cards": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "N26 launched a new account bundling a ceramic Mastercard, eSIM service and Amazon Prime.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Accor",
    "slug": "accor",
    "count": 10,
@@ -531,6 +600,37 @@
    "has_vet": false
   },
   {
+   "name": "Chanel",
+   "slug": "chanel",
+   "count": 10,
+   "count_30d": 10,
+   "first_seen": "2026-11-19T14:33:13Z",
+   "last_seen": "2026-11-24T15:05:52Z",
+   "sections": {
+    "luxury": 4,
+    "partnerships": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Chanel has posted a counter manager job at its Bangkok boutique.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Prada",
+   "slug": "prada",
+   "count": 9,
+   "count_30d": 9,
+   "first_seen": "2026-11-19T06:39:02Z",
+   "last_seen": "2026-11-25T00:17:45Z",
+   "sections": {
+    "luxury": 2
+   },
+   "top_relevance": 2,
+   "latest_summary": "A ranking of the world's top ten luxury brands for 2026, with Hermes and Prada among them.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Ferrari",
    "slug": "ferrari",
    "count": 9,
@@ -544,39 +644,6 @@
    "top_relevance": 3,
    "latest_summary": "Christie's first Retromobile New York sale topped $51 million, led by Steve McQueen's former Ferrari NART Spider.",
    "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Chanel",
-   "slug": "chanel",
-   "count": 9,
-   "count_30d": 9,
-   "first_seen": "2026-11-19T14:33:13Z",
-   "last_seen": "2026-11-24T14:55:43Z",
-   "sections": {
-    "luxury": 3,
-    "partnerships": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "Chanel is recruiting a senior digital communication executive for its Taipei City office.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Rakuten",
-   "slug": "rakuten",
-   "count": 9,
-   "count_30d": 9,
-   "first_seen": "2026-11-19T23:45:33Z",
-   "last_seen": "2026-11-23T22:45:14Z",
-   "sections": {
-    "partnerships": 7,
-    "community": 5,
-    "premium_cards": 4
-   },
-   "top_relevance": 4,
-   "latest_summary": "Rakuten is promoting up to $175 cash back or 17,500 Bilt points tied to Citi cards, though the headline terms are unclear.",
-   "watch_status": "signed",
    "has_vet": false
   },
   {
@@ -598,22 +665,6 @@
    "has_vet": false
   },
   {
-   "name": "Amazon",
-   "slug": "amazon",
-   "count": 9,
-   "count_30d": 9,
-   "first_seen": "2026-11-19T13:56:34Z",
-   "last_seen": "2026-11-23T16:56:12Z",
-   "sections": {
-    "community": 2,
-    "partnerships": 2
-   },
-   "top_relevance": 3,
-   "latest_summary": "Amazon, Walmart and Best Buy are selling AirPods Pro 3 for $149, down from $249 at Apple.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Bulgari",
    "slug": "bulgari",
    "count": 9,
@@ -625,6 +676,19 @@
    },
    "top_relevance": 2,
    "latest_summary": "Paolo Bulgari, who led the jewelry house's global expansion before its sale to LVMH, has died at age 89.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "SpaceX",
+   "slug": "spacex",
+   "count": 9,
+   "count_30d": 9,
+   "first_seen": "2026-11-19T18:02:00Z",
+   "last_seen": "2026-11-23T07:14:28Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Lenders to SpaceX are reportedly concerned about financing tied to sending Nvidia chips into space.",
    "watch_status": null,
    "has_vet": false
   },
@@ -657,24 +721,6 @@
    },
    "top_relevance": 2,
    "latest_summary": "Dollar Tree expects holiday shoppers to buy closer to need, after Q3 revenue rose nearly 7% on traffic gains.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "United",
-   "slug": "united",
-   "count": 8,
-   "count_30d": 8,
-   "first_seen": "2026-11-19T16:42:20Z",
-   "last_seen": "2026-11-24T07:02:20Z",
-   "sections": {
-    "community": 3,
-    "partnerships": 3,
-    "luxury": 2,
-    "premium_cards": 1
-   },
-   "top_relevance": 3,
-   "latest_summary": "Delta plans Seattle to Singapore flights on A350 jets, becoming its third longest route.",
    "watch_status": null,
    "has_vet": false
   },
@@ -742,16 +788,53 @@
    "has_vet": false
   },
   {
-   "name": "SpaceX",
-   "slug": "spacex",
-   "count": 8,
-   "count_30d": 8,
-   "first_seen": "2026-11-19T18:02:00Z",
-   "last_seen": "2026-11-23T07:14:28Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Lenders to SpaceX are reportedly concerned about financing tied to sending Nvidia chips into space.",
+   "name": "Best Buy",
+   "slug": "best-buy",
+   "count": 7,
+   "count_30d": 7,
+   "first_seen": "2026-11-20T19:00:16Z",
+   "last_seen": "2026-11-25T04:02:51Z",
+   "sections": {
+    "community": 4,
+    "spending_data": 2
+   },
+   "top_relevance": 2,
+   "latest_summary": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
    "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Apple",
+   "slug": "apple",
+   "count": 7,
+   "count_30d": 7,
+   "first_seen": "2026-11-19T08:24:36Z",
+   "last_seen": "2026-11-25T04:02:51Z",
+   "sections": {
+    "partnerships": 3,
+    "community": 2,
+    "lending": 1
+   },
+   "top_relevance": 4,
+   "latest_summary": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Etihad",
+   "slug": "etihad",
+   "count": 7,
+   "count_30d": 7,
+   "first_seen": "2026-11-19T19:11:01Z",
+   "last_seen": "2026-11-24T22:45:46Z",
+   "sections": {
+    "premium_cards": 6,
+    "partnerships": 4,
+    "community": 2
+   },
+   "top_relevance": 4,
+   "latest_summary": "Etihad and First National Bank of Omaha launched new US co-brand cards that a reviewer finds unappealing beyond loyal Etihad fans.",
+   "watch_status": "signed",
    "has_vet": false
   },
   {
@@ -772,41 +855,10 @@
    "has_vet": false
   },
   {
-   "name": "Google",
-   "slug": "google",
-   "count": 7,
-   "count_30d": 7,
-   "first_seen": "2026-11-19T14:50:56Z",
-   "last_seen": "2026-11-23T20:09:45Z",
-   "sections": {
-    "partnerships": 4
-   },
-   "top_relevance": 3,
-   "latest_summary": "Google's new Connected Apps feature lets users shop grocery chains such as Albertsons, Safeway, Shaw's and Target through Search and Gemini.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Best Buy",
-   "slug": "best-buy",
-   "count": 6,
-   "count_30d": 6,
-   "first_seen": "2026-11-20T19:00:16Z",
-   "last_seen": "2026-11-24T18:28:03Z",
-   "sections": {
-    "community": 3,
-    "spending_data": 2
-   },
-   "top_relevance": 2,
-   "latest_summary": "Best Buy's computing sales held up this quarter despite higher memory prices, driven by gaming and AI demand.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Costco",
    "slug": "costco",
-   "count": 6,
-   "count_30d": 6,
+   "count": 7,
+   "count_30d": 7,
    "first_seen": "2026-11-18T16:33:14Z",
    "last_seen": "2026-11-24T17:52:55Z",
    "sections": {
@@ -819,6 +871,56 @@
    "has_vet": false
   },
   {
+   "name": "Resy",
+   "slug": "resy",
+   "count": 6,
+   "count_30d": 6,
+   "first_seen": "2026-11-18T15:41:55Z",
+   "last_seen": "2026-11-25T00:54:13Z",
+   "sections": {
+    "partnerships": 3,
+    "premium_cards": 3,
+    "community": 2,
+    "nyc_dining": 1
+   },
+   "top_relevance": 4,
+   "latest_summary": "Resy's guide covers strategies for landing the hardest restaurant reservations in Washington, D.C.",
+   "watch_status": "emerging",
+   "has_vet": false
+  },
+  {
+   "name": "Hermes",
+   "slug": "hermes",
+   "count": 6,
+   "count_30d": 6,
+   "first_seen": "2026-11-20T06:56:47Z",
+   "last_seen": "2026-11-25T00:17:45Z",
+   "sections": {
+    "luxury": 5,
+    "spending_data": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "A ranking of the world's top ten luxury brands for 2026, with Hermes and Prada among them.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Southwest Airlines",
+   "slug": "southwest-airlines",
+   "count": 6,
+   "count_30d": 6,
+   "first_seen": "2026-11-19T18:51:59Z",
+   "last_seen": "2026-11-24T21:00:23Z",
+   "sections": {
+    "community": 5,
+    "premium_cards": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "A guide walks through current Southwest Airlines card welcome offers, their bonus values, annual fees and Chase application rules.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Moncler",
    "slug": "moncler",
    "count": 6,
@@ -826,7 +928,7 @@
    "first_seen": "2026-11-19T15:07:45Z",
    "last_seen": "2026-11-24T14:52:02Z",
    "sections": {
-    "luxury": 2
+    "luxury": 3
    },
    "top_relevance": 1,
    "latest_summary": "Moncler is hiring a team lead for its Yorkdale Shopping Centre store in Toronto.",
@@ -849,49 +951,15 @@
    "has_vet": false
   },
   {
-   "name": "Prada",
-   "slug": "prada",
+   "name": "Tory Burch",
+   "slug": "tory-burch",
    "count": 6,
    "count_30d": 6,
-   "first_seen": "2026-11-19T06:39:02Z",
-   "last_seen": "2026-11-24T11:02:55Z",
+   "first_seen": "2026-11-22T22:23:40Z",
+   "last_seen": "2026-11-23T22:29:29Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Prada has posted a cashier job listing at its Bicester outlet in the UK.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Etihad",
-   "slug": "etihad",
-   "count": 6,
-   "count_30d": 6,
-   "first_seen": "2026-11-19T19:11:01Z",
-   "last_seen": "2026-11-23T21:33:00Z",
-   "sections": {
-    "premium_cards": 5,
-    "partnerships": 4,
-    "community": 1
-   },
-   "top_relevance": 4,
-   "latest_summary": "Etihad has launched new co-brand credit cards offering up to 60,000 bonus miles.",
-   "watch_status": "signed",
-   "has_vet": false
-  },
-  {
-   "name": "Apple",
-   "slug": "apple",
-   "count": 6,
-   "count_30d": 6,
-   "first_seen": "2026-11-19T08:24:36Z",
-   "last_seen": "2026-11-23T16:56:12Z",
-   "sections": {
-    "partnerships": 3,
-    "community": 1,
-    "lending": 1
-   },
-   "top_relevance": 4,
-   "latest_summary": "Amazon, Walmart and Best Buy are selling AirPods Pro 3 for $149, down from $249 at Apple.",
+   "latest_summary": "Tory Burch is recruiting a manager for visual merchandising.",
    "watch_status": null,
    "has_vet": false
   },
@@ -927,17 +995,33 @@
    "has_vet": false
   },
   {
-   "name": "Kalshi",
-   "slug": "kalshi",
+   "name": "OpenAI",
+   "slug": "openai",
    "count": 5,
    "count_30d": 5,
-   "first_seen": "2026-11-20T17:07:45Z",
-   "last_seen": "2026-11-24T20:45:57Z",
+   "first_seen": "2026-11-21T12:52:09Z",
+   "last_seen": "2026-11-24T23:57:01Z",
    "sections": {
-    "spending_data": 1
+    "premium_cards": 1,
+    "luxury": 1
    },
-   "top_relevance": 2,
-   "latest_summary": "Utah dropped criminal charges against Kalshi's co-founders after the prediction market platform suspended operations in the state.",
+   "top_relevance": 4,
+   "latest_summary": "WSJ reports that a delayed OpenAI IPO extends its exposure to a possible AI market downturn.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Six Senses",
+   "slug": "six-senses",
+   "count": 5,
+   "count_30d": 5,
+   "first_seen": "2026-11-23T14:10:57Z",
+   "last_seen": "2026-11-24T21:23:53Z",
+   "sections": {
+    "luxury": 5
+   },
+   "top_relevance": 3,
+   "latest_summary": "Six Senses is set to open four new resorts in 2027, including sites near Madrid and on Bali's cliffs.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1023,18 +1107,17 @@
    "has_vet": false
   },
   {
-   "name": "Hermes",
-   "slug": "hermes",
+   "name": "General Motors",
+   "slug": "general-motors",
    "count": 5,
    "count_30d": 5,
-   "first_seen": "2026-11-20T06:56:47Z",
-   "last_seen": "2026-11-24T05:00:00Z",
+   "first_seen": "2026-11-19T15:00:00Z",
+   "last_seen": "2026-11-24T10:30:00Z",
    "sections": {
-    "luxury": 4,
-    "spending_data": 1
+    "lending": 1
    },
-   "top_relevance": 3,
-   "latest_summary": "Breakingviews argues Hermes is a test of whether high-priced Veblen goods can lose their appeal.",
+   "top_relevance": 2,
+   "latest_summary": "The Pentagon is reportedly in talks with General Motors and Ford about producing military drones.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1055,6 +1138,22 @@
    "has_vet": false
   },
   {
+   "name": "Mercedes-Benz",
+   "slug": "mercedes-benz",
+   "count": 5,
+   "count_30d": 5,
+   "first_seen": "2026-11-20T09:49:30Z",
+   "last_seen": "2026-11-23T16:50:49Z",
+   "sections": {
+    "luxury": 4,
+    "spending_data": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "A one-of-two Maybach designed by LeBron James sold at auction for $390,000, below its estimate.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Home Depot",
    "slug": "home-depot",
    "count": 5,
@@ -1068,64 +1167,45 @@
    "has_vet": false
   },
   {
-   "name": "General Motors",
-   "slug": "general-motors",
-   "count": 5,
-   "count_30d": 5,
-   "first_seen": "2026-11-19T15:00:00Z",
-   "last_seen": "2026-11-23T12:00:01Z",
-   "sections": {
-    "lending": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "General Motors is reportedly considering former Tesla self-driving executive Sterling Anderson as its next chief executive.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Resy",
-   "slug": "resy",
-   "count": 5,
-   "count_30d": 5,
-   "first_seen": "2026-11-18T15:41:55Z",
-   "last_seen": "2026-11-23T06:02:40Z",
-   "sections": {
-    "partnerships": 3,
-    "premium_cards": 3,
-    "community": 2,
-    "nyc_dining": 1
-   },
-   "top_relevance": 4,
-   "latest_summary": "Bodai's vegan tasting menu draws on the historic royal court cuisine of China, according to Resy.",
-   "watch_status": "emerging",
-   "has_vet": false
-  },
-  {
-   "name": "Tory Burch",
-   "slug": "tory-burch",
-   "count": 5,
-   "count_30d": 5,
-   "first_seen": "2026-11-22T22:23:40Z",
-   "last_seen": "2026-11-22T22:27:43Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Tory Burch has a job listing for a senior fullstack engineer in Jersey City, NJ.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "OpenAI",
-   "slug": "openai",
+   "name": "Microsoft",
+   "slug": "microsoft",
    "count": 4,
    "count_30d": 4,
-   "first_seen": "2026-11-21T12:52:09Z",
-   "last_seen": "2026-11-24T18:00:14Z",
+   "first_seen": "2026-11-20T12:35:52Z",
+   "last_seen": "2026-11-24T21:44:30Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Microsoft set a one-hour fix goal and declared an internal Code Red after a November email outage.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Preferred Hotels & Resorts",
+   "slug": "preferred-hotels-and-resorts",
+   "count": 4,
+   "count_30d": 4,
+   "first_seen": "2026-11-19T06:40:29Z",
+   "last_seen": "2026-11-24T21:23:54Z",
    "sections": {
-    "premium_cards": 1,
-    "luxury": 1
+    "luxury": 4
    },
-   "top_relevance": 4,
-   "latest_summary": "Citi is replacing Spotify and Hulu with ChatGPT in the Citigold annual subscription benefit.",
+   "top_relevance": 3,
+   "latest_summary": "Preferred Hotels & Resorts plans 11 hotel openings in 2027, including a tower in the UAE and a Paris property.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Kalshi",
+   "slug": "kalshi",
+   "count": 4,
+   "count_30d": 4,
+   "first_seen": "2026-11-20T17:07:45Z",
+   "last_seen": "2026-11-24T20:45:57Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Utah dropped criminal charges against Kalshi's co-founders after the prediction market platform suspended operations in the state.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1158,37 +1238,6 @@
    },
    "top_relevance": 3,
    "latest_summary": "Newegg is offering discounted Albertsons and Southwest e-gift cards for a single day.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Southwest Airlines",
-   "slug": "southwest-airlines",
-   "count": 4,
-   "count_30d": 4,
-   "first_seen": "2026-11-19T18:51:59Z",
-   "last_seen": "2026-11-24T15:29:57Z",
-   "sections": {
-    "community": 3,
-    "premium_cards": 1
-   },
-   "top_relevance": 3,
-   "latest_summary": "A review of the Southwest Priority Card covers its welcome bonus, annual fee, seat perks and free checked bag offer.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Six Senses",
-   "slug": "six-senses",
-   "count": 4,
-   "count_30d": 4,
-   "first_seen": "2026-11-23T14:10:57Z",
-   "last_seen": "2026-11-24T15:21:15Z",
-   "sections": {
-    "luxury": 4
-   },
-   "top_relevance": 3,
-   "latest_summary": "Six Senses plans four luxury hotel openings and reopenings across 2027.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1252,22 +1301,6 @@
    "has_vet": false
   },
   {
-   "name": "Mercedes-Benz",
-   "slug": "mercedes-benz",
-   "count": 4,
-   "count_30d": 4,
-   "first_seen": "2026-11-21T00:38:00Z",
-   "last_seen": "2026-11-23T16:50:49Z",
-   "sections": {
-    "luxury": 4,
-    "spending_data": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "A one-of-two Maybach designed by LeBron James sold at auction for $390,000, below its estimate.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Square",
    "slug": "square",
    "count": 4,
@@ -1280,6 +1313,19 @@
    },
    "top_relevance": 2,
    "latest_summary": "Square has signed a celebrity chef's restaurant as a merchant client, and OnTrac added a Shopify integration.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Aldi",
+   "slug": "aldi",
+   "count": 4,
+   "count_30d": 4,
+   "first_seen": "2026-11-19T16:05:00Z",
+   "last_seen": "2026-11-23T13:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A consumer listicle recommends twelve Aldi grocery items for retirees to buy before November ends.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1340,7 +1386,7 @@
    "last_seen": "2026-11-22T02:45:12Z",
    "sections": {
     "community": 2,
-    "luxury": 1
+    "luxury": 2
    },
    "top_relevance": 3,
    "latest_summary": "A weekly roundup lists expiring points sales from Marriott and Choice, plus Amex and Chase offers.",
@@ -1420,7 +1466,52 @@
    "last_seen": "2026-11-20T11:30:45Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A full-time stock intern job listing at Christian Dior in Manchester, with no market or consumer news.",
+   "latest_summary": "Christian Dior is recruiting a full-time stock intern for its Manchester location.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Acne Studios",
+   "slug": "acne-studios",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-21T03:01:59Z",
+   "last_seen": "2026-11-25T03:23:38Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Acne Studios is hiring a digital sales coach and clienteling specialist in Stockholm.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "N26",
+   "slug": "n26",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-19T16:18:00Z",
+   "last_seen": "2026-11-24T23:13:00Z",
+   "sections": {
+    "partnerships": 3,
+    "premium_cards": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "N26 launched a new account bundling a ceramic Mastercard, eSIM service and Amazon Prime.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Thrifty Traveler",
+   "slug": "thrifty-traveler",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-24T13:00:05Z",
+   "last_seen": "2026-11-24T20:45:52Z",
+   "sections": {
+    "community": 2,
+    "partnerships": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Thrifty Traveler is offering 30 percent off the first year of its Premium and Premium+ subscriptions.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1483,21 +1574,6 @@
    },
    "top_relevance": 2,
    "latest_summary": "PNC granted its No. 2 executive a $20 million award and a board seat, a move seen as succession positioning.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Preferred Hotels & Resorts",
-   "slug": "preferred-hotels-and-resorts",
-   "count": 3,
-   "count_30d": 3,
-   "first_seen": "2026-11-19T06:40:29Z",
-   "last_seen": "2026-11-24T15:19:36Z",
-   "sections": {
-    "luxury": 3
-   },
-   "top_relevance": 3,
-   "latest_summary": "Preferred Hotels & Resorts lists 11 luxury hotel openings to watch in 2027.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1579,6 +1655,21 @@
    "has_vet": false
   },
   {
+   "name": "Alibaba",
+   "slug": "alibaba",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-20T18:25:29Z",
+   "last_seen": "2026-11-24T05:50:00Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "The US has placed an Alibaba-owned company on a blacklist over chip export restrictions.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Singapore Airlines",
    "slug": "singapore-airlines",
    "count": 3,
@@ -1628,21 +1719,6 @@
    "has_vet": false
   },
   {
-   "name": "Royal Caribbean",
-   "slug": "royal-caribbean",
-   "count": 3,
-   "count_30d": 3,
-   "first_seen": "2026-11-20T20:00:05Z",
-   "last_seen": "2026-11-23T21:00:43Z",
-   "sections": {
-    "luxury": 2
-   },
-   "top_relevance": 2,
-   "latest_summary": "The Points Guy shares five surprises from a sailing on Royal Caribbean's Legend of the Seas.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Payoneer",
    "slug": "payoneer",
    "count": 3,
@@ -1654,21 +1730,6 @@
    },
    "top_relevance": 2,
    "latest_summary": "Payoneer received preliminary conditional approval from the OCC to set up a stablecoin-focused digital bank.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Norwegian Cruise Line",
-   "slug": "norwegian-cruise-line",
-   "count": 3,
-   "count_30d": 3,
-   "first_seen": "2026-11-19T14:35:35Z",
-   "last_seen": "2026-11-23T18:00:02Z",
-   "sections": {
-    "luxury": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "A guide ranks Caribbean cruise lines by traveler type, from mass-market brands to luxury Seabourn.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1751,27 +1812,16 @@
    "has_vet": false
   },
   {
-   "name": "Aldi",
-   "slug": "aldi",
-   "count": 3,
-   "count_30d": 3,
-   "first_seen": "2026-11-21T11:00:00Z",
-   "last_seen": "2026-11-23T13:00:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "A consumer listicle recommends twelve Aldi grocery items for retirees to buy before November ends.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Trader Joe's",
    "slug": "trader-joes",
    "count": 3,
    "count_30d": 3,
    "first_seen": "2026-11-20T14:30:00Z",
    "last_seen": "2026-11-23T11:00:00Z",
-   "sections": {},
-   "top_relevance": 1,
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
    "latest_summary": "FinanceBuzz compares a shared grocery list at Target and Trader Joe's to see which is cheaper.",
    "watch_status": null,
    "has_vet": false
@@ -1844,7 +1894,8 @@
    "first_seen": "2026-11-19T23:53:00Z",
    "last_seen": "2026-11-21T17:56:33Z",
    "sections": {
-    "lending": 1
+    "lending": 1,
+    "wells": 1
    },
    "top_relevance": 2,
    "latest_summary": "Intuit has named Todd Denbo as SVP of Lending and Commercial Leader for its Money business.",
@@ -1887,7 +1938,7 @@
    "first_seen": "2026-11-19T19:23:28Z",
    "last_seen": "2026-11-21T11:10:58Z",
    "sections": {
-    "lending": 1,
+    "lending": 3,
     "partnerships": 1
    },
    "top_relevance": 3,
@@ -1923,19 +1974,6 @@
    },
    "top_relevance": 2,
    "latest_summary": "BILL agreed to be taken private in a roughly $6 billion deal led by TPG and Corpay.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Microsoft",
-   "slug": "microsoft",
-   "count": 3,
-   "count_30d": 3,
-   "first_seen": "2026-11-20T12:35:52Z",
-   "last_seen": "2026-11-20T17:01:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Nestle is exploring autonomous factory lines and considering Google and Microsoft as technology partners.",
    "watch_status": null,
    "has_vet": false
   },
@@ -1982,6 +2020,170 @@
    },
    "top_relevance": 2,
    "latest_summary": "L'Oréal and EssilorLuxottica are reportedly in talks to buy a 15 percent Armani stake after LVMH stepped away.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Punjab National Bank",
+   "slug": "punjab-national-bank",
+   "count": 3,
+   "count_30d": 3,
+   "first_seen": "2026-11-19T08:48:13Z",
+   "last_seen": "2026-11-19T13:40:00Z",
+   "sections": {
+    "lending": 1
+   },
+   "top_relevance": 1,
+   "latest_summary": "Punjab National Bank opened a digital-focused branch on Parliament Street aimed at younger customers.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Kohl's",
+   "slug": "kohls",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-24T17:12:00Z",
+   "last_seen": "2026-11-25T03:36:56Z",
+   "sections": {
+    "lending": 1,
+    "spending_data": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "Kohl's CEO said on its Q3 call that it launched an AI shopping assistant and expanded on-demand delivery and flexible payment options for the holidays.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Giftcards.com",
+   "slug": "giftcards-com",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-25T01:45:30Z",
+   "last_seen": "2026-11-25T03:00:57Z",
+   "sections": {
+    "community": 2
+   },
+   "top_relevance": 2,
+   "latest_summary": "A Chase Offers listing gives 5% back at Giftcards.com, but the listing shows a 2024 expiry, so it is likely stale.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Global Payments",
+   "slug": "global-payments",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-22T21:14:53Z",
+   "last_seen": "2026-11-25T01:07:38Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Blackstone, Warburg Pincus and Apollo are reportedly in talks to help finance GTCR's take-private of Global Payments.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "GTCR",
+   "slug": "gtcr",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-22T21:14:53Z",
+   "last_seen": "2026-11-25T01:07:38Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Blackstone, Warburg Pincus and Apollo are reportedly in talks to help finance GTCR's take-private of Global Payments.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Plenti Group",
+   "slug": "plenti-group",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-24T23:38:49Z",
+   "last_seen": "2026-11-24T23:59:18Z",
+   "sections": {
+    "lending": 2,
+    "partnerships": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "Plenti Group declared its first dividend after reporting record lending volumes for the half-year.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "NAB",
+   "slug": "nab",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-24T15:48:00Z",
+   "last_seen": "2026-11-24T23:38:49Z",
+   "sections": {
+    "lending": 1,
+    "partnerships": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "A report says Plenti's partnership with NAB continues to drive growth at the fintech lender.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Atalos",
+   "slug": "atalos",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-24T23:07:50Z",
+   "last_seen": "2026-11-24T23:37:25Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A hybrid senior operations manager job posting from Atalos in New York.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Databricks",
+   "slug": "databricks",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T22:50:00Z",
+   "last_seen": "2026-11-24T23:37:06Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Databricks reportedly seeks several billion dollars at about a $225 billion valuation, citing unnamed sources.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "dLocal",
+   "slug": "dlocal",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-24T22:34:29Z",
+   "last_seen": "2026-11-24T23:36:27Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A JPMorgan research note pushed dLocal's shares lower.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "First National Bank of Omaha",
+   "slug": "first-national-bank-of-omaha",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-24T15:21:52Z",
+   "last_seen": "2026-11-24T22:45:46Z",
+   "sections": {
+    "premium_cards": 1,
+    "community": 1,
+    "partnerships": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "Etihad and First National Bank of Omaha launched new US co-brand cards that a reviewer finds unappealing beyond loyal Etihad fans.",
    "watch_status": null,
    "has_vet": false
   },
@@ -2164,6 +2366,21 @@
    "has_vet": false
   },
   {
+   "name": "Revolut",
+   "slug": "revolut",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T08:20:10Z",
+   "last_seen": "2026-11-24T13:53:11Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "top_relevance": 4,
+   "latest_summary": "Revolut is offering a 5.25% easy-access savings rate, with a condition attached to it.",
+   "watch_status": "signed",
+   "has_vet": false
+  },
+  {
    "name": "Acolyte",
    "slug": "acolyte",
    "count": 2,
@@ -2209,22 +2426,6 @@
    "has_vet": false
   },
   {
-   "name": "Thrifty Traveler",
-   "slug": "thrifty-traveler",
-   "count": 2,
-   "count_30d": 2,
-   "first_seen": "2026-11-24T13:00:05Z",
-   "last_seen": "2026-11-24T13:00:27Z",
-   "sections": {
-    "partnerships": 1,
-    "community": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "Thrifty Traveler Premium is offering 30% off with promo code DOC, shared through a card-community blog.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Wealthsimple",
    "slug": "wealthsimple",
    "count": 2,
@@ -2241,17 +2442,17 @@
    "has_vet": false
   },
   {
-   "name": "Alibaba",
-   "slug": "alibaba",
+   "name": "Ford",
+   "slug": "ford",
    "count": 2,
    "count_30d": 2,
-   "first_seen": "2026-11-21T09:00:50Z",
-   "last_seen": "2026-11-24T05:50:00Z",
+   "first_seen": "2026-11-22T05:46:29Z",
+   "last_seen": "2026-11-24T10:30:00Z",
    "sections": {
-    "spending_data": 1
+    "lending": 1
    },
    "top_relevance": 2,
-   "latest_summary": "The US has placed an Alibaba-owned company on a blacklist over chip export restrictions.",
+   "latest_summary": "The Pentagon is reportedly in talks with General Motors and Ford about producing military drones.",
    "watch_status": null,
    "has_vet": false
   },
@@ -2286,6 +2487,22 @@
    "has_vet": false
   },
   {
+   "name": "Le Bernardin",
+   "slug": "le-bernardin",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-23T20:01:29Z",
+   "last_seen": "2026-11-23T22:45:00Z",
+   "sections": {
+    "nyc_dining": 2,
+    "luxury": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "Le Bernardin was ranked the best restaurant in the US for a fifth consecutive year on the La Liste survey.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Simon Property Group",
    "slug": "simon-property-group",
    "count": 2,
@@ -2310,6 +2527,21 @@
    },
    "top_relevance": 2,
    "latest_summary": "Coinbase launched an Earn API tied to roughly $3 billion in crypto lending.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Royal Caribbean",
+   "slug": "royal-caribbean",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-23T18:00:02Z",
+   "last_seen": "2026-11-23T21:00:43Z",
+   "sections": {
+    "luxury": 2
+   },
+   "top_relevance": 2,
+   "latest_summary": "The Points Guy shares five surprises from a sailing on Royal Caribbean's Legend of the Seas.",
    "watch_status": null,
    "has_vet": false
   },
@@ -2347,11 +2579,11 @@
    "has_vet": false
   },
   {
-   "name": "Disney Cruise Line",
-   "slug": "disney-cruise-line",
+   "name": "Norwegian Cruise Line",
+   "slug": "norwegian-cruise-line",
    "count": 2,
    "count_30d": 2,
-   "first_seen": "2026-11-20T20:00:05Z",
+   "first_seen": "2026-11-19T14:35:35Z",
    "last_seen": "2026-11-23T18:00:02Z",
    "sections": {
     "luxury": 1
@@ -2884,19 +3116,6 @@
    "has_vet": false
   },
   {
-   "name": "Acne Studios",
-   "slug": "acne-studios",
-   "count": 2,
-   "count_30d": 2,
-   "first_seen": "2026-11-21T03:01:59Z",
-   "last_seen": "2026-11-21T03:01:59Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Acne Studios has a fabric and trim developer job opening in Stockholm.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "PayPo",
    "slug": "paypo",
    "count": 2,
@@ -2938,6 +3157,19 @@
    },
    "top_relevance": 2,
    "latest_summary": "Avani Koh Phangan resort is set to debut in Q4 2027 after converting Buri Rasa Village Phangan.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Take-Two Interactive",
+   "slug": "take-two-interactive",
+   "count": 2,
+   "count_30d": 2,
+   "first_seen": "2026-11-20T08:50:00Z",
+   "last_seen": "2026-11-20T20:55:02Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Analysts project a 40% share price gain for Take-Two after strong Grand Theft Auto VI sales.",
    "watch_status": null,
    "has_vet": false
   },
@@ -2997,20 +3229,7 @@
     "spending_data": 1
    },
    "top_relevance": 2,
-   "latest_summary": "Analysts weigh Home Depot against Lowe's as stock picks following their latest earnings.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Bloomberg",
-   "slug": "bloomberg",
-   "count": 2,
-   "count_30d": 2,
-   "first_seen": "2026-11-20T12:41:35Z",
-   "last_seen": "2026-11-20T19:25:37Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "This is a generic Bloomberg headlines landing page with no specific story attached.",
+   "latest_summary": "An analyst comparison of Home Depot and Lowe's stocks following their earnings reports.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3143,7 +3362,7 @@
    "first_seen": "2026-11-19T19:12:57Z",
    "last_seen": "2026-11-19T21:43:57Z",
    "sections": {
-    "luxury": 1
+    "luxury": 2
    },
    "top_relevance": 2,
    "latest_summary": "Italian luxury brand Tod's is near a roughly €400 million debt refinancing backed by its owners.",
@@ -3166,21 +3385,6 @@
    "has_vet": false
   },
   {
-   "name": "N26",
-   "slug": "n26",
-   "count": 2,
-   "count_30d": 2,
-   "first_seen": "2026-11-19T16:18:00Z",
-   "last_seen": "2026-11-19T19:40:32Z",
-   "sections": {
-    "partnerships": 2
-   },
-   "top_relevance": 3,
-   "latest_summary": "Fintech N26 has launched a premium account tier aimed at higher-value customers.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Williams Sonoma",
    "slug": "williams-sonoma",
    "count": 2,
@@ -3189,20 +3393,7 @@
    "last_seen": "2026-11-19T19:05:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A consumer list compares Dollar Tree items with Williams Sonoma products, a deal-hunting piece with no card or partner angle.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "ACI Worldwide",
-   "slug": "aci-worldwide",
-   "count": 2,
-   "count_30d": 2,
-   "first_seen": "2026-11-18T16:01:00Z",
-   "last_seen": "2026-11-19T15:00:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "ACI Worldwide's Bridget Hall discusses instant payments and AI-driven modernization in a Sibos interview.",
+   "latest_summary": "A consumer listicle matches Dollar Tree products with Williams Sonoma items sold at a fraction of the price.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3238,17 +3429,15 @@
    "has_vet": false
   },
   {
-   "name": "Punjab National Bank",
-   "slug": "punjab-national-bank",
+   "name": "Bank of Baroda",
+   "slug": "bank-of-baroda",
    "count": 2,
    "count_30d": 2,
-   "first_seen": "2026-11-19T08:48:13Z",
-   "last_seen": "2026-11-19T13:40:00Z",
-   "sections": {
-    "lending": 1
-   },
+   "first_seen": "2026-11-19T08:34:56Z",
+   "last_seen": "2026-11-19T13:11:27Z",
+   "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Punjab National Bank opened a digital-focused branch aimed at young customers on Parliament Street.",
+   "latest_summary": "The Nifty Bank index reached a new record high above 63,000, led by several Indian lenders.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3288,6 +3477,238 @@
    "sections": {},
    "top_relevance": 1,
    "latest_summary": "Church's is recruiting a client advisor for its Lafayette store in Paris.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Mrrebates",
+   "slug": "mrrebates",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-25T04:03:38Z",
+   "last_seen": "2026-11-25T04:03:38Z",
+   "sections": {
+    "community": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Mrrebates is offering a targeted holiday bonus of $5 to new and existing users, with a $10 minimum before cashout.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Bloom",
+   "slug": "bloom",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-25T04:00:59Z",
+   "last_seen": "2026-11-25T04:00:59Z",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Indian hotel group Bloom raised $75 million from Kedaara and plans to expand into Southeast Asia while doubling its room count.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Kedaara",
+   "slug": "kedaara",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-25T04:00:59Z",
+   "last_seen": "2026-11-25T04:00:59Z",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Indian hotel group Bloom raised $75 million from Kedaara and plans to expand into Southeast Asia while doubling its room count.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Dick's Sporting Goods",
+   "slug": "dicks-sporting-goods",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-25T02:30:13Z",
+   "last_seen": "2026-11-25T02:30:13Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Dick's CEO says GameChanger, its youth sports app, is becoming a key growth driver, with revenue expected to approach $200 million this fiscal year.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "GameChanger",
+   "slug": "gamechanger",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-25T02:30:13Z",
+   "last_seen": "2026-11-25T02:30:13Z",
+   "sections": {
+    "partnerships": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Dick's CEO says GameChanger, its youth sports app, is becoming a key growth driver, with revenue expected to approach $200 million this fiscal year.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Blackstone",
+   "slug": "blackstone",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-25T01:07:38Z",
+   "last_seen": "2026-11-25T01:07:38Z",
+   "sections": {},
+   "top_relevance": 2,
+   "latest_summary": "Blackstone, Warburg Pincus and Apollo are reportedly in talks to help finance GTCR's take-private of Global Payments.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "UK Finance",
+   "slug": "uk-finance",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-25T00:01:00Z",
+   "last_seen": "2026-11-25T00:01:00Z",
+   "sections": {
+    "spending_data": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Authorised push payment fraud losses in the UK rose 22% to £316 million in the first half of 2026.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "iwoca",
+   "slug": "iwoca",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-25T00:01:00Z",
+   "last_seen": "2026-11-25T00:01:00Z",
+   "sections": {
+    "lending": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "iwoca and Visa have launched a credit card aimed at small businesses seeking more funding options.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "The Bath Club",
+   "slug": "the-bath-club",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T23:35:33Z",
+   "last_seen": "2026-11-24T23:35:33Z",
+   "sections": {
+    "nyc_dining": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Chef Wei is launching a new omakase season at The Bath Club.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Nykaa",
+   "slug": "nykaa",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T23:10:30Z",
+   "last_seen": "2026-11-24T23:10:30Z",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Weekly roundup covering Prada's Miami menswear store, an LVMH digital hire, and Armani's planned Egypt hotel.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Huawei",
+   "slug": "huawei",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T22:41:00Z",
+   "last_seen": "2026-11-24T22:41:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A US criminal jury convicted Huawei of fraud, a matter outside the premium card and luxury landscape.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "USA Compression Management",
+   "slug": "usa-compression-management",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T22:05:47Z",
+   "last_seen": "2026-11-24T22:05:47Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "USA Compression Management says it will attend several upcoming investor conferences.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Marc Jacobs",
+   "slug": "marc-jacobs",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T21:37:51Z",
+   "last_seen": "2026-11-24T21:37:51Z",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Marc Jacobs reported $509 million in sales in its final year under LVMH ownership.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Dell",
+   "slug": "dell",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T21:19:00Z",
+   "last_seen": "2026-11-24T21:19:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Dell raised its outlook after revenue doubled on strong demand for servers.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "US Mobile",
+   "slug": "us-mobile",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T21:16:23Z",
+   "last_seen": "2026-11-24T21:16:23Z",
+   "sections": {
+    "community": 1
+   },
+   "top_relevance": 1,
+   "latest_summary": "US Mobile is running a Black Friday deal bundling an 18-month plan with the Pixel 11 Pro.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Fifth Third",
+   "slug": "fifth-third",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T21:05:14Z",
+   "last_seen": "2026-11-24T21:05:14Z",
+   "sections": {
+    "community": 1
+   },
+   "top_relevance": 1,
+   "latest_summary": "Fifth Third is offering a checking account bonus to new customers in several listed states who meet set requirements.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3608,6 +4029,21 @@
    "has_vet": false
   },
   {
+   "name": "Jaguar",
+   "slug": "jaguar",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T17:58:58Z",
+   "last_seen": "2026-11-24T17:58:58Z",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Jaguar opened a Knightsbridge café offering afternoon tea with scones designed by chef Michael O'Hare.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Marcus Hotels",
    "slug": "marcus-hotels",
    "count": 1,
@@ -3683,21 +4119,6 @@
    "has_vet": false
   },
   {
-   "name": "Kohl's",
-   "slug": "kohls",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-24T17:12:00Z",
-   "last_seen": "2026-11-24T17:12:00Z",
-   "sections": {
-    "spending_data": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "Kohl's posted positive comparable sales in most categories in its third quarter, driven by private label and store upgrades, with profits rising sharply.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "FAA",
    "slug": "faa",
    "count": 1,
@@ -3722,6 +4143,34 @@
    },
    "top_relevance": 2,
    "latest_summary": "GoodRx agreed to a $32 million class action settlement over alleged sharing of sensitive health data with advertisers from 2017 to 2020.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Airtel Money",
+   "slug": "airtel-money",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T16:57:59Z",
+   "last_seen": "2026-11-24T16:57:59Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Airtel Money is reportedly set to join Britain's blue-chip listed companies.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Park Hotels",
+   "slug": "park-hotels",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T16:56:44Z",
+   "last_seen": "2026-11-24T16:56:44Z",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Park Hotels plans a Rs 150 crore hotel in Visakhapatnam with a target opening in 2030.",
    "watch_status": null,
    "has_vet": false
   },
@@ -3885,19 +4334,6 @@
    "has_vet": false
   },
   {
-   "name": "NAB",
-   "slug": "nab",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-24T15:48:00Z",
-   "last_seen": "2026-11-24T15:48:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "NAB's CEO says the bank will act against Instagram posts by a self-described customer advocate making claims about staff and conduct.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Van Cleef & Arpels",
    "slug": "van-cleef-and-arpels",
    "count": 1,
@@ -3951,21 +4387,6 @@
    "sections": {},
    "top_relevance": 1,
    "latest_summary": "JPMorgan, HSBC and StoneX completed first live trades using fractions of physical gold bars as collateral in wholesale transactions.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "First National Bank of Omaha",
-   "slug": "first-national-bank-of-omaha",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-24T15:21:52Z",
-   "last_seen": "2026-11-24T15:21:52Z",
-   "sections": {
-    "partnerships": 1
-   },
-   "top_relevance": 3,
-   "latest_summary": "First National Bank of Omaha's Marc Butterfield discusses preparing card products for AI agents that shop on consumers' behalf.",
    "watch_status": null,
    "has_vet": false
   },
@@ -4110,6 +4531,19 @@
    "has_vet": false
   },
   {
+   "name": "Everli Global Holdings",
+   "slug": "everli-global-holdings",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T14:20:00Z",
+   "last_seen": "2026-11-24T14:20:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A Stock Titan quote page for Everli Global Holdings, a grocery delivery company, with no substantive news.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Meliá",
    "slug": "meli",
    "count": 1,
@@ -4192,6 +4626,21 @@
    },
    "top_relevance": 2,
    "latest_summary": "Air Saint-Pierre will resume its once-weekly Paris to Saint-Pierre and Miquelon flight for summer 2027.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Deutsche Asset Management",
+   "slug": "deutsche-asset-management",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T13:42:33Z",
+   "last_seen": "2026-11-24T13:42:33Z",
+   "sections": {
+    "lending": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Deutsche Asset Management is nearing a first close on a 2 billion euro direct lending fund.",
    "watch_status": null,
    "has_vet": false
   },
@@ -4306,6 +4755,21 @@
    "has_vet": false
   },
   {
+   "name": "Fenty Beauty",
+   "slug": "fenty-beauty",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T12:45:46Z",
+   "last_seen": "2026-11-24T12:45:46Z",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 1,
+   "latest_summary": "A feature examines Fenty Beauty's shade range and what consumers expect on inclusivity.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Medtronic",
    "slug": "medtronic",
    "count": 1,
@@ -4373,6 +4837,22 @@
    },
    "top_relevance": 2,
    "latest_summary": "Jacob & Co. launched a caviar product with Icone Caviar, aged for months for added complexity.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Loews Hotels",
+   "slug": "loews-hotels",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T11:53:23Z",
+   "last_seen": "2026-11-24T11:53:23Z",
+   "sections": {
+    "premium_cards": 1,
+    "luxury": 1
+   },
+   "top_relevance": 3,
+   "latest_summary": "American Express Travel is promoting Loews Chicago as a property in its Hotel Collection.",
    "watch_status": null,
    "has_vet": false
   },
@@ -4449,6 +4929,45 @@
    "has_vet": false
   },
   {
+   "name": "Sanofi",
+   "slug": "sanofi",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T09:39:00Z",
+   "last_seen": "2026-11-24T09:39:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Sanofi agreed to buy U.S. drugmaker Insmed in a deal valued at $41 billion.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Insmed",
+   "slug": "insmed",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T09:39:00Z",
+   "last_seen": "2026-11-24T09:39:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Sanofi agreed to buy U.S. drugmaker Insmed in a deal valued at $41 billion.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Compass Group",
+   "slug": "compass-group",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T08:33:00Z",
+   "last_seen": "2026-11-24T08:33:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Compass Group plans to move its primary stock listing to the United States.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Legal & General",
    "slug": "legal-and-general",
    "count": 1,
@@ -4514,6 +5033,19 @@
    "sections": {},
    "top_relevance": 1,
    "latest_summary": "CEMATEX and a Chinese consortium say the first phase of their textile industry collaboration is complete.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "IDT",
+   "slug": "idt",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-24T05:22:00Z",
+   "last_seen": "2026-11-24T05:22:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "IDT is opening an eSIM store, which the article suggests could be a significant move for the company.",
    "watch_status": null,
    "has_vet": false
   },
@@ -4792,6 +5324,19 @@
    "has_vet": false
   },
   {
+   "name": "The Business of Fashion",
+   "slug": "the-business-of-fashion",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-23T20:52:19Z",
+   "last_seen": "2026-11-23T20:52:19Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A careers page listing fashion merchandising and planning job openings.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Yntegra Group",
    "slug": "yntegra-group",
    "count": 1,
@@ -4844,22 +5389,6 @@
    },
    "top_relevance": 2,
    "latest_summary": "Google's new Connected Apps feature lets users shop grocery chains such as Albertsons, Safeway, Shaw's and Target through Search and Gemini.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Le Bernardin",
-   "slug": "le-bernardin",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-23T20:01:29Z",
-   "last_seen": "2026-11-23T20:01:29Z",
-   "sections": {
-    "nyc_dining": 1,
-    "luxury": 1
-   },
-   "top_relevance": 3,
-   "latest_summary": "Le Bernardin and SingleThread tied for first place in La Liste's 2027 restaurant rankings.",
    "watch_status": null,
    "has_vet": false
   },
@@ -5028,6 +5557,21 @@
    "has_vet": false
   },
   {
+   "name": "Disney Cruise Line",
+   "slug": "disney-cruise-line",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-23T18:00:02Z",
+   "last_seen": "2026-11-23T18:00:02Z",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "A guide ranks Caribbean cruise lines by traveler type, from mass-market brands to luxury Seabourn.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Seabourn",
    "slug": "seabourn",
    "count": 1,
@@ -5054,6 +5598,21 @@
    },
    "top_relevance": 1,
    "latest_summary": "Triumph's new 798 RS sportbike is the most advanced version of that model so far.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Star Alliance",
+   "slug": "star-alliance",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-23T17:58:13Z",
+   "last_seen": "2026-11-23T17:58:13Z",
+   "sections": {
+    "community": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "A forum member asks whether Star Alliance flying gives an FTL member access to airport lounges.",
    "watch_status": null,
    "has_vet": false
   },
@@ -6925,36 +7484,6 @@
    "has_vet": false
   },
   {
-   "name": "GTCR",
-   "slug": "gtcr",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-22T21:14:53Z",
-   "last_seen": "2026-11-22T21:14:53Z",
-   "sections": {
-    "partnerships": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "Private equity firm GTCR is exploring a buyout of payment processor Global Payments, with no decision made.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Global Payments",
-   "slug": "global-payments",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-22T21:14:53Z",
-   "last_seen": "2026-11-22T21:14:53Z",
-   "sections": {
-    "partnerships": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "Private equity firm GTCR is exploring a buyout of payment processor Global Payments, with no decision made.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Regional Management",
    "slug": "regional-management",
    "count": 1,
@@ -7220,21 +7749,6 @@
    "sections": {},
    "top_relevance": 1,
    "latest_summary": "Major pizza chains face weaker demand, more delivery competition and shifting eating habits tied partly to GLP-1 use.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Ford",
-   "slug": "ford",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-22T05:46:29Z",
-   "last_seen": "2026-11-22T05:46:29Z",
-   "sections": {
-    "lending": 1
-   },
-   "top_relevance": 2,
-   "latest_summary": "Ford, GM and Stellantis are reported to have won preliminary FDIC approval for bank charters alongside crypto firms.",
    "watch_status": null,
    "has_vet": false
   },
@@ -7928,19 +8442,6 @@
    "has_vet": false
   },
   {
-   "name": "Databricks",
-   "slug": "databricks",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T22:50:00Z",
-   "last_seen": "2026-11-20T22:50:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Databricks is reportedly in early talks to raise funds at a $225 billion valuation.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Gulfstream Hotel",
    "slug": "gulfstream-hotel",
    "count": 1,
@@ -8012,21 +8513,6 @@
    "has_vet": false
   },
   {
-   "name": "Wegmans",
-   "slug": "wegmans",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T21:20:26Z",
-   "last_seen": "2026-11-20T21:20:26Z",
-   "sections": {
-    "community": 1
-   },
-   "top_relevance": 1,
-   "latest_summary": "DoorDash is offering 30 percent off Wegmans orders with a $70 minimum, capped at $25 off, using code 30WEGMANS.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "CVS",
    "slug": "cvs",
    "count": 1,
@@ -8059,28 +8545,17 @@
    "has_vet": false
   },
   {
-   "name": "Take-Two Interactive",
-   "slug": "take-two-interactive",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T20:55:02Z",
-   "last_seen": "2026-11-20T20:55:02Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Analysts project a 40% share price gain for Take-Two after strong Grand Theft Auto VI sales.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "SWISS",
    "slug": "swiss",
    "count": 1,
    "count_30d": 1,
    "first_seen": "2026-11-20T20:54:31Z",
    "last_seen": "2026-11-20T20:54:31Z",
-   "sections": {},
+   "sections": {
+    "community": 1
+   },
    "top_relevance": 1,
-   "latest_summary": "A SWISS A220 aborted takeoff for a third time in an incident report.",
+   "latest_summary": "A SWISS A220 made three aborted takeoff attempts before departing, according to One Mile at a Time.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8123,7 +8598,7 @@
    "last_seen": "2026-11-20T20:11:48Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Sony reportedly dropped talks to anchor a $2.7 billion New York City tower.",
+   "latest_summary": "Sony has reportedly ended talks to be the anchor tenant for a $2.7 billion Manhattan tower.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8173,15 +8648,15 @@
    "has_vet": false
   },
   {
-   "name": "Tokio Marine Holdings",
-   "slug": "tokio-marine-holdings",
+   "name": "Bloomberg",
+   "slug": "bloomberg",
    "count": 1,
    "count_30d": 1,
-   "first_seen": "2026-11-20T19:17:23Z",
-   "last_seen": "2026-11-20T19:17:23Z",
+   "first_seen": "2026-11-20T19:25:37Z",
+   "last_seen": "2026-11-20T19:25:37Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Two large Japanese property insurers report cyber insurance claims more than doubling as AI-driven hacking rises.",
+   "latest_summary": "This is a generic Bloomberg headlines landing page with no specific story attached.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8225,8 +8700,8 @@
    "sections": {
     "community": 1
    },
-   "top_relevance": 1,
-   "latest_summary": "inKind is offering a 50% bonus, with $150 of credit for every $100 paid.",
+   "top_relevance": 2,
+   "latest_summary": "inKind's new offer pays a 50% bonus, turning $100 into $150 of gift card value.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8254,7 +8729,7 @@
    "last_seen": "2026-11-20T18:25:29Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A former Alibaba AI leader's startup, Pragmatik Labs, has reached a $5 billion valuation.",
+   "latest_summary": "Former Alibaba AI leader Junyang Lin's startup Pragmatik Labs has reached a $5 billion valuation.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8267,7 +8742,7 @@
    "last_seen": "2026-11-20T18:19:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Identity verification firm Mitek Systems has named Laura Apel as its chief marketing officer.",
+   "latest_summary": "Mitek Systems named Laura Apel as its chief marketing officer.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8293,7 +8768,7 @@
    "last_seen": "2026-11-20T18:03:39Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A Bloomberg video looks at Robinhood's approach to ETFs and the next generation of investors.",
+   "latest_summary": "Bloomberg video on Robinhood's view of ETFs and the next generation of investors.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8337,7 +8812,7 @@
    "last_seen": "2026-11-20T17:41:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "The Container Store's website and systems are restored after a cybersecurity incident.",
+   "latest_summary": "The Container Store has restored its online operations after a cybersecurity incident.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8413,21 +8888,6 @@
    "has_vet": false
   },
   {
-   "name": "Athleta",
-   "slug": "athleta",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T16:42:00Z",
-   "last_seen": "2026-11-20T16:42:00Z",
-   "sections": {
-    "luxury": 1
-   },
-   "top_relevance": 1,
-   "latest_summary": "Athleta names Vuori executive Ashley Kechter to lead the brand, which posted another double-digit quarterly decline.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Vuori",
    "slug": "vuori",
    "count": 1,
@@ -8437,14 +8897,14 @@
    "sections": {
     "luxury": 1
    },
-   "top_relevance": 1,
-   "latest_summary": "Athleta names Vuori executive Ashley Kechter to lead the brand, which posted another double-digit quarterly decline.",
+   "top_relevance": 2,
+   "latest_summary": "A Vuori executive is set to lead Athleta, the activewear brand that is currently struggling.",
    "watch_status": null,
    "has_vet": false
   },
   {
-   "name": "Gap Inc.",
-   "slug": "gap-inc",
+   "name": "Athleta",
+   "slug": "athleta",
    "count": 1,
    "count_30d": 1,
    "first_seen": "2026-11-20T16:42:00Z",
@@ -8452,8 +8912,8 @@
    "sections": {
     "luxury": 1
    },
-   "top_relevance": 1,
-   "latest_summary": "Athleta names Vuori executive Ashley Kechter to lead the brand, which posted another double-digit quarterly decline.",
+   "top_relevance": 2,
+   "latest_summary": "A Vuori executive is set to lead Athleta, the activewear brand that is currently struggling.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8556,7 +9016,7 @@
    "last_seen": "2026-11-20T16:19:28Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Charles Schwab's Aguilar discusses ETF growth, private markets and prediction markets in a Bloomberg video.",
+   "latest_summary": "Schwab's chief executive discusses ETF growth, private markets and prediction markets in a video interview.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8634,15 +9094,15 @@
    "has_vet": false
   },
   {
-   "name": "Float Financial",
-   "slug": "float-financial",
+   "name": "Float",
+   "slug": "float",
    "count": 1,
    "count_30d": 1,
    "first_seen": "2026-11-20T15:56:00Z",
    "last_seen": "2026-11-20T15:56:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Canadian fintech Float is investing $5 million in Quebec, its first establishment in the province.",
+   "latest_summary": "Canadian fintech Float pledged five million dollars to Quebec, with no card or benefit angle.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8688,32 +9148,6 @@
    "has_vet": false
   },
   {
-   "name": "CBI",
-   "slug": "cbi",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T15:31:00Z",
-   "last_seen": "2026-11-20T15:31:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "CBI, Bancomat and Nexi are teaming up to build the Italian infrastructure for a digital euro.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Bancomat",
-   "slug": "bancomat",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T15:31:00Z",
-   "last_seen": "2026-11-20T15:31:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "CBI, Bancomat and Nexi are teaming up to build the Italian infrastructure for a digital euro.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "StubHub",
    "slug": "stubhub",
    "count": 1,
@@ -8738,7 +9172,7 @@
    "last_seen": "2026-11-20T15:25:40Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Tata Sons' largest shareholder is meeting to discuss a possible listing amid an internal rift.",
+   "latest_summary": "Tata Sons' largest shareholder is meeting to discuss a possible public listing amid an internal rift.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8865,22 +9299,11 @@
    "count_30d": 1,
    "first_seen": "2026-11-20T14:30:00Z",
    "last_seen": "2026-11-20T14:30:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "HomeGoods",
-   "slug": "homegoods",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T14:30:00Z",
-   "last_seen": "2026-11-20T14:30:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
+   "sections": {
+    "luxury": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "Target is competing with Trader Joe's, Quince and HomeGoods across private label and value-focused retail.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8893,7 +9316,20 @@
    "last_seen": "2026-11-20T14:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "ViTAA Medical and the Society for Vascular Surgery announced a strategic partnership.",
+   "latest_summary": "ViTAA Medical and the Society for Vascular Surgery announced a strategic partnership in the medical field.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Society for Vascular Surgery",
+   "slug": "society-for-vascular-surgery",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T14:00:00Z",
+   "last_seen": "2026-11-20T14:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "ViTAA Medical and the Society for Vascular Surgery announced a strategic partnership in the medical field.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8906,7 +9342,7 @@
    "last_seen": "2026-11-20T13:23:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Aqua Global and IntellectEU will help banks link existing payment systems to digital asset networks.",
+   "latest_summary": "Aqua Global and IntellectEU will link banks' existing systems to digital asset networks.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8919,7 +9355,7 @@
    "last_seen": "2026-11-20T13:23:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Aqua Global and IntellectEU will help banks link existing payment systems to digital asset networks.",
+   "latest_summary": "Aqua Global and IntellectEU will link banks' existing systems to digital asset networks.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8932,7 +9368,7 @@
    "last_seen": "2026-11-20T13:21:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Curvestone AI has launched financial promotions and website monitoring tools for regulated advice firms.",
+   "latest_summary": "Curvestone AI launched a tool to automate adviser oversight of financial promotions and websites.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8945,7 +9381,7 @@
    "last_seen": "2026-11-20T13:14:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Storspay has registered with FINTRAC as a money services business in Canada.",
+   "latest_summary": "Storspay completed its money services business registration in Canada.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8959,8 +9395,21 @@
    "sections": {
     "luxury": 1
    },
+   "top_relevance": 2,
+   "latest_summary": "Robb Report's road test calls the Toyota Supra one of the brand's finest sports cars yet.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Reserve Bank of India",
+   "slug": "reserve-bank-of-india",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T12:58:29Z",
+   "last_seen": "2026-11-20T12:58:29Z",
+   "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Robb Report road-tests the Toyota GR Supra MkV Final Edition sports car.",
+   "latest_summary": "India's central bank clarified forex trade rules and compliance duties for banks and exporters.",
    "watch_status": null,
    "has_vet": false
   },
@@ -8986,7 +9435,7 @@
    "last_seen": "2026-11-20T12:02:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Union Pacific's CEO apologized for a March remark that is fueling opposition to its merger plans.",
+   "latest_summary": "Union Pacific's CEO apologized for a remark that is fueling opposition to its proposed merger.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9049,19 +9498,6 @@
    "has_vet": false
   },
   {
-   "name": "KOA",
-   "slug": "koa",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T11:24:58Z",
-   "last_seen": "2026-11-20T11:24:58Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "An economist told the KOA campground convention about the challenges facing the campground industry.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Polarium Energy",
    "slug": "polarium-energy",
    "count": 1,
@@ -9075,19 +9511,6 @@
    "has_vet": false
   },
   {
-   "name": "Wolters Kluwer",
-   "slug": "wolters-kluwer",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T11:13:58Z",
-   "last_seen": "2026-11-20T11:13:58Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "A Yahoo Finance stock analysis looks at Wolters Kluwer shares following the Blue Chip IQ launch.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Columbia Sportswear",
    "slug": "columbia-sportswear",
    "count": 1,
@@ -9096,7 +9519,7 @@
    "last_seen": "2026-11-20T10:57:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A WSJ piece looks at what Columbia Sportswear's advertising reveals about the brand's company culture.",
+   "latest_summary": "WSJ examines what Columbia Sportswear's advertising reveals about the company's culture.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9169,8 +9592,8 @@
    "sections": {
     "lending": 1
    },
-   "top_relevance": 1,
-   "latest_summary": "Absa has raised its loan limit for government employees to Sh300 million.",
+   "top_relevance": 2,
+   "latest_summary": "Absa has raised its loan ceiling for government employees to Sh300 million, a Kenyan personal lending move.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9226,23 +9649,8 @@
     "lending": 1
    },
    "top_relevance": 1,
-   "latest_summary": "Aye Finance expects to beat its FY27 margin guidance and plans a gold loan launch early next year.",
+   "latest_summary": "Aye Finance expects to beat its FY27 margin guidance and plans to launch a gold loan product early next year.",
    "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Revolut",
-   "slug": "revolut",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-20T08:20:10Z",
-   "last_seen": "2026-11-20T08:20:10Z",
-   "sections": {
-    "partnerships": 1
-   },
-   "top_relevance": 4,
-   "latest_summary": "Revolut customers can now access Velocity Points, linking the fintech to a major airline loyalty program.",
-   "watch_status": "signed",
    "has_vet": false
   },
   {
@@ -9314,7 +9722,7 @@
    "last_seen": "2026-11-20T05:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A commentary piece argues Italy's ski slopes do not need a KFC restaurant at the summit.",
+   "latest_summary": "A Bloomberg column criticizes a planned KFC restaurant at an Italian ski resort summit.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9327,7 +9735,7 @@
    "last_seen": "2026-11-20T03:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Honda is launching a hybrid SUV for Asian markets as it shifts away from its struggling electric vehicle strategy.",
+   "latest_summary": "Honda unveils a hybrid SUV for Asian markets, shifting focus after a setback in its electric vehicle plans.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9340,7 +9748,7 @@
    "last_seen": "2026-11-20T00:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "UBS's Lovell suggests AI capital spending could be cut by 5% to 10%.",
+   "latest_summary": "UBS strategist Lovell suggests AI-related capital spending could face a 5% to 10% cut.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9353,7 +9761,20 @@
    "last_seen": "2026-11-20T00:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Franklin Templeton sees investment opportunities beyond the largest technology names.",
+   "latest_summary": "Franklin Templeton says it sees investment opportunities outside the technology sector in current markets.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Investec",
+   "slug": "investec",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Investec's UK business head says the firm is comfortable with its business foundation in the United Kingdom.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9366,7 +9787,33 @@
    "last_seen": "2026-11-20T00:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Schroders says markets are going through a healthy correction, per a Bloomberg video segment.",
+   "latest_summary": "Schroders strategists describe the current market pullback as a healthy correction rather than a larger downturn.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Manchester United",
+   "slug": "manchester-united",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A Bloomberg TV segment asks whether Manchester United's new coach can solve the club's problems.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Baird",
+   "slug": "baird",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "A Baird strategist says the stock selloff reflects broad de-risking across investors.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9379,7 +9826,7 @@
    "last_seen": "2026-11-20T00:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A Bloomberg video interview with General Catalyst's Namburi on Anthropic's IPO and AI investor sentiment.",
+   "latest_summary": "A General Catalyst investor calls Anthropic's upcoming IPO a monstrous opportunity in an interview.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9392,7 +9839,7 @@
    "last_seen": "2026-11-20T00:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A Bloomberg video in which Novartis's CEO discusses how AI could shorten drug development timelines.",
+   "latest_summary": "Novartis's CEO says AI could shorten drug development timelines by several years.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9405,7 +9852,33 @@
    "last_seen": "2026-11-20T00:00:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A Bloomberg video with Lenovo's CFO Winston Cheng discussing the company's earnings.",
+   "latest_summary": "Lenovo's CFO discusses the company's latest earnings results in a Bloomberg TV interview.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "AMD",
+   "slug": "amd",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "AMD shares fell on China-related risk, and Ross Stores dropped after weak fourth-quarter guidance.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Ross Stores",
+   "slug": "ross-stores",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-20T00:00:00Z",
+   "last_seen": "2026-11-20T00:00:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "AMD shares fell on China-related risk, and Ross Stores dropped after weak fourth-quarter guidance.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9433,7 +9906,7 @@
     "luxury": 1
    },
    "top_relevance": 1,
-   "latest_summary": "Finnair marked International Men's Day with a flight staffed by an all-male crew.",
+   "latest_summary": "Finnair marked International Men's Day by flying a crew made up entirely of men on one flight.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9446,7 +9919,7 @@
    "last_seen": "2026-11-19T23:53:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Intuit is selling Mailchimp to Bending Spoons in a deal valued at about $3.68 billion.",
+   "latest_summary": "Intuit is selling Mailchimp to Bending Spoons, a Berkshire Hathaway-backed company, for $3.68 billion.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9459,7 +9932,7 @@
    "last_seen": "2026-11-19T23:53:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Intuit is selling Mailchimp to Bending Spoons in a deal valued at about $3.68 billion.",
+   "latest_summary": "Intuit is selling Mailchimp to Bending Spoons, a Berkshire Hathaway-backed company, for $3.68 billion.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9502,7 +9975,7 @@
    "last_seen": "2026-11-19T23:31:19Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes due 2031.",
+   "latest_summary": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes maturing in 2031.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9538,19 +10011,6 @@
    "has_vet": false
   },
   {
-   "name": "Namdar",
-   "slug": "namdar",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-19T21:51:06Z",
-   "last_seen": "2026-11-19T21:51:06Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Billionaire Namdar now controls the debt on a large New York mall.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "Center Parcs",
    "slug": "center-parcs",
    "count": 1,
@@ -9559,7 +10019,7 @@
    "last_seen": "2026-11-19T21:23:46Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Center Parcs has announced a new £5 rule across its five UK holiday parks, though the rule's details are unclear.",
+   "latest_summary": "Center Parcs is introducing a new £5 rule across its five UK holiday parks.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9572,7 +10032,7 @@
    "last_seen": "2026-11-19T21:07:08Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Job listing for a Los Angeles director role covering talent strategy and media relations at KCD.",
+   "latest_summary": "KCD, a communications agency, is recruiting a talent strategy and media relations director in Los Angeles.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9596,22 +10056,11 @@
    "count_30d": 1,
    "first_seen": "2026-11-19T20:19:59Z",
    "last_seen": "2026-11-19T20:19:59Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "A consumer personal finance piece lists six warning signs that a debt repayment plan is failing.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "Sydney Kings",
-   "slug": "sydney-kings",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-19T20:15:00Z",
-   "last_seen": "2026-11-19T20:15:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "A Sydney Kings basketball post offers no usable details in the feed.",
+   "sections": {
+    "lending": 1
+   },
+   "top_relevance": 2,
+   "latest_summary": "A MoneyLion article lists warning signs that a debt repayment plan is not working.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9637,7 +10086,7 @@
    "last_seen": "2026-11-19T20:03:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Chef Manish Mehrotra plans a vegetarian restaurant called Khatai at Time Out Market Delhi, opening in December.",
+   "latest_summary": "Time Out Market Delhi will open Chef Manish Mehrotra's vegetarian restaurant Khatai in December.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9672,6 +10121,19 @@
    "has_vet": false
   },
   {
+   "name": "NatWest",
+   "slug": "natwest",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T18:20:00Z",
+   "last_seen": "2026-11-19T18:20:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Former NatWest CEO Alison Rose has joined the board of Otoma.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Otoma",
    "slug": "otoma",
    "count": 1,
@@ -9680,20 +10142,7 @@
    "last_seen": "2026-11-19T18:20:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Former NatWest CEO Alison Rose has joined the board of payments technology firm Otoma.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
-   "name": "NatWest Group",
-   "slug": "natwest-group",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-19T18:20:00Z",
-   "last_seen": "2026-11-19T18:20:00Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Former NatWest CEO Alison Rose has joined the board of payments technology firm Otoma.",
+   "latest_summary": "Former NatWest CEO Alison Rose has joined the board of Otoma.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9763,8 +10212,8 @@
    "first_seen": "2026-11-19T17:27:51Z",
    "last_seen": "2026-11-19T17:27:51Z",
    "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Alipay+ is adding Pix to its cross-border QR payment network, linking Brazil's instant payment rails.",
+   "top_relevance": 2,
+   "latest_summary": "Alipay+ extended its cross-border QR payment network by integrating Brazil's Pix instant payment system.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9792,7 +10241,7 @@
    "last_seen": "2026-11-19T17:09:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Ubisoft reported strong bookings as players responded well to an Assassin's Creed remake.",
+   "latest_summary": "Ubisoft reported strong bookings as players responded well to its Assassin's Creed remake.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9812,6 +10261,19 @@
    "has_vet": false
   },
   {
+   "name": "Wild Child",
+   "slug": "wild-child",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T16:51:36Z",
+   "last_seen": "2026-11-19T16:51:36Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "The chef behind Wild Child and his brother are opening a sandwich shop in St. Petersburg, Florida.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
    "name": "Bath & Body Works",
    "slug": "bath-and-body-works",
    "count": 1,
@@ -9820,7 +10282,7 @@
    "last_seen": "2026-11-19T16:51:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Bath & Body Works' CEO says the retailer is on track one year into its strategy but not yet satisfied.",
+   "latest_summary": "The Bath & Body Works CEO says the company is on track but not yet satisfied with its results.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9848,7 +10310,7 @@
    "last_seen": "2026-11-19T16:30:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "In-N-Out Burger plans new restaurant locations across three states.",
+   "latest_summary": "In-N-Out Burger is opening new locations in three states.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9861,7 +10323,7 @@
    "last_seen": "2026-11-19T16:07:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "DBS and Circle will broaden institutional access to USDC across Asia.",
+   "latest_summary": "DBS and Circle are partnering to give institutional clients in Asia broader access to USDC.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9874,7 +10336,7 @@
    "last_seen": "2026-11-19T15:57:36Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A Wells Fargo analyst price forecast for Willis Towers Watson stock, a market note with no consumer or card relevance.",
+   "latest_summary": "A MarketBeat item reports a Wells Fargo analyst forecast on Willis Towers Watson shares, which is equity research rather than consumer business.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9887,7 +10349,7 @@
    "last_seen": "2026-11-19T15:55:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Tractor Supply is expanding same-day delivery as Amazon grows its rural delivery network.",
+   "latest_summary": "Tractor Supply is expanding its same-day delivery options for customers.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9920,15 +10382,15 @@
    "has_vet": false
   },
   {
-   "name": "State Bank of India",
-   "slug": "state-bank-of-india",
+   "name": "SBI",
+   "slug": "sbi",
    "count": 1,
    "count_30d": 1,
    "first_seen": "2026-11-19T14:57:14Z",
    "last_seen": "2026-11-19T14:57:14Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A brand value ranking shows HDFC Bank falling in 2026 while State Bank of India gains and fintechs rise.",
+   "latest_summary": "HDFC Bank's brand value has dropped in 2026 while State Bank of India gains and fintechs grow in standing.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9944,6 +10406,19 @@
    },
    "top_relevance": 3,
    "latest_summary": "Voyage Labs, founded by a former Google Maps staffer, raised $12 million to build an AI travel agent.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "Blue Origin",
+   "slug": "blue-origin",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T14:47:15Z",
+   "last_seen": "2026-11-19T14:47:15Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "Google has chosen Blue Origin to launch its AI computing satellites, with launches planned for 2029.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9969,9 +10444,11 @@
    "count_30d": 1,
    "first_seen": "2026-11-19T14:38:26Z",
    "last_seen": "2026-11-19T14:38:26Z",
-   "sections": {},
+   "sections": {
+    "wells": 1
+   },
    "top_relevance": 1,
-   "latest_summary": "Yahoo Finance offers an equity analysis of Wells Fargo's view on Zimmer Biomet shares.",
+   "latest_summary": "Wells Fargo equity research flags one weakness and one upgrade in medical device maker Zimmer Biomet.",
    "watch_status": null,
    "has_vet": false
   },
@@ -9997,7 +10474,7 @@
    "last_seen": "2026-11-19T14:15:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "A FinanceBuzz list highlights Target holiday items said to resemble West Elm pieces at a lower price.",
+   "latest_summary": "A consumer deals list compares Target holiday products with similar West Elm items sold at lower prices.",
    "watch_status": null,
    "has_vet": false
   },
@@ -10102,7 +10579,20 @@
    "last_seen": "2026-11-19T13:20:00Z",
    "sections": {},
    "top_relevance": 1,
-   "latest_summary": "Axis Bank expects its MSME loan book to grow 25 percent in the second half of the fiscal year.",
+   "latest_summary": "Axis Bank expects its small business (MSME) loan book to grow about 25% in the second half of the fiscal year.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "IDFC First Bank",
+   "slug": "idfc-first-bank",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-19T13:11:27Z",
+   "last_seen": "2026-11-19T13:11:27Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "The Nifty Bank index reached a new record high above 63,000, led by several Indian lenders.",
    "watch_status": null,
    "has_vet": false
   },
@@ -10364,19 +10854,6 @@
    "has_vet": false
   },
   {
-   "name": "Bank of Baroda",
-   "slug": "bank-of-baroda",
-   "count": 1,
-   "count_30d": 1,
-   "first_seen": "2026-11-19T08:34:56Z",
-   "last_seen": "2026-11-19T08:34:56Z",
-   "sections": {},
-   "top_relevance": 1,
-   "latest_summary": "Bank of Baroda assured a Mumbai high court it would preserve documents in the BR Shetty suit.",
-   "watch_status": null,
-   "has_vet": false
-  },
-  {
    "name": "PrivatBank",
    "slug": "privatbank",
    "count": 1,
@@ -10627,6 +11104,19 @@
    },
    "top_relevance": 2,
    "latest_summary": "Mizuho says tech outages are driving panic buying that benefits Costco.",
+   "watch_status": null,
+   "has_vet": false
+  },
+  {
+   "name": "ACI Worldwide",
+   "slug": "aci-worldwide",
+   "count": 1,
+   "count_30d": 1,
+   "first_seen": "2026-11-18T16:01:00Z",
+   "last_seen": "2026-11-18T16:01:00Z",
+   "sections": {},
+   "top_relevance": 1,
+   "latest_summary": "ACI Worldwide CEO Thomas Warsop is leaving, and insiders will lead the payments software firm until a successor is named.",
    "watch_status": null,
    "has_vet": false
   }

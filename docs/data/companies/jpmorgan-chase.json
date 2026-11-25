@@ -5,6 +5,27 @@
  "vets": [],
  "items": [
   {
+   "id": "83a798f661ab",
+   "title": "JPMorgan’s Note Sent DLocal Shares Sliding",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzdXRydW5fNkJiN1BYajNZckstWUQwWG5kbndXRGlTZ0NKUm9uNFJodjhpQ1N2UlotS0s5V0Via004Ql9lem96Y2VMdVBUSmRkMHNpb2VzNW5vS25EaXZqcVVtamdxNkQ5Q053NnNzUkhjT2tEMnVvdEZR?oc=5",
+   "source": "Finimize",
+   "source_type": "gnews",
+   "published": "2026-11-24T23:36:27Z",
+   "relevance": 1,
+   "why": "A JPMorgan research note pushed dLocal's shares lower.",
+   "summary_ai": "A JPMorgan research note pushed dLocal's shares lower.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "069827a4a245",
    "title": "JP Morgan, HSBC and StoneX pilot digital gold trades",
    "url": "https://www.finextra.com/newsarticle/48805/jp-morgan-hsbc-and-stonex-pilot-digital-gold-trades?utm_medium=rssfinextra&utm_source=finextrafeed",
@@ -14,6 +35,48 @@
    "relevance": 1,
    "why": "JPMorgan, HSBC and StoneX completed first live trades using fractions of physical gold bars as collateral in wholesale transactions.",
    "summary_ai": "JPMorgan, HSBC and StoneX completed first live trades using fractions of physical gold bars as collateral in wholesale transactions.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "a3cb9d410481",
+   "title": "Mary Callahan Erdoes, JP Morgan Chase Bank NA: Profile and Biography",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxWjdraG96VUF3dFhKOS1DZ3hSZmU4UF94WC1mNnRWT2k3dFpidkNTdnFRRklzTUREWkg2cEpBOU9aUGhYUlMyTHI4MWVIQWQ2NVQwbllLU2toWDNt?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T07:49:51Z",
+   "relevance": 2,
+   "why": "A profile of Mary Callahan Erdoes, who leads JPMorgan Chase's asset and wealth management business.",
+   "summary_ai": "A profile of Mary Callahan Erdoes, who leads JPMorgan Chase's asset and wealth management business.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "9f86aa246310",
+   "title": "Robin Leopold, JPMorgan Chase & Co: Profile and Biography",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBrRjNqZFRfSW1naDlpLXpxMXJkbk5QMWJCMlo5cU5ZTEIzWVdDSUUwSVk5LUpSeHlUSnVQSEw1bElyWjhQY0Z4dVJyQ3dLZ0RXZFJDZlg3Yy1YUXZqYmc?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T01:49:19Z",
+   "relevance": 1,
+   "why": "A Bloomberg profile page for JPMorgan Chase executive Robin Leopold.",
+   "summary_ai": "A Bloomberg profile page for JPMorgan Chase executive Robin Leopold.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -247,6 +310,10 @@
     {
      "source": "Goshen News",
      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQTEJ0N1NpamRTZW5OYm1pZWdYWFZ3RFVtb2JXdzFFTlplT0FGZF9BakpuVG9iZjU4LXc1QjVRemFIYWtsTWVGRmdSZExfLVV4eV9QamFWR2RFVFA5Mnc3NUl5RVhyWEY2Q2ItUGlKbk1zY05RUnhHYlNIX3h5V1ZIb3lSQU1wLWNWbHE1T3luUTBrYjBaS3ZPWjlnTkdJS01CcUV0UEowcDhtU1dUMjVqaEhyTmRCenlVU3hiVzhpeGt5RkJ4TUVfTzZxU0xHdFFzOHlJYVA0UzVQOWlNaVFSbUt6a1gydVZiUFVrUDU5QXlrNkRoS0xRWHROcw?oc=5"
+    },
+    {
+     "source": "AP News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTXBwN0pGMkswcklEdk5wanFSYmJla2VYVWRXU0g2RDVFaVU1d0kxTTAtWnl0bFhoNmpnX3lSZHBSRzBtMHhFNGhMamtvZEN2c01JWTdlYl9wZXlQemRvSW9rR2J1ZUxXWGdBUHVpc3gzdm55VlZjVUcxQnlySjhtTXdkREFPYlNIcnRMczk1QVNBVzVJcEVIOGoyZlFuUUlvWjZFVkFR?oc=5"
     }
    ]
   },

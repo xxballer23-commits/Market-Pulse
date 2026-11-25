@@ -1,0 +1,29 @@
+{
+ "name": "Huawei",
+ "slug": "huawei",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "517facaafde9",
+   "title": "China’s Huawei Convicted of Fraud in U.S. Criminal Trial",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbEdCYmowNkNwbExkSE9NeGFWWmVsV2F0d1pTUnlsblp2aGVFd1JxaFdIU1BpY0V3ZTl0S2tlUHRpZmNldFBpZ3IydkVGY0FWUFZ2VXVMY1JYUFk3TlNWNjRIdW5fYjRMZmkxNEViaHF5TGVzemk3blIzc1RKdzVqa1pjV2hRM1VMZHYydTNSQUFZU3FKUVVsd2czNURDSE1nT3c?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T22:41:00Z",
+   "relevance": 1,
+   "why": "A US criminal jury convicted Huawei of fraud, a matter outside the premium card and luxury landscape.",
+   "summary_ai": "A US criminal jury convicted Huawei of fraud, a matter outside the premium card and luxury landscape.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

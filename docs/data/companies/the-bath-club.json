@@ -1,0 +1,31 @@
+{
+ "name": "The Bath Club",
+ "slug": "the-bath-club",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "45ec4328623b",
+   "title": "Chef Wei Brings a New Season of Omakase to The Bath Club",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SdFlFTUNyZ3BCaHNCbWRvYXJMVldyVWdZdWhEWDQ2TkZCS2Z5VTFGN1FMTGVTSndWb0laaTVmc0RGVVo3T3Z5bmF3TUFPYWtiT1lLVFZ5VjNvVkJldjVZdW05WlBFd0kweXdBbG02MnA0bVFf?oc=5",
+   "source": "Haute Living",
+   "source_type": "gnews",
+   "published": "2026-11-24T23:35:33Z",
+   "relevance": 2,
+   "why": "Chef Wei is launching a new omakase season at The Bath Club.",
+   "summary_ai": "Chef Wei is launching a new omakase season at The Bath Club.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

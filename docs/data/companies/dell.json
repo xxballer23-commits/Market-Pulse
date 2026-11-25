@@ -1,0 +1,29 @@
+{
+ "name": "Dell",
+ "slug": "dell",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "47bd9d7e6f97",
+   "title": "Dell Lifts Outlook as Revenue Doubles on Server Demand",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObk5GZm9mdm5WV1hxX3JqcnkyeEdaWTdPRmpuUnRvQ3NDSnQ3b0VXbEFUMjNXQVpGQ2dZRlJWTzczbzZsbHprRHFpUzhadnpUQU5GRlppYU01MkV2RzV1LTJVcnNvd3ZCSDhpdHlqTU5oMjJvLUwzTGNTR3Y5VlRvc29IdnhtSUhKQ3NOcE1NNjl5ekFqeng1ZHJ2QzRCTFJTbXJZ?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T21:19:00Z",
+   "relevance": 1,
+   "why": "Dell raised its outlook after revenue doubled on strong demand for servers.",
+   "summary_ai": "Dell raised its outlook after revenue doubled on strong demand for servers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

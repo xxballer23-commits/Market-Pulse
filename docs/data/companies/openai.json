@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "cd353ebb2890",
+   "title": "WSJ Says OpenAI IPO Delay May Increase Exposure to Potential AI Downturn",
+   "url": "https://www.pymnts.com/news/investment-tracker/ipo/2026/wsj-says-openai-ipo-delay-may-increase-exposure-to-potential-ai-downturn/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-24T23:57:01Z",
+   "relevance": 1,
+   "why": "WSJ reports that a delayed OpenAI IPO extends its exposure to a possible AI market downturn.",
+   "summary_ai": "WSJ reports that a delayed OpenAI IPO extends its exposure to a possible AI market downturn.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Nov. 24"
+   ],
+   "also": []
+  },
+  {
    "id": "7671b97cf3d1",
    "title": "Citigold Making Changes To $200/$400 Annual Subscription Benefit (Spotify & Hulu To Be Removed, ChatGPT Added)",
    "url": "https://www.doctorofcredit.com/citigold-making-changes-to-200-400-annual-subscription-benefit-spotify-hulu-to-be-removed-chatgpt-added/",

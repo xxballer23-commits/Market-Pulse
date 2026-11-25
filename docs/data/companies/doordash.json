@@ -35,23 +35,22 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T21:20:26Z",
-   "relevance": 1,
-   "why": "DoorDash is offering 30 percent off Wegmans orders with a $70 minimum, capped at $25 off, using code 30WEGMANS.",
-   "summary_ai": "DoorDash is offering 30 percent off Wegmans orders with a $70 minimum, capped at $25 off, using code 30WEGMANS.",
+   "relevance": 2,
+   "why": "Doctor of Credit lists a DoorDash promo code that takes 30% off Wegmans orders.",
+   "summary_ai": "Doctor of Credit lists a DoorDash promo code that takes 30% off Wegmans orders.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Code access inconsistent, limited eligibility",
+   "low_confidence": "Promo code, forum source, end date unknown",
    "sections": [
     "community"
    ],
    "breaking": false,
    "data_points": [
     "30% off",
-    "$70 minimum spend",
-    "$25 max discount"
+    "Code 30WEGMANS"
    ],
    "also": []
   }

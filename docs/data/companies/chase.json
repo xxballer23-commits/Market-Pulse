@@ -5,6 +5,106 @@
  "vets": [],
  "items": [
   {
+   "id": "65cd237b2f86",
+   "title": "Chase Offers: Get 5% Back At Giftcards.com (Up To $40 Back)",
+   "url": "https://www.doctorofcredit.com/chase-offers-offers-get-5-back-at-giftcards-com-up-to-50-back/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T03:00:57Z",
+   "relevance": 1,
+   "why": "A Chase Offers listing gives 5% back at Giftcards.com, but the listing shows a 2024 expiry, so it is likely stale.",
+   "summary_ai": "A Chase Offers listing gives 5% back at Giftcards.com, but the listing shows a 2024 expiry, so it is likely stale.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Expired date, stale listing",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5% back",
+    "$40 maximum back",
+    "Expires 12/31/2024"
+   ],
+   "also": []
+  },
+  {
+   "id": "3babba85eb46",
+   "title": "Giftcards.com Chase Offer: Get 5% back on up to $800 spend",
+   "url": "https://frequentmiler.com/giftcards-com-chase-offer-get-5-back-on-up-to-1000-spend/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-25T01:45:30Z",
+   "relevance": 2,
+   "why": "Frequent Miler reports the Giftcards.com Chase 5% back offer was extended again, a couple of days at a time.",
+   "summary_ai": "Frequent Miler reports the Giftcards.com Chase 5% back offer was extended again, a couple of days at a time.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Offer end date keeps shifting, forum-sourced",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5% back",
+    "$800 spend cap",
+    "Extended to Nov 23"
+   ],
+   "also": []
+  },
+  {
+   "id": "04ad03d0e926",
+   "title": "5 reasons to upgrade from the United Explorer to the United Quest",
+   "url": "https://thepointsguy.com/credit-cards/upgrade-united-explorer-to-united-quest/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-24T22:00:04Z",
+   "relevance": 2,
+   "why": "A TPG guide lays out five reasons to move from the United Explorer card up to the United Quest.",
+   "summary_ai": "A TPG guide lays out five reasons to move from the United Explorer card up to the United Quest.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "eb46f2e19263",
+   "title": "The ultimate guide to Southwest Airlines credit card eligibility",
+   "url": "https://thepointsguy.com/credit-cards/ultimate-guide-southwest-credit-card-eligibility/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-24T21:00:23Z",
+   "relevance": 3,
+   "why": "A guide walks through current Southwest Airlines card welcome offers, their bonus values, annual fees and Chase application rules.",
+   "summary_ai": "A guide walks through current Southwest Airlines card welcome offers, their bonus values, annual fees and Chase application rules.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "96381a0c4aab",
    "title": "Southwest Priority Card Review: Strong Airline Benefits For Frequent Flyers",
    "url": "https://onemileatatime.com/reviews/credit-cards/chase/southwest-priority-card/",
@@ -28,6 +128,27 @@
     "90,000 points welcome bonus",
     "$229 annual fee"
    ],
+   "also": []
+  },
+  {
+   "id": "fe97d8f5fbf5",
+   "title": "Chase Freedom Flex® vs. Bank of America® Customized Cash Rewards credit card: Which Cash Back Card Is Better?",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVXF5QzVhek04WmR0VUxPd1UwX1dEc3RlX085NzdIa1BDbzZNMllVYUJTcEJEcEFJa2cxdklabWFoWWo3M05XbkJWRUxFSkh3aGN0SG1UT0pBSWtHc1B1ODVPb2F4azkyNzl5VjFuX0dRbkdEMWk3VXRvTXZBblFRV1JuT2ZuUHI3cGVhNXdJcTV6T1gwOGdpU2U1eTVHQzEySDhVY1lXQ3FvV1FxbXA3MWRXdXdkajJ3eUFpd1d1WDE?oc=5",
+   "source": "The Motley Fool",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:26:42Z",
+   "relevance": 2,
+   "why": "A Motley Fool comparison weighs two mass-market cash back cards from Chase and Bank of America against each other.",
+   "summary_ai": "A Motley Fool comparison weighs two mass-market cash back cards from Chase and Bank of America against each other.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
    "also": []
   },
   {

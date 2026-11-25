@@ -36,19 +36,21 @@
    "source": "Bloomberg.com",
    "source_type": "gnews",
    "published": "2026-11-19T19:12:57Z",
-   "relevance": 1,
-   "why": "Tod's is near a roughly €400 million debt refinancing backed by its owners, a capital structure story rather than a consumer one.",
-   "summary_ai": "Tod's is near a roughly €400 million debt refinancing backed by its owners, a capital structure story rather than a consumer one.",
+   "relevance": 2,
+   "why": "Tod's is nearing a roughly €400 million debt refinancing supported by its controlling owners.",
+   "summary_ai": "Tod's is nearing a roughly €400 million debt refinancing supported by its controlling owners.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "luxury"
+   ],
    "breaking": false,
    "data_points": [
-    "€400 million"
+    "€400 million debt refinance"
    ],
    "also": []
   }

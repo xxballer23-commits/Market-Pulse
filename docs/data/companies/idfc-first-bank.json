@@ -1,30 +1,30 @@
 {
- "name": "IDFC FIRST Bank",
+ "name": "IDFC First Bank",
  "slug": "idfc-first-bank",
  "watch": null,
  "vets": [],
  "items": [
   {
-   "id": "8a777290f88e",
-   "title": "Business Multiplier Credit Card From IDFC FIRST Bank",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZk01em9QNWN5SGI3dFZzbDRPdy02Ymw2SjVBckdyR3pOVDdub0JEZXRydE1Rb05aY2lha3VLMjFneGs1MlRwNHpyTDB5TTQ1WWFPZFlKSUNqQnhCRGlmYnRPQ3dfREJleWJveHZ1dXNfem84c2xjSHBMM0N2ZEYtS3hQZ29mTzRIdHhVWlV3U1BsMlctT0w0ZTZodDU3dw?oc=5",
-   "source": "https://www.fintechbiznews.com/",
+   "id": "be58d6f54497",
+   "title": "Nifty Bank hits fresh record high above 63,000; IDFC First Bank, Bank of Baroda, PNB lead gains",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONURjNFdWWllGMW9nNnc1aDlWNzFNa1ItYWVQdDlMRHc2bjQ5YVhFemszWnBmSW5taU1MMjF5UWl2UjVHSDBRSlNEVnpZZmxXQUoxdFRyZEY2VndIOTl3XzZuUHN2ZG4tbmcwRXA0eVZRRFZxMFRRMHVNRnhEdXVUa1FONEs5RjQwdmJKR09jMUwxa2VSSERtaVFHRVc4Tk5Vc1k2M1p0VEhuUU9HTmFET2dpekNJYzBfUmNuVVpvbVJxOVVmdW5NT3FXQWd4RHJUNGllYmVfZGNSR1ZvLW5iOWNTbFFGamMtMnBEMdIB7AFBVV95cUxONURjNFdWWllGMW9nNnc1aDlWNzFNa1ItYWVQdDlMRHc2bjQ5YVhFemszWnBmSW5taU1MMjF5UWl2UjVHSDBRSlNEVnpZZmxXQUoxdFRyZEY2VndIOTl3XzZuUHN2ZG4tbmcwRXA0eVZRRFZxMFRRMHVNRnhEdXVUa1FONEs5RjQwdmJKR09jMUwxa2VSSERtaVFHRVc4Tk5Vc1k2M1p0VEhuUU9HTmFET2dpekNJYzBfUmNuVVpvbVJxOVVmdW5NT3FXQWd4RHJUNGllYmVfZGNSR1ZvLW5iOWNTbFFGamMtMnBEMQ?oc=5",
+   "source": "bfsi.economictimes.indiatimes.com",
    "source_type": "gnews",
-   "published": "2026-11-21T01:41:57Z",
-   "relevance": 2,
-   "why": "IDFC FIRST Bank has launched a business credit card called Multiplier.",
-   "summary_ai": "IDFC FIRST Bank has launched a business credit card called Multiplier.",
+   "published": "2026-11-19T13:11:27Z",
+   "relevance": 1,
+   "why": "The Nifty Bank index reached a new record high above 63,000, led by several Indian lenders.",
+   "summary_ai": "The Nifty Bank index reached a new record high above 63,000, led by several Indian lenders.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [
-    "premium_cards"
-   ],
+   "sections": [],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "Above 63,000 index level"
+   ],
    "also": []
   }
  ]

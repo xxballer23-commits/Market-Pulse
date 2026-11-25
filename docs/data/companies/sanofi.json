@@ -1,0 +1,31 @@
+{
+ "name": "Sanofi",
+ "slug": "sanofi",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4250618e3ea7",
+   "title": "Sanofi Strikes $41 Billion Deal to Buy U.S. Drugmaker Insmed",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVBfakx5WUY1dzBVU0lscUpnMDNrd19fN25wcFpwMU9Wb2ZxdUpOZVJSX2I4NV9sWXlKY2lUeTduMjdLdURsaVVwc2U5dEtQblVuUS12S2RPWl80SjBYdDMzQlpKcTctOFg1SzdRdi1QSWsyakx3ZDFtWWxxSU9DdzRQclZTUHhL?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T09:39:00Z",
+   "relevance": 1,
+   "why": "Sanofi agreed to buy U.S. drugmaker Insmed in a deal valued at $41 billion.",
+   "summary_ai": "Sanofi agreed to buy U.S. drugmaker Insmed in a deal valued at $41 billion.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$41 billion deal value"
+   ],
+   "also": []
+  }
+ ]
+}

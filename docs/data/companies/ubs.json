@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T00:00:00Z",
    "relevance": 1,
-   "why": "UBS's Lovell suggests AI capital spending could be cut by 5% to 10%.",
-   "summary_ai": "UBS's Lovell suggests AI capital spending could be cut by 5% to 10%.",
+   "why": "UBS strategist Lovell suggests AI-related capital spending could face a 5% to 10% cut.",
+   "summary_ai": "UBS strategist Lovell suggests AI-related capital spending could face a 5% to 10% cut.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -22,9 +22,7 @@
    "low_confidence": null,
    "sections": [],
    "breaking": false,
-   "data_points": [
-    "5%-10%"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

@@ -1,0 +1,34 @@
+{
+ "name": "Park Hotels",
+ "slug": "park-hotels",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "785909da2d31",
+   "title": "Park Hotels targets 2030 opening for Rs 150 crore Vizag hotel",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUxmUEFsSTdvTm50ZnZ5M1psSkFvZVZMcGVPSENCNnpyZFh4NXBsUkdKMjdWRHUtWHFmX3hDUGZlQVpKcVNNZWdpWDFteHNZWFFQUTlKelZUa0pGb0xwaG5TcVI4Y1BmekJmRFVpcDJWV1ZZWnRBaW15QXlvNldNZ3VxYnFEUmwtN25JclhGR3VPNV9GNi1Hc3o5dHdBaUtNcGNrdXRmN0tiTG0tVkgw?oc=5",
+   "source": "Multibagg AI",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:56:44Z",
+   "relevance": 2,
+   "why": "Park Hotels plans a Rs 150 crore hotel in Visakhapatnam with a target opening in 2030.",
+   "summary_ai": "Park Hotels plans a Rs 150 crore hotel in Visakhapatnam with a target opening in 2030.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Rs 150 crore",
+    "2030 target opening"
+   ],
+   "also": []
+  }
+ ]
+}

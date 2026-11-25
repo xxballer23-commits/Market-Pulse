@@ -5,6 +5,33 @@
  "vets": [],
  "items": [
   {
+   "id": "f2a1bac63fec",
+   "title": "Thrifty Traveler Premium promo: Save 30% on first year’s cost",
+   "url": "https://frequentmiler.com/thrifty-traveler-premium-promo-save-30-on-first-years-cost/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-24T20:45:52Z",
+   "relevance": 2,
+   "why": "Thrifty Traveler is offering 30 percent off the first year of its Premium and Premium+ subscriptions.",
+   "summary_ai": "Thrifty Traveler is offering 30 percent off the first year of its Premium and Premium+ subscriptions.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30% off first year",
+    "$90.99 Premium",
+    "$132.99 Premium+"
+   ],
+   "also": []
+  },
+  {
    "id": "54d5518442ce",
    "title": "Thrifty Traveler Premium: 30% Off With Promo Code DOC",
    "url": "https://www.doctorofcredit.com/thrifty-traveler-premium-30-off-with-promo-code-doc/",

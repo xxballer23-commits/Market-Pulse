@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T21:07:08Z",
    "relevance": 1,
-   "why": "Job listing for a Los Angeles director role covering talent strategy and media relations at KCD.",
-   "summary_ai": "Job listing for a Los Angeles director role covering talent strategy and media relations at KCD.",
+   "why": "KCD, a communications agency, is recruiting a talent strategy and media relations director in Los Angeles.",
+   "summary_ai": "KCD, a communications agency, is recruiting a talent strategy and media relations director in Los Angeles.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -22,9 +22,7 @@
    "low_confidence": null,
    "sections": [],
    "breaking": false,
-   "data_points": [
-    "Job ID 328380"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

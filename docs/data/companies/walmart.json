@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "6a59c3686f8f",
+   "title": "[Updated] Capital One Shopping Portal Adds Redemption Options",
+   "url": "https://www.doctorofcredit.com/capital-one-shopping-portal-removes-walmart-safeway-redemption-options/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T04:02:51Z",
+   "relevance": 2,
+   "why": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
+   "summary_ai": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Forum report, visibility varies by user",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Updated 11/24/26"
+   ],
+   "also": []
+  },
+  {
    "id": "de8414705fb8",
    "title": "Walmart Turns to Meta’s Muse to Power Black Friday",
    "url": "https://www.pymnts.com/news/retail/2026/walmart-turns-to-metas-muse-to-power-black-friday/",
@@ -23,6 +48,27 @@
    "sections": [
     "partnerships"
    ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2f620c4cfeb7",
+   "title": "13 Walmart Great Value Products That Are Honestly Better Than the Name Brand",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1fSWZxZnhCbXZBMG9WUVpVZEZvX29LRzB5blRHUzBMcWY4ZVJoMGd1X2VoUE53Q2VUOVNKYUVJbWdSTExGeEdMSkpieGFjcDVTSkNBVk5pOUlWOF9BSS1EaDlxVWs5VVBUYWNoS1pNQQ?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:07:39Z",
+   "relevance": 1,
+   "why": "A consumer listicle claims several Walmart Great Value store-brand products beat name-brand equivalents.",
+   "summary_ai": "A consumer listicle claims several Walmart Great Value store-brand products beat name-brand equivalents.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []

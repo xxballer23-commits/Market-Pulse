@@ -1,0 +1,36 @@
+{
+ "name": "US Mobile",
+ "slug": "us-mobile",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c4ae0856fd54",
+   "title": "US Mobile: 18 Months For $288, $299 Pixel 11 Pro ($399 Without Plan) [11/28 Only]",
+   "url": "https://www.doctorofcredit.com/us-mobile-18-months-for-288-299-pixel-11-pro-399-without-plan-11-28-only/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T21:16:23Z",
+   "relevance": 1,
+   "why": "US Mobile is running a Black Friday deal bundling an 18-month plan with the Pixel 11 Pro.",
+   "summary_ai": "US Mobile is running a Black Friday deal bundling an 18-month plan with the Pixel 11 Pro.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$288 for 18 months",
+    "$299 Pixel 11 Pro",
+    "$399 without plan",
+    "11/28 only"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "6a59c3686f8f",
+   "title": "[Updated] Capital One Shopping Portal Adds Redemption Options",
+   "url": "https://www.doctorofcredit.com/capital-one-shopping-portal-removes-walmart-safeway-redemption-options/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T04:02:51Z",
+   "relevance": 2,
+   "why": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
+   "summary_ai": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Forum report, visibility varies by user",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Updated 11/24/26"
+   ],
+   "also": []
+  },
+  {
    "id": "a449ac15f572",
    "title": "Best Buy sales outperform even as computing gets more expensive",
    "url": "https://www.modernretail.co/operations/best-buy-customers-undeterred-by-rising-prices/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
@@ -134,15 +159,15 @@
    "source": "Doctor of Credit",
    "source_type": "rss",
    "published": "2026-11-20T19:00:16Z",
-   "relevance": 1,
-   "why": "Citi is offering $10 off a $200 Best Buy purchase, limited to two uses.",
-   "summary_ai": "Citi is offering $10 off a $200 Best Buy purchase, limited to two uses.",
+   "relevance": 2,
+   "why": "Citi is offering a targeted card-linked discount of $10 off a $200 Best Buy purchase, limited to two uses.",
+   "summary_ai": "Citi is offering a targeted card-linked discount of $10 off a $200 Best Buy purchase, limited to two uses.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Offer eligibility varies by cardholder",
+   "low_confidence": "Targeted offer, eligibility unknown",
    "sections": [
     "community"
    ],

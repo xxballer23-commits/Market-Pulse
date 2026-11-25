@@ -5,6 +5,52 @@
  "vets": [],
  "items": [
   {
+   "id": "48e13c95dd14",
+   "title": "Google AI Turns Wallet Data Into Spending and Card Rewards Advice",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-enables-users-to-connect-wallet-to-ai-mode-for-personalized-responses/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T00:23:17Z",
+   "relevance": 4,
+   "why": "Google's AI rewards advice built on Wallet data could compete with issuer card-optimization tools for cardholder attention.",
+   "summary_ai": "Google will let users connect Wallet, Drive and Gemini to Personal Intelligence for personalized spending and card rewards advice.",
+   "take": "Google's AI rewards advice built on Wallet data could compete with issuer card-optimization tools for cardholder attention.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "841cad818222",
+   "title": "Google Folds Hotel Ads Into Search, Upending How Properties Bid and Measure",
+   "url": "https://skift.com/2026/11/24/google-folds-hotel-ads-into-search-upending-how-properties-bid-and-measure/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-24T21:53:25Z",
+   "relevance": 2,
+   "why": "Hotel ad budgets shifting toward Google could make hotel partners more open to joint marketing with card travel programs.",
+   "summary_ai": "Google is moving hotel ads into its search results, changing how properties bid on and measure ad performance.",
+   "take": "Hotel ad budgets shifting toward Google could make hotel partners more open to joint marketing with card travel programs.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "32432adcf2a7",
    "title": "Google Adds Grocery Giants to Connected Apps Feature",
    "url": "https://www.pymnts.com/news/retail/2026/google-adds-grocery-giants-to-connected-apps-feature/",
@@ -160,6 +206,29 @@
    "breaking": false,
    "data_points": [
     "$12M raise"
+   ],
+   "also": []
+  },
+  {
+   "id": "4041a57ac43b",
+   "title": "Google Picks Bezos' Blue Origin to Launch AI Computing Satellites in 2029",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQczdodEZKa3oxS1pFVl9SRkZISHI1Y1BCYTdyWk02cS1CblJtcGpBMV9GcmNvZjRYb2pnWXpRUHNpUzRRRXFrUTJKTG1McHhuTjdIbzVNT3kza3lvQnZYTkxxQnRSYi1IbU9tV3E5aWpPUldLQzJ5UFRrU0RlRElQaUVNY1dKMWZ4NWRKNzY2RnRvVXpWQkpvX2tJT3pXZUNzRHFNTVZORmhzZHNqMkNBdFQ0SVlMbmgxems5T3lRdWVjNTYyR3lqZm8xVzQ?oc=5",
+   "source": "US News Money",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:47:15Z",
+   "relevance": 1,
+   "why": "Google has chosen Blue Origin to launch its AI computing satellites, with launches planned for 2029.",
+   "summary_ai": "Google has chosen Blue Origin to launch its AI computing satellites, with launches planned for 2029.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Launch in 2029"
    ],
    "also": []
   }

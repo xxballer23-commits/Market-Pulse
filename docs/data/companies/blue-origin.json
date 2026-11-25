@@ -1,0 +1,31 @@
+{
+ "name": "Blue Origin",
+ "slug": "blue-origin",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4041a57ac43b",
+   "title": "Google Picks Bezos' Blue Origin to Launch AI Computing Satellites in 2029",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQczdodEZKa3oxS1pFVl9SRkZISHI1Y1BCYTdyWk02cS1CblJtcGpBMV9GcmNvZjRYb2pnWXpRUHNpUzRRRXFrUTJKTG1McHhuTjdIbzVNT3kza3lvQnZYTkxxQnRSYi1IbU9tV3E5aWpPUldLQzJ5UFRrU0RlRElQaUVNY1dKMWZ4NWRKNzY2RnRvVXpWQkpvX2tJT3pXZUNzRHFNTVZORmhzZHNqMkNBdFQ0SVlMbmgxems5T3lRdWVjNTYyR3lqZm8xVzQ?oc=5",
+   "source": "US News Money",
+   "source_type": "gnews",
+   "published": "2026-11-19T14:47:15Z",
+   "relevance": 1,
+   "why": "Google has chosen Blue Origin to launch its AI computing satellites, with launches planned for 2029.",
+   "summary_ai": "Google has chosen Blue Origin to launch its AI computing satellites, with launches planned for 2029.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Launch in 2029"
+   ],
+   "also": []
+  }
+ ]
+}

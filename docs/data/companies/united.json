@@ -5,6 +5,75 @@
  "vets": [],
  "items": [
   {
+   "id": "2e9218e3af0d",
+   "title": "American Drops Lawsuit Over Gates at Chicago O’Hare but It’s Still Locked in a Battle With United",
+   "url": "https://skift.com/2026/11/24/american-drops-lawsuit-over-gates-at-chicago-o-hare/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-24T23:18:37Z",
+   "relevance": 2,
+   "why": "Chicago hub rivalry affects airline co-brand leverage; track gate and capacity moves before renewing airline benefit terms.",
+   "summary_ai": "American dropped its O'Hare gate lawsuit but remains locked in a capacity fight with United in Chicago.",
+   "take": "Chicago hub rivalry affects airline co-brand leverage; track gate and capacity moves before renewing airline benefit terms.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "04ad03d0e926",
+   "title": "5 reasons to upgrade from the United Explorer to the United Quest",
+   "url": "https://thepointsguy.com/credit-cards/upgrade-united-explorer-to-united-quest/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-24T22:00:04Z",
+   "relevance": 2,
+   "why": "A TPG guide lays out five reasons to move from the United Explorer card up to the United Quest.",
+   "summary_ai": "A TPG guide lays out five reasons to move from the United Explorer card up to the United Quest.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "fa045999114a",
+   "title": "San Francisco International Airport to land new, bigger and fancier United Club in time for Christmas travel",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYy1HQS0yRFFpY2hhQnlONGNlYmg3NXN1ZU5KYkRfeXpLWkR6UFpMcGNxTmtnS2hfZ1h4SGdWbmMwR2Zld2ljX2Q4QmlJZXd1dndnS09xTlpnUUg3QmpzOHdUbUJDemZyU0tvdlV6cm5oNEVRVnNSdE9fZklxaXBvV2tmRXg2RHZMS1I2MHpTUGNqeXB4dlJBSFlnaWdNQQ?oc=5",
+   "source": "The Business Journals",
+   "source_type": "gnews",
+   "published": "2026-11-24T20:47:00Z",
+   "relevance": 3,
+   "why": "Bigger lounge capacity at SFO helps United-linked premium card lounge access during peak travel.",
+   "summary_ai": "United is opening a larger, upgraded United Club lounge at San Francisco International Airport ahead of the holiday travel rush.",
+   "take": "Bigger lounge capacity at SFO helps United-linked premium card lounge access during peak travel.",
+   "take_kind": "read",
+   "partner": "United",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "87e7f0c232c8",
    "title": "Delta Plans Seattle To Singapore A350 Flights, Carrier’s Third Longest Route",
    "url": "https://onemileatatime.com/news/delta-singapore-flights/",

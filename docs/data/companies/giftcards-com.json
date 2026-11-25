@@ -1,0 +1,62 @@
+{
+ "name": "Giftcards.com",
+ "slug": "giftcards-com",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "65cd237b2f86",
+   "title": "Chase Offers: Get 5% Back At Giftcards.com (Up To $40 Back)",
+   "url": "https://www.doctorofcredit.com/chase-offers-offers-get-5-back-at-giftcards-com-up-to-50-back/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T03:00:57Z",
+   "relevance": 1,
+   "why": "A Chase Offers listing gives 5% back at Giftcards.com, but the listing shows a 2024 expiry, so it is likely stale.",
+   "summary_ai": "A Chase Offers listing gives 5% back at Giftcards.com, but the listing shows a 2024 expiry, so it is likely stale.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Expired date, stale listing",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5% back",
+    "$40 maximum back",
+    "Expires 12/31/2024"
+   ],
+   "also": []
+  },
+  {
+   "id": "3babba85eb46",
+   "title": "Giftcards.com Chase Offer: Get 5% back on up to $800 spend",
+   "url": "https://frequentmiler.com/giftcards-com-chase-offer-get-5-back-on-up-to-1000-spend/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-25T01:45:30Z",
+   "relevance": 2,
+   "why": "Frequent Miler reports the Giftcards.com Chase 5% back offer was extended again, a couple of days at a time.",
+   "summary_ai": "Frequent Miler reports the Giftcards.com Chase 5% back offer was extended again, a couple of days at a time.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Offer end date keeps shifting, forum-sourced",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "5% back",
+    "$800 spend cap",
+    "Extended to Nov 23"
+   ],
+   "also": []
+  }
+ ]
+}

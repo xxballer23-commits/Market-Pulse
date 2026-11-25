@@ -36,15 +36,17 @@
    "source_type": "gnews",
    "published": "2026-11-20T19:56:36Z",
    "relevance": 1,
-   "why": "Affirm shares dropped as selling pressure outweighed signs of a rebound, according to Traders Union.",
-   "summary_ai": "Affirm shares dropped as selling pressure outweighed signs of a rebound, according to Traders Union.",
+   "why": "Affirm's shares fell on heavy selling pressure and weak price momentum, according to a technical trading note.",
+   "summary_ai": "Affirm's shares fell on heavy selling pressure and weak price momentum, according to a technical trading note.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "lending"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []
@@ -56,16 +58,18 @@
    "source": "Traders Union",
    "source_type": "gnews",
    "published": "2026-11-19T19:23:28Z",
-   "relevance": 1,
-   "why": "Affirm shares dropped on weak price momentum and heavy selling, a stock-trading story rather than a lending product update.",
-   "summary_ai": "Affirm shares dropped on weak price momentum and heavy selling, a stock-trading story rather than a lending product update.",
+   "relevance": 2,
+   "why": "Affirm shares fell as trading signals pointed to weak momentum and heavy selling pressure.",
+   "summary_ai": "Affirm shares fell as trading signals pointed to weak momentum and heavy selling pressure.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "lending"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

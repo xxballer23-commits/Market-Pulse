@@ -1,0 +1,35 @@
+{
+ "name": "UK Finance",
+ "slug": "uk-finance",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "efe7fc8f4241",
+   "title": "UK APP fraud losses continue to rise",
+   "url": "https://www.finextra.com/newsarticle/48799/uk-app-fraud-losses-continue-to-rise?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T00:01:00Z",
+   "relevance": 2,
+   "why": "Authorised push payment fraud losses in the UK rose 22% to £316 million in the first half of 2026.",
+   "summary_ai": "Authorised push payment fraud losses in the UK rose 22% to £316 million in the first half of 2026.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "£316 million",
+    "22% rise",
+    "First half of 2026"
+   ],
+   "also": []
+  }
+ ]
+}

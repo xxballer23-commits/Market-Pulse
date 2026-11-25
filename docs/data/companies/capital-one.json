@@ -5,6 +5,103 @@
  "vets": [],
  "items": [
   {
+   "id": "6a59c3686f8f",
+   "title": "[Updated] Capital One Shopping Portal Adds Redemption Options",
+   "url": "https://www.doctorofcredit.com/capital-one-shopping-portal-removes-walmart-safeway-redemption-options/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T04:02:51Z",
+   "relevance": 2,
+   "why": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
+   "summary_ai": "Capital One Shopping's portal is showing more redemption options, including Walmart, Best Buy and Apple, though visibility varies by user.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Forum report, visibility varies by user",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Updated 11/24/26"
+   ],
+   "also": []
+  },
+  {
+   "id": "d65f32b5f3da",
+   "title": "Ending Soon: Capital One Venture Card’s 75K Welcome Offer With a $300 Travel Credit",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNLUNDdG1Qc2xrOEdDZjZVS1RhUlFRaVJTUEM3d3QtMmxMdWpxeTB2V1ZHMkJOUUdBRUV3QlF2dXFBN3FmUFJ6cWdQcWlpazRsX1B0aGdUUEJMa1o2UW5wazV1SHlYYXY3SlJrb3lLc3Fab2JJTHc3NllIZ0pqekE1VFN2RlQ2QXVGY3g4Rjl0QVluODQxdlE?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T22:49:44Z",
+   "relevance": 3,
+   "why": "Benchmark this 75K-plus-$300-credit offer against our travel card welcome bonuses before it expires.",
+   "summary_ai": "Capital One's Venture Card welcome offer of 75K miles plus a $300 travel credit is ending soon.",
+   "take": "Benchmark this 75K-plus-$300-credit offer against our travel card welcome bonuses before it expires.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "75K welcome offer",
+    "$300 travel credit"
+   ],
+   "also": []
+  },
+  {
+   "id": "8e4eb2590b8e",
+   "title": "Cap One pursues payments modernization",
+   "url": "https://www.paymentsdive.com/news/cap-one-pursues-payments-modernization/875673/",
+   "source": "Payments Dive",
+   "source_type": "rss",
+   "published": "2026-11-24T22:34:00Z",
+   "relevance": 2,
+   "why": "Capital One says its real-time and cloud payments investments are keeping its rails current with technology change.",
+   "summary_ai": "Capital One says its real-time and cloud payments investments are keeping its rails current with technology change.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "3d076f06ed5f",
+   "title": "Ending soon: Capital One Venture welcome bonus worth $1,050 or more in travel",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV296bTN0UmpjOW51NVNOZjhoRklaYkZjMU9Vc054LVBuSmlUeVE5elRoZGFKYm9PSG0yMG9lMWtZT0dJb1lZY1J5Y2xpWTNhY1Nsam80elY0dmNBNkZEcWU3ZzRIUmRTalM2Q2tPVXI2RW1LemZ2YUxnTmNNRmhreWdPMmNZUFJxU2Q5UjN1YW1wQdIBlwFBVV95cUxNZ0M1SkxpWU9LUU90WFlESzhkUWdFWEM5RWgxRk8tYlpKay1qUlhIMHF0c3JMZlZmVXh1SW9uTlpYNGpwM2p4YTNjNEhKVTN6dkx3VzE5Z0FTSTdPTkc0dWc5X21xYUozYWltMEx4eUJXZ2FpT0hVZ0J4MUQ3M3VsMmFwWUlYYlpUa25NOEFYdGtULVlFVFg0?oc=5",
+   "source": "CNBC",
+   "source_type": "gnews",
+   "published": "2026-11-24T22:16:55Z",
+   "relevance": 3,
+   "why": "Track the $1,050 travel-value offer's end date and compare it against our own welcome bonus benchmarks.",
+   "summary_ai": "Capital One's Venture welcome bonus, worth $1,050 or more in travel, is ending soon.",
+   "take": "Track the $1,050 travel-value offer's end date and compare it against our own welcome bonus benchmarks.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$1,050 travel value"
+   ],
+   "also": []
+  },
+  {
    "id": "6962e034b5f6",
    "title": "(Ending soon) New Capital One Venture Rewards welcome offer: 75K miles + $300 stays credit",
    "url": "https://frequentmiler.com/new-capital-one-venture-rewards-welcome-offer-75k-miles-300-stays-credit/",
@@ -642,14 +739,14 @@
    "source_type": "gnews",
    "published": "2026-11-19T23:46:09Z",
    "relevance": 1,
-   "why": "A Yahoo Finance quote page for Capital One stock, showing price and history with no news content.",
-   "summary_ai": "A Yahoo Finance quote page for Capital One stock, showing price and history with no news content.",
+   "why": "A quote and price history page for Capital One's COF-PK preferred stock, with no news content.",
+   "summary_ai": "A quote and price history page for Capital One's COF-PK preferred stock, with no news content.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Quote page with no story",
+   "low_confidence": null,
    "sections": [],
    "breaking": false,
    "data_points": [],

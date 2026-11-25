@@ -12,18 +12,18 @@
    "source_type": "gnews",
    "published": "2026-11-19T21:23:46Z",
    "relevance": 1,
-   "why": "Center Parcs has announced a new £5 rule across its five UK holiday parks, though the rule's details are unclear.",
-   "summary_ai": "Center Parcs has announced a new £5 rule across its five UK holiday parks, though the rule's details are unclear.",
+   "why": "Center Parcs is introducing a new £5 rule across its five UK holiday parks.",
+   "summary_ai": "Center Parcs is introducing a new £5 rule across its five UK holiday parks.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Title only, rule details unclear",
+   "low_confidence": null,
    "sections": [],
    "breaking": false,
    "data_points": [
-    "£5",
+    "£5 rule",
     "5 UK holiday parks"
    ],
    "also": []

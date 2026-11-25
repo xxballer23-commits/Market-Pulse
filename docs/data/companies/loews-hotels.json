@@ -1,0 +1,32 @@
+{
+ "name": "Loews Hotels",
+ "slug": "loews-hotels",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "008d66b9d7b4",
+   "title": "Loews Chicago Hotel | The Hotel Collection | Amex Travel CA",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQLVZvTGVQdVFacURlWGpyVDhjb0xlX3RHNkFXVVZoRzlnZmRCZjY4NU41TTdqUlFmcnNMVVVQc1l5dzd2bzVyWml3RkFRX1dWbmVubkNXREQyRnVMY1BZMFJZUHRKS0M4bzM5Qnh6cmxtc0ltX2QyaFNBaGh5SVgyWUhwMUxEV1RZd1gxZUZySEZBaW1JZXRLdi1xN1BHMmF4d1FIX3kxLXQ5QXlIdXFza2dfRzlkMmFSNUxUeXhPdVhpX3dBaF8tZ2lqMUEyX1d4Tm83U1ZXTzItTzE1WnV6X3dpVlJuNFpndjhoTTJTaGFJRl82d3k3ckgyVGFtQlYtTnR3V1lnQ1RFeVk?oc=5",
+   "source": "American Express",
+   "source_type": "gnews",
+   "published": "2026-11-24T11:53:23Z",
+   "relevance": 3,
+   "why": "Hotel Collection property pages show which hotels anchor Amex's card travel perks; compare Chicago coverage against rival issuer programs.",
+   "summary_ai": "American Express Travel is promoting Loews Chicago as a property in its Hotel Collection.",
+   "take": "Hotel Collection property pages show which hotels anchor Amex's card travel perks; compare Chicago coverage against rival issuer programs.",
+   "take_kind": "read",
+   "partner": "Loews Hotels",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

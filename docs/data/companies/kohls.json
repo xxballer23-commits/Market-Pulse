@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "e6802b1f931f",
+   "title": "Kohl’s Deploys AI Assistant, On-Demand Delivery, Flexible Payments for Holidays",
+   "url": "https://www.pymnts.com/earnings/2026/kohls-deploys-ai-assistant-on-demand-delivery-flexible-payments-for-holidays/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T03:36:56Z",
+   "relevance": 3,
+   "why": "Identify Kohl's flexible payment provider; a BNPL partner there could inform our installment feature talks.",
+   "summary_ai": "Kohl's CEO said on its Q3 call that it launched an AI shopping assistant and expanded on-demand delivery and flexible payment options for the holidays.",
+   "take": "Identify Kohl's flexible payment provider; a BNPL partner there could inform our installment feature talks.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Nov. 24 earnings call"
+   ],
+   "also": []
+  },
+  {
    "id": "d320f66f18c4",
    "title": "Kohl’s turns a corner in Q3, no thanks to Sephora",
    "url": "https://www.retaildive.com/news/kohls-turns-corner-q3-sephora-falls/875593/",

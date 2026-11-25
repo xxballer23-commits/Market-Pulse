@@ -149,16 +149,18 @@
    "source": "Modern Retail",
    "source_type": "rss",
    "published": "2026-11-20T14:30:00Z",
-   "relevance": 1,
-   "why": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
-   "summary_ai": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
+   "relevance": 2,
+   "why": "Target is competing with Trader Joe's, Quince and HomeGoods across private label and value-focused retail.",
+   "summary_ai": "Target is competing with Trader Joe's, Quince and HomeGoods across private label and value-focused retail.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "luxury"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []
@@ -194,8 +196,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T14:15:00Z",
    "relevance": 1,
-   "why": "A FinanceBuzz list highlights Target holiday items said to resemble West Elm pieces at a lower price.",
-   "summary_ai": "A FinanceBuzz list highlights Target holiday items said to resemble West Elm pieces at a lower price.",
+   "why": "A consumer deals list compares Target holiday products with similar West Elm items sold at lower prices.",
+   "summary_ai": "A consumer deals list compares Target holiday products with similar West Elm items sold at lower prices.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -205,7 +207,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "Half the West Elm price"
+    "Half the price of West Elm items"
    ],
    "also": []
   },

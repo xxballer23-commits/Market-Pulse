@@ -12,17 +12,21 @@
    "source_type": "rss",
    "published": "2026-11-20T20:54:31Z",
    "relevance": 1,
-   "why": "A SWISS A220 aborted takeoff for a third time in an incident report.",
-   "summary_ai": "A SWISS A220 aborted takeoff for a third time in an incident report.",
+   "why": "A SWISS A220 made three aborted takeoff attempts before departing, according to One Mile at a Time.",
+   "summary_ai": "A SWISS A220 made three aborted takeoff attempts before departing, according to One Mile at a Time.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "community"
+   ],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "Three aborted takeoffs"
+   ],
    "also": []
   }
  ]

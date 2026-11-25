@@ -1,0 +1,34 @@
+{
+ "name": "Fifth Third",
+ "slug": "fifth-third",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "67f0515194de",
+   "title": "[CA, TX, AL, FL, GA, IL, IN, KY, MI, NC, OH, TN, WV, SC, AZ] Fifth Third $300 + $150 Checking Bonus",
+   "url": "https://www.doctorofcredit.com/fifth-third-200-checking-bonus-fl-ga-il-ky-mi-nc-oh-tn-wv/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-24T21:05:14Z",
+   "relevance": 1,
+   "why": "Fifth Third is offering a checking account bonus to new customers in several listed states who meet set requirements.",
+   "summary_ai": "Fifth Third is offering a checking account bonus to new customers in several listed states who meet set requirements.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "State-limited offer, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$300 + $150 bonus",
+    "$400 total bonus"
+   ],
+   "also": []
+  }
+ ]
+}

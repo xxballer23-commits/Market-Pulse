@@ -25,7 +25,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Vanguard News",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQU1DbFIxSWNYWW9CUGpBN2V1MUo3SWhKV2tsa1RwMGx3ZnRYcW5TeWJkR3NhTjR2STVET2JWa25yZ1Rlb294NnVXUGN1UENKS2Fsa1ItVjZldFZBWnhBaUF2LWwybU1SLXZ4NFNLY2daYy1GaEtlV2xVcHZRQ3IwTllsZkVkRUM1TDgwM2RqeU9jSTdsX1p4bWZlYzAyRDFveXlrcmRn0gGrAUFVX3lxTFB4NWdSMUZsSjJDOWtuOWVIZ21jcms3ZW15bm9nS1ZlZ2NhVEhNRVRqN1RiaEdXRUJhYm1YVDRJaWpTdXAtV2NXWURCaTBFUU52akk4TDVDOWpsSlFKdlIwajRkRlJoSkMydUF5ZE1YVHE1Rk1PUHU4MXBZaGNtWE9kajRiNlRnRVBfMmF4NTR5WHh3MXRPVmFvMjcxNGNZWHo2MjA5ZEFDR0R4VQ?oc=5"
+    }
+   ]
   }
  ]
 }

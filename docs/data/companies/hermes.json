@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "c9c3a0dc3963",
+   "title": "Top 10 Luxury Brands in the World 2026: Hermès to Prada, Ranked",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LaWR5WHpFUTB0MDctTG5DQ1Y2eFdPNXRnNGZkZW5peGU3RWhYeW5kb0NFcnRySzRLdGVqTEFUQ0lPcWlXOHNXb0ZEYl9iNi1WY1RiMTVCTGYtQXRQUS1NMmVDRU5nQXVmck1kcWpMdjFVQQ?oc=5",
+   "source": "Global Brands Magazine",
+   "source_type": "gnews",
+   "published": "2026-11-25T00:17:45Z",
+   "relevance": 2,
+   "why": "A ranking of the world's top ten luxury brands for 2026, with Hermes and Prada among them.",
+   "summary_ai": "A ranking of the world's top ten luxury brands for 2026, with Hermes and Prada among them.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "6872c432b4e7",
    "title": "Hermès is a test case for Veblen goods going bad",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONl9zam0ydEtubnF3Z2VUbFdIZU5fbWpRWnRFZlRjbFUycmt6RmI3cm1DOHNIQlZUZ3BVbUZsd1loLWI0YnRpd1NaNEJzblpFUjg4X1pmVUV6dS05bFhSM19xcjZ2T3I0Z1hKUnRtYU5na1h6V1pKN0ZlOVpkcmw0SGdvSDdFWVBEX19rczVZdDdjdHFQcGhfaE5wN0N1bVQycEE?oc=5",
@@ -110,8 +133,8 @@
    "source_type": "gnews",
    "published": "2026-11-20T06:56:47Z",
    "relevance": 1,
-   "why": "Hermes shares dipped about 1.7% in premarket trading, to EUR 1,252.75.",
-   "summary_ai": "Hermes shares dipped about 1.7% in premarket trading, to EUR 1,252.75.",
+   "why": "Hermes shares dipped in premarket trading, a routine price move with no news behind it.",
+   "summary_ai": "Hermes shares dipped in premarket trading, a routine price move with no news behind it.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -121,8 +144,8 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "EUR 1,252.75 share price",
-    "1.67% premarket drop"
+    "EUR 1,252.75",
+    "Down 1.67%"
    ],
    "also": []
   }

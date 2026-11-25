@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T13:20:00Z",
    "relevance": 1,
-   "why": "Axis Bank expects its MSME loan book to grow 25 percent in the second half of the fiscal year.",
-   "summary_ai": "Axis Bank expects its MSME loan book to grow 25 percent in the second half of the fiscal year.",
+   "why": "Axis Bank expects its small business (MSME) loan book to grow about 25% in the second half of the fiscal year.",
+   "summary_ai": "Axis Bank expects its small business (MSME) loan book to grow about 25% in the second half of the fiscal year.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -23,7 +23,8 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "25%"
+    "25% MSME loan growth expected",
+    "H2 of fiscal year"
    ],
    "also": []
   }

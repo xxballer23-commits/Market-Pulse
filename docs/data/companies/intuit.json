@@ -35,15 +35,17 @@
    "source_type": "gnews",
    "published": "2026-11-20T16:18:17Z",
    "relevance": 1,
-   "why": "Wells Fargo lowered its price target on Intuit stock, according to MarketBeat.",
-   "summary_ai": "Wells Fargo lowered its price target on Intuit stock, according to MarketBeat.",
+   "why": "Wells Fargo lowered its price target on Intuit shares, an analyst action with no bearing on card or lending partnerships.",
+   "summary_ai": "Wells Fargo lowered its price target on Intuit shares, an analyst action with no bearing on card or lending partnerships.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "wells"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []
@@ -56,8 +58,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T23:53:00Z",
    "relevance": 1,
-   "why": "Intuit is selling Mailchimp to Bending Spoons in a deal valued at about $3.68 billion.",
-   "summary_ai": "Intuit is selling Mailchimp to Bending Spoons in a deal valued at about $3.68 billion.",
+   "why": "Intuit is selling Mailchimp to Bending Spoons, a Berkshire Hathaway-backed company, for $3.68 billion.",
+   "summary_ai": "Intuit is selling Mailchimp to Bending Spoons, a Berkshire Hathaway-backed company, for $3.68 billion.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -67,7 +69,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "$3.68 billion deal value"
+    "$3.68 billion"
    ],
    "also": []
   }

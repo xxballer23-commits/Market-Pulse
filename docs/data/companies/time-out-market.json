@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T20:03:00Z",
    "relevance": 1,
-   "why": "Chef Manish Mehrotra plans a vegetarian restaurant called Khatai at Time Out Market Delhi, opening in December.",
-   "summary_ai": "Chef Manish Mehrotra plans a vegetarian restaurant called Khatai at Time Out Market Delhi, opening in December.",
+   "why": "Time Out Market Delhi will open Chef Manish Mehrotra's vegetarian restaurant Khatai in December.",
+   "summary_ai": "Time Out Market Delhi will open Chef Manish Mehrotra's vegetarian restaurant Khatai in December.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -23,7 +23,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "Opens in December"
+    "Opens December"
    ],
    "also": []
   }

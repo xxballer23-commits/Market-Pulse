@@ -1,0 +1,34 @@
+{
+ "name": "Bloom",
+ "slug": "bloom",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f648a4499c36",
+   "title": "India’s Bloom Eyes Southeast Asia and Twice the Rooms After $75 Million Raise",
+   "url": "https://skift.com/2026/11/24/indias-bloom-eyes-southeast-asia-and-twice-the-rooms-after-75-million-raise/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-25T04:00:59Z",
+   "relevance": 2,
+   "why": "Mid-market hotel brand with limited premium card fit; monitor only if it moves upmarket.",
+   "summary_ai": "Indian hotel group Bloom raised $75 million from Kedaara and plans to expand into Southeast Asia while doubling its room count.",
+   "take": "Mid-market hotel brand with limited premium card fit; monitor only if it moves upmarket.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$75 million raise",
+    "Twice the rooms"
+   ],
+   "also": []
+  }
+ ]
+}

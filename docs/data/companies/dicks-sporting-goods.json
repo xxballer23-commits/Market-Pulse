@@ -1,0 +1,33 @@
+{
+ "name": "Dick's Sporting Goods",
+ "slug": "dicks-sporting-goods",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "997b82d14046",
+   "title": "Dick’s Sporting Goods CEO Calls GameChanger App a Secret Weapon",
+   "url": "https://www.pymnts.com/earnings/2026/dicks-sporting-goods-ceo-calls-gamechanger-app-a-secret-weapon/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T02:30:13Z",
+   "relevance": 2,
+   "why": "Scaled youth sports app points to family-focused sports spend as a growing engagement channel.",
+   "summary_ai": "Dick's CEO says GameChanger, its youth sports app, is becoming a key growth driver, with revenue expected to approach $200 million this fiscal year.",
+   "take": "Scaled youth sports app points to family-focused sports spend as a growing engagement channel.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$200 million expected fiscal revenue"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Star Alliance",
+ "slug": "star-alliance",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "21c0b431c824",
+   "title": "TFCrisponde. I'm an FTL member—if I fly with Star Alliance, can I use the lounges?",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX3VSM3VSSFZrZDZJQ011bGZnUHBTQno0a3BrR2cybHMtdzhEcGNwSVNCckZWcXNIbVJVZW9iMXJPU2Q5WGF3NzBmbElrV1pJdUZHMTdUck1xdDFxZS1ib1NWdHNQZlJteFVPNDRSQ2FKbVkxNnMwY3FEb0lqblZPTTFLVXlkelFBMlE?oc=5",
+   "source": "The Flight Club",
+   "source_type": "gnews",
+   "published": "2026-11-23T17:58:13Z",
+   "relevance": 2,
+   "why": "A forum member asks whether Star Alliance flying gives an FTL member access to airport lounges.",
+   "summary_ai": "A forum member asks whether Star Alliance flying gives an FTL member access to airport lounges.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Forum question, no answer in headline",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

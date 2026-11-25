@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T23:31:19Z",
    "relevance": 1,
-   "why": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes due 2031.",
-   "summary_ai": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes due 2031.",
+   "why": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes maturing in 2031.",
+   "summary_ai": "Gaming and Leisure Properties priced $600 million of 6.250% senior notes maturing in 2031.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -23,9 +23,9 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "$600 million",
+    "$600,000,000",
     "6.250%",
-    "2031"
+    "Due 2031"
    ],
    "also": []
   }

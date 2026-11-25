@@ -12,8 +12,8 @@
    "source_type": "rss",
    "published": "2026-11-20T13:14:00Z",
    "relevance": 1,
-   "why": "Storspay has registered with FINTRAC as a money services business in Canada.",
-   "summary_ai": "Storspay has registered with FINTRAC as a money services business in Canada.",
+   "why": "Storspay completed its money services business registration in Canada.",
+   "summary_ai": "Storspay completed its money services business registration in Canada.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -22,9 +22,7 @@
    "low_confidence": null,
    "sections": [],
    "breaking": false,
-   "data_points": [
-    "MSB no. N300002335"
-   ],
+   "data_points": [],
    "also": []
   }
  ]

@@ -53,16 +53,18 @@
    "source": "Modern Retail",
    "source_type": "rss",
    "published": "2026-11-20T14:30:00Z",
-   "relevance": 1,
-   "why": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
-   "summary_ai": "Modern Retail's briefing looks at Target's competition with Trader Joe's, Quince and HomeGoods.",
+   "relevance": 2,
+   "why": "Target is competing with Trader Joe's, Quince and HomeGoods across private label and value-focused retail.",
+   "summary_ai": "Target is competing with Trader Joe's, Quince and HomeGoods across private label and value-focused retail.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "luxury"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

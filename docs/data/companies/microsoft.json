@@ -5,6 +5,30 @@
  "vets": [],
  "items": [
   {
+   "id": "5a013e59f9c4",
+   "title": "Microsoft Sets Goal of One-Hour Fixes After Email Outage",
+   "url": "https://www.pymnts.com/technology/2026/microsoft-sets-goal-of-one-hour-fixes-after-email-outage/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-24T21:44:30Z",
+   "relevance": 1,
+   "why": "Microsoft set a one-hour fix goal and declared an internal Code Red after a November email outage.",
+   "summary_ai": "Microsoft set a one-hour fix goal and declared an internal Code Red after a November email outage.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "One-hour fix goal",
+    "Nov. 12-13 outage"
+   ],
+   "also": []
+  },
+  {
    "id": "8364f67da24d",
    "title": "Exclusive | Nestle Eyes Autonomous Factory Lines and Looks to Google, Microsoft as Partners",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5",
@@ -33,18 +57,18 @@
    "source_type": "gnews",
    "published": "2026-11-20T13:32:44Z",
    "relevance": 1,
-   "why": "An AI agent called Hermes, reportedly processing near 2 trillion tokens daily, is coming to Microsoft Teams.",
-   "summary_ai": "An AI agent called Hermes, reportedly processing near 2 trillion tokens daily, is coming to Microsoft Teams.",
+   "why": "An AI agent named Hermes, processing about 2 trillion tokens daily, is now available in Microsoft Teams. It is unrelated to the luxury brand.",
+   "summary_ai": "An AI agent named Hermes, processing about 2 trillion tokens daily, is now available in Microsoft Teams. It is unrelated to the luxury brand.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
-   "low_confidence": "Thin source, no summary",
+   "low_confidence": null,
    "sections": [],
    "breaking": false,
    "data_points": [
-    "Near 2T tokens a day"
+    "2T tokens a day"
    ],
    "also": []
   },

@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T23:53:00Z",
    "relevance": 1,
-   "why": "Intuit is selling Mailchimp to Bending Spoons in a deal valued at about $3.68 billion.",
-   "summary_ai": "Intuit is selling Mailchimp to Bending Spoons in a deal valued at about $3.68 billion.",
+   "why": "Intuit is selling Mailchimp to Bending Spoons, a Berkshire Hathaway-backed company, for $3.68 billion.",
+   "summary_ai": "Intuit is selling Mailchimp to Bending Spoons, a Berkshire Hathaway-backed company, for $3.68 billion.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -23,7 +23,7 @@
    "sections": [],
    "breaking": false,
    "data_points": [
-    "$3.68 billion deal value"
+    "$3.68 billion"
    ],
    "also": []
   }

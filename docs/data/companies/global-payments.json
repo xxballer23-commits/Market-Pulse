@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "bae990a4e70c",
+   "title": "Blackstone Leads Talks to Back GTCR’s $50 Billion Global Payments Deal",
+   "url": "https://www.pymnts.com/news/acquiring/2026/blackstone-warburg-pincus-and-apollo-weigh-backing-50-billion-global-payments-acquisition/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T01:07:38Z",
+   "relevance": 2,
+   "why": "Payments infrastructure consolidation could change acquirer and processing partners behind card programs over time.",
+   "summary_ai": "Blackstone, Warburg Pincus and Apollo are reportedly in talks to help finance GTCR's take-private of Global Payments.",
+   "take": "Payments infrastructure consolidation could change acquirer and processing partners behind card programs over time.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Reported talks, no deal finalized",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$50B deal"
+   ],
+   "also": []
+  },
+  {
    "id": "f5dbcce142fb",
    "title": "GTCR Weighs Buyout of Global Payments Days After Earlier Effort Ended",
    "url": "https://www.pymnts.com/news/acquiring/2026/gtcr-weighs-buyout-of-global-payments-days-after-earlier-effort-ended/",

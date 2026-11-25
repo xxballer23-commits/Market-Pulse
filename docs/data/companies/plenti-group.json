@@ -1,0 +1,55 @@
+{
+ "name": "Plenti Group",
+ "slug": "plenti-group",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8af3baf53af6",
+   "title": "Plenti Group Declares Maiden Dividend after Record Half-Year Lending Volumes",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOREphSFhsZmw4a3ZaRlFiQkthVGxNcEYwR3VqemZNNXY1dEtHRlo3VnQ2Y3Y0SGRZbERncFR6cVVxU2xnUkRiY1pYaWpHTlR6al9KNlRHM2J5TUNKVE1kNUZ4VmFLUEdqdkNkbmZjb0VfU1duVmRUZVJYdUlqY3J5eHZCeWZjWVQ2YXdHaldDOExfNzlLMDRtSTBhNzVZUnBZbHU5WFNFX0ZqNUh4OTh0c3N6aXZPeFZtRWZvaTNhYXg1VUQzZmdRc1RuaS1DQnJTdWc?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-24T23:59:18Z",
+   "relevance": 3,
+   "why": "Plenti Group declared its first dividend after reporting record lending volumes for the half-year.",
+   "summary_ai": "Plenti Group declared its first dividend after reporting record lending volumes for the half-year.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "12ede97f40f4",
+   "title": "Plenti’s NAB collab continues to feed fintech’s growth engine",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOE54THVCNXlnVk5yS2VFY0JTSlQxYkpjdWV5NjlnLUxhY2dQQklBYmV2LU55U0dTVlpBVXJMVnB3ZzZBX0FWLWVhaXhZSXhGOVBsV1dyS25ZdWpST0VPb0w0WHRXWDNMWUVjaEd1cDRxOGRMMlktejRvcDdmdUdDY1JuVGJqTUZKSnhTblF0YjRuSWNxZERGSUFGZ2NQRzZucE8xc1FEVXE?oc=5",
+   "source": "Mortgage Professional America",
+   "source_type": "gnews",
+   "published": "2026-11-24T23:38:49Z",
+   "relevance": 3,
+   "why": "Bank and fintech lending partnerships like this show how credit can be embedded inside a bank's own channels.",
+   "summary_ai": "A report says Plenti's partnership with NAB continues to drive growth at the fintech lender.",
+   "take": "Bank and fintech lending partnerships like this show how credit can be embedded inside a bank's own channels.",
+   "take_kind": "read",
+   "partner": "NAB",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

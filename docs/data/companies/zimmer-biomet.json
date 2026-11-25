@@ -12,15 +12,17 @@
    "source_type": "gnews",
    "published": "2026-11-19T14:38:26Z",
    "relevance": 1,
-   "why": "Yahoo Finance offers an equity analysis of Wells Fargo's view on Zimmer Biomet shares.",
-   "summary_ai": "Yahoo Finance offers an equity analysis of Wells Fargo's view on Zimmer Biomet shares.",
+   "why": "Wells Fargo equity research flags one weakness and one upgrade in medical device maker Zimmer Biomet.",
+   "summary_ai": "Wells Fargo equity research flags one weakness and one upgrade in medical device maker Zimmer Biomet.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "wells"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

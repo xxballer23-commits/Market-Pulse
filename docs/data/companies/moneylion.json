@@ -11,16 +11,18 @@
    "source": "MoneyLion",
    "source_type": "gnews",
    "published": "2026-11-19T20:19:59Z",
-   "relevance": 1,
-   "why": "A consumer personal finance piece lists six warning signs that a debt repayment plan is failing.",
-   "summary_ai": "A consumer personal finance piece lists six warning signs that a debt repayment plan is failing.",
+   "relevance": 2,
+   "why": "A MoneyLion article lists warning signs that a debt repayment plan is not working.",
+   "summary_ai": "A MoneyLion article lists warning signs that a debt repayment plan is not working.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "lending"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

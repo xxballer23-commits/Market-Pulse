@@ -84,19 +84,21 @@
    "source": "WSJ",
    "source_type": "gnews",
    "published": "2026-11-20T10:21:00Z",
-   "relevance": 1,
-   "why": "Lufthansa plans to cut 1,000 jobs at its main airline amid mounting pressures.",
-   "summary_ai": "Lufthansa plans to cut 1,000 jobs at its main airline amid mounting pressures.",
+   "relevance": 2,
+   "why": "Lufthansa plans to cut 1,000 jobs at its flagship airline as cost and operating pressures build.",
+   "summary_ai": "Lufthansa plans to cut 1,000 jobs at its flagship airline as cost and operating pressures build.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "luxury"
+   ],
    "breaking": false,
    "data_points": [
-    "1,000 job cuts"
+    "1,000 jobs"
    ],
    "also": []
   }

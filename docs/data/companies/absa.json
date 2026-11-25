@@ -11,9 +11,9 @@
    "source": "The Citizen",
    "source_type": "gnews",
    "published": "2026-11-20T09:21:00Z",
-   "relevance": 1,
-   "why": "Absa has raised its loan limit for government employees to Sh300 million.",
-   "summary_ai": "Absa has raised its loan limit for government employees to Sh300 million.",
+   "relevance": 2,
+   "why": "Absa has raised its loan ceiling for government employees to Sh300 million, a Kenyan personal lending move.",
+   "summary_ai": "Absa has raised its loan ceiling for government employees to Sh300 million, a Kenyan personal lending move.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -25,7 +25,7 @@
    ],
    "breaking": false,
    "data_points": [
-    "Sh300 million limit"
+    "Sh300 million loan limit"
    ],
    "also": []
   }

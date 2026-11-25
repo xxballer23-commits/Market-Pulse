@@ -12,8 +12,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T13:40:00Z",
    "relevance": 1,
-   "why": "Punjab National Bank opened a digital-focused branch aimed at young customers on Parliament Street.",
-   "summary_ai": "Punjab National Bank opened a digital-focused branch aimed at young customers on Parliament Street.",
+   "why": "Punjab National Bank opened a digital-focused branch on Parliament Street aimed at younger customers.",
+   "summary_ai": "Punjab National Bank opened a digital-focused branch on Parliament Street aimed at younger customers.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -23,6 +23,29 @@
    "sections": [],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "be58d6f54497",
+   "title": "Nifty Bank hits fresh record high above 63,000; IDFC First Bank, Bank of Baroda, PNB lead gains",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONURjNFdWWllGMW9nNnc1aDlWNzFNa1ItYWVQdDlMRHc2bjQ5YVhFemszWnBmSW5taU1MMjF5UWl2UjVHSDBRSlNEVnpZZmxXQUoxdFRyZEY2VndIOTl3XzZuUHN2ZG4tbmcwRXA0eVZRRFZxMFRRMHVNRnhEdXVUa1FONEs5RjQwdmJKR09jMUwxa2VSSERtaVFHRVc4Tk5Vc1k2M1p0VEhuUU9HTmFET2dpekNJYzBfUmNuVVpvbVJxOVVmdW5NT3FXQWd4RHJUNGllYmVfZGNSR1ZvLW5iOWNTbFFGamMtMnBEMdIB7AFBVV95cUxONURjNFdWWllGMW9nNnc1aDlWNzFNa1ItYWVQdDlMRHc2bjQ5YVhFemszWnBmSW5taU1MMjF5UWl2UjVHSDBRSlNEVnpZZmxXQUoxdFRyZEY2VndIOTl3XzZuUHN2ZG4tbmcwRXA0eVZRRFZxMFRRMHVNRnhEdXVUa1FONEs5RjQwdmJKR09jMUwxa2VSSERtaVFHRVc4Tk5Vc1k2M1p0VEhuUU9HTmFET2dpekNJYzBfUmNuVVpvbVJxOVVmdW5NT3FXQWd4RHJUNGllYmVfZGNSR1ZvLW5iOWNTbFFGamMtMnBEMQ?oc=5",
+   "source": "bfsi.economictimes.indiatimes.com",
+   "source_type": "gnews",
+   "published": "2026-11-19T13:11:27Z",
+   "relevance": 1,
+   "why": "The Nifty Bank index reached a new record high above 63,000, led by several Indian lenders.",
+   "summary_ai": "The Nifty Bank index reached a new record high above 63,000, led by several Indian lenders.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Above 63,000 index level"
+   ],
    "also": []
   },
   {

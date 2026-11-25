@@ -63,8 +63,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T16:43:00Z",
    "relevance": 1,
-   "why": "A deal listicle highlights Sam's Club kitchen storage items that resemble Williams Sonoma products at lower prices.",
-   "summary_ai": "A deal listicle highlights Sam's Club kitchen storage items that resemble Williams Sonoma products at lower prices.",
+   "why": "A shopping roundup compares Sam's Club kitchen storage items with Williams Sonoma equivalents at about half the price.",
+   "summary_ai": "A shopping roundup compares Sam's Club kitchen storage items with Williams Sonoma equivalents at about half the price.",
    "take": null,
    "take_kind": null,
    "partner": null,
@@ -73,7 +73,9 @@
    "low_confidence": null,
    "sections": [],
    "breaking": false,
-   "data_points": [],
+   "data_points": [
+    "7 items"
+   ],
    "also": []
   }
  ]

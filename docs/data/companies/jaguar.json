@@ -1,0 +1,31 @@
+{
+ "name": "Jaguar",
+ "slug": "jaguar",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2fc3a7db53b1",
+   "title": "Jaguar opens Knightsbridge café for afternoon tea with Michael O’Hare’s futuristic scones",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMHJ1LTR2bGRhdW1tMzFqXzhVelhQTDEwYWhGanZtMjFPcHdzMzZ5WlRrY0lFM2Z0T0NaRUVONGtHWm01YWpCSHgwclZnajBRMlFFd2Z1OUxxZGVjQTdlOHYxSmcxZk9rSnNKd0pfMndBUVBfUXNYLVJ5dlB0Z2Rxajh4MWphRHJfcDlzSG5wMV85U1lISXNjd2V4ZzVoRTdrSmliU2pIaUdRYTgxbTV1ZmZsdXQzSGlqMUxMU3B0Zkpnd0RLaHFITA?oc=5",
+   "source": "The Upcoming",
+   "source_type": "gnews",
+   "published": "2026-11-24T17:58:58Z",
+   "relevance": 2,
+   "why": "Jaguar opened a Knightsbridge café offering afternoon tea with scones designed by chef Michael O'Hare.",
+   "summary_ai": "Jaguar opened a Knightsbridge café offering afternoon tea with scones designed by chef Michael O'Hare.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

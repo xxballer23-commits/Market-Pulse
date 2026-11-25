@@ -1,0 +1,50 @@
+{
+ "name": "dLocal",
+ "slug": "dlocal",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "83a798f661ab",
+   "title": "JPMorgan’s Note Sent DLocal Shares Sliding",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzdXRydW5fNkJiN1BYajNZckstWUQwWG5kbndXRGlTZ0NKUm9uNFJodjhpQ1N2UlotS0s5V0Via004Ql9lem96Y2VMdVBUSmRkMHNpb2VzNW5vS25EaXZqcVVtamdxNkQ5Q053NnNzUkhjT2tEMnVvdEZR?oc=5",
+   "source": "Finimize",
+   "source_type": "gnews",
+   "published": "2026-11-24T23:36:27Z",
+   "relevance": 1,
+   "why": "A JPMorgan research note pushed dLocal's shares lower.",
+   "summary_ai": "A JPMorgan research note pushed dLocal's shares lower.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "bed689c31fb4",
+   "title": "Uruguay's dLocal slides as analysts highlight investment, FX risks",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdE1MREltYzlVV3o4eE4zYkVOZklLZVA4NmxPMmZ5Ym1QeGFDRTJJQnctNU5VTXlLVzBmNFp4aElueXdYak5BRndyaXlsYXhTTnhMMEY1a3gxa1JlNm44UEhUWkVmX0ZVc3pZUUNkYWNyak5oQUhuRlBMLURqamZrbk5NdXUwSGw0cFJiZlJYNWFmR2dBVmF5VEh2VnN5b3JpcHNJUnl2ODRDdw?oc=5",
+   "source": "Reuters",
+   "source_type": "gnews",
+   "published": "2026-11-24T22:34:29Z",
+   "relevance": 1,
+   "why": "Analysts flag investment and currency risks as dLocal's shares fall, a market story with little card relevance.",
+   "summary_ai": "Analysts flag investment and currency risks as dLocal's shares fall, a market story with little card relevance.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

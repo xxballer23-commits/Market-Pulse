@@ -100,15 +100,17 @@
    "source_type": "gnews",
    "published": "2026-11-20T15:09:47Z",
    "relevance": 1,
-   "why": "Moncler is recruiting a store manager for its Las Vegas Forum shop, a routine job posting.",
-   "summary_ai": "Moncler is recruiting a store manager for its Las Vegas Forum shop, a routine job posting.",
+   "why": "Moncler is hiring a store manager for its Las Vegas Forum shop, a routine job posting.",
+   "summary_ai": "Moncler is hiring a store manager for its Las Vegas Forum shop, a routine job posting.",
    "take": null,
    "take_kind": null,
    "partner": null,
    "benefit_move": false,
    "benefit_type": null,
    "low_confidence": null,
-   "sections": [],
+   "sections": [
+    "luxury"
+   ],
    "breaking": false,
    "data_points": [],
    "also": []

@@ -1,0 +1,33 @@
+{
+ "name": "Deutsche Asset Management",
+ "slug": "deutsche-asset-management",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c3c47354f987",
+   "title": "Deutsche AM Nears First Close for €2 Billion Direct Lending Fund",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSElFUGRGUGxzRW1pSmotSlAyU3FHOGl5MWVUUWxoajF1MTZWLUd0bXdCVzZfNVZjcDVrOHBpSThjcDhPRGVrZFpCakFONEpPS2hPWE10czZocWJETUdFMGNEMlNKQlEwNkhTWS1CdTNZcnJFcFVnbWtwZko5YzVFd2RIN2o4czJsckFSbkNwSURQbndJanViX3hMVnNYdEp2YUI3REVYZVRGYzY2anBEYnAwVHo?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-24T13:42:33Z",
+   "relevance": 2,
+   "why": "Deutsche Asset Management is nearing a first close on a 2 billion euro direct lending fund.",
+   "summary_ai": "Deutsche Asset Management is nearing a first close on a 2 billion euro direct lending fund.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "€2 billion fund size"
+   ],
+   "also": []
+  }
+ ]
+}

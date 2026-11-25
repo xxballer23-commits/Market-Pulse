@@ -5,6 +5,55 @@
  "vets": [],
  "items": [
   {
+   "id": "eb46f2e19263",
+   "title": "The ultimate guide to Southwest Airlines credit card eligibility",
+   "url": "https://thepointsguy.com/credit-cards/ultimate-guide-southwest-credit-card-eligibility/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-24T21:00:23Z",
+   "relevance": 3,
+   "why": "A guide walks through current Southwest Airlines card welcome offers, their bonus values, annual fees and Chase application rules.",
+   "summary_ai": "A guide walks through current Southwest Airlines card welcome offers, their bonus values, annual fees and Chase application rules.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "c483c1a2b03f",
+   "title": "Get a $500 Southwest Airlines Gift Card for $450 [Limited Time]",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xYVk0WHNweUQzaXJIQWNobjh2QWhuT3dxSlI4MnVuWXNrOWktRXVYMS1vTE9mLUo0RFJnQkFsek8yZkRJVWJCbl9xOTlvclpUaDFMdVZtOXlIZ29YNnVtajBQQ2VmdDVfb2l3SVEwN3FtcHE5blBITw?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:46:57Z",
+   "relevance": 2,
+   "why": "Discounted gift card promos signal how points enthusiasts shop secondary airline value, a pattern worth tracking against card travel credits.",
+   "summary_ai": "A deal post flags a limited-time offer for a $500 Southwest gift card priced at $450.",
+   "take": "Discounted gift card promos signal how points enthusiasts shop secondary airline value, a pattern worth tracking against card travel credits.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Offer end date unknown, blog source",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$500 gift card",
+    "$450 price"
+   ],
+   "also": []
+  },
+  {
    "id": "96381a0c4aab",
    "title": "Southwest Priority Card Review: Strong Airline Benefits For Frequent Flyers",
    "url": "https://onemileatatime.com/reviews/credit-cards/chase/southwest-priority-card/",
@@ -92,8 +141,8 @@
    "source_type": "gnews",
    "published": "2026-11-19T18:51:59Z",
    "relevance": 1,
-   "why": "An explainer on how Southwest's boarding groups and process currently work.",
-   "summary_ai": "An explainer on how Southwest's boarding groups and process currently work.",
+   "why": "An explainer walks through how Southwest's boarding groups and process currently work.",
+   "summary_ai": "An explainer walks through how Southwest's boarding groups and process currently work.",
    "take": null,
    "take_kind": null,
    "partner": null,

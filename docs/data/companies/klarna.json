@@ -42,7 +42,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Investing.com Canada",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVhJbmRVbzdKbWEyOTJycmI1cDBHMXcxb1pQOElHTnczLU5Pb2U1cURZeTRFU3ZGOFAya19nMXpfYmlJV24yYllucl9LRElBRFhINjF5UGNYT2tDbG1Ub0tOeU9lWmhITVdINUJITHhUNUs4VFJFWFpMSERVTm5VcEU3MGxPaWkzVi03RVVnNG9hLXZEUnRKUl9LbUlhNWprQUNPdjNCcGR6ZGFaWmFoSFAyaGY3QzFtd2xxRHdjSGJrWTg?oc=5"
+    }
+   ]
   },
   {
    "id": "84f7ff5bec74",
