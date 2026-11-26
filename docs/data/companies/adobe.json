@@ -1,0 +1,34 @@
+{
+ "name": "Adobe",
+ "slug": "adobe",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8114de1bc1c6",
+   "title": "Adobe Forecasts Record $21.3B in BNPL Holiday Spending",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE1ILTBldWFvVHhwTXVYdFBWWk1wRTJOclMxN0Vuamk3bXB1WjMwMTViS0VoUDltcl91aFdwSU12MGlVSjMzOHotb1k1eFRkaVFXcGFONk9iTTJiM2pZSUZLMFlRWTJFNFM4OXk3MHVZWFpwZnVKNzBzNDBwV1djU01hc2lDSmx6aEttQzBSNTVyNi1IelE?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-26T19:23:41Z",
+   "relevance": 4,
+   "why": "Record BNPL volume supports pitching installment features on premium cards against pay-over-time options.",
+   "summary_ai": "Adobe projects record BNPL spending this holiday season, reaching $21.3 billion.",
+   "take": "Record BNPL volume supports pitching installment features on premium cards against pay-over-time options.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$21.3B BNPL holiday spending"
+   ],
+   "also": []
+  }
+ ]
+}

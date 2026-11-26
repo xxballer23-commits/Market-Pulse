@@ -1,0 +1,29 @@
+{
+ "name": "BPC",
+ "slug": "bpc",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2ab674f531eb",
+   "title": "Maldives Islamic Bank launches its Visa Islamic credit card proposition with BPC",
+   "url": "https://www.finextra.com/pressarticle/111791/maldives-islamic-bank-launches-its-visa-islamic-credit-card-proposition-with-bpc?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T10:17:00Z",
+   "relevance": 1,
+   "why": "Maldives Islamic Bank launched a Sharia-compliant Visa credit card built on BPC's issuing platform.",
+   "summary_ai": "Maldives Islamic Bank launched a Sharia-compliant Visa credit card built on BPC's issuing platform.",
+   "take": null,
+   "take_kind": null,
+   "partner": "BPC",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

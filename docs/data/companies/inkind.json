@@ -5,6 +5,33 @@
  "vets": [],
  "items": [
   {
+   "id": "d837c6c5c07b",
+   "title": "$100 inKind gift card for $64.99 at Costco.com (11/26 only)",
+   "url": "https://frequentmiler.com/100-inkind-gift-card-for-6at-costco-com/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-26T13:46:36Z",
+   "relevance": 1,
+   "why": "Costco is selling a $100 inKind gift card for $64.99, for one day only while supplies last.",
+   "summary_ai": "Costco is selling a $100 inKind gift card for $64.99, for one day only while supplies last.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$64.99 price",
+    "$100 gift card",
+    "One day only"
+   ],
+   "also": []
+  },
+  {
    "id": "ae5430235153",
    "title": "[New Offer] inKind: 50% Bonus ($150 for $100)",
    "url": "https://www.doctorofcredit.com/inkind-20-off-40/",

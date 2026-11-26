@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "2e10cabb5274",
+   "title": "Macy’s Thanksgiving Parade Moved to Saturday Due to NYC Storm",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0d2VXNiaWpldm1PNUhWWnNOM0lYazlualJrSlpoSGR5VHVhS2o0ekhLUHYxRmRiaEFPYXVwZV9FTnVaS1lVaHhHaEhmbEZHWUZ1ZVRzd0pOVE81ZkQxYkFjclBMU2N5bUdPOUc0ZkNuSV9UMmcxNmFYdDRCcko4QkFmb2JLTHpXYTZ2SlpIbzRJdDZ1ck1mN2xzaUlZWUotVnJTdFNQc2JlVUp4SW02WnMwTG4?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-26T03:45:00Z",
+   "relevance": 1,
+   "why": "The Macy's Thanksgiving Day Parade has been moved to Saturday because of a storm hitting New York City.",
+   "summary_ai": "The Macy's Thanksgiving Day Parade has been moved to Saturday because of a storm hitting New York City.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Moved to Saturday"
+   ],
+   "also": []
+  },
+  {
    "id": "f6d5aac772bd",
    "title": "‘Heartbroken’: Macy’s 100th Thanksgiving Day parade postponed",
    "url": "https://www.retaildive.com/news/macys-100th-thanksgiving-day-parade-postponed/875808/",

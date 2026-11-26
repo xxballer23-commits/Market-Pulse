@@ -1,0 +1,31 @@
+{
+ "name": "Travelodge",
+ "slug": "travelodge",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2152da679483",
+   "title": "Travelodge’s New CEO Inherits Safety Reckoning, Rising Costs and Looming Debt",
+   "url": "https://skift.com/2026/11/26/travelodges-new-ceo-inherits-safety-reckoning-rising-costs-and-looming-debt/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-26T17:34:03Z",
+   "relevance": 1,
+   "why": "Travelodge has named a new CEO facing safety recommendations, rising costs and debt refinancing.",
+   "summary_ai": "Travelodge has named a new CEO facing safety recommendations, rising costs and debt refinancing.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "38 safety recommendations"
+   ],
+   "also": []
+  }
+ ]
+}

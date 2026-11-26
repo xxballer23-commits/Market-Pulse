@@ -25,7 +25,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "The Globe and Mail",
+     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZlRrWWc0RHA2NGZ3VF9FdDM4YnBrRm9SbFpwNF9ZRHNaMGZhd05hNExOREJaNzl2ZVJDeHpZU1U2eXdVZGdTSW5peXNOV1Uzc2thcWZVOFo0bzU3SnJac21haUdpZnllZkVWb3VncGNyYWRLNE5KOVRHX19uRGVVYUdRYVhFQlFPQURDY0JCZ0F3V3FnRGFlbGhyaDJMZWlKVDhVVWJpSjZER3BKbWI0aXdYYUl4eTk4VUpzOGFVTGduRmtFT0tRVlZFa1hPYWN1Q3pDQzBSMnduWVo4MU9ib1pB?oc=5"
+    }
+   ]
   },
   {
    "id": "9ad4ffbf0b07",

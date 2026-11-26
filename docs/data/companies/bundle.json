@@ -1,0 +1,31 @@
+{
+ "name": "Bundle",
+ "slug": "bundle",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "6d80964fd7a7",
+   "title": "Bundle Launches Shared Rewards Platform in US",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV2llYXJZOTRoTHc0NmVkSkVOU0RUMFJpbUpsZVFJUkQ2VUp5ZlNkWHd5Z2Y5X241a1ZJMmp1SlVuQ2VSZXBVZU0wTDNsMnN3UG5SRTd4SG12bnVYM1ducXpCTGNYUzc3VElnR1VuSGpaUGtNM3lvTTVvSDhZNDdGTWZGUTZMbnl5cFBTZQ?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-26T14:59:42Z",
+   "relevance": 3,
+   "why": "Assess Bundle as a shared-rewards option for household card accounts and multi-user benefit sharing.",
+   "summary_ai": "Bundle has launched a shared rewards platform in the US.",
+   "take": "Assess Bundle as a shared-rewards option for household card accounts and multi-user benefit sharing.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

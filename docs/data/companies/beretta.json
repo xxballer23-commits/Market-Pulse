@@ -1,0 +1,31 @@
+{
+ "name": "Beretta",
+ "slug": "beretta",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "bc05c2ab3a24",
+   "title": "FTC Imposes Strict Board Restrictions on Beretta’s 25% Stake in Rival Sturm Ruger",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZlBMRWpBSDU0UTZEOGlKR1FZV0RSMW5HQTFqSlNad3dDT2hlSEdNTEpBOW9NQWZaOTAwQkRRZGJUY00xRkhtRzZnZm9SSHBib2ZsZE5idWpHN1VrVmdHbXpsMWtYdVBWRUU4Q3VsZG1nd3dUY29xQkhZLUszNnd6ZmlzdUVFMjBXRHU2OHUxTzZ3YndabUVibk8tRHFYdXV3LWgxMk5nQkItdVdOOEljcGRZOC1KUzRD?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-25T17:22:00Z",
+   "relevance": 1,
+   "why": "The FTC imposed board restrictions on Beretta's 25% stake in Sturm Ruger.",
+   "summary_ai": "The FTC imposed board restrictions on Beretta's 25% stake in Sturm Ruger.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "25% stake"
+   ],
+   "also": []
+  }
+ ]
+}

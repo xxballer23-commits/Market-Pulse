@@ -1,0 +1,34 @@
+{
+ "name": "Hotel Arts",
+ "slug": "hotel-arts",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d1ed40cb0a40",
+   "title": "The Casa dels Artistes hotel will open 60 suites atop Barcelona’s Hotel Arts in June 2027",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSDlZMjFOLW5KaHJ1NHhFTTIyZkxDMWxTMF9rZVBKTC1sZ244UHpnUjRtUTNoUXNMQl9FcjJnQS1Rc1EyajFnNmEwMUplcUJUVFNqUHg4bmNiUkZQNS1WMVhzd3RqckxUdnJFYTFSd1N4LWdzN0xScm9RZzFfY282VFJB?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-26T11:41:19Z",
+   "relevance": 2,
+   "why": "A new 60-suite property is set to open atop Hotel Arts in Barcelona next summer.",
+   "summary_ai": "A new 60-suite property is set to open atop Hotel Arts in Barcelona next summer.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "60 suites",
+    "June 2027 opening"
+   ],
+   "also": []
+  }
+ ]
+}

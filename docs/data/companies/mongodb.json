@@ -1,0 +1,31 @@
+{
+ "name": "MongoDB",
+ "slug": "mongodb",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d4203e9836fd",
+   "title": "Wells Fargo Gives MongoDB Stock a 'Buy' Rating, Sees 50% Upside for 2027",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZEY1UmJ2cm91RFpPUEZyZUtBWEhJbEp5dm9QWHdwbm8wRDFraXlFdlpodHgxZEdsd1lLaEZNLVVhSllVVkFHWks0bnA1aGdlWWJoUzVkZnRjaG15cmJTb3BMY0duVWVqaTBCV0ZUTVB5a2MxM011RVVqOFk5b2tNX0J4MGl4eXZQTVgyOGpzN2FUc2ZVeWZHQlBhYUVVYzl0bWVIUFNYWkZxN1g4TEpGTldzdC1GaEkzZEJZM0JnVlNvdTdFTURF?oc=5",
+   "source": "TradingView",
+   "source_type": "gnews",
+   "published": "2026-11-26T17:36:32Z",
+   "relevance": 1,
+   "why": "Wells Fargo analysts rated MongoDB a Buy and see 50% upside into 2027.",
+   "summary_ai": "Wells Fargo analysts rated MongoDB a Buy and see 50% upside into 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "50% upside for 2027"
+   ],
+   "also": []
+  }
+ ]
+}

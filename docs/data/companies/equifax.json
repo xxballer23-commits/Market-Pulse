@@ -5,6 +5,56 @@
  "vets": [],
  "items": [
   {
+   "id": "720a83238900",
+   "title": "Why Is Equifax (EFX) Warning Of Canada’s Highest Mortgage Delinquencies In 13 Years?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUmFFdnRrSHhfODQ1Nk9DV0ZYcXdEb1BZNGhKQ0dKbDFIYkJ6RXN6Yi1OX2lXRkFOdmdNcnJCRnFqY0tCSTlVWEtCektIRFdsdmtVeGc1MC1IWVJlZWx4RjkyV2F1elUzWlRtMDRLUzJTNjhnaURqRnhudWduT05xZ0l3UTEzWE5nTk9BNER1a0RvNW9rY3NB?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-26T06:18:00Z",
+   "relevance": 2,
+   "why": "Canadian credit stress is a signal to watch, though this is mortgage data rather than US card performance.",
+   "summary_ai": "Equifax warns that Canadian mortgage delinquencies have reached their highest level in 13 years.",
+   "take": "Canadian credit stress is a signal to watch, though this is mortgage data rather than US card performance.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "13 years"
+   ],
+   "also": []
+  },
+  {
+   "id": "5d0cd7da5c9d",
+   "title": "Mortgage delinquency rate up 31% in Q3, driven by Ontario and B.C.: Equifax report",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWm9LZ1p3QnJQbWJoTEs2cnRlLXBLWG1KRjFYZVNoaGJWM25scXlBUkVFdEJ4Y1pDMGdFdjVwLUdhMW9tRkVoaTBRTWwzTXMyMjFTN2ZBaFBPWmxGMHRTdWswNWlSeWlQbGh3d2lTQmZhb0J6bUpvSkY5Tl9jdUxuQ1NXQ1Q5NEJSOVhRbXF6N2U4Y0VYVnVqZklYVWpDMjNianF2LXhrbXYxM0JmakxSQmVzYTRnVFlzelhjUjZB?oc=5",
+   "source": "CP24",
+   "source_type": "gnews",
+   "published": "2026-11-24T20:11:44Z",
+   "relevance": 2,
+   "why": "Canadian mortgage stress is a weak signal for US card credit trends, not a direct read on our portfolio.",
+   "summary_ai": "Equifax reports Canadian mortgage delinquencies rose sharply in Q3, led by Ontario and British Columbia.",
+   "take": "Canadian mortgage stress is a weak signal for US card credit trends, not a direct read on our portfolio.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "31% rise in Q3 mortgage delinquency"
+   ],
+   "also": []
+  },
+  {
    "id": "4e213a1ad080",
    "title": "Mortgage delinquencies reach 13-year high across Canada: Equifax",
    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcVU4SnRYV0lNaVg4WVpWOTVaNnAxRDBKaFBBS2NGcTNIVlFSZVE0ZEt2TG9LQmxyOGlaaTh1RWk3V0dySnRTbC1xODRlcDVjUVRlQzJUUXhRbDRfUmVQejh5RTBfanRjRUFCaUdXbmo4dG5nVmUtY3FiQlpKUzJRR2VianlDSjZoSUpuR2Jxd0tUOXVOM2hOMDViaXF2MFpW?oc=5",

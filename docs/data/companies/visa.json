@@ -5,6 +5,76 @@
  "vets": [],
  "items": [
   {
+   "id": "165bc461513a",
+   "title": "Giftcards.com: Get Bonus $10 Giftcard With $100 Giftcard Purchase (Visa, Mastercard, Disney, Ulta, Kohl’s & More)",
+   "url": "https://www.doctorofcredit.com/giftcards-com-get-bonus-10-giftcard-with-100-giftcard-purchase-visa-mastercard-disney-ulta-kohls-more/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-26T15:54:25Z",
+   "relevance": 2,
+   "why": "Giftcards.com is offering a $10 bonus card with select $100 gift card purchases, including several major brands.",
+   "summary_ai": "Giftcards.com is offering a $10 bonus card with select $100 gift card purchases, including several major brands.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Offer end date unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$10 bonus",
+    "$100 gift card purchase"
+   ],
+   "also": []
+  },
+  {
+   "id": "bf70fe5b0b1c",
+   "title": "NBX partners Visa for stablecoin-linked card",
+   "url": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T13:11:00Z",
+   "relevance": 2,
+   "why": "Visa is building spend products around stablecoin-linked balances, a signal to watch as issuers weigh multi-money card offerings.",
+   "summary_ai": "Visa, NBX, Tieto and IDT Finance announced plans for a Visa Flex Card that lets NBX customers spend across several forms of money.",
+   "take": "Visa is building spend products around stablecoin-linked balances, a signal to watch as issuers weigh multi-money card offerings.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2ab674f531eb",
+   "title": "Maldives Islamic Bank launches its Visa Islamic credit card proposition with BPC",
+   "url": "https://www.finextra.com/pressarticle/111791/maldives-islamic-bank-launches-its-visa-islamic-credit-card-proposition-with-bpc?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T10:17:00Z",
+   "relevance": 1,
+   "why": "Maldives Islamic Bank launched a Sharia-compliant Visa credit card built on BPC's issuing platform.",
+   "summary_ai": "Maldives Islamic Bank launched a Sharia-compliant Visa credit card built on BPC's issuing platform.",
+   "take": null,
+   "take_kind": null,
+   "partner": "BPC",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "eca1d03e75b4",
    "title": "TheGiftCardShop.com: 100% Off $50+ Visa Purchase Fees (CUSTOM26)",
    "url": "https://www.doctorofcredit.com/thegiftcardshop-com-100-off-200-visa-mastercard-purchase-fees/",
@@ -338,6 +408,10 @@
     {
      "source": "Wisevoter",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTmo0OWVxbkRtLV9mR050cGxjZzBnLXJIYzVzNjIyTjNvZVNtN19fUlNCalRHaEJHeWVReml1aU1BMVprQ1JkcjNnczc5R0g3bFplRk5QbXNKV1BTUGVEMU9Nbk9QRXNmTHZWc1cwYkxCY2VZeUFPTDlra3VKMENlaF9YQkY5dGc?oc=5"
+    },
+    {
+     "source": "The Paypers",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckYtNEt5SDBaVUpSMXpVbVNMNjNxSThiNHZVWkpYTjhWVGk2TGxRWGo5TlI2MzEzS0dPQU0zSkVET1Nucm5ZbElBd3dYVmpMTklnR3pMTHg0dlBNX1JOd1VXeDNsa0IxTWdQSC1PbGNSMUJxRWNnejNzUktGcG91aUZVN0VDNjlPdFlTX0dITEhubGkyRFBzdDI0aHlRXzkyVERiLVBMQnpfUQ?oc=5"
     }
    ]
   },

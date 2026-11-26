@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "86f7bfb67507",
+   "title": "Dollar General: Save 15% On Lowe’s Giftcards (Valid 11/27 Only)",
+   "url": "https://www.doctorofcredit.com/dollar-general-save-10-on-lowes-giftcards/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-26T15:15:10Z",
+   "relevance": 1,
+   "why": "Dollar General is offering a one-day discount on Lowe's gift cards, though the stated discount differs between headline and summary.",
+   "summary_ai": "Dollar General is offering a one-day discount on Lowe's gift cards, though the stated discount differs between headline and summary.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Title and summary disagree on discount",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Valid 11/27 only"
+   ],
+   "also": []
+  },
+  {
    "id": "fc286185d5cc",
    "title": "Highnote files for national bank charter",
    "url": "https://www.bankingdive.com/news/highnote-applies-national-bank-charter-occ-fdic/875785/",

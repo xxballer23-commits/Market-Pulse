@@ -221,6 +221,21 @@
      "model": "claude-sonnet-5-5"
     }
    }
+  },
+  "2026-11-26": {
+   "input_tokens": 88700,
+   "output_tokens": 123314,
+   "web_searches": 0,
+   "calls": 28,
+   "by_task": {
+    "enrich": {
+     "calls": 28,
+     "input_tokens": 88700,
+     "output_tokens": 123314,
+     "web_searches": 0,
+     "model": "claude-haiku-5-5"
+    }
+   }
   }
  }
 }

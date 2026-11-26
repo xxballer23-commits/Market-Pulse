@@ -1,0 +1,29 @@
+{
+ "name": "Zodia Custody",
+ "slug": "zodia-custody",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "cce98c5c1b91",
+   "title": "Client data leaked in Zodia Custody security breach - Reuters",
+   "url": "https://www.finextra.com/newsarticle/48820/client-data-leaked-in-zodia-custody-security-breach---reuters?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T11:55:00Z",
+   "relevance": 1,
+   "why": "Standard Chartered's crypto custody arm Zodia suffered a cyberattack that exposed customer and employee data.",
+   "summary_ai": "Standard Chartered's crypto custody arm Zodia suffered a cyberattack that exposed customer and employee data.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

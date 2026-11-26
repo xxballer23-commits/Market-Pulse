@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "080325e0a24a",
+   "title": "Delta Eyes $9 Billion From American Express Program",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORWxlU28yaVNjc3FxRUxQV3BOR05scTdpUHlYazlvU1pDbmpzX2Z3SHViSEtTOG5FNEszUW9fRkhRZGhaWk5yUlhHbnZyV3RSNHhWNS04NjFVcHB4S1NrQ2VmQlpKTkkta0RfZnJYVWZTbnNMTVJZYS1PSlg5cHp2SmJ5WGpvaGVTamxYaU1QbDE2S0VN?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-26T05:37:55Z",
+   "relevance": 4,
+   "why": "Benchmark this airline co-brand revenue figure when framing economics in our own airline partnership proposals.",
+   "summary_ai": "Delta is reportedly targeting about $9 billion from its American Express co-brand card program.",
+   "take": "Benchmark this airline co-brand revenue figure when framing economics in our own airline partnership proposals.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$9 billion"
+   ],
+   "also": []
+  },
+  {
    "id": "cd18709d89aa",
    "title": "Delta Amex current offers: Earn up to 125,000 SkyMiles with a new card",
    "url": "https://thepointsguy.com/credit-cards/delta-amex-current-offers/",
@@ -53,6 +79,29 @@
    "data_points": [
     "Up to 5x SkyMiles"
    ],
+   "also": []
+  },
+  {
+   "id": "d232a8920d53",
+   "title": "Full List of Airport Lounges at Hartsfield-Jackson Atlanta International [ATL]",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9BWk5xLTEzQmNLQy1IazZTZ2ZUTFU0Z0lVS1dxX1RNb1hkUTJPYjJTWU1ELVBmSlRMcjNxVUJDQURoYkJ5S0lBVV84YktHeUVJVnhQZzE0aEhNR0xXekkyQUt3Y0lNMzNGekFpYTdZN1VGZUhWNlZVQ1QyVQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T21:07:47Z",
+   "relevance": 3,
+   "why": "Use this list to check which Atlanta lounge access gaps our airport benefit partners would need to fill.",
+   "summary_ai": "Upgraded Points has published a complete guide to the airport lounges at Atlanta's Hartsfield-Jackson airport.",
+   "take": "Use this list to check which Atlanta lounge access gaps our airport benefit partners would need to fill.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   },
   {

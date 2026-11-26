@@ -1,0 +1,33 @@
+{
+ "name": "Casa dels Artistes",
+ "slug": "casa-dels-artistes",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ffc756031c32",
+   "title": "Casa dels Artistes Brings a New Expression of Luxury to Barcelona, Opening in June 2027",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmcwaVdHMTIxaUNzeGxEaFpudmlXWDRWT0lWZkdsakdraWFibFR2c3hJUExzYjN0dEw3TUhVTkxjNVp2Y01qSzZqWDlpbzYxNmRMYW5JYlF0LWhra0FrZFhsZzgwY0NuWUNmTXFTajlCQlRWcVBwcEdtLTllTXZwMmRncFVtQjI5ZG5aRTd2RDJrM1FhMHNsbEFkNWd1RTBlZmFyX1pWd29hbllWSVNkV1pRVVFKN2t4M2xLX2dqM1A4YWxrU0I5b0QwRDNudG54QTd4Y2Vn?oc=5",
+   "source": "Hospitality Net",
+   "source_type": "gnews",
+   "published": "2026-11-26T09:04:51Z",
+   "relevance": 2,
+   "why": "Casa dels Artistes is set to open a luxury property in Barcelona in June 2027.",
+   "summary_ai": "Casa dels Artistes is set to open a luxury property in Barcelona in June 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "June 2027"
+   ],
+   "also": []
+  }
+ ]
+}

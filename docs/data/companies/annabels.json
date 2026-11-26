@@ -1,0 +1,32 @@
+{
+ "name": "Annabel's",
+ "slug": "annabels",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "4c6a10e9e7b6",
+   "title": "Annabel’s brings New York’s Atomix to London for exclusive residency",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPblZIMHlVdDVvLWtyT04xRHRtNkhzRGNuZXJ5NU13RW45bzAwV1JvT0tHSm5LV084b2lfc0p6dnA1aDJSYXJJVF9iV1ZFS0lEUTBVdk1GX0V6dTFnLXV4VERNSUlISUlpV3hfdXdNeTYycWZYU0Z5WGFpSXE4QUdmQXJvck5LeHVEdjJObVU2ZmM0MHVuc3Z0WFJnYmc?oc=5",
+   "source": "Globetrender",
+   "source_type": "gnews",
+   "published": "2026-11-26T17:29:16Z",
+   "relevance": 2,
+   "why": "Top NYC chefs running London residencies shows a cross-market dining draw for affluent travelers.",
+   "summary_ai": "New York restaurant Atomix is running an exclusive residency at Annabel's in London.",
+   "take": "Top NYC chefs running London residencies shows a cross-market dining draw for affluent travelers.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

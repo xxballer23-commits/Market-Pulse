@@ -1,0 +1,31 @@
+{
+ "name": "NovaTechFx",
+ "slug": "novatechfx",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "17c5f5de538f",
+   "title": "NY Attorney General wins $1.4bn judgement against crypto scammers",
+   "url": "https://www.finextra.com/newsarticle/48821/ny-attorney-general-wins-14bn-judgement-against-crypto-scammers?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T13:59:00Z",
+   "relevance": 1,
+   "why": "A US court ordered NovaTechFx's founders to pay $1.37 billion over a crypto Ponzi scheme that defrauded investors.",
+   "summary_ai": "A US court ordered NovaTechFx's founders to pay $1.37 billion over a crypto Ponzi scheme that defrauded investors.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$1.37 billion judgment"
+   ],
+   "also": []
+  }
+ ]
+}

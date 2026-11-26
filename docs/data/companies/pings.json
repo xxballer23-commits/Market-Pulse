@@ -1,0 +1,33 @@
+{
+ "name": "Ping's",
+ "slug": "pings",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "dff103bd2430",
+   "title": "NYC Anniversary Stories: 30 Years of Ping’s in Chinatown",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GcmNCSVIydlR0YVNhTXNfeWhJUFNwSXBCOE5fLVNqam5uR24wMDRXVzVqMUdrUmlDSEJUQ1p5N0JHSlZXQTFIV0Y2ajlDdmpPMEkxOGh6b3lPN0x4SUd5ZnVrLUpoNTBoX3RMWlA5VQ?oc=5",
+   "source": "DiningOut",
+   "source_type": "gnews",
+   "published": "2026-11-26T15:00:00Z",
+   "relevance": 2,
+   "why": "Ping's, a Chinatown restaurant, marks 30 years with a set of anniversary stories.",
+   "summary_ai": "Ping's, a Chinatown restaurant, marks 30 years with a set of anniversary stories.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [
+    "30 years"
+   ],
+   "also": []
+  }
+ ]
+}

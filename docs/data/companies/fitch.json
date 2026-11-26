@@ -1,0 +1,31 @@
+{
+ "name": "Fitch",
+ "slug": "fitch",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "68b83a1c76a2",
+   "title": "Fitch withdraws ratings of Wells Fargo Canada following merger",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fMmhaeWV5dGUwZ19FNlQwaXdoNTV5OFplV3E4bmMwNmpHZUZlMmp6MHNJcU5uT1ZfN1R6akdHLVhVRXhjZWl1MkctbHo4VFQ0?oc=5",
+   "source": "Trend News Agency",
+   "source_type": "gnews",
+   "published": "2026-11-26T06:03:00Z",
+   "relevance": 2,
+   "why": "Fitch has withdrawn its ratings on Wells Fargo Canada following a merger involving the entity.",
+   "summary_ai": "Fitch has withdrawn its ratings on Wells Fargo Canada following a merger involving the entity.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

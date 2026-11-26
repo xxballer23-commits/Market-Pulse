@@ -1,0 +1,33 @@
+{
+ "name": "Royal Air Maroc",
+ "slug": "royal-air-maroc",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1871770d1ef1",
+   "title": "Royal Air Maroc Business Class Boeing 737 Review: Good For A Short Hop",
+   "url": "https://onemileatatime.com/reviews/royal-air-maroc-business-class-737/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-26T19:03:34Z",
+   "relevance": 2,
+   "why": "A review finds Royal Air Maroc's 737 business cabin roomy and well fed on a short Malaga to Casablanca route, but dated and service is cold.",
+   "summary_ai": "A review finds Royal Air Maroc's 737 business cabin roomy and well fed on a short Malaga to Casablanca route, but dated and service is cold.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "45-minute Malaga to Casablanca flight"
+   ],
+   "also": []
+  }
+ ]
+}

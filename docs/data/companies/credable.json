@@ -1,0 +1,31 @@
+{
+ "name": "CredAble",
+ "slug": "credable",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9bd4cf7b5dc9",
+   "title": "CredAble acquires 70% stake in Reql",
+   "url": "https://www.finextra.com/pressarticle/111794/credable-acquires-70-stake-in-reql?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T12:52:00Z",
+   "relevance": 1,
+   "why": "CredAble acquired a 70% stake in Reql, an AI regulatory intelligence platform, expanding into regtech.",
+   "summary_ai": "CredAble acquired a 70% stake in Reql, an AI regulatory intelligence platform, expanding into regtech.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "70% stake"
+   ],
+   "also": []
+  }
+ ]
+}

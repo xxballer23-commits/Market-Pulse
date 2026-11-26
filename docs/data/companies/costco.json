@@ -5,6 +5,59 @@
  "vets": [],
  "items": [
   {
+   "id": "29bc221f1fc7",
+   "title": "Amazon, Costco: Apple MacBook Air from $999 & MacBook Neo from $599",
+   "url": "https://www.doctorofcredit.com/amazon-costco-apple-macbook-air-from-999-macbook-neo-from-599/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-26T14:26:20Z",
+   "relevance": 1,
+   "why": "Amazon and Costco are discounting MacBook Air models from $999 and the MacBook Neo from $599.",
+   "summary_ai": "Amazon and Costco are discounting MacBook Air models from $999 and the MacBook Neo from $599.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$999",
+    "$599"
+   ],
+   "also": []
+  },
+  {
+   "id": "d837c6c5c07b",
+   "title": "$100 inKind gift card for $64.99 at Costco.com (11/26 only)",
+   "url": "https://frequentmiler.com/100-inkind-gift-card-for-6at-costco-com/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-26T13:46:36Z",
+   "relevance": 1,
+   "why": "Costco is selling a $100 inKind gift card for $64.99, for one day only while supplies last.",
+   "summary_ai": "Costco is selling a $100 inKind gift card for $64.99, for one day only while supplies last.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$64.99 price",
+    "$100 gift card",
+    "One day only"
+   ],
+   "also": []
+  },
+  {
    "id": "11a0a6ae6733",
    "title": "Target.com: Save 15% On Uber eGiftcards (Today Only, 11/24)",
    "url": "https://www.doctorofcredit.com/target-com-save-15-on-uber-egiftcards-today-only-11-24/",

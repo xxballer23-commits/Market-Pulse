@@ -1,0 +1,31 @@
+{
+ "name": "Tieto",
+ "slug": "tieto",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "bf70fe5b0b1c",
+   "title": "NBX partners Visa for stablecoin-linked card",
+   "url": "https://www.finextra.com/pressarticle/111795/nbx-partners-visa-for-stablecoin-linked-card?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T13:11:00Z",
+   "relevance": 2,
+   "why": "Visa is building spend products around stablecoin-linked balances, a signal to watch as issuers weigh multi-money card offerings.",
+   "summary_ai": "Visa, NBX, Tieto and IDT Finance announced plans for a Visa Flex Card that lets NBX customers spend across several forms of money.",
+   "take": "Visa is building spend products around stablecoin-linked balances, a signal to watch as issuers weigh multi-money card offerings.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

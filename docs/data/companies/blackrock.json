@@ -1,0 +1,31 @@
+{
+ "name": "BlackRock",
+ "slug": "blackrock",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "db1e4230efcd",
+   "title": "Kering | BlackRock bets against Luca de Meo",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZFhYbXl1aVJPU1FrVk9sTFM5dWU4X0RsTUtkRkRLRFBjVi1EWTNpXzNxRDk5M2VfVmszZkN0SG94WXRITW42emdFcUhmSVBqWFVsYTJIT2cydXJMYTVnSW9EcmtNWnBiS09aenZ0Q0RKYkREcTJQT1RiZ1EzN0ZsQktsUDNaYnVXLU5FQ25la0ZDdDFPQURoNw?oc=5",
+   "source": "Glitz",
+   "source_type": "gnews",
+   "published": "2026-11-26T07:07:21Z",
+   "relevance": 2,
+   "why": "BlackRock is reportedly betting against Kering, with Luca de Meo leading the luxury group.",
+   "summary_ai": "BlackRock is reportedly betting against Kering, with Luca de Meo leading the luxury group.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

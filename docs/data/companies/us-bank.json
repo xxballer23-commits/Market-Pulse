@@ -31,6 +31,32 @@
    "also": []
   },
   {
+   "id": "10e07d09e4c7",
+   "title": "3 Days Only: U.S. Bank Brings Back Double Rewards for Cardholders",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Sa2w3czB2eWNlYVJzTDZZYkVlTFRKUFNFNHRqejFSY2tqNU9hNDhGaDRkel95Q0xzUUV3ZkxCekhkQlE3MEd0R3hCYWJfVndSTE1weHR3Qjd0SVozOFloek9LbTlSQQ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T13:38:19Z",
+   "relevance": 3,
+   "why": "Short-window promos like this signal US Bank pushing spend; track whether rivals match the timing.",
+   "summary_ai": "U.S. Bank is running a three-day promotion that doubles rewards for cardholders.",
+   "take": "Short-window promos like this signal US Bank pushing spend; track whether rivals match the timing.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "3 days",
+    "double rewards"
+   ],
+   "also": []
+  },
+  {
    "id": "7aa23581891c",
    "title": "Highlight Deals For U.S. Bank Bonus Days (Double Cashback on November 25-27)",
    "url": "https://www.doctorofcredit.com/highlight-deals-for-u-s-bank-bonus-days-double-cashback-on-november-25-27/",
@@ -184,32 +210,6 @@
    "sections": [],
    "breaking": false,
    "data_points": [],
-   "also": []
-  },
-  {
-   "id": "10e07d09e4c7",
-   "title": "U.S. Bank Bringing Back Double Rewards for Cardholders [November 25 to 27]",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Sa2w3czB2eWNlYVJzTDZZYkVlTFRKUFNFNHRqejFSY2tqNU9hNDhGaDRkel95Q0xzUUV3ZkxCekhkQlE3MEd0R3hCYWJfVndSTE1weHR3Qjd0SVozOFloek9LbTlSQQ?oc=5",
-   "source": "Upgraded Points",
-   "source_type": "gnews",
-   "published": "2026-11-19T19:20:39Z",
-   "relevance": 3,
-   "why": "Short holiday rewards boosts are a common seasonal lever, useful for timing our own spend promotions against bank peers.",
-   "summary_ai": "U.S. Bank is restoring double rewards for cardholders over the Thanksgiving weekend, November 25 to 27.",
-   "take": "Short holiday rewards boosts are a common seasonal lever, useful for timing our own spend promotions against bank peers.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": true,
-   "benefit_type": "offer",
-   "low_confidence": null,
-   "sections": [
-    "premium_cards"
-   ],
-   "breaking": false,
-   "data_points": [
-    "Nov 25 to 27",
-    "Double rewards"
-   ],
    "also": []
   }
  ]

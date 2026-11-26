@@ -1,0 +1,31 @@
+{
+ "name": "FedEx",
+ "slug": "fedex",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "06f9e8c239de",
+   "title": "Not Again: Cargo Jet Overruns Miami Airport Runway (This Time A FedEx MD-11)",
+   "url": "https://onemileatatime.com/news/cargo-jet-overruns-miami-airport-runway-fedex-md-11/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-26T12:49:50Z",
+   "relevance": 1,
+   "why": "A FedEx MD-11 overran a Miami runway and stopped near the perimeter fence. The pilots were unhurt, but the incident caused a nearly two-hour ground stop.",
+   "summary_ai": "A FedEx MD-11 overran a Miami runway and stopped near the perimeter fence. The pilots were unhurt, but the incident caused a nearly two-hour ground stop.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Nearly two-hour ground stop"
+   ],
+   "also": []
+  }
+ ]
+}

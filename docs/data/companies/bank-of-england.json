@@ -1,0 +1,29 @@
+{
+ "name": "Bank of England",
+ "slug": "bank-of-england",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "27926b6048ec",
+   "title": "BofE says firms need to invest to keep pace with AI threat",
+   "url": "https://www.finextra.com/newsarticle/48822/bofe-says-firms-need-to-invest-to-keep-pace-with-ai-threat?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T14:31:00Z",
+   "relevance": 1,
+   "why": "The Bank of England warns financial firms must invest more to counter AI-driven cyber threats.",
+   "summary_ai": "The Bank of England warns financial firms must invest more to counter AI-driven cyber threats.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

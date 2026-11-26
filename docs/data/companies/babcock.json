@@ -1,0 +1,31 @@
+{
+ "name": "Babcock",
+ "slug": "babcock",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "243e80247a13",
+   "title": "Babcock Signs Record $11.4 Billion U.K. Submarine Contract",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYmdxTWZBbEt0cjVaalZwSk9hdm1EWEJ0cy1XZjVadU1rbFFYU0RJVEpVSmhZOHJxUVdqV0kyNkxITTNULUZOS2pWSE40d0tiUWNfWERtV1lPUFBFbVRFeWtzNDhVTWlOcUlRU0VsRTM2b3pibldIOTlwUzdGSjJ5UWlaaXRpd3dkQjkyeXRmbUlLOU9ISnNjZGlB?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-26T07:55:00Z",
+   "relevance": 1,
+   "why": "Babcock has signed a record $11.4 billion submarine contract with the U.K. government.",
+   "summary_ai": "Babcock has signed a record $11.4 billion submarine contract with the U.K. government.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$11.4 billion contract"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Copa Airlines",
+ "slug": "copa-airlines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "784a1aa1981e",
+   "title": "[Expired] Copa Airlines Is Offering a 15% Discount on Flights, Including Business Class",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqOE5LQUphZ2VnT2lLRl9aTzVYMXZXLTBLSFQ2aVpLSnI1OWkxczN1Vk1VTUhtbXZQenc1Q25rUFl2NGgwUWdMcmprM0tpeUxRbmRIQ0ZONzFoMTFqLXBISVNPWDJZODZYN2Q2b0trSlNxUXZDbzRXRG9n?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-26T11:49:18Z",
+   "relevance": 1,
+   "why": "Copa Airlines' promotion offering 15 percent off flights, including business class, has ended.",
+   "summary_ai": "Copa Airlines' promotion offering 15 percent off flights, including business class, has ended.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "15% discount"
+   ],
+   "also": []
+  }
+ ]
+}

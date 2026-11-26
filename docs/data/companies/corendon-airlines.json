@@ -1,0 +1,31 @@
+{
+ "name": "Corendon Airlines",
+ "slug": "corendon-airlines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "342b260c847a",
+   "title": "Klarna goes live at Corendon Airlines checkout",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUGY5M3FvdGkzS0FDWUhQZ1dGYWtoWWF0SG10S3poTlVVZng2STVTb3UxblJGY0d5SllhMTR0UFhiaGZjMjNPYkRIbUR5S3RRYlVkR19fMUZYbjdiaWxkdzliZWdGdGZiWl9ndHB0ekhEOE8tVWJ1SzdCMkQ1SVBTQ3hqcTlIN0JZSmpDWDQ2Q2dJWk9OQmNBbTNEUEIwYTlMTUlXVURBQzE?oc=5",
+   "source": "The Paypers",
+   "source_type": "gnews",
+   "published": "2026-11-26T08:00:21Z",
+   "relevance": 3,
+   "why": "Airline checkout BNPL is a travel point of sale; check whether our travel partners could offer pay-over-time too.",
+   "summary_ai": "Klarna's pay-later option is now live at the checkout of Corendon Airlines.",
+   "take": "Airline checkout BNPL is a travel point of sale; check whether our travel partners could offer pay-over-time too.",
+   "take_kind": "take",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

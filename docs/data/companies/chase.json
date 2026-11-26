@@ -5,6 +5,54 @@
  "vets": [],
  "items": [
   {
+   "id": "144b2c662685",
+   "title": "American Airlines Award Flights Can Now Be Booked At Better Value With Chase Points Through Two New Transfer Partners",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3VLV3hrRXVfM3FnQWVzaFI3STczWkQ4ZXJ2dlNZSVBHcExlTkdxcnp5XzNfZ01ERmI4NGQxekR2bXVxN2NwZkVwVXd0Uy1DTHB0WDNpY3hUalV1cXZ3bWhTdXRIVW9hX3ZUZm9jTFozSkoxM01INzZTSmEyczVvUTBqSnpiUnlvWXlFY1BrU295WDh3U0NsamFKTFJQYU1teGlSc1o4N2wxMmVEemlvbXJDUFFiUQ?oc=5",
+   "source": "TheTravel",
+   "source_type": "gnews",
+   "published": "2026-11-26T18:21:30Z",
+   "relevance": 4,
+   "why": "Confirm which transfer routes are live for Chase cardholders before pitching any American Airlines award benefit.",
+   "summary_ai": "TheTravel reports two new transfer partners let Chase points book American Airlines awards at better value.",
+   "take": "Confirm which transfer routes are live for Chase cardholders before pitching any American Airlines award benefit.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "b54572237bc7",
+   "title": "Hyatt Credit Cards Compared: Is The Personal Or Business Card Better?",
+   "url": "https://onemileatatime.com/guides/hyatt-credit-card-personal-vs-business/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-26T17:12:50Z",
+   "relevance": 3,
+   "why": "Chase's personal and business World of Hyatt cards are compared, with the personal card seen as easier to justify.",
+   "summary_ai": "Chase's personal and business World of Hyatt cards are compared, with the personal card seen as easier to justify.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "4e7f5294d68b",
    "title": "Why I’m Excited About Chase Adding Cathay Pacific as a Transfer Partner",
    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTFxRTZnOURzM2JaMUtaWXBDZ0VHNFJvNXViSl9UUnRYaGk3dHNsNmp2Sml6Y2pLTDBHZmoyZHRnRXgtWkRhZmtDd25reWliVEJUR19lTkxtODhZUFE4MjBrT2VZNVJrSm1TS09fOEJiQjEwTHBpMlVvTTA5VWNyZVhuVUw?oc=5",
@@ -105,6 +153,31 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "dc9267dfa0b5",
+   "title": "Is the Chase Sapphire Preferred Worth Its $95 Annual Fee?",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMl9saDhpeGJVWmRlMVgyRVRQQ0h3Mk84RmJuTDZ3S0t3dWl0QmZkT0lIYUJTYXF1bTBfbUthUzR0SXZaMkRneHZvSzdXVjRfVm1YNGN1NGs3V0ZBV0VVRWlkT0tHUWg0ODFTQWlBbHB2ZjAxZnpkU2lLQkhPbHQ0QVBTQVNxWE1NSEt3UzJ0WmFNNEN4b0dyMnhyZlJocEtzYWxlZEx4SQ?oc=5",
+   "source": "The Motley Fool",
+   "source_type": "gnews",
+   "published": "2026-11-25T08:00:00Z",
+   "relevance": 2,
+   "why": "The Motley Fool analyzes whether the Chase Sapphire Preferred's annual fee is justified by its benefits.",
+   "summary_ai": "The Motley Fool analyzes whether the Chase Sapphire Preferred's annual fee is justified by its benefits.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$95 annual fee"
+   ],
    "also": []
   },
   {

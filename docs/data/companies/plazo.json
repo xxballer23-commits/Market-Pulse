@@ -1,0 +1,32 @@
+{
+ "name": "Plazo",
+ "slug": "plazo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "933283768885",
+   "title": "Turrón by Plazo expands card-based BNPL offering in Spain",
+   "url": "https://www.finextra.com/pressarticle/111798/turrn-by-plazo-expands-card-based-bnpl-offering-in-spain?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T13:20:00Z",
+   "relevance": 3,
+   "why": "Pairing BNPL with experience gift providers creates a funded partnership template worth testing for premium card experience benefits.",
+   "summary_ai": "Plazo's card-based BNPL product Turrón signed a partnership with Wonderbox, a Spanish experience gift provider.",
+   "take": "Pairing BNPL with experience gift providers creates a funded partnership template worth testing for premium card experience benefits.",
+   "take_kind": "take",
+   "partner": "Wonderbox",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

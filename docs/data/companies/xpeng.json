@@ -1,0 +1,31 @@
+{
+ "name": "Xpeng",
+ "slug": "xpeng",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9327a647c67d",
+   "title": "Robots could be doing household chores in just 1-2 years, Chinese EV firm says",
+   "url": "https://www.cnbc.com/2026/11/26/china-ev-xpeng-humanoid-robots-household-chores.html",
+   "source": "CNBC Finance",
+   "source_type": "rss",
+   "published": "2026-11-26T07:30:11Z",
+   "relevance": 1,
+   "why": "Xpeng's co-president predicts humanoid robots could handle household chores within one to two years.",
+   "summary_ai": "Xpeng's co-president predicts humanoid robots could handle household chores within one to two years.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "1-2 years"
+   ],
+   "also": []
+  }
+ ]
+}

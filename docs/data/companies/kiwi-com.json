@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "b1d4218caed2",
+   "title": "In Praise of Kiwi.com",
+   "url": "https://skift.com/2026/11/26/in-praise-of-kiwi-com/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-26T16:21:08Z",
+   "relevance": 2,
+   "why": "Skift praises Kiwi.com for improving flight search but notes that selling and servicing those flights proved costlier.",
+   "summary_ai": "Skift praises Kiwi.com for improving flight search but notes that selling and servicing those flights proved costlier.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "3543da8aca3e",
    "title": "Expedia to Buy Kiwi.com, Extending Its Acquisition Spree Into Flights",
    "url": "https://skift.com/2026/11/25/expedia-to-buy-kiwi-com-extending-its-acquisition-spree-into-flights/",

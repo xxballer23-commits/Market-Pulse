@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "0b60eaf3dd5d",
+   "title": "Norse Atlantic Suspends Flights as Bankruptcy Looms",
+   "url": "https://skift.com/2026/11/26/norse-atlantic-suspends-flights-as-bankruptcy-looms/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-26T15:22:55Z",
+   "relevance": 2,
+   "why": "Airline failures can strand partner inventory, so check counterparty risk before signing travel partners.",
+   "summary_ai": "Norse Atlantic has suspended flights amid a cash crisis and looming bankruptcy, affecting airline and cruise partners.",
+   "take": "Airline failures can strand partner inventory, so check counterparty risk before signing travel partners.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "85443cf7ca25",
    "title": "Norse Atlantic Collapses: Airline Cancels Flights, Strands Passengers",
    "url": "https://onemileatatime.com/news/norse-atlantic-collapses-cancels-flights-strands-passengers/",
@@ -24,6 +47,27 @@
     "community",
     "premium_cards"
    ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "7da261af23ba",
+   "title": "2026's Best Flight Deals & Norse Atlantic's Uncertain Future",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSDlkcElpT3pKbkZRWjBIZ1htQmk1dDVhWHFMb1BTVEREamE3WU9iaWd3dVZhbkRFVF9CMWVUdzFXczVQSVJiQ2JXUGI2NXlCeENweFhSYUJsVk5SdnJIUHA2N2pGYktZbGhUYWstS0Y3UDFsdnBlNTdDQS1LYlBBSDFQeFN3NFJkOXFHX1Z3XzNaV2dDWmxXbUdsUlo5UQ?oc=5",
+   "source": "Thrifty Traveler",
+   "source_type": "gnews",
+   "published": "2026-11-25T17:21:23Z",
+   "relevance": 2,
+   "why": "A roundup of 2026 flight deals alongside doubts about budget carrier Norse Atlantic's future.",
+   "summary_ai": "A roundup of 2026 flight deals alongside doubts about budget carrier Norse Atlantic's future.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []

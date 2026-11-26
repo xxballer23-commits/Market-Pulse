@@ -1,0 +1,31 @@
+{
+ "name": "Bitcoin",
+ "slug": "bitcoin",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "6586cf440d63",
+   "title": "Bitcoin Tops $60,000 as Risk Assets Rise in Holiday Trading",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeHp3TUk5RzlaYnd4NWJVek95LXprcjBaOFJXMVFUbWVQSEh0a0pXdWt0UU5qY1FERzZFWUk4dFZ3WGZBVkpHUXphZjlBZDc1a2I0Vk0wNWtBWk01UFRlem9uVjdiLWJrS284ZUxwZ1pwY3U5M0lrOGxrOUpJT0lhVWg0azFFM2xyUUNRSkFlZDdoQWx3X09QTjUyRE5BSGNzQVBXUjA5ZWs2V2xybkE?oc=5",
+   "source": "Bloomberg.com",
+   "source_type": "gnews",
+   "published": "2026-11-26T16:28:23Z",
+   "relevance": 1,
+   "why": "Bitcoin rose above $60,000 during holiday trading as risk assets gained ground.",
+   "summary_ai": "Bitcoin rose above $60,000 during holiday trading as risk assets gained ground.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$60,000"
+   ],
+   "also": []
+  }
+ ]
+}

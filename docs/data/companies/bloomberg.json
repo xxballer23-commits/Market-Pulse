@@ -5,6 +5,27 @@
  "vets": [],
  "items": [
   {
+   "id": "c19928acd768",
+   "title": "Bonolo Mokonoto - Rotational Reporter",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IQUYwdXNqbC1WRW1xTWg4QXBvT2pDMWo0ZWVvbDJta2JhbjNjajhTU0ZfcHhGWEdHdGxtVFQyMzg2b1FYR2R0NVZibzJTcHVMbXRZX28ybzNLVjFBVG1SRHJDc3hULW8t?oc=5",
+   "source": "Bloomberg",
+   "source_type": "gnews",
+   "published": "2026-11-26T07:05:04Z",
+   "relevance": 1,
+   "why": "This is a staff profile page for a Bloomberg rotational reporter.",
+   "summary_ai": "This is a staff profile page for a Bloomberg rotational reporter.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "b8eb4d51c3af",
    "title": "Latest News & Updates: Breaking News, Headlines Today",
    "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBkeEZvV003dEo3ZTdqbzkxTDNYTVJvcUljb2lvaTg5RW5mT09ZTmJURmlPSnFHUnhtNXN4YVhWME53M2lCaDkw?oc=5",

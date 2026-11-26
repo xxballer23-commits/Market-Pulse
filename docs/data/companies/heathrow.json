@@ -1,0 +1,33 @@
+{
+ "name": "Heathrow",
+ "slug": "heathrow",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c6f93054968c",
+   "title": "Heathrow’s Third Runway Has a $25 Billion Problem Before It Gets to Emissions",
+   "url": "https://skift.com/2026/11/26/heathrows-third-runway-has-a-25-billion-problem-before-it-gets-to-emissions/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-26T14:19:19Z",
+   "relevance": 2,
+   "why": "Lawmakers are questioning who will pay for Heathrow's third runway and how much would raise fares, stalling the plan.",
+   "summary_ai": "Lawmakers are questioning who will pay for Heathrow's third runway and how much would raise fares, stalling the plan.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$25 billion cost"
+   ],
+   "also": []
+  }
+ ]
+}

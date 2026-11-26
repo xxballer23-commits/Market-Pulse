@@ -1,0 +1,29 @@
+{
+ "name": "ABC",
+ "slug": "abc",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0615bea8bd11",
+   "title": "Judge Says FCC Must Stop ABC License Review",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT045d0wyaTNWV1ZIRi0yeEdaOWJ5VTEwSUtqMGhuXzNmdi1kemJoR2NOa0FoWG1tM3luNmVZWFMxbzRZMDV5bWdJdVJGeHprNmQyZDU4M2dpM2pmbVdrWnN4THFkdC1nbWh5Ti1wSnUyODFkd3FEaUhCVjhoaENQVlVzaHpsSi1aakliY3JnV20?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-26T03:03:00Z",
+   "relevance": 1,
+   "why": "A judge has ruled that the FCC must halt its review of ABC's broadcast license.",
+   "summary_ai": "A judge has ruled that the FCC must halt its review of ABC's broadcast license.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

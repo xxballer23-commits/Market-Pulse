@@ -1,0 +1,31 @@
+{
+ "name": "La Mestiza",
+ "slug": "la-mestiza",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ef5b388bbe1b",
+   "title": "La Mestiza Opens Fort Greene Bakery on Saturday",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeXNfM1hwOF8xMUgycG5nU0RYQzIwcGZ2TUZxYTgzNG5HcC1EaTZpLUJGYmJKdGFSa0JmTEZ5c1NpVWZUaEtJT041YnNUNmdRQTNYRWl2akJUSzVjQ2cyQ2V5amZMT2Jua3E3MmVTZGxtTVk1eFlhMDhrUkpBVlk3eFZETUwzRTF0T0JHbXU5TkszRmVYRnJMRzVJNGtERmgzRTJ6aXB1anI?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-26T14:41:33Z",
+   "relevance": 2,
+   "why": "La Mestiza opens a bakery in Fort Greene, Brooklyn, this Saturday.",
+   "summary_ai": "La Mestiza opens a bakery in Fort Greene, Brooklyn, this Saturday.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "nyc_dining"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

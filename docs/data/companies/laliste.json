@@ -1,0 +1,34 @@
+{
+ "name": "LaListe",
+ "slug": "laliste",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3b1270d25891",
+   "title": "13 restaurants topped LaListe’s ranking for 2027 – including seven in Europe",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbmtKTllrUnNwZ2NNVmJxWDdjRE1LZTB4R3NVMjdNY2czb09uVFpVX3doQU1LdDNzUlNleVplTmQtQTBZYkI1d2lfSndMcTY3UXJkSTR0VlQ1TzVsbjNHRTU4OTVCVUEta0k4QlhCMzZsLXlDaUw5RWhNc2dQaHZKZmhFZHNBb25KRld1aV9tSHVLNEZLZ1VFdlFnYVZfMFY0Z0ZZMDBNTWJBSmw0US1JWWhraW5fdw?oc=5",
+   "source": "Newswav",
+   "source_type": "gnews",
+   "published": "2026-11-25T08:51:51Z",
+   "relevance": 2,
+   "why": "LaListe has published its 2027 ranking of top restaurants, with seven of the thirteen honorees located in Europe.",
+   "summary_ai": "LaListe has published its 2027 ranking of top restaurants, with seven of the thirteen honorees located in Europe.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "13 restaurants ranked",
+    "7 in Europe"
+   ],
+   "also": []
+  }
+ ]
+}

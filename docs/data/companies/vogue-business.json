@@ -1,0 +1,31 @@
+{
+ "name": "Vogue Business",
+ "slug": "vogue-business",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "1e91cbb4860d",
+   "title": "Who Topped the 2026 Vogue Business Watch Index?",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLW5Qa0hrdlFDdHM1b0NxYVE4MG5Ucmo0UUZjRFdUY2ZKZjh4azNHcUh2dUptbFlpTmZuMFNpS3E5R0xNRlJILW93Y0NzRmpieVN5QTBqTFpTaXFQR1BmX00yUEdPcWNJTnQ0MU01ZW9PNXBCUGpLQXNreE9KbnVWcG9B?oc=5",
+   "source": "Vogue",
+   "source_type": "gnews",
+   "published": "2026-11-25T05:30:00Z",
+   "relevance": 2,
+   "why": "Vogue Business has named the top performers in its 2026 Watch Index, a ranking of luxury brands.",
+   "summary_ai": "Vogue Business has named the top performers in its 2026 Watch Index, a ranking of luxury brands.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

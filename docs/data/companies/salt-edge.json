@@ -1,0 +1,32 @@
+{
+ "name": "Salt Edge",
+ "slug": "salt-edge",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "dba124d35d37",
+   "title": "Salt Edge and Neumetria offer AI agents and lenders a current, cross-bank view of customers",
+   "url": "https://www.finextra.com/pressarticle/111796/salt-edge-and-neumetria-offer-ai-agents-and-lenders-a-current-cross-bank-view-of-customers?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-26T13:15:00Z",
+   "relevance": 2,
+   "why": "Neumetria and Salt Edge partnered to give AI agents and lenders a current cross-bank view of customers in Europe and North America.",
+   "summary_ai": "Neumetria and Salt Edge partnered to give AI agents and lenders a current cross-bank view of customers in Europe and North America.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

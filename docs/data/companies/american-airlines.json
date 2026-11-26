@@ -5,6 +5,56 @@
  "vets": [],
  "items": [
   {
+   "id": "144b2c662685",
+   "title": "American Airlines Award Flights Can Now Be Booked At Better Value With Chase Points Through Two New Transfer Partners",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb3VLV3hrRXVfM3FnQWVzaFI3STczWkQ4ZXJ2dlNZSVBHcExlTkdxcnp5XzNfZ01ERmI4NGQxekR2bXVxN2NwZkVwVXd0Uy1DTHB0WDNpY3hUalV1cXZ3bWhTdXRIVW9hX3ZUZm9jTFozSkoxM01INzZTSmEyczVvUTBqSnpiUnlvWXlFY1BrU295WDh3U0NsamFKTFJQYU1teGlSc1o4N2wxMmVEemlvbXJDUFFiUQ?oc=5",
+   "source": "TheTravel",
+   "source_type": "gnews",
+   "published": "2026-11-26T18:21:30Z",
+   "relevance": 4,
+   "why": "Confirm which transfer routes are live for Chase cardholders before pitching any American Airlines award benefit.",
+   "summary_ai": "TheTravel reports two new transfer partners let Chase points book American Airlines awards at better value.",
+   "take": "Confirm which transfer routes are live for Chase cardholders before pitching any American Airlines award benefit.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "d62051f7791a",
+   "title": "[Update] American Airlines blocking close-in domestic award availability to partners",
+   "url": "https://frequentmiler.com/american-airlines-blocking-close-in-domestic-award-availability-to-partners/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-26T15:45:43Z",
+   "relevance": 3,
+   "why": "Factor airline-side restrictions into transfer partner evaluations, since close-in partner award access can be pulled without notice.",
+   "summary_ai": "American now also blocks connecting partner award itineraries within six days of departure, not just nonstop ones.",
+   "take": "Factor airline-side restrictions into transfer partner evaluations, since close-in partner award access can be pulled without notice.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Six days before departure"
+   ],
+   "also": []
+  },
+  {
    "id": "0fa2438fff1d",
    "title": "Is the Citi / AAdvantage Executive Mastercard worth its $695 annual fee?",
    "url": "https://thepointsguy.com/credit-cards/citi-aadvantage-executive-world-elite-mastercard-worth-annual-fee/",
@@ -28,6 +78,29 @@
    "data_points": [
     "$695 annual fee"
    ],
+   "also": []
+  },
+  {
+   "id": "32c66bd3742b",
+   "title": "Photos: Take a look inside American Airlines' new lounge at Austin's airport",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2hqbnI5T2VZd0JmandpWWJFQ3ZHdEJoN1RhLXZDSXJTa19UVm1HeE9STkdwbTRTREo0VlR3czR4czVKbGhGR2NWaEpBazk2TzFwVTF4VWRzVU9SZ2VnblY5UEhWZHM4VUFIcUhaR1NXaDBTVV8wcE5iWEVORms3ZUpDWkQxSk9sYmcxNTBlTVdLa2ZoeXR3?oc=5",
+   "source": "Yahoo",
+   "source_type": "gnews",
+   "published": "2026-11-25T16:00:00Z",
+   "relevance": 3,
+   "why": "Airline lounge expansion strengthens the case for co-brand lounge access as a card perk.",
+   "summary_ai": "American Airlines has opened a new lounge at Austin's airport, shown in photos.",
+   "take": "Airline lounge expansion strengthens the case for co-brand lounge access as a card perk.",
+   "take_kind": "read",
+   "partner": "American Airlines",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
    "also": []
   },
   {
