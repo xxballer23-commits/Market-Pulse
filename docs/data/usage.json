@@ -223,10 +223,10 @@
    }
   },
   "2026-11-26": {
-   "input_tokens": 88700,
-   "output_tokens": 123314,
+   "input_tokens": 99439,
+   "output_tokens": 125984,
    "web_searches": 0,
-   "calls": 28,
+   "calls": 30,
    "by_task": {
     "enrich": {
      "calls": 28,
@@ -234,6 +234,20 @@
      "output_tokens": 123314,
      "web_searches": 0,
      "model": "claude-haiku-5-5"
+    },
+    "digest_update": {
+     "calls": 1,
+     "input_tokens": 4523,
+     "output_tokens": 1727,
+     "web_searches": 0,
+     "model": "claude-sonnet-5-5"
+    },
+    "radar_radar_update": {
+     "calls": 1,
+     "input_tokens": 6216,
+     "output_tokens": 943,
+     "web_searches": 0,
+     "model": "claude-sonnet-5-5"
     }
    }
   }
