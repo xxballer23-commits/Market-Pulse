@@ -1,0 +1,31 @@
+{
+ "name": "Cartier",
+ "slug": "cartier",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "716d53237413",
+   "title": "Cartier Is Laughing At Your Alleged Luxury Slowdown",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NSWd3VUpyd0FTLWJDdGVJQ2p5NTgybVpVUWNPbXhMZUxIUDBIeEFMLTAxVmRpY0pSYlVYQ29WUExHYXZkaldyQ0QzSHV5VTI3eXNEMkpOal9pbkdFWjhzWlM2RVl3aU5vRFBfQmhRdTFtZk51RG83Y2l3?oc=5",
+   "source": "DMARGE",
+   "source_type": "gnews",
+   "published": "2026-11-25T23:58:20Z",
+   "relevance": 2,
+   "why": "Top-tier jewelry demand holding up suggests the affluent spending slowdown story is uneven across brands.",
+   "summary_ai": "Commentary argues Cartier is not feeling a luxury slowdown, pushing back on broader market talk.",
+   "take": "Top-tier jewelry demand holding up suggests the affluent spending slowdown story is uneven across brands.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

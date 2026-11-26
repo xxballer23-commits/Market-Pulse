@@ -1,0 +1,33 @@
+{
+ "name": "Payfit",
+ "slug": "payfit",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "84a5fc943de2",
+   "title": "Half of UK workers struggle before payday, Payfit finds",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPODZkbzFTVUstbmNiclBrLS1iN0NkdWRBNjJvYUhobkt2Yk1SVU5kM3pHVjFzQlNMY2lkYXNkcjVVWS1MeDdrZUVlRk5TM2VjUzl1V3FtOE9vMGNsRW9pY3NNdVNSb3RKYzVvLW5jckgyWThZSjByRG9rYlZPcjVLNG9LSlBRMU9SQlE?oc=5",
+   "source": "IT Brief UK",
+   "source_type": "gnews",
+   "published": "2026-11-25T08:00:00Z",
+   "relevance": 2,
+   "why": "A Payfit survey finds half of UK workers struggle financially before payday.",
+   "summary_ai": "A Payfit survey finds half of UK workers struggle financially before payday.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Half of UK workers"
+   ],
+   "also": []
+  }
+ ]
+}

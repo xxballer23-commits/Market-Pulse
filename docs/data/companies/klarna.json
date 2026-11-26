@@ -22,6 +22,61 @@
  "vets": [],
  "items": [
   {
+   "id": "d2b4b18fcfe7",
+   "title": "Klarna Expands Search Tool to Nine European Markets",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUUFEdWF1LThTWmZUeUk2eHMyNTNZSjlkaTg3NEVmTDU4ZXN2ZFMwZFp2eDY1U3VWeHFWR0I0U2RZVmVJX0hYajl3cjM5QW0wdVBEcGY2cUl2SFVoSFlDdUtPTzVKdTFneFgzN2ZPbTdac3JnMzdRM2dFODBlSllGU3dPOE5MWFJ0S0VSWmhB?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-26T00:23:29Z",
+   "relevance": 3,
+   "why": "Klarna pushing product discovery deepens its role in shopping, a sign BNPL is moving closer to the retail front end.",
+   "summary_ai": "Klarna is rolling out its search tool to nine more European markets.",
+   "take": "Klarna pushing product discovery deepens its role in shopping, a sign BNPL is moving closer to the retail front end.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Nine European markets"
+   ],
+   "also": []
+  },
+  {
+   "id": "d0775dfd42fd",
+   "title": "Klarna Expands European Price Comparison, Adds Canada Virtual Card",
+   "url": "https://www.pymnts.com/bnpl/2026/klarna-expands-price-comparison-in-europe-and-launches-virtual-card-in-canada/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T20:39:16Z",
+   "relevance": 3,
+   "why": "Klarna's Canadian virtual card widens a BNPL rival that could compete with card-linked pay-over-time features.",
+   "summary_ai": "Klarna expanded its price comparison tool across Europe and launched its flexible virtual card in Canada.",
+   "take": "Klarna's Canadian virtual card widens a BNPL rival that could compete with card-linked pay-over-time features.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Nov. 25 announcement"
+   ],
+   "also": [
+    {
+     "source": "PYMNTS.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXp0WkNSd1pFNjFEODVHODRmNndSbmhBQ085TzBtbHdYNUVYY0ZjVlB0Wkk0b3poY2hSc2MtM25wTWlGTmpoV0RnUlFBN1BJOHFBZTJKRG84OENrNG5mdERaLUtZRFRoZzRqSTRvTE9fT0NaaHNFVlF4bERFaEFpVk5Ba1ZUdUdsOExBMEVoeHlNLV9kZWd6MklKWU1fdlBnZDluWVdZd2FoTngtYzZxYQ?oc=5"
+    }
+   ]
+  },
+  {
    "id": "4f19797fa68c",
    "title": "Klarna Group plc (KLAR) Stock: Expands Canadian Footprint With Virtual Prepaid Card Launch",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd1FtT1JaMWx0amZLMGZnekoyZEl1TWhHYUxiSk92U2luVFFISWdtSVpta3g0MmcwY0NVNWRKOGl6NmkwaUdYWS1makxtMHZnOXVoRFQxUWUxUkl6M2Z5VjU0dExuVmJHcll2Y0p5NFFpNmFCVTZ4ZEFIZkdMV3lLNlVYaG1TWDJONUZjVVhPTkZCSTJVTWZsaWdOdmtSbHFCdEdzWnpnOXdsQi15cGJkMA?oc=5",
@@ -32,6 +87,29 @@
    "why": "BNPL players moving into everyday card wallets signals rising competition for spend on card-linked products.",
    "summary_ai": "Klarna is launching a virtual prepaid card in Canada, expanding its footprint there.",
    "take": "BNPL players moving into everyday card wallets signals rising competition for spend on card-linked products.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "35af2a9fe7fe",
+   "title": "Klarna Launches One-Time Card for Canadian Online Shoppers",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPR0d3TUpUZUJEcTZMRk8zU1pWdHptTlh3X0EtS0VadFdqSnpyd0lJcWh2dUdacUIxMFhwYU92WGs3YmpBLUJsYWhoTFZYblE0Q3JVTWpPRzNKN3RTWFRpZUNfUDBDWmpGSVZjM0NKeEp4M05DTXg3QnBYYlNsdDRGeFV6Yi02WTdKOHhOUQ?oc=5",
+   "source": "Fintech.ca |",
+   "source_type": "gnews",
+   "published": "2026-11-25T17:45:16Z",
+   "relevance": 3,
+   "why": "Shows BNPL providers pushing card-style products into Canada, a signal for how embedded lending competition is spreading.",
+   "summary_ai": "Klarna is launching a one-time card for online shoppers in Canada.",
+   "take": "Shows BNPL providers pushing card-style products into Canada, a signal for how embedded lending competition is spreading.",
    "take_kind": "read",
    "partner": null,
    "benefit_move": false,

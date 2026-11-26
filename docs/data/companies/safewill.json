@@ -1,0 +1,33 @@
+{
+ "name": "Safewill",
+ "slug": "safewill",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "6b072047df47",
+   "title": "Aussie fintech Safewill raises A$15m",
+   "url": "https://www.finextra.com/pressarticle/111790/aussie-fintech-safewill-raises-a15m?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-25T20:10:00Z",
+   "relevance": 2,
+   "why": "Institutional partnership push by a planning fintech is a template for embedded benefit deals, though the fit with premium cards is loose.",
+   "summary_ai": "Australian end-of-life planning fintech Safewill raised a A$15m Series C to expand bank, super fund and insurer partnerships.",
+   "take": "Institutional partnership push by a planning fintech is a template for embedded benefit deals, though the fit with premium cards is loose.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "A$15m Series C"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "name": "ElevenLabs",
+ "slug": "elevenlabs",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e9757b9156d4",
+   "title": "ElevenLabs Targets $33 Billion Valuation in Early 2027 Funding Round",
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/elevenlabs-targets-33-billion-valuation-in-early-2027-funding-round/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-26T01:04:23Z",
+   "relevance": 1,
+   "why": "ElevenLabs reportedly plans a funding round in early 2027 at a $33 billion target valuation, up from $22 billion.",
+   "summary_ai": "ElevenLabs reportedly plans a funding round in early 2027 at a $33 billion target valuation, up from $22 billion.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Unnamed sources, reported plans",
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$33 billion target valuation",
+    "$22 billion prior valuation"
+   ],
+   "also": []
+  }
+ ]
+}

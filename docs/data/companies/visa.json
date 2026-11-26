@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "eca1d03e75b4",
+   "title": "TheGiftCardShop.com: 100% Off $50+ Visa Purchase Fees (CUSTOM26)",
+   "url": "https://www.doctorofcredit.com/thegiftcardshop-com-100-off-200-visa-mastercard-purchase-fees/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-26T03:05:48Z",
+   "relevance": 2,
+   "why": "A gift card retailer offered a promo code waiving purchase fees on Visa and Mastercard gift cards, though the title and summary list different thresholds and codes.",
+   "summary_ai": "A gift card retailer offered a promo code waiving purchase fees on Visa and Mastercard gift cards, though the title and summary list different thresholds and codes.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Conflicting title and summary details, source is a forum",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "100% off purchase fees",
+    "Valid until Dec 19, 2024"
+   ],
+   "also": []
+  },
+  {
    "id": "dbcf1b45b182",
    "title": "Klarna Checkout Expansion Could Be A Game Changer For Visa (V)",
    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRjY2TGxUZnR5YjVQZFdQbmxKYUJBVG9LSjhxLTd3bDAwdFJibktBUFJfanl0TEhzdDRkZnp5em1vMm8yUnZScURublc4RzVvbjhvRlBLYW41LXlnUDMzekxkQm0zaXo3VFV4SDNyV1FhUjVHbkhTVXB3V1V2SU92b3FYX3Z6VzBtRFIxV0FpTzVIV2NrcDJrT0wxcXVTMno2bXNmUENFOGlxdHI3elpvTHhtdDlYalRldzIyTDNvX2FWbndfOV9SSnZ2RVLSAdIBQVVfeXFMT0F2aG9jMVJFVW5LMXFTSEdoeUNaSl9CaVhTbGU0NVVnZmpidHhOSDVhdmhuTVNEbmZtTUVnbS1Fek1XMU53T0hNZTExTFN6ZmxWa0liU1BGUDB1bUFaMzNfSlAybTNLWmNGcWFBZ01US1c1WU42M3JYWWUzbEVMWHhGSnB5ZFVRbTFlbU03b0taS3BCN0tLNHpqTnppb1R6WC1vWF96TENROENHMHFFX1AyMGlaRldJTHNUSVVfcnpMbE1kTlJsTlpuNDRTdjlUOU9n?oc=5",
@@ -22,6 +48,29 @@
    "low_confidence": null,
    "sections": [
     "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "823ca28bf713",
+   "title": "Sports Direct owner Frasers Group teams with Visa on launch of Frasers Plus virtual Visa card",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmRUZDRlbU5xTTVVTXBuUEFsaUF2SGZORGF3ck1xRTZ2bjlrR3NvRUpaLTA4aEUwbzgzWDVVMlk5dnBIa01MdnRSWHpXemJ1SC1zY1Q4TWVsdHFjSXA5dlVVcUo5QzJqYUFsME5XWmh4bHVodHNQY1lpVzFfMEFvdGJOb29OcThiejBuVEhBUVMwM3hLZUpHTjIxMm5sWlZhUE5IUVZmbnpJdkJ1aE0zcFlNbUJLMWhrckx2YlBYZXhQMVFkaE1XRGpnQkpEMWpWbDdnZHhkSWhQM3ViQ0E?oc=5",
+   "source": "Retail Technology Innovation Hub",
+   "source_type": "gnews",
+   "published": "2026-11-25T05:21:29Z",
+   "relevance": 3,
+   "why": "A retailer-issued virtual Visa card is a template for brand-led co-branded programs worth tracking against our own partner pipeline.",
+   "summary_ai": "Frasers Group launched a virtual Visa card called Frasers Plus through a partnership with Visa.",
+   "take": "A retailer-issued virtual Visa card is a template for brand-led co-branded programs worth tracking against our own partner pipeline.",
+   "take_kind": "read",
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
    ],
    "breaking": false,
    "data_points": [],

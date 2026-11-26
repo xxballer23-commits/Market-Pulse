@@ -5,6 +5,59 @@
  "vets": [],
  "items": [
   {
+   "id": "4e7f5294d68b",
+   "title": "Why I’m Excited About Chase Adding Cathay Pacific as a Transfer Partner",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTTFxRTZnOURzM2JaMUtaWXBDZ0VHNFJvNXViSl9UUnRYaGk3dHNsNmp2Sml6Y2pLTDBHZmoyZHRnRXgtWkRhZmtDd25reWliVEJUR19lTkxtODhZUFE4MjBrT2VZNVJrSm1TS09fOEJiQjEwTHBpMlVvTTA5VWNyZVhuVUw?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-25T22:00:00Z",
+   "relevance": 4,
+   "why": "Track Cathay's transfer ratios and award availability; Asia carriers are a gap in our premium transfer lineup.",
+   "summary_ai": "An enthusiast article praises Chase's move to add Cathay Pacific as an Ultimate Rewards transfer partner.",
+   "take": "Track Cathay's transfer ratios and award availability; Asia carriers are a gap in our premium transfer lineup.",
+   "take_kind": "take",
+   "partner": "Cathay Pacific",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "9a5a70a6ea33",
+   "title": "Chase Southwest Personal Cards: 80,000 – 90,000 Points Signup Bonus (Referral Links Available)",
+   "url": "https://www.doctorofcredit.com/chase-southwest-personal-cards-80000-90000-points-signup-bonus-2/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T21:56:16Z",
+   "relevance": 3,
+   "why": "Bonus bump raises the bar on Southwest co-brand offers; weigh Companion Pass timing before pitching competing sign-up bonuses.",
+   "summary_ai": "Chase raised welcome bonuses on three Southwest cards, with the Priority offer at 90,000 points through December 2, 2026.",
+   "take": "Bonus bump raises the bar on Southwest co-brand offers; weigh Companion Pass timing before pitching competing sign-up bonuses.",
+   "take_kind": "take",
+   "partner": "Southwest Airlines",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "80,000 points Plus",
+    "85,000 points Premier",
+    "90,000 points Priority",
+    "Through 12/2/26"
+   ],
+   "also": []
+  },
+  {
    "id": "fba8f610bb3f",
    "title": "Chase Air Canada Aeroplan Credit Card Review: Are The Benefits Worth The Fee?",
    "url": "https://onemileatatime.com/reviews/credit-cards/chase/air-canada-aeroplan-credit-card/",

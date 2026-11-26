@@ -1,0 +1,32 @@
+{
+ "name": "Norse Atlantic",
+ "slug": "norse-atlantic",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "85443cf7ca25",
+   "title": "Norse Atlantic Collapses: Airline Cancels Flights, Strands Passengers",
+   "url": "https://onemileatatime.com/news/norse-atlantic-collapses-cancels-flights-strands-passengers/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-26T00:11:00Z",
+   "relevance": 3,
+   "why": "Audit trip cancellation and delay coverage for airline-failure scenarios, since stranded cardholders will test those benefits.",
+   "summary_ai": "Norse Atlantic cancelled its flights with little notice after warning its finances were critical, stranding passengers.",
+   "take": "Audit trip cancellation and delay coverage for airline-failure scenarios, since stranded cardholders will test those benefits.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

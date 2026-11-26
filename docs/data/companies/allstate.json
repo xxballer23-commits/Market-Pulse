@@ -1,0 +1,31 @@
+{
+ "name": "Allstate",
+ "slug": "allstate",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c773127f9e51",
+   "title": "Allstate Outage Locks Customers and Agents Out of Claims and Payments",
+   "url": "https://www.pymnts.com/technology/2026/allstate-outage-locks-customers-agents-out-claims-payments/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T21:30:26Z",
+   "relevance": 1,
+   "why": "Allstate's phone, email, payment, website and app services have reportedly been down since Monday, according to multiple outlets.",
+   "summary_ai": "Allstate's phone, email, payment, website and app services have reportedly been down since Monday, according to multiple outlets.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Outage since Nov. 23"
+   ],
+   "also": []
+  }
+ ]
+}

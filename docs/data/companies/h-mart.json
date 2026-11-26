@@ -1,0 +1,31 @@
+{
+ "name": "H Mart",
+ "slug": "h-mart",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8dd81421697d",
+   "title": "Sugar Land's H Mart is open with an 11-vendor food hall. Here's what's inside",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWDdZVXdqM2NUcWxUcTdmODFKWHhMUmZKeC1zZEo1bERXNG1UNDFUYVdoMmhnZVpLSnVzaTNiTmJocFJPMnlFZ3BLNnJSNGZBcUk0azRYR0VRdEJDSXp6cXhEaElKNWQ2SXN5ZlFVTEUtOGxlczFramNETlBCajlneXdYODhJcFZKaXRreWpPR0tRd1l4UlJWUDRkUXhqN3NKSFpsRURWTF93SDhlRi1vTnJxMjFJZXBqd3hnaUJadw?oc=5",
+   "source": "Houston Chronicle",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:54:40Z",
+   "relevance": 1,
+   "why": "H Mart has opened a Sugar Land, Texas store with an 11-vendor food hall.",
+   "summary_ai": "H Mart has opened a Sugar Land, Texas store with an 11-vendor food hall.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "11 vendors"
+   ],
+   "also": []
+  }
+ ]
+}

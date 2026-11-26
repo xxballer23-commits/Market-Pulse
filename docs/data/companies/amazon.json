@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "430338756f8a",
+   "title": "Amazon: $100 One4all Ultimate Physical Gift Card For $90",
+   "url": "https://www.doctorofcredit.com/amazon-100-one4all-ultimate-physical-gift-card-for-90/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T21:06:14Z",
+   "relevance": 1,
+   "why": "Amazon is discounting a $100 One4all physical gift card to $90, a deal shared by a card deals blog.",
+   "summary_ai": "Amazon is discounting a $100 One4all physical gift card to $90, a deal shared by a card deals blog.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Deal end date unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 gift card",
+    "$90 price"
+   ],
+   "also": []
+  },
+  {
    "id": "373f8af2feba",
    "title": "Meta Lets Instagram Creators Add Amazon Affiliate Links to Posts",
    "url": "https://www.pymnts.com/facebook-meta/2026/meta-lets-instagram-creators-add-amazon-affiliate-links-posts/",
@@ -93,6 +119,29 @@
    "also": []
   },
   {
+   "id": "ae59e7260a72",
+   "title": "Amazon Autos Plans to Launch Services in U.K. in Early 2027",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOM2pVMDVTbmVZOHkwaGZ0d1dHVEVObExKaTJMaVFIb1dfdGZHQ0N5WWotVzNreXhoMWs4SWphNHlYT29zU3RIbHdnZF91SGswdTdlcUtUN20yRW1OZFk3Z2swZGgxYlF5eEwxVmEwbVVsRHVIV1lHdWt3ZzU5VjlXMkFFNW43MXVPcHRpVnJ1eldNUi00Y2wyZU14STQwQ2JsU0pRYg?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-25T07:32:00Z",
+   "relevance": 1,
+   "why": "Amazon Autos plans to launch car services in the UK in early 2027.",
+   "summary_ai": "Amazon Autos plans to launch car services in the UK in early 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Early 2027"
+   ],
+   "also": []
+  },
+  {
    "id": "4b813c150ac3",
    "title": "Amazon to Launch Amazon Autos in UK in Early 2027 in First Expansion Beyond US",
    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQUEkwUjhPeDdUU3F3VUx5cUhGS19iLWktTGdSQnJfRklnUWN0QnJEZmlLZlNLd1cxRnlqc0hsX29sSDVXTk1EVWdmVlUybjZUbmU4Q05xREQtZ0VVelBwMXB5dkJ4LTBHTzdTdllZNTFLaWJJZ04xNlZ1dy1VbldzdlJQY3liLVV5QWxvazVJRUhYWVJUdnBpUUxGd2RINEQ5UGo4ckFWUWdZMnFJbjZ2UFpDS2RpU2xiRXN5Yk1hcWhKcGI5Wmx1TllQdDNjRnRIX2hNTQ?oc=5",
@@ -149,6 +198,27 @@
    "relevance": 1,
    "why": "A WSJ review assesses the Blade Runner 2099 series on Prime Video.",
    "summary_ai": "A WSJ review assesses the Blade Runner 2099 series on Prime Video.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "990595d05579",
+   "title": "Why Amazon’s Rival to Starlink Is Struggling to Catch Up With SpaceX",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5qWUtZX1p5dVJja3JzN1l2Q1p3VFc2UF9wSEhpNFJqQWZ0ZjJEWkFNV25HR1dLNDJLSXpDckRMN19JZWk5QWhFRGR3YWlwQWtDSDBaSjZLRTI4ZjVmZTFTUUpIOHM1Qm5uSURj?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T14:22:00Z",
+   "relevance": 1,
+   "why": "Amazon's Kuiper satellite internet effort is reportedly lagging well behind SpaceX's Starlink.",
+   "summary_ai": "Amazon's Kuiper satellite internet effort is reportedly lagging well behind SpaceX's Starlink.",
    "take": null,
    "take_kind": null,
    "partner": null,

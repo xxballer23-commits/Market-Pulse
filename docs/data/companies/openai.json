@@ -5,6 +5,55 @@
  "vets": [],
  "items": [
   {
+   "id": "aecde9007371",
+   "title": "OpenAI Says Most Users Won’t Hit Limits Faster After Merger of Chat and Work",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-most-users-wont-hit-limits-faster-after-merger-of-chat-and-work/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-26T03:17:33Z",
+   "relevance": 1,
+   "why": "OpenAI says only a small share of its heaviest ChatGPT users will hit usage limits sooner after merging chat and work features.",
+   "summary_ai": "OpenAI says only a small share of its heaviest ChatGPT users will hit usage limits sooner after merging chat and work features.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "20559c4e2e7a",
+   "title": "Now buy 1 ChatGPT Business seat for $25/mo or $240/yr (Cover with credits)",
+   "url": "https://frequentmiler.com/now-buy-1-chatgpt-business-seat-for-25-mo-or-240-yr-cover-with-credits/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-26T01:45:47Z",
+   "relevance": 4,
+   "why": "Single-seat eligibility makes this a low-friction credit; benchmark it against our business card credit design.",
+   "summary_ai": "Amex Business Platinum and Business Gold added up to $300 yearly credits for ChatGPT Business, which now allows single-seat purchases.",
+   "take": "Single-seat eligibility makes this a low-friction credit; benchmark it against our business card credit design.",
+   "take_kind": "take",
+   "partner": "OpenAI",
+   "benefit_move": true,
+   "benefit_type": "credit",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $300 per year in credits",
+    "$25/mo single seat",
+    "$240/yr single seat"
+   ],
+   "also": []
+  },
+  {
    "id": "846cc1591810",
    "title": "You Can Now Get a ChatGPT Business Subscription Covered by Amex Business Card Credits",
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRm5WU3hMWGlweGtrcWM0YmN5bW1qbGY0RlpOWlBlcDVkMW1NdWtRM0JnQ2lObk96S0lQRVpnczYzOHoxeFg3eFNoUlFBNkRVLXRncFRxdXAzUXdSRmRMaWRRVUlhQXhCcDVPTFdTUl9pYW5uM3Etd2NJT0czOXJ6WThfa2ZSMjFnS3FBeFp3?oc=5",

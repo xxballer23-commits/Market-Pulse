@@ -1,0 +1,29 @@
+{
+ "name": "Workday",
+ "slug": "workday",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "78240f31d032",
+   "title": "Workday Raises Full-Year Subscription Outlook After Sales Rise",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2VPTENpV3FmUlFId1d3ZGhvcHVZY2p5NDVEeU53TTd0Q0NzQUtSeU9hU1k5d3hVaEswWXNsSndjV0V3eWJqNDA5YTVCWldCWF96ajV6VWZ4bk54WE04dzJwRHJkUHZOVy1HeTYwbXcwMTZMTTdXR3Q1dkVWbmVvT2tMUmpQeUx0UEFNNEFFb2l4NTAzVlVxYnI0aG5GVjl2OWhiaG9ZaFpLQlVhWEE?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-24T21:32:00Z",
+   "relevance": 1,
+   "why": "Workday raised its full-year subscription revenue outlook after sales increased.",
+   "summary_ai": "Workday raised its full-year subscription revenue outlook after sales increased.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,80 @@
  "vets": [],
  "items": [
   {
+   "id": "5e0824fcbd11",
+   "title": "The Westin Palace hotel in Milan opens Tèra Spa: a city spa from €45 with Milanese rituals",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE45Y3NZdENxMmZVQ0gzYkJDWDBMbE9SemZ3UzZLdTVaeTFSQnp5ZGVnaE1XLTNzTm1WNTZIdnpKdHhBNzdpeGZUdTdXdzhvSm5wX0FzR0RwS1paTG8tOTdadkJIb1J5RVNTN3dTcHdiMVZXeDdo?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-25T21:49:49Z",
+   "relevance": 2,
+   "why": "The Westin Palace Milan opened Tèra Spa, with city spa treatments starting at €45 built on Milanese rituals.",
+   "summary_ai": "The Westin Palace Milan opened Tèra Spa, with city spa treatments starting at €45 built on Milanese rituals.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "From €45"
+   ],
+   "also": []
+  },
+  {
+   "id": "ebc7cd0dfe5e",
+   "title": "Marriott Plans Five Luxury Hotel Openings in 2027",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZzVRNFNvRGI1bkdpbGM2UHhoTVZpUzFxOW5tMlF5QmY1Y0ZiUklIMWRjRGxjREE0cmo0bGlXMlFNbDFaU2xUU0VVVmFpdFNDZENpV1luemhiZ2o1NmJSeTZqZndfQ3BiN3Rkb3B2R3lKU3VlUk5DdVhKWVVRZ1MzU2RZUWo?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-25T20:52:33Z",
+   "relevance": 3,
+   "why": "Growing luxury supply gives premium card hotel credits and status perks more high-end inventory to route to.",
+   "summary_ai": "Marriott plans five luxury hotel openings in 2027, expanding its upper-tier portfolio.",
+   "take": "Growing luxury supply gives premium card hotel credits and status perks more high-end inventory to route to.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Five openings",
+    "2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "0219f9101063",
+   "title": "Hill House at Trailborn Mendocino review: Coastal charm meets Marriott Bonvoy",
+   "url": "https://thepointsguy.com/hotel/reviews/hill-house-trailborn-mendocino/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-25T20:00:31Z",
+   "relevance": 2,
+   "why": "New Marriott Bonvoy openings matter for Marriott partnership talks, though this single review adds little new.",
+   "summary_ai": "The Points Guy reviews Hill House at Trailborn Mendocino, Marriott Bonvoy's first hotel in Mendocino.",
+   "take": "New Marriott Bonvoy openings matter for Marriott partnership talks, though this single review adds little new.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "4d31e4e062dc",
    "title": "Marriott Bonvoy Elite Status Soft Landings For 2027: Drop Only One Tier",
    "url": "https://onemileatatime.com/news/marriott-bonvoy-status-soft-landing/",

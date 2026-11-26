@@ -1,0 +1,33 @@
+{
+ "name": "CLEAR",
+ "slug": "clear",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "dc1493ae1005",
+   "title": "Amex Platinum CLEAR Plus Credit: How To Use Up to $219",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREIycmNFRi13YmJlS1BqendIT2k2bXpnRktMMko3anZCS2RLS2d5R1U0VVhNaHRDZVRhVDdORFZQX3dnRkhGY2RDMjFJU3NIc3NpS0p5QmhXU01RN0p5M3NBMkoybTZ2R3VUSzFRa2pqQ0RGZ25PczJ5LWpLZ3JHQ1RNdzFBV0tvT2praUJIVVdDRUx2aEtv?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-24T16:00:16Z",
+   "relevance": 3,
+   "why": "Shows the CLEAR credit is a used benefit; partner utility drives perceived value of Platinum perks.",
+   "summary_ai": "A guide explains how Amex Platinum cardholders can use the up to $219 CLEAR Plus credit.",
+   "take": "Shows the CLEAR credit is a used benefit; partner utility drives perceived value of Platinum perks.",
+   "take_kind": "read",
+   "partner": "CLEAR",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Up to $219"
+   ],
+   "also": []
+  }
+ ]
+}

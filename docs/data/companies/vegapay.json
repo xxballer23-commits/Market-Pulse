@@ -1,0 +1,33 @@
+{
+ "name": "Vegapay",
+ "slug": "vegapay",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "36b0e1274236",
+   "title": "Vegapay Bags $10 Mn To Scale Credit Line On UPI Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMldYWTBZTzQxWHlfYVN4X256LVNhY2NfWk9jRS1DRzlyUHZoMFh2OGV5MExQNlFiVXQxT3lhSF9zbHEyUGIySkwyZzhxVk5ObmF3MUxWbjNHUUJrZm5Ta253R2g2di1rSGtSQ2czNjdvOWlmbmYtRlYtSjBBS0w5dWk4eTk1eXlRQ0NmV2hn?oc=5",
+   "source": "Inc42",
+   "source_type": "gnews",
+   "published": "2026-11-26T00:30:23Z",
+   "relevance": 2,
+   "why": "Vegapay raised $10 million to expand credit lines built on India's UPI instant payment rails.",
+   "summary_ai": "Vegapay raised $10 million to expand credit lines built on India's UPI instant payment rails.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$10 million raise"
+   ],
+   "also": []
+  }
+ ]
+}

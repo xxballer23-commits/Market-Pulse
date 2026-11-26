@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "1936ddf058f6",
+   "title": "Malaysia Regulator Sues Google for Nearly $150 Million Over YouTube Content",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZnZ0X2l1aGtyWmFuNWVxS253YjFNc1dwd1R6Q2xOOWlrUVEyX2trOXVnZUtUVU5qbzBpSWNBb21XMFhhTkxja19IS0lhVk83M2pmRlFCMkdJbkk2cVhvMWVHR2JzbGJ0YVgxUDhnVHp5SWhLdkpDSVdFQUpFM0UtRml6alB1RXpINldBTzBmcmtYMDEwV3c1dkpxM3ljUXNGTUV2a0RuWWVORDd3VjV3QTVXRU4?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-25T10:14:00Z",
+   "relevance": 1,
+   "why": "Malaysia's regulator is suing Google for nearly $150 million over content on YouTube.",
+   "summary_ai": "Malaysia's regulator is suing Google for nearly $150 million over content on YouTube.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Nearly $150 million"
+   ],
+   "also": []
+  },
+  {
    "id": "48e13c95dd14",
    "title": "Google AI Turns Wallet Data Into Spending and Card Rewards Advice",
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/google-enables-users-to-connect-wallet-to-ai-mode-for-personalized-responses/",

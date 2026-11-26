@@ -25,7 +25,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Newswav",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR182THQ1d3o4NnVBd2p1RFBNMEtveFAtd3ZRc3l4YUVSaGYyLTVScXA0SXhEVHdLaWpyeGRXazYxV1J5M2FhUk9GUW5kS1dzNkVJcEpSUVRDVGh3WW13dHhIR21SWXFPZjhIOVVBUkd1SXcxeHZmYWp2djdITU9NT29aeld0WDV2NjNjQW9NeGFsRFczQWRlMW5LX0xQRTQ?oc=5"
+    }
+   ]
   }
  ]
 }

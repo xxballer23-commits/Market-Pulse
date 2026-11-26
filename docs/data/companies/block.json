@@ -5,6 +5,33 @@
  "vets": [],
  "items": [
   {
+   "id": "9d5601561c8e",
+   "title": "Calif. Fines Afterpay $2.7 Million for Underwriting ‘Failures’",
+   "url": "https://www.pymnts.com/legal/2026/calif-fines-afterpay-2-7-million-for-underwriting-failures/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-26T03:05:25Z",
+   "relevance": 4,
+   "why": "Expect state-level underwriting scrutiny of BNPL. Build ability-to-repay diligence into any embedded lending partner review.",
+   "summary_ai": "California ordered Afterpay to pay about $2.68 million for failing to complete required ability-to-repay underwriting on loans made from 2020 to 2022.",
+   "take": "Expect state-level underwriting scrutiny of BNPL. Build ability-to-repay diligence into any embedded lending partner review.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "regulatory"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$2.68 million penalty",
+    "Jan 2020 to Mar 2022"
+   ],
+   "also": []
+  },
+  {
    "id": "a695949c4eeb",
    "title": "California fines Afterpay $2.7M",
    "url": "https://www.paymentsdive.com/news/california-fines-afterpay-27m/875775/",

@@ -1,0 +1,34 @@
+{
+ "name": "Starbucks",
+ "slug": "starbucks",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "a5466ee5fa53",
+   "title": "[Live 11/27] Starbucks: Purchase $25 eGiftcard, Get $5 Bonus Giftcard (Stack With Citi Offer)",
+   "url": "https://www.doctorofcredit.com/starbucks-purchase-25-egiftcard-get-5-bonus-giftcard-stack-with-citi-offer/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T21:00:11Z",
+   "relevance": 2,
+   "why": "Starbucks is offering a $5 bonus eGiftcard on a $25 eGiftcard purchase, reportedly stackable with a Citi offer.",
+   "summary_ai": "Starbucks is offering a $5 bonus eGiftcard on a $25 eGiftcard purchase, reportedly stackable with a Citi offer.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Community-sourced offer, terms unverified",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$25 eGiftcard purchase",
+    "$5 bonus"
+   ],
+   "also": []
+  }
+ ]
+}

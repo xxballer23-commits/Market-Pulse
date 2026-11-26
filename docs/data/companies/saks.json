@@ -1,0 +1,31 @@
+{
+ "name": "Saks",
+ "slug": "saks",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0b19c5a1f311",
+   "title": "Watch How Saks Is Reclaiming Luxury as Exemplar Luxury Group",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdEZJbklHRjEtM0NoRGR5Ti1YODU2WnlXdHJUbmtxNWwzbVl2RUZwa2UzbmZ4UU5mWXdjX29jMTJuVGlmWjBac2U5VHhBUWxkdll5NDFFMlFpN0h3akRqdERWTlh2amxvOGtIMVdKX01HQ3lYaDVTWk0xSnpXX0w2ejg4dVlPU3UtNnBVWVd4R2ZTVnlrUUlLc19VWE5UM3lzbnpWdUZNaEtvdGViaWc?oc=5",
+   "source": "Bloomberg",
+   "source_type": "gnews",
+   "published": "2026-11-25T00:00:00Z",
+   "relevance": 3,
+   "why": "Watch how Saks rebuilds luxury credibility, since department-store shoppers are a key audience for premium card retail benefits.",
+   "summary_ai": "Bloomberg video looks at how Saks is repositioning itself as a luxury retailer under Exemplar Luxury Group.",
+   "take": "Watch how Saks rebuilds luxury credibility, since department-store shoppers are a key audience for premium card retail benefits.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

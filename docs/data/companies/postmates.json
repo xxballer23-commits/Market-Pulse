@@ -1,0 +1,34 @@
+{
+ "name": "Postmates",
+ "slug": "postmates",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "32147b78f644",
+   "title": "Postmates: $10 Off $25 With Promo Code GOBBLE",
+   "url": "https://www.doctorofcredit.com/postmates-15-off-45-with-promo-code-dodgers/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-25T21:50:13Z",
+   "relevance": 1,
+   "why": "Postmates is offering $15 off a $45 minimum order with a promo code, per a deals blog.",
+   "summary_ai": "Postmates is offering $15 off a $45 minimum order with a promo code, per a deals blog.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$15 off $45+",
+    "Promo code DODGERS"
+   ],
+   "also": []
+  }
+ ]
+}

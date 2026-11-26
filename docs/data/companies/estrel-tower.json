@@ -1,0 +1,31 @@
+{
+ "name": "Estrel Tower",
+ "slug": "estrel-tower",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f85f584a9300",
+   "title": "Inside Estrel Tower Berlin, Germany's tallest hotel",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRVFwSDkyeGR0eEg3ZTdJazRYMXN5Z2kyTG9xUzlnQzlpWk1nWTIxUGtzWGZvMzRtQ2l5eXFpb3hkVXJrVm9jRHVUUEpvaUtwU3d4ZnRyRXhaOGpONE9vbG5NQVFYbG8xMjVnU2VjQmZ4V1oycjhUcHVvQXRmY2xPVzNPLVFoczFpZHZHdmNqVGNZdThSRlFnZ3pPbkxTYWk4SGZsd2luak82cGJOTUZFci10X1ZCUndY?oc=5",
+   "source": "KarloBag.eu",
+   "source_type": "gnews",
+   "published": "2026-11-25T13:28:12Z",
+   "relevance": 2,
+   "why": "A travel feature profiles Estrel Tower in Berlin, presented as Germany's tallest hotel.",
+   "summary_ai": "A travel feature profiles Estrel Tower in Berlin, presented as Germany's tallest hotel.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

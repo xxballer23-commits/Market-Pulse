@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "58cb265cdfad",
+   "title": "BNY and Microsoft Let AI Agents Haggle Over Treasurys",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/bny-and-microsoft-let-ai-agents-haggle-over-treasurys/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-25T20:46:14Z",
+   "relevance": 1,
+   "why": "BNY and Microsoft tested AI agents negotiating both sides of a Treasury bill trade.",
+   "summary_ai": "BNY and Microsoft tested AI agents negotiating both sides of a Treasury bill trade.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$63.4 trillion in assets under custody or administration"
+   ],
+   "also": []
+  },
+  {
    "id": "5a013e59f9c4",
    "title": "Microsoft Sets Goal of One-Hour Fixes After Email Outage",
    "url": "https://www.pymnts.com/technology/2026/microsoft-sets-goal-of-one-hour-fixes-after-email-outage/",

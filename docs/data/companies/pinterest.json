@@ -1,0 +1,31 @@
+{
+ "name": "Pinterest",
+ "slug": "pinterest",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "deaa8f8c071d",
+   "title": "Pinterest Shares Surge 20% as Executive Pay Filing Fuels Sale Rumors",
+   "url": "https://www.pymnts.com/commerce/social-commerce/2026/pinterest-shares-surge-20-as-executive-pay-filing-fuels-sale-rumors/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-26T03:27:26Z",
+   "relevance": 1,
+   "why": "Pinterest shares rose sharply after an executive pay filing sparked speculation that the company could be up for sale.",
+   "summary_ai": "Pinterest shares rose sharply after an executive pay filing sparked speculation that the company could be up for sale.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Up to 20% share gain"
+   ],
+   "also": []
+  }
+ ]
+}

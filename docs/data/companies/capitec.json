@@ -1,0 +1,29 @@
+{
+ "name": "Capitec",
+ "slug": "capitec",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "dcf891589ef3",
+   "title": "Good news for everyone with a Capitec bank account",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWE1YQVdmbldSSlEtdnJoUnNRMDRrNFllLTlSRHVfVUtBRnFfRzhHSmxGMjJmVDNQWXU1Z3BWWWJkQ0pwV29hQ0Y2amlrRldXR0JiYXlQTnkxb1RJcklIRmN2bDJvbmRDT0thc05HQ2RKZmVYSXZQUmpZZGFkQjNPNFJHTVc5d1lsU3NqRXFNSXhJbjhLd2xr?oc=5",
+   "source": "Daily Investor",
+   "source_type": "gnews",
+   "published": "2026-11-24T15:30:00Z",
+   "relevance": 1,
+   "why": "Capitec, a South African bank, has news for account holders, though the headline gives no specifics.",
+   "summary_ai": "Capitec, a South African bank, has news for account holders, though the headline gives no specifics.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

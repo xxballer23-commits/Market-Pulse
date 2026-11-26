@@ -1,0 +1,32 @@
+{
+ "name": "TransUnion",
+ "slug": "transunion",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "c956df71bfb0",
+   "title": "TransUnion Philippines flags rising personal loan stress as living costs pressure borrowers",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFd4Z3FYckNZWmtnOGgxMDhBdWtRYjRzWWNkS3hBcTZSSFdhSTNZMS1HdGtxcnN4ZUVkTFhuNHoyb085Qmk0ckl0RmtOUTVhbF9iQW0yZEVtSHV1dV94YmR5elV3U3dFM09yMG9nWHdwYWlfWEpGZHpzaDlIeDV1T0xnV1pkdjJEQTJuV0tSSjRidktNRHZWdGN2N2M0SktfMlE?oc=5",
+   "source": "Traders Union",
+   "source_type": "gnews",
+   "published": "2026-11-25T13:58:40Z",
+   "relevance": 2,
+   "why": "Non-US credit stress signal with limited direct read-across to our premium card book.",
+   "summary_ai": "TransUnion Philippines reports rising personal loan stress as living costs squeeze borrowers.",
+   "take": "Non-US credit stress signal with limited direct read-across to our premium card book.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}
