@@ -1,0 +1,31 @@
+{
+ "name": "SOFTSWISS",
+ "slug": "softswiss",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "22ccd836c88c",
+   "title": "SOFTSWISS handles 18 cases related to Responsible Gaming.",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVE1MSE0tWFRqWDVVaFJidmdtMGZQUG5xUU9iZ3BlVWh2OE1WdXpUTEhZdXZuN3hEZ3BKeE03N1lvOFpTYUNoZXdrZ1ZtbkFoYnFoemRMSDVkYnVaTkFiRkFfdWxBaU43S3F4dHprWkFwd0RlTl9JX0szRV9kRW5fNjE5T3hmSXptV09VTzRneWh2c1E?oc=5",
+   "source": "BNLData",
+   "source_type": "gnews",
+   "published": "2026-11-25T22:35:46Z",
+   "relevance": 1,
+   "why": "BNLData reports SOFTSWISS handled 18 responsible gaming cases.",
+   "summary_ai": "BNLData reports SOFTSWISS handled 18 responsible gaming cases.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "18 cases"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -96,7 +96,12 @@
    "data_points": [
     "2027"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "Investing.com",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSC1zYzdQQkdIZENRcjFzWFkzWHZGejJpVlpZZEdQeW5ramVaUy1TVGFkaEI0cUFqd05CZ0Ytcld3UmRZYmtmcU5jeU1uUWFjTWRJR3JsX2V0VjQ5NWtCNjdaLUtxZnl1anBrbVZhdXZ6UC1Zb2JCbzVOYTM4c2QzOFQ0U3lTanpuVy1vZVoyQzFhalBuaG1fNk1LQXlhVmpJM0dkUUduR2VhN3FaalprSA?oc=5"
+    }
+   ]
   },
   {
    "id": "e18de5653487",
@@ -122,7 +127,12 @@
    "data_points": [
     "4% sector growth in 2027"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "Yahoo Finance UK",
+     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQlFPLUViZUdLMFFqdmo2UXJXNmoxNzRmQldaSVIwNWpYeUxBeDlad2x4dnZydUVBaWVneVp3eERFMVJ6Q0ZTaW55cEZNaF9KWG5KT2NQZVRpY2RvZ1VGMkplVmRZMUFnYTlYcmVwcGlLTTVxSDFYZGFvYnY0VkJVS2ppMA?oc=5"
+    }
+   ]
   },
   {
    "id": "632a75255cc0",

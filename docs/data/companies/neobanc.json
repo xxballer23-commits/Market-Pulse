@@ -1,0 +1,37 @@
+{
+ "name": "Neobanc",
+ "slug": "neobanc",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "46aaf233f1aa",
+   "title": "Neobanc: Pay Rent/Bills Using Credit Card For 2.75%, Earn 1% In Rewards + Credit Card",
+   "url": "https://www.doctorofcredit.com/neobanc-pay-rent-bills-using-credit-card-for-2-75-earn-1-in-rewards-credit-card/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T00:05:17Z",
+   "relevance": 3,
+   "why": "Card-funded rent is a fintech perk to watch; the 2.75% fee is steep against typical card rewards for cardholders.",
+   "summary_ai": "Neobanc has launched in the US, letting people pay rent and bills by Visa or Mastercard for a 2.75% fee.",
+   "take": "Card-funded rent is a fintech perk to watch; the 2.75% fee is steep against typical card rewards for cardholders.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2.75% fee",
+    "1% rewards",
+    "3 business days",
+    "3:30 PM ET cutoff"
+   ],
+   "also": []
+  }
+ ]
+}

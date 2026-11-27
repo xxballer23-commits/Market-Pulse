@@ -5,6 +5,35 @@
  "vets": [],
  "items": [
   {
+   "id": "46aaf233f1aa",
+   "title": "Neobanc: Pay Rent/Bills Using Credit Card For 2.75%, Earn 1% In Rewards + Credit Card",
+   "url": "https://www.doctorofcredit.com/neobanc-pay-rent-bills-using-credit-card-for-2-75-earn-1-in-rewards-credit-card/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T00:05:17Z",
+   "relevance": 3,
+   "why": "Card-funded rent is a fintech perk to watch; the 2.75% fee is steep against typical card rewards for cardholders.",
+   "summary_ai": "Neobanc has launched in the US, letting people pay rent and bills by Visa or Mastercard for a 2.75% fee.",
+   "take": "Card-funded rent is a fintech perk to watch; the 2.75% fee is steep against typical card rewards for cardholders.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2.75% fee",
+    "1% rewards",
+    "3 business days",
+    "3:30 PM ET cutoff"
+   ],
+   "also": []
+  },
+  {
    "id": "165bc461513a",
    "title": "Giftcards.com: Get Bonus $10 Giftcard With $100 Giftcard Purchase (Visa, Mastercard, Disney, Ulta, Kohl’s & More)",
    "url": "https://www.doctorofcredit.com/giftcards-com-get-bonus-10-giftcard-with-100-giftcard-purchase-visa-mastercard-disney-ulta-kohls-more/",
@@ -48,6 +77,29 @@
    "low_confidence": null,
    "sections": [
     "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "df4495bd1161",
+   "title": "Mastercard (MA) Q3 2026 Earnings Call Transcript",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10QzZhS2tkb0YzQWp5dkItc3ZnYXJnLVR0MVN3STFpSWJCR3FNa01sakdRMnl4RmpsalhpQWQ2OGZ4YU1EN2prQng2MW5BdmVBeDFZaS1ubXdZVTRQTjNDaFlTaVVleTA?oc=5",
+   "source": "Fortune",
+   "source_type": "gnews",
+   "published": "2026-11-26T08:05:42Z",
+   "relevance": 2,
+   "why": "Mastercard's fiscal third quarter 2026 earnings call transcript has been published.",
+   "summary_ai": "Mastercard's fiscal third quarter 2026 earnings call transcript has been published.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
    ],
    "breaking": false,
    "data_points": [],

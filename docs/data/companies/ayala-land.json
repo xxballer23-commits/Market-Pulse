@@ -5,6 +5,33 @@
  "vets": [],
  "items": [
   {
+   "id": "ddacffde324d",
+   "title": "Mandarin Oriental is reborn, 12 years and a pandemic later",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdDhNUkh3c2FqSUJmY0x0V0JFR2s0ZmJtSXhFYTh4U1RHTDJaUnJPUHRBWVVoY3dmUGFJb0FZekEzbWhCdVR3THNoQV92Yk40eVR6S1NTWC1QVXN0SXhiMy1kNUJOUTZzOEd5V0o3eWhpNEpsN2dLT0J5YXFsUEF5MGNLcG5Eb0tJX1E?oc=5",
+   "source": "Rappler",
+   "source_type": "gnews",
+   "published": "2026-11-25T12:17:38Z",
+   "relevance": 2,
+   "why": "Mandarin Oriental's Manila return adds a luxury Southeast Asia hotel that could matter for future hotel partner talks.",
+   "summary_ai": "Mandarin Oriental is reopening a 275-room hotel in Manila's Ayala Triangle after the original property closed in 2014.",
+   "take": "Mandarin Oriental's Manila return adds a luxury Southeast Asia hotel that could matter for future hotel partner talks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "275 rooms",
+    "Closed 2014",
+    "Reopens Nov 26"
+   ],
+   "also": []
+  },
+  {
    "id": "f71f9c5c9130",
    "title": "‘Best the PH has to offer’: Ayala Land brings back Mandarin Oriental",
    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWd6bzV2OTJuSUktZ3QyS0RNYzB4VWtUdGdlQ0doMGdZel92ZmhlSGtLZjF1VzBBWk9JS0JZSHgwZkFpaF8tMjBlTnJjdDZ6RzBOVU5MOHZMMG1mQmFXSTNjWjJZalBNX2I3SlpEMVA4UWZ6MkFndkdLbV9UUlpqdkkyaGV3QkhLWktmZkhrZHM?oc=5",
@@ -25,6 +52,33 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "f3d1f1c14da2",
+   "title": "Mandarin Oriental reopens its doors on Thursday, November 26, as a new 275-room hotel at Ayala Triangle, 12 years after its original hotel closed in 2014. The luxury hotel is owned by Ayala Land Hospitality and managed by Mandarin Oriental Hotel Group. T",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYUVHNXpaVXd2aW9BblNYMUpZUXVIVFlKcnpRaHljc0VaTWY0SC11Q3RSeEtyVVFHb2h1RG85YlFPcWdEVWdzX2xndWY3M0lXYkJUUW5EdEctRjFlUVlRM0NpeDUtaEYzcS0xWVAtWnhFbElYamswcUl0WnlZSW9CTHNIeUJsV1Z2bnBRQ2gwWWRxXy1TY09JRkNDTWY5aXZTekpzVFFlLWd1V19pOENtZjRwN1VvOTJvY2FzODRBTTBTYzBiWmJoclR6eWdRcVZEY09ENDhTZ2pHWFE?oc=5",
+   "source": "Facebook",
+   "source_type": "gnews",
+   "published": "2026-11-25T10:39:39Z",
+   "relevance": 2,
+   "why": "Mandarin Oriental's Manila return adds a luxury Southeast Asia hotel that could matter for future hotel partner talks.",
+   "summary_ai": "Mandarin Oriental reopens its 275-room Manila hotel at Ayala Triangle on November 26, after closing in 2014.",
+   "take": "Mandarin Oriental's Manila return adds a luxury Southeast Asia hotel that could matter for future hotel partner talks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "275 rooms",
+    "Closed 2014",
+    "Reopens Nov 26"
+   ],
    "also": []
   }
  ]

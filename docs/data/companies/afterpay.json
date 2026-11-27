@@ -81,7 +81,12 @@
    "data_points": [
     "$2.7M fine"
    ],
-   "also": []
+   "also": [
+    {
+     "source": "Banking Dive",
+     "url": "https://www.bankingdive.com/news/california-fines-afterpay-27m/875794/"
+    }
+   ]
   },
   {
    "id": "8d1081a84d33",

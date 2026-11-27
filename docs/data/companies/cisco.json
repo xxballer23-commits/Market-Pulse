@@ -1,0 +1,29 @@
+{
+ "name": "Cisco",
+ "slug": "cisco",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "0cda5dea0953",
+   "title": "Cisco and OpenAI launch Shirudo to combat AI-driven cyberattacks, block Java4shell exploits",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ1NyRURMdkVkQ3ZRRGtKX05BTXlPRTRHaDAyN1Q0WUM2QzRNYjRkemthS2liZ3I5T0lCMFNieW13Tm5leXlfUkVJYndSdkl0b1BaSTRhdEtvTF8xRF9WcGVYaFY3b2phdDRsWmY4S2ZOQ3lMLTAzS3E0dWRJWUhpZ0p1a19CWXJ1N0hFMngxVFkxMTN0SEsxSXhoVU5fMlhfeVR0MHl1b2licVBibVhhWjVmWnRiM2k5ZV9NYlFmakc4WEhnZExObVp1bEdHbGMwc3FRdw?oc=5",
+   "source": "Gulf Business",
+   "source_type": "gnews",
+   "published": "2026-11-26T13:11:30Z",
+   "relevance": 1,
+   "why": "Cisco and OpenAI launched Shirudo, a tool aimed at AI-driven cyberattacks and specific exploits.",
+   "summary_ai": "Cisco and OpenAI launched Shirudo, a tool aimed at AI-driven cyberattacks and specific exploits.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

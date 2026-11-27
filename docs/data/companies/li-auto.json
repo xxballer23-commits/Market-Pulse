@@ -1,0 +1,29 @@
+{
+ "name": "Li Auto",
+ "slug": "li-auto",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "192b3cf3b769",
+   "title": "Li Auto Stuck in Red Despite Sales Growth",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNENoblVYU3NhN2lScGx5dWhOa2hCd2VNUE1uVXI1dTlsZHVfaDEta3F1ZWlZYm04WFZxTWp5MUNmOWMtV1R6cVUxR3RfYllOTThaTE5lbUUyY2p3NWZoaUJaYUdGcWxzVi1hNm9JT1d4ZUpmbHdXREVkN3pxSHljSFhnd2ZsMDA4Nk5rLXF4bktyQQ?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-25T10:46:00Z",
+   "relevance": 1,
+   "why": "Li Auto remains unprofitable despite growing vehicle sales.",
+   "summary_ai": "Li Auto remains unprofitable despite growing vehicle sales.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

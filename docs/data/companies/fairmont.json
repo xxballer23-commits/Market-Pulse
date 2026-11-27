@@ -1,0 +1,59 @@
+{
+ "name": "Fairmont",
+ "slug": "fairmont",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3dcb80d76180",
+   "title": "Fairmont Opens 100th Hotel in New Orleans",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdU1MUHFKM3lqQ2tyM0xtaFo3UndoeU1aeUxISnNlWTY1UFNYVWZ1Wm5nREpqRi10bGtNdVdjTkNqRkdsNjY4TnpqdVBFNWpzQ1pwT1g0UmJXQnVyUWNwRTlDeEc5NXlIQm9ybmxBUWw1d211YWJDSWJ5WXoyUDVPRXJTSFM3bEZ5RXZFcDFkQVBnNXdObjdnejNyNA?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-26T15:11:46Z",
+   "relevance": 3,
+   "why": "Check whether Fairmont's growing footprint opens new hotel-credit or resort partner options for premium card travel benefits.",
+   "summary_ai": "Fairmont has opened its 100th hotel, in New Orleans, marking a portfolio milestone.",
+   "take": "Check whether Fairmont's growing footprint opens new hotel-credit or resort partner options for premium card travel benefits.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "100th hotel"
+   ],
+   "also": []
+  },
+  {
+   "id": "0776e29d2f13",
+   "title": "Fairmont Opens Hundredth Hotel",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQQ3phNkNBcmNUMERnQTVlWHN0Q3F0bWtDZV94S3RzbXRQdnN5TEx5aVZSVFhmSHktMExVQVltcER4STFDeWdDTWxRYVdqZVdSaGxqcmQyQXBfRDlTR19NMkwtblJ3bjkwaE9CdktsX1JxQ3JsOHBuLTdqM3B5NmpKY2ln?oc=5",
+   "source": "THP News",
+   "source_type": "gnews",
+   "published": "2026-11-26T12:01:04Z",
+   "relevance": 3,
+   "why": "Fairmont's growth adds luxury hotel inventory that matters for card hotel credits and portal programs.",
+   "summary_ai": "Fairmont has opened its 100th hotel, a milestone for the luxury hotel brand.",
+   "take": "Fairmont's growth adds luxury hotel inventory that matters for card hotel credits and portal programs.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "100th hotel"
+   ],
+   "also": []
+  }
+ ]
+}

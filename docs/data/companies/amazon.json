@@ -5,6 +5,56 @@
  "vets": [],
  "items": [
   {
+   "id": "123a837a8210",
+   "title": "Capital One Offers: Amazon, Trader Joe’s – Get $5 Back on $20 Spend",
+   "url": "https://www.doctorofcredit.com/capital-one-offers-amazon-trader-joes-get-5-back-on-20-spend/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T03:06:00Z",
+   "relevance": 2,
+   "why": "Capital One cardholders can check their login for card-linked offers giving $5 back on $20 spend at Amazon and Trader Joe's.",
+   "summary_ai": "Capital One cardholders can check their login for card-linked offers giving $5 back on $20 spend at Amazon and Trader Joe's.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$5 back on $20 spend"
+   ],
+   "also": []
+  },
+  {
+   "id": "e39adb7964fe",
+   "title": "6 Cards for Black Friday and Holiday Shopping: Cash-Back, Amazon Rewards, and 0% APR",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWlVLU2lPbjdYbDVHWEJTYzZZVEo2S3BiME5fbEtZa1RqOWJidjRMVGdXSGtJQWhhdy1LRFlRdkxiWTJXOEIxbkZ5OGRVN3hKSndYR0E3VW4wT19SWnE3WllmMDB3elBCUjV3SlRMcEU0NVg0ZGRlTmhHWG1IeUQwckVn?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-26T22:00:00Z",
+   "relevance": 2,
+   "why": "Upgraded Points lists six cards for Black Friday shopping, covering cash back, Amazon rewards and 0% APR.",
+   "summary_ai": "Upgraded Points lists six cards for Black Friday shopping, covering cash back, Amazon rewards and 0% APR.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "0% APR"
+   ],
+   "also": []
+  },
+  {
    "id": "29bc221f1fc7",
    "title": "Amazon, Costco: Apple MacBook Air from $999 & MacBook Neo from $599",
    "url": "https://www.doctorofcredit.com/amazon-costco-apple-macbook-air-from-999-macbook-neo-from-599/",

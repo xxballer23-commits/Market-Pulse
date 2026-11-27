@@ -5,6 +5,34 @@
  "vets": [],
  "items": [
   {
+   "id": "a14f4e56e163",
+   "title": "[YMMV] PayPal: Spend $20, Get $10 Back In Points",
+   "url": "https://www.doctorofcredit.com/ymmv-paypal-spend-20-get-10-back-in-points/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-26T21:24:50Z",
+   "relevance": 3,
+   "why": "Spend-threshold promos like this show a model for merchant-funded points offers we could pitch to card partners.",
+   "summary_ai": "Some PayPal customers can earn 1,000 points worth $10 when they spend $20 or more before the deadline.",
+   "take": "Spend-threshold promos like this show a model for merchant-funded points offers we could pitch to card partners.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "1,000 points ($10)",
+    "Spend $20+",
+    "Through Dec 17, 2026"
+   ],
+   "also": []
+  },
+  {
    "id": "acc5756392d1",
    "title": "(Targeted) Paypal Rewards: Get 25% Back On Purchases With Pay-in-4, Up To $25 Back (11/23-12/6)",
    "url": "https://www.doctorofcredit.com/targeted-paypal-rewards-get-25-back-on-purchases-with-pay-in-4-up-to-25-back-11-23-12-6/",

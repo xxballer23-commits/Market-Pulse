@@ -1,0 +1,33 @@
+{
+ "name": "Spruce Money",
+ "slug": "spruce-money",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "cc9247f44c8d",
+   "title": "Spruce Money (Fintech) $100 Referral Bonus",
+   "url": "https://www.doctorofcredit.com/spruce-money-fintech-100-referral-bonus/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T03:15:11Z",
+   "relevance": 2,
+   "why": "Fintech Spruce Money offers a $100 referral bonus to both referrer and new user after an account opening and requirements are met.",
+   "summary_ai": "Fintech Spruce Money offers a $100 referral bonus to both referrer and new user after an account opening and requirements are met.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 referral bonus"
+   ],
+   "also": []
+  }
+ ]
+}

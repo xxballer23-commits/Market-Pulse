@@ -22,6 +22,29 @@
  "vets": [],
  "items": [
   {
+   "id": "f7fa34b97dff",
+   "title": "Klarna Expands European Shopping Tools and Visa Payments",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wQ2E2bDBnSG0xZEJKUmZPdnBwQXNxWmRibmZhelE0bzV0a0dYekNTckV3OUVJcnFHOFJwSWY0YUJBeExkUkNJOTZxbklHV3BlMHNqUGZ5U1ozWWxFa2lrM2dIYm1OaUlwc1llRw?oc=5",
+   "source": "cwibc.co.id",
+   "source_type": "gnews",
+   "published": "2026-11-26T23:34:00Z",
+   "relevance": 3,
+   "why": "BNPL players keep pushing into card-linked checkout, a competitive pressure point for issuer installment features.",
+   "summary_ai": "Klarna is widening its shopping tools across Europe and adding Visa-linked payment options.",
+   "take": "BNPL players keep pushing into card-linked checkout, a competitive pressure point for issuer installment features.",
+   "take_kind": "read",
+   "partner": "Visa",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "35a538d458f7",
    "title": "Flexible Virtual Payment Cards: Klarna Expands Installment Payments Across Canadian…",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51MjlpeFBBb08xNWwyc0ZFZWtBSXFLRmR0a3BCVFNsNWFLUm8tMVh3blpEdC1uRG5NS0xqOEt6OFpmVVItYjcxVHB4VVI5YUxWbGQ4cUR4dlJ1RllQaFJfZ3dvZjV5dU03emljcjJDb1dIWU0?oc=5",
@@ -267,7 +290,16 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Howl.Link",
+     "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBBX2xsektGc05VbHNGUEI5amZpa0twbFl6TFNSYjhRNU1NaXJsakxOQ0g1b2ZPVzNKdXdB?oc=5"
+    },
+    {
+     "source": "STT Info",
+     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQZXplMUtIUTF2WVo4SmRQNzFHX3ZQNThSb3U4MjczYThHSHowZ1VQelVZdkJIWnBwQkh1QjJkejFIRThySkxYbjhvODl0OW1OWHZ6NDYyTFBEUnE5ZVRKeldNaUJCOGEzYzc3VnNLemNHaG53WmJRdm0zellseVYzR0tueHY2MkVkLXZHZ2hPeWZCVm16MDJfTjN2WUJuM3E3S21Sam5wSkw4SUJPMnQwSGpscEppamMwbUMwbUhRaEduWDJvTHFTNkUtaDJXT3BnMHRkSm16Q3RIX3ZZZENybDA4Y1lLMGRzd0R4eVptMk1QYVVPRU1wblplaUlJOVhW?oc=5"
+    }
+   ]
   },
   {
    "id": "1abd22d2356c",

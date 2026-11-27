@@ -1,0 +1,33 @@
+{
+ "name": "Unibank",
+ "slug": "unibank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3394d400f054",
+   "title": "Black Friday - 50% Off Unibank Card Issuance",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSnViN3YzUEd2elYzRHUtcG92c2lvNVZUSk5femdDQVZkNEdscXMwcUxZWTNnVTd3THlUcGhIdUtKempGQXh1ZUxkMEhUUjBacF9fQjRDdE9WMkZyR3NYNzVGOW95SjI3M0xWbnVKUWRsRmhFR085SXNCbVBMM2VJRA?oc=5",
+   "source": "ARKA.am",
+   "source_type": "gnews",
+   "published": "2026-11-26T11:21:00Z",
+   "relevance": 1,
+   "why": "Armenian lender Unibank is offering 50% off card issuance during a Black Friday promotion.",
+   "summary_ai": "Armenian lender Unibank is offering 50% off card issuance during a Black Friday promotion.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Promo end date and eligibility unknown",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "50% off issuance"
+   ],
+   "also": []
+  }
+ ]
+}

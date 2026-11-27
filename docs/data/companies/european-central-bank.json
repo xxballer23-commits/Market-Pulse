@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "5d39fff98a66",
+   "title": "ECB Saw Need for Another Rate Hike Unless Inflation Outlook Improved ‘Significantly’",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU2g3T2NNRnFfQ3pTa3ZBaldiSjZlOElVeV9ubUJpQWQ4ZXhRRzJ1VWtDZVpXUnhMajVQXzRTemdoVml3WUVoQm9NNzlwd1A3N3BjVm44VExaYWhLelQyTkppcmNxNnRIRElVYnhOUThpcl9uZ3FTQUNIQU1WMk1iLV9YZU5RZ2M0dkhiOFotUk5MRGFxRWg4dzk2MFVJX25sa3RjZVVYeElVR1l4dEx2REFiU0NZZUFndUFvZGFMY29oTFNuZFpCVjFuMjNuSm92?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-26T13:25:00Z",
+   "relevance": 2,
+   "why": "ECB policymakers said another rate hike may be needed unless the inflation outlook improves significantly.",
+   "summary_ai": "ECB policymakers said another rate hike may be needed unless the inflation outlook improves significantly.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "6bfc3e1e17ae",
    "title": "ECB expands acceptance of DLT-based assets as eligible Eurosystem collateral",
    "url": "https://www.finextra.com/pressarticle/111765/ecb-expands-acceptance-of-dlt-based-assets-as-eligible-eurosystem-collateral?utm_medium=rssfinextra&utm_source=finextrafeed",
