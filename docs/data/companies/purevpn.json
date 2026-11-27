@@ -1,0 +1,35 @@
+{
+ "name": "PureVPN",
+ "slug": "purevpn",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "51c376688740",
+   "title": "Shopback: Get 135% Back On PureVPN (Moneymaker)",
+   "url": "https://www.doctorofcredit.com/shopback-get-130-back-on-purevpn-48-moneymaker/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T16:10:36Z",
+   "relevance": 1,
+   "why": "Shopback is offering a cashback rate on PureVPN, with a 31-day refund guarantee, though the reported rate differs between the headline and the body.",
+   "summary_ai": "Shopback is offering a cashback rate on PureVPN, with a 31-day refund guarantee, though the reported rate differs between the headline and the body.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Forum post, cashback rate conflicts",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "135% back",
+    "$48 value",
+    "31-day money-back guarantee"
+   ],
+   "also": []
+  }
+ ]
+}

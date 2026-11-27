@@ -5,6 +5,56 @@
  "vets": [],
  "items": [
   {
+   "id": "ebfb7fba4789",
+   "title": "Kyndryl and Hermes International have been highlighted as Zacks Bull and Bear of the Day",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYk9LbzVMNXAxRmh1Y0hJd28yS0lDYUo5Z1JibXZWQmtfVnBSRk1PaGRrUWF6VjUwdi1WbU1UM0FUd0xQdDd3d0RZSDY4VTFqTFNJNW5sYTVGYm1iN0hWQ1pRMHBkYWY3UWQ0bndTdGNIM0JfRDdzdUVpUy1SQkNBZmFpOWNPNVc2REdUaVEwTE1qT0ZnUC1NSF8zMmJQRVYtaXgtWFRhSGN5WVJodHlaYg?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-27T07:09:00Z",
+   "relevance": 1,
+   "why": "Zacks names Kyndryl a Bull of the Day and Hermes a Bear of the Day, a stock-screen note with no card relevance.",
+   "summary_ai": "Zacks names Kyndryl a Bull of the Day and Hermes a Bear of the Day, a stock-screen note with no card relevance.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "f338ae56af6f",
+   "title": "$3b money laundering auction: Limited edition Birkin fetches $400k , Singapore News",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcGd5T0FjTkN1aWl6eDk2allIWlJ3UW12NWdqY0dBWnNMdDVfWkVOcldrNEc4Q2gwWW52MGFNQWVlTWZsMnJhWEFmQ0puemtjS21iNGRfRFVEeFFYMHRBZUNsOGxmdXpES29uczl0ZTBvV1UxU3MwSnpwNUo5WHZpU0tRTHhuSWIzb194UURGQl9Xa2xLLXZRV3ZR?oc=5",
+   "source": "AsiaOne.com",
+   "source_type": "gnews",
+   "published": "2026-11-27T04:33:00Z",
+   "relevance": 2,
+   "why": "Seized-asset auctions show strong resale values for top-tier handbags, relevant context for affluent collectible spending.",
+   "summary_ai": "A limited edition Hermes Birkin sold for about $400,000 in a government auction of assets tied to a money laundering case.",
+   "take": "Seized-asset auctions show strong resale values for top-tier handbags, relevant context for affluent collectible spending.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$400k Birkin sale",
+    "$3b auction"
+   ],
+   "also": []
+  },
+  {
    "id": "5f3dfad91d59",
    "title": "Singapore auction of seized Hermès handbags and accessories from S$3B money laundering case raises S$3.23 million",
    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOZEpvTTBUMWM3TUg2Vi1WbDRuWVRJZ1RHWHBMWDl3cU52U1BQbElEZHUxczA4dFd1anZEODhVd3VGVXlCRzRTZ2NvbDJjR1JrY1J0Qjl3NXZUb1M5Tzl2UlFXaHdaV211TXJXVi1mN1pwT25MOHE4RmhyOWVoYURfT3d5dzMyaEJQSVJURGFtWFd3REktZHl5LWVvS01MNWxRUm5IZkJIeWowUElpdENmd2o1dHd0SVhHM0F5WlJkWDYtVm1jcUhMaDdzbzVFOXozbDE5bW4yWHc4N0gyVUVNdWhKWno5QXBCSzZNOG9PUV8?oc=5",
@@ -50,7 +100,12 @@
    "sections": [],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Zacks Investment Research",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSnRQSC1Xc1BaeXdMbDUwT3EwVnZ6SDFhWEJaVENxZlBrY01LclowWmNpRzBjbmtRTnpQZllwaXQ0ZS15bGQ3ekFxejZwWFJxamJ5MkhDbHJwbGtxemNhSkVyZ053YWc2a0swOHN4cXUtRkNFVUFqeDhjMDllZDc5QjdSRS1BSFM5UWpn?oc=5"
+    }
+   ]
   },
   {
    "id": "1a245bcc320f",

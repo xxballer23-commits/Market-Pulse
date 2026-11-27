@@ -5,6 +5,57 @@
  "vets": [],
  "items": [
   {
+   "id": "ef7a99e2b8de",
+   "title": "Marriott Bonvoy offers elite status soft landing for 2027",
+   "url": "https://frequentmiler.com/marriott-bonvoy-to-offer-soft-landings-for-elites/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-27T18:45:50Z",
+   "relevance": 3,
+   "why": "Soft landing softens status churn and supports Marriott co-brand value messaging for affluent travelers.",
+   "summary_ai": "Marriott Bonvoy will again offer elite members a soft landing for 2027, limiting status drops to one level for non-requalifiers.",
+   "take": "Soft landing softens status churn and supports Marriott co-brand value messaging for affluent travelers.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Soft landing for 2027",
+    "Drop no more than one level"
+   ],
+   "also": []
+  },
+  {
+   "id": "17876c39c8ff",
+   "title": "Get a $50 Marriott Gift Card With This Targeted Chase Offer",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zTDVPZGtlOXhldXBuUnE5QWZvYWtIbC1WbGZDMTFQN0hBQUV6SjlFV0ZBaFZtckd4SUJ6ZEt0dlBiLWUzWFlJNE5ELTl2cUJ6V3c3d2UxM0RHUXdFaXZMTDR2MWh3T2FLZTRZaDAzc0Q?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-27T12:03:00Z",
+   "relevance": 3,
+   "why": "Targeted gift card offers suggest Chase is using Marriott incentives to drive applications to its co-brand cards.",
+   "summary_ai": "Chase is offering select customers a $50 Marriott gift card through a targeted promotion.",
+   "take": "Targeted gift card offers suggest Chase is using Marriott incentives to drive applications to its co-brand cards.",
+   "take_kind": "read",
+   "partner": "Marriott",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$50 Marriott gift card"
+   ],
+   "also": []
+  },
+  {
    "id": "e7e634d20ff1",
    "title": "[YMMV] Chase Marriott Bonvoy Cards: Spend $500+ & Get $50 eGiftcard",
    "url": "https://www.doctorofcredit.com/ymmv-chase-marriott-bonvoy-cards-spend-500-get-50-egiftcard/",

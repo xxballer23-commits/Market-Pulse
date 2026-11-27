@@ -1,0 +1,52 @@
+{
+ "name": "Lloyds Bank",
+ "slug": "lloyds-bank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "846217d9f33b",
+   "title": "Lloyds app goes down",
+   "url": "https://www.finextra.com/newsarticle/48828/lloyds-app-goes-down?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-27T13:43:00Z",
+   "relevance": 1,
+   "why": "Lloyds Bank's app went down again, leaving customers locked out of their accounts on payday.",
+   "summary_ai": "Lloyds Bank's app went down again, leaving customers locked out of their accounts on payday.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "1714dd7772aa",
+   "title": "Truelayer and Papa John’s transact AI-powered agentic Pay by Bank payment",
+   "url": "https://www.finextra.com/newsarticle/48825/truelayer-and-papa-johns-transact-ai-powered-agentic-pay-by-bank-payment?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-27T10:28:00Z",
+   "relevance": 2,
+   "why": "Agent-initiated bank payments are live in the UK; watch whether this pressures card rails in the US.",
+   "summary_ai": "Truelayer and Lloyds Bank completed an AI agent-initiated pay-by-bank payment at Papa John's in the UK.",
+   "take": "Agent-initiated bank payments are live in the UK; watch whether this pressures card rails in the US.",
+   "take_kind": "read",
+   "partner": "Truelayer",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

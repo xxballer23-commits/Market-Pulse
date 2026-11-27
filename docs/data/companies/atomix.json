@@ -1,0 +1,33 @@
+{
+ "name": "Atomix",
+ "slug": "atomix",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "86ef355e6225",
+   "title": "Atomix Restaurant Is In London For Four Weeks Only",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wbTUtd2hqa1hBakNYeGRjbl9PT0pETVdUbkVueDVlVlg1TV9YR1BWcDdwUDJoYTN4UkpYUGlZZTdoTU1jR1E0SlVuZWo0QUJtdWt4T2ZQRVdfcWkwbWF6d2hmMjQtNzNkbFdLN1VXcFdPTlVwenp0R2FB?oc=5",
+   "source": "Elite Traveler",
+   "source_type": "gnews",
+   "published": "2026-11-27T06:02:20Z",
+   "relevance": 2,
+   "why": "Atomix, the New York restaurant, is running a four-week London pop-up.",
+   "summary_ai": "Atomix, the New York restaurant, is running a four-week London pop-up.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Four-week run"
+   ],
+   "also": []
+  }
+ ]
+}

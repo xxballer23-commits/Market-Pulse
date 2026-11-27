@@ -1,0 +1,29 @@
+{
+ "name": "Shopify",
+ "slug": "shopify",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "e8abce0991e0",
+   "title": "Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks",
+   "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-gives-merchants-proof-to-fight-agentic-order-chargebacks/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-27T19:30:32Z",
+   "relevance": 2,
+   "why": "Agentic commerce disputes are emerging; watch how card networks and issuers handle AI-placed orders.",
+   "summary_ai": "Shopify gave merchants more evidence to contest chargebacks on orders placed by AI shopping assistants.",
+   "take": "Agentic commerce disputes are emerging; watch how card networks and issuers handle AI-placed orders.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

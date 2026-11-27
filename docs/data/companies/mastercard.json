@@ -5,6 +5,81 @@
  "vets": [],
  "items": [
   {
+   "id": "3fc73d7c4828",
+   "title": "H-E-B: Buy $100 Visa/MC/Amex Giftcard & Get $20 HEB Giftcard Free",
+   "url": "https://www.doctorofcredit.com/h-e-b-buy-100-visa-mc-amex-giftcard-get-20-heb-giftcard-free/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T16:30:38Z",
+   "relevance": 2,
+   "why": "H-E-B is giving a free $20 gift card with a clipped coupon when shoppers buy a $100 prepaid Visa gift card, with similar Amex and Mastercard offers.",
+   "summary_ai": "H-E-B is giving a free $20 gift card with a clipped coupon when shoppers buy a $100 prepaid Visa gift card, with similar Amex and Mastercard offers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 gift card",
+    "$20 free H-E-B gift card"
+   ],
+   "also": []
+  },
+  {
+   "id": "025fa3fb9865",
+   "title": "(75K offer ends 11/30) Mastercard Luxury Black Card from Barclays: Large welcome offer with high value points, but steep annual fee",
+   "url": "https://frequentmiler.com/mastercard-luxury-black-card-from-barclays-large-welcome-offer-with-high-value-points-but-steep-annual-fee/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-27T15:46:32Z",
+   "relevance": 4,
+   "why": "Benchmark this welcome bonus against Amex and Chase premium offers before the December terms are known.",
+   "summary_ai": "Barclays' Mastercard Luxury Black Card 75,000-point welcome offer ends November 30, 2026, and its future terms are unclear.",
+   "take": "Benchmark this welcome bonus against Amex and Chase premium offers before the December terms are known.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "75,000 point welcome offer",
+    "Ends Nov 30, 2026"
+   ],
+   "also": []
+  },
+  {
+   "id": "bf957821ae14",
+   "title": "Nib international bank partners with Mastercard to roll out two new international payment cards",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNVhrWHV1LW81NGUzeVY0REgyMElvSEVKMkNxVkxMWDNQQlRKODZSelNYVWlKUzBOME9rT05xbWZTT2I3RnJNbGxsVERqcDd4V3N2V05SZTRmbHl5bWlJUmVadnByZ2hnSDhvQm01VVA1RGhObXdoU3loZEY0a0stalBpSEdEaS03YnhjdG5GQlhha09LdmZLLUN2S0ZvaVJOd0lId25jUDBLU290aDhpQzVfQVJSdC15cUxOamtxOW8xdkpMLU9HcGR1N1BHRjBM?oc=5",
+   "source": "CapitalEthiopia",
+   "source_type": "gnews",
+   "published": "2026-11-27T08:40:12Z",
+   "relevance": 2,
+   "why": "Nib International Bank in Ethiopia will launch two new international payment cards with Mastercard.",
+   "summary_ai": "Nib International Bank in Ethiopia will launch two new international payment cards with Mastercard.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Mastercard",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "46aaf233f1aa",
    "title": "Neobanc: Pay Rent/Bills Using Credit Card For 2.75%, Earn 1% In Rewards + Credit Card",
    "url": "https://www.doctorofcredit.com/neobanc-pay-rent-bills-using-credit-card-for-2-75-earn-1-in-rewards-credit-card/",

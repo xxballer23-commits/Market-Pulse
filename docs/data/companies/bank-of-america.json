@@ -5,6 +5,53 @@
  "vets": [],
  "items": [
   {
+   "id": "6bdff0fcaf7e",
+   "title": "Bank of America (BAC) Q2 2026 Earnings Call Transcript",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zN0lST0VuVUZZUVVCUS1nWlhLRk1ydU9pZHYxUVluZ0FxdDM2WXB5aFEyWHhTc2dXdUxkNUJqUk9GdW1DVGFnNjRWR1JHNFFwYzZkNUpLTE9PNmVybThlNW8tcVVjaEpfZ3NuTGQwSnlNYi1p?oc=5",
+   "source": "Fortune",
+   "source_type": "gnews",
+   "published": "2026-11-26T18:39:37Z",
+   "relevance": 2,
+   "why": "Competitor earnings commentary on card spend and credit trends is useful benchmarking for premium card planning.",
+   "summary_ai": "Bank of America published the transcript of its second quarter 2026 earnings call.",
+   "take": "Competitor earnings commentary on card spend and credit trends is useful benchmarking for premium card planning.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "12008c0391ad",
+   "title": "Bank of America® Premium Rewards® credit card review: Does it offer what the name promises?",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjhsM1U0MXVpaVZMd1l6RlFmM3V3Y2tiMHdfOE0zTGtseWd1MWY4R3hKWlV0XzVnTVF0a19NeXpSRWFRQUc1aVowVFMzWDRRZWxCdjd1SjRwbXM5XzlSSFRkVE0wQjNFNXlkMnV5TEtNeWgwSG9JbWY1ME9lWER2ZzdLM0xXYkp6NWI3N3hTam00RldSaGFfaA?oc=5",
+   "source": "Credit Karma",
+   "source_type": "gnews",
+   "published": "2026-11-25T20:35:36Z",
+   "relevance": 3,
+   "why": "Reviewer scrutiny of BofA's premium positioning is a benchmark for how its benefits stack against Amex and Chase.",
+   "summary_ai": "Credit Karma reviews the Bank of America Premium Rewards card and tests whether it lives up to its premium name.",
+   "take": "Reviewer scrutiny of BofA's premium positioning is a benchmark for how its benefits stack against Amex and Chase.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "2f5b6d79d0ce",
    "title": "(Repost) Existing Bank of America Relationship Customers Will Keep Status Longer Than Expected (Into 2028 For Some)",
    "url": "https://www.doctorofcredit.com/existing-bank-of-america-relationship-customers-will-keep-status-longer-than-expected-into-2028-for-some/",
@@ -234,29 +281,6 @@
    "data_points": [
     "90,000 points welcome bonus"
    ],
-   "also": []
-  },
-  {
-   "id": "6bdff0fcaf7e",
-   "title": "Bank of America (BAC) Q2 2026 Earnings Call Transcript",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zN0lST0VuVUZZUVVCUS1nWlhLRk1ydU9pZHYxUVluZ0FxdDM2WXB5aFEyWHhTc2dXdUxkNUJqUk9GdW1DVGFnNjRWR1JHNFFwYzZkNUpLTE9PNmVybThlNW8tcVVjaEpfZ3NuTGQwSnlNYi1p?oc=5",
-   "source": "Fortune",
-   "source_type": "gnews",
-   "published": "2026-11-19T15:52:51Z",
-   "relevance": 3,
-   "why": "The transcript may hold card spend and consumer credit commentary worth scanning for Bank of America premium card moves.",
-   "summary_ai": "Fortune has published the transcript of Bank of America's Q2 2026 earnings call.",
-   "take": "The transcript may hold card spend and consumer credit commentary worth scanning for Bank of America premium card moves.",
-   "take_kind": "read",
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": null,
-   "sections": [
-    "spending_data"
-   ],
-   "breaking": false,
-   "data_points": [],
    "also": []
   },
   {

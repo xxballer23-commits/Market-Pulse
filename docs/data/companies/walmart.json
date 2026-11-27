@@ -5,6 +5,104 @@
  "vets": [],
  "items": [
   {
+   "id": "3e99cf1d444f",
+   "title": "Capital One Shopping/Offers: Get 18-20% Back at Walmart",
+   "url": "https://www.doctorofcredit.com/capital-one-shopping-offers-get-18-20-back-at-walmart/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T16:57:45Z",
+   "relevance": 2,
+   "why": "Capital One Shopping offers up to 20% back at Walmart.com, and Capital One Offers list 18% back or 18x points at the retailer.",
+   "summary_ai": "Capital One Shopping offers up to 20% back at Walmart.com, and Capital One Offers list 18% back or 18x points at the retailer.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20% back",
+    "18% back or 18x points"
+   ],
+   "also": []
+  },
+  {
+   "id": "3073393b0906",
+   "title": "10 Walmart Hidden Gems Every Smart Shopper Should Know About",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jbldEX0xLbDM2bmhNQ1JONTcwY2VxQ3hNMmYwMmpMVmRHSEo5bkFBQWNBWTZnRVlGdWtSUERhVVZBQ3B1c05RZG41UVo1S2w5aFNieGxzODl6UmFEckZqRjlySmpFWUhTdFphX3lybw?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-27T16:00:00Z",
+   "relevance": 1,
+   "why": "FinanceBuzz highlights ten Walmart features it considers useful for smart shoppers.",
+   "summary_ai": "FinanceBuzz highlights ten Walmart features it considers useful for smart shoppers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "2ada2aa50f13",
+   "title": "Capital One Shopping/Offers: Earn 39%/18X at Walmart (11/27 only)",
+   "url": "https://frequentmiler.com/capital-one-shopping-offers-earn-39-18x-at-walmart-11-27-only/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-27T14:15:32Z",
+   "relevance": 3,
+   "why": "One-day merchant offers with heavy exclusions show how card-linked deals are used for acquisition, not as durable benefits.",
+   "summary_ai": "Capital One Shopping and Capital One Offers are running a one-day Walmart deal with high cashback and miles rates, subject to exclusions.",
+   "take": "One-day merchant offers with heavy exclusions show how card-linked deals are used for acquisition, not as durable benefits.",
+   "take_kind": "take",
+   "partner": "Walmart",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Numerous exclusions, eligibility varies",
+   "sections": [
+    "community",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "39% cashback",
+    "18X miles",
+    "11/27 only"
+   ],
+   "also": []
+  },
+  {
+   "id": "088e76dd9b86",
+   "title": "Amazon, CVS and Walmart Compete to Help Patients Pick Their Care",
+   "url": "https://www.pymnts.com/healthcare/2026/amazon-cvs-and-walmart-compete-to-help-patients-pick-their-care/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-27T09:01:18Z",
+   "relevance": 1,
+   "why": "Amazon, CVS and Walmart are competing to offer patients virtual care, with Amazon One Medical pink eye treatment starting at $29.",
+   "summary_ai": "Amazon, CVS and Walmart are competing to offer patients virtual care, with Amazon One Medical pink eye treatment starting at $29.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$29 on-demand treatment"
+   ],
+   "also": []
+  },
+  {
    "id": "20872d06434b",
    "title": "Walmart Beat Aldi on 8 of 11 Grocery Staples - But Aldi Still Wins in These Aisles",
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MVDE4MjVrNVZWZUd0VGRhR2hVRTFoOVJsY3VzQWVXY1NPLW1kLVFNemxaMEExVm9xTWpoamZ2RlJnRHF3RHVrbEp5U1lqLWRtMHdvcFBjTWJBYm81ZmNyZjZIZUtMaFBZdklEY2F6M3RHTlk?oc=5",

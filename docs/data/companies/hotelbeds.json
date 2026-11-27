@@ -1,0 +1,33 @@
+{
+ "name": "Hotelbeds",
+ "slug": "hotelbeds",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "8dfe1a50e941",
+   "title": "Hotelbeds’ $112 Million Bet as Its Core Business Comes Under Pressure",
+   "url": "https://skift.com/2026/11/27/hotelbeds-112-million-bet-as-its-core-business-comes-under-pressure/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-27T15:25:18Z",
+   "relevance": 2,
+   "why": "Hotelbeds is accepting lower take rates to win market share while investing in new revenue sources.",
+   "summary_ai": "Hotelbeds is accepting lower take rates to win market share while investing in new revenue sources.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$112 Million"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -5,6 +5,31 @@
  "vets": [],
  "items": [
   {
+   "id": "596b7465d039",
+   "title": "Ryanair Now Withholds Free Seats Until Just Before Departure, Blames Customer Feedback",
+   "url": "https://onemileatatime.com/news/ryanair-withholds-free-seats-just-before-departure-blames-customer-feedback/",
+   "source": "One Mile at a Time",
+   "source_type": "rss",
+   "published": "2026-11-27T15:47:00Z",
+   "relevance": 2,
+   "why": "Airlines tightening free seat perks may shift the value of seat-related benefits on airline co-brand cards.",
+   "summary_ai": "Ryanair now assigns free seats only three to four hours before departure, citing customer feedback.",
+   "take": "Airlines tightening free seat perks may shift the value of seat-related benefits on airline co-brand cards.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "3 to 4 hours before departure"
+   ],
+   "also": []
+  },
+  {
    "id": "41bfec3618f9",
    "title": "Why I’ll Never Fly Ryanair, Even If It’s The Only Option",
    "url": "https://onemileatatime.com/insights/never-fly-ryanair/",

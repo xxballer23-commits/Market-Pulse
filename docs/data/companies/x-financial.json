@@ -1,0 +1,31 @@
+{
+ "name": "X Financial",
+ "slug": "x-financial",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5495bb38c275",
+   "title": "What X Financial (XYF) Said on Its Q3 Earnings Call",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOU0dkQ1ZKQ3hJNW1pT2EtbHpnMnV3b2dFQ0lkYmpWQ2swbkVOSWQ4S1BSME50clJyWmlhQzlBTURjeS03RGp1T05zb0UxWjl3RGVPTHBOTUZDajl3Y2QyWm5CeGNOcGlUZVlxT1BheVRuMEdicTZFLVVBRXctY3FyQjN5X2RxdDg2YUJQVGVWWVdCYVFidmlTd2dTcTBpQ0dXSU5qMkIzc2NpVzBTVUE4?oc=5",
+   "source": "NewsBreak: Local News & Alerts",
+   "source_type": "gnews",
+   "published": "2026-11-27T15:14:02Z",
+   "relevance": 2,
+   "why": "X Financial discussed its third-quarter results on an earnings call.",
+   "summary_ai": "X Financial discussed its third-quarter results on an earnings call.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

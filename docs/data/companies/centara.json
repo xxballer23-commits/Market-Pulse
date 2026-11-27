@@ -1,0 +1,34 @@
+{
+ "name": "Centara",
+ "slug": "centara",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9f26820b1faf",
+   "title": "The Centara Reserve Krabi resort will open in Thailand in early 2027, with 119 rooms beneath limestone cliffs",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1FYU3dNaGROZnJVbFo1a2x3UTdmalR0M0lWdDZ1bmlWOEJOYVN1VXpOa0tjQ1FTSnBFdVdIWnBFdVQ5SnNGOGhKU3dUbV91RGdYSXVyZTQ1Qm1fcVlmM2ktbWtIN1hEc3JqUllmanRKa250MnlkNmtncko5M3NobzNyUEZTY01XUHc?oc=5",
+   "source": "La Revue des Hôtels",
+   "source_type": "gnews",
+   "published": "2026-11-27T17:09:49Z",
+   "relevance": 2,
+   "why": "Centara Reserve Krabi, a 119-room resort set beneath limestone cliffs in Thailand, is scheduled to open in early 2027.",
+   "summary_ai": "Centara Reserve Krabi, a 119-room resort set beneath limestone cliffs in Thailand, is scheduled to open in early 2027.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "119 rooms",
+    "Early 2027"
+   ],
+   "also": []
+  }
+ ]
+}

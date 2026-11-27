@@ -1,0 +1,35 @@
+{
+ "name": "Chipotle",
+ "slug": "chipotle",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ddb9412b0dc5",
+   "title": "Chipotle: Purchase $50 Giftcard, Get $10 Promotional Code (11/27-11/30)",
+   "url": "https://www.doctorofcredit.com/chipotle-purchase-50-giftcard-get-10-promotional-code-11-27-11-30/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T15:00:52Z",
+   "relevance": 1,
+   "why": "Chipotle is giving a $10 promo code with a $50 holiday gift card purchase during the Thanksgiving weekend.",
+   "summary_ai": "Chipotle is giving a $10 promo code with a $50 holiday gift card purchase during the Thanksgiving weekend.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$50 gift card",
+    "$10 promo code",
+    "11/27-11/30"
+   ],
+   "also": []
+  }
+ ]
+}

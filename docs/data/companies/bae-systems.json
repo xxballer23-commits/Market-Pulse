@@ -1,0 +1,31 @@
+{
+ "name": "BAE Systems",
+ "slug": "bae-systems",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "fca23bc49265",
+   "title": "BAE Systems Secures $6 Billion in Combat-Vehicle Contracts For Several European Nations",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWJXNFZKY2c3TWlOM18zMjhGZmdqaDduQ3I3UHFReVJOSVp3b1NmT040d2c3NnVzU09yaldySWVTMU5oYktRdDkwSWhxZFI0QzFwWjZjS25IZi1JcFUtTHZ4QTNINF9SSEM4MzNXUEJCZnFaMnhQRWhQTW9yNXllMXFEalBRR0xuN1lsTFBLN0Q3QUFxR3FnX29BVWNpalNKSlk2LWNEaDZ1SGZvM2VJRm9JZHBJcVhETFlVdVJPY0wyQQ?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-27T15:13:00Z",
+   "relevance": 1,
+   "why": "BAE Systems has won about $6 billion in combat-vehicle contracts from several European governments.",
+   "summary_ai": "BAE Systems has won about $6 billion in combat-vehicle contracts from several European governments.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "$6 Billion"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "name": "Leonardo Hotels",
+ "slug": "leonardo-hotels",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "90d5ad8646cd",
+   "title": "Leonardo’s UK Loss Shows the Cost of Renting Hotels",
+   "url": "https://skift.com/2026/11/27/leonardos-uk-loss-shows-the-cost-of-renting-hotels/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-27T15:50:11Z",
+   "relevance": 2,
+   "why": "Lease-heavy hotel operators face margin pressure, so asset strength matters when vetting lodging partners for premium perks.",
+   "summary_ai": "Leonardo's UK hotels earn from guests but not enough to cover rent, as rising costs and new supply strain its lease-heavy model.",
+   "take": "Lease-heavy hotel operators face margin pressure, so asset strength matters when vetting lodging partners for premium perks.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

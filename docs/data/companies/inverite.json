@@ -25,7 +25,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Yahoo Finance",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeTJGZmxUQy03dy1xS1RSS21vSjBLTHNmdm45dmZjYWswNGhyNWF1RlIxdWx4Sm41aGtvUmNKcFdNV2R1TUxETWVYSUY0bTlsalI0V2k2UlRHcGZsNU9tT2Q2VDZxYlNWRlN3ZVpjSHp1dm92THdCU0RLNmtjdk85Wk5ZT2x0OUFsZnJ3YmFodXg3elpQcXdoSnpHcW1ubEh0SE4w?oc=5"
+    }
+   ]
   },
   {
    "id": "3cdefd0abad2",

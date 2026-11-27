@@ -1,0 +1,31 @@
+{
+ "name": "BBVA",
+ "slug": "bbva",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "6468c2b6ad16",
+   "title": "BBVA modernises its banking platform with Finastra Universal Banking",
+   "url": "https://www.finextra.com/pressarticle/111801/bbva-modernises-its-banking-platform-with-finastra-universal-banking?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-27T11:21:00Z",
+   "relevance": 1,
+   "why": "BBVA's corporate and investment banking unit is upgrading its banking platform with Finastra across international offices.",
+   "summary_ai": "BBVA's corporate and investment banking unit is upgrading its banking platform with Finastra across international offices.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "13 international offices"
+   ],
+   "also": []
+  }
+ ]
+}

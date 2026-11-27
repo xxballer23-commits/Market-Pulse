@@ -1,0 +1,29 @@
+{
+ "name": "McDonald's",
+ "slug": "mcdonalds",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "941c1af76a7b",
+   "title": "McDonald's Makes a Major Change To How You Order",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkN0hfNTI4a0l5TENlZHRPR2ZDUG9JWWh0NVQ3N1ViU1Z4bUkyZkduWWFnUEtiWkxKemJUbENzV1hfTjJyQnRJQWRMejZCdmVqd3U3Yy1XWXBUSnVLQzRIUzI2bVVYX184SXhobm1Jb2JPWGw4MGc?oc=5",
+   "source": "FinanceBuzz",
+   "source_type": "gnews",
+   "published": "2026-11-27T10:30:00Z",
+   "relevance": 1,
+   "why": "McDonald's is changing how customers place orders, according to a consumer finance feature.",
+   "summary_ai": "McDonald's is changing how customers place orders, according to a consumer finance feature.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

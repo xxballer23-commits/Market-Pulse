@@ -1,0 +1,31 @@
+{
+ "name": "NordVPN",
+ "slug": "nordvpn",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "ed96ae2988b5",
+   "title": "NordVPN Exposes Global Network of 54 Fake Courier Brands Used by Scam Shops",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVWFzM3dvUUdsb1UxQmkwa1JOQk1fS1FscjFYOThxbE40S1k2T2RxNFVtMDRDUDZiUHRTMmRjaVphN1lOcnlGOGFwYVEzck1zc2J6YWdGMXM4R1oxT3pYcDh5QWxuU1pWaTNEMUNuM1BSTXAzc2hUMmNjZlBhZlVTRkdObw?oc=5",
+   "source": "FF News",
+   "source_type": "gnews",
+   "published": "2026-11-27T00:53:30Z",
+   "relevance": 1,
+   "why": "NordVPN reports a network of 54 fake courier brands that scam online shops use to lure buyers.",
+   "summary_ai": "NordVPN reports a network of 54 fake courier brands that scam online shops use to lure buyers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "54 fake courier brands"
+   ],
+   "also": []
+  }
+ ]
+}

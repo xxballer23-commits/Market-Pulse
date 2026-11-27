@@ -1,0 +1,29 @@
+{
+ "name": "Deutsche Börse",
+ "slug": "deutsche-b-rse",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "9bd7021452de",
+   "title": "Deutsche Börse cleared to complete Allfunds acquistion",
+   "url": "https://www.finextra.com/pressarticle/111802/deutsche-brse-cleared-to-complete-allfunds-acquistion?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-27T13:11:00Z",
+   "relevance": 1,
+   "why": "Deutsche Börse received unconditional European Commission merger clearance to acquire Allfunds after a Phase I review.",
+   "summary_ai": "Deutsche Börse received unconditional European Commission merger clearance to acquire Allfunds after a Phase I review.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "name": "PNC Financial Services Group",
+ "slug": "pnc-financial-services-group",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "32dc2732e9a3",
+   "title": "PNC Financial Services Group (PNC) Q1 2026 Earnings Call Transcript",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE15ZXEzSjN2T0o4bDVhYmcwWjNvRlRYZ3UtdmtMeFRqQnV5M09kV21vQ3VDczByX0VIUDBJeDItOExtMFdaOFZoNVBFZ05nZEJEaVcxUzdtRGVOVS1xeFoxNkFSUjJqSThSSWE3eDFudXB4a0JUcnZB?oc=5",
+   "source": "Fortune",
+   "source_type": "gnews",
+   "published": "2026-11-26T04:17:55Z",
+   "relevance": 2,
+   "why": "Peer bank commentary on consumer card credit trends can inform benchmarking of our own card portfolio.",
+   "summary_ai": "PNC's first-quarter 2026 earnings call transcript covers the bank's results and outlook.",
+   "take": "Peer bank commentary on consumer card credit trends can inform benchmarking of our own card portfolio.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Q1 2026"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "name": "H-E-B",
+ "slug": "h-e-b",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "3fc73d7c4828",
+   "title": "H-E-B: Buy $100 Visa/MC/Amex Giftcard & Get $20 HEB Giftcard Free",
+   "url": "https://www.doctorofcredit.com/h-e-b-buy-100-visa-mc-amex-giftcard-get-20-heb-giftcard-free/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T16:30:38Z",
+   "relevance": 2,
+   "why": "H-E-B is giving a free $20 gift card with a clipped coupon when shoppers buy a $100 prepaid Visa gift card, with similar Amex and Mastercard offers.",
+   "summary_ai": "H-E-B is giving a free $20 gift card with a clipped coupon when shoppers buy a $100 prepaid Visa gift card, with similar Amex and Mastercard offers.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$100 gift card",
+    "$20 free H-E-B gift card"
+   ],
+   "also": []
+  }
+ ]
+}

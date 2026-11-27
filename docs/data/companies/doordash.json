@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "e8793a6f26a2",
+   "title": "DoorDash DashPass Members: 20% Off DoorDash Giftcard",
+   "url": "https://www.doctorofcredit.com/doordash-save-15-off-many-egiftcard-brands-starbucks-zift-amazon-lowes-doordash-walgreens-outback-and-many-more/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T17:40:54Z",
+   "relevance": 2,
+   "why": "DashPass members can get 20% off DoorDash gift cards, plus discounts on dozens of other gift card brands.",
+   "summary_ai": "DashPass members can get 20% off DoorDash gift cards, plus discounts on dozens of other gift card brands.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "20% off DoorDash gift cards",
+    "Limit 2 per month"
+   ],
+   "also": []
+  },
+  {
    "id": "99a18f951161",
    "title": "Which restaurant reservation platform offers the best rewards: OpenTable, DoorDash, Seated or Resy?",
    "url": "https://thepointsguy.com/loyalty-programs/restaurant-reservation-platforms/",

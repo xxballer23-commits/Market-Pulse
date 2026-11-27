@@ -1,0 +1,31 @@
+{
+ "name": "Agoda",
+ "slug": "agoda",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "7b1f7793a533",
+   "title": "Agoda’s COO on AI Booking: ‘Nobody Knows’ the Business Model Yet",
+   "url": "https://skift.com/2026/11/27/agodas-coo-on-ai-booking-nobody-knows-the-business-model-yet/",
+   "source": "Skift",
+   "source_type": "rss",
+   "published": "2026-11-27T10:19:53Z",
+   "relevance": 3,
+   "why": "Agent-driven booking could reshape travel distribution; ask whether card travel portals need an agent strategy.",
+   "summary_ai": "Agoda's COO says the economics of AI agent bookings are unclear, and agent commissions could matter more to margins than integrations.",
+   "take": "Agent-driven booking could reshape travel distribution; ask whether card travel portals need an agent strategy.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

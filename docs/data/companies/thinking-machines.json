@@ -1,0 +1,29 @@
+{
+ "name": "Thinking Machines",
+ "slug": "thinking-machines",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "f901ba476b90",
+   "title": "Small AI Models Give Banks a Way to Keep Sensitive Data In-House",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/small-ai-models-give-banks-a-way-to-keep-sensitive-data-in-house/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-27T09:00:37Z",
+   "relevance": 1,
+   "why": "Several small AI models that run on a laptop or single chip launched this week, which could let banks keep sensitive data in-house.",
+   "summary_ai": "Several small AI models that run on a laptop or single chip launched this week, which could let banks keep sensitive data in-house.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

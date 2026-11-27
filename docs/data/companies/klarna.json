@@ -22,6 +22,55 @@
  "vets": [],
  "items": [
   {
+   "id": "d34286ec8eec",
+   "title": "Klarna rolls out One-Time virtual card in Canada",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQczVnak1RU1BpQ00wN3gtcjBXdjctUXFSaTRZZTZYSzRObVpRbzZBNVhUZlVKTTZlYjdVcGJoNWpERzRObU9LYzUyWmp6REY1aE9BQTUwdkFzZVJSUm41d0xhREJ1U1Q5TWdxQllTY0hBUW11T1VEaTRHSl9nbWJkYmwwd2lnWUVtNVRmZW12MU81OEY2THl5Qm44VmRvcDlXUkFZ?oc=5",
+   "source": "The Paypers",
+   "source_type": "gnews",
+   "published": "2026-11-27T10:16:27Z",
+   "relevance": 3,
+   "why": "Single-use virtual cards extend BNPL onto card rails; a useful benchmark for card-linked installment offers.",
+   "summary_ai": "Klarna launched a one-time virtual card in Canada, a single-use card for online purchases.",
+   "take": "Single-use virtual cards extend BNPL onto card rails; a useful benchmark for card-linked installment offers.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "lending"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "f7229f90830a",
+   "title": "Apple prepares to launch a new device leasing program in collaboration with Klarna by the end of July",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGlGX0UtdllzQUIyLWNCLWtBTTQxLVI3RkFkY1N5Q3V4ZFJtdjlCWWtkQ1MxSGN5S0Z6Wi1Vbm00cWZPS0pGZWdlUUJNQnJfOEtFXzQ4azRjVlpJajhRclNGT1ozeVhyaXY1Tk02c04yX09qeUN6d25WWUdpdHhna1paejhZVldOaEtwVEV3ZHc1eFNwUDRidmVJSnA5Vy12ZkJ0VFBGSFVucW96dHh4eVd4MFVpaU9OOUxQb1Q2UFp3eDduQ290RDQyLVV0cHliV01ZVm1zaVltcGdPbDhIYVRkYWpjZTA?oc=5",
+   "source": "آي-فون إسلام",
+   "source_type": "gnews",
+   "published": "2026-11-27T08:10:29Z",
+   "relevance": 4,
+   "why": "Watch whether Apple and Klarna leasing becomes a template for card-linked device financing offers.",
+   "summary_ai": "Apple reportedly plans a device leasing program with Klarna, possibly launching by the end of July.",
+   "take": "Watch whether Apple and Klarna leasing becomes a template for card-linked device financing offers.",
+   "take_kind": "take",
+   "partner": "Klarna",
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Unconfirmed report, timing not confirmed",
+   "sections": [
+    "lending",
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "End of July launch"
+   ],
+   "also": []
+  },
+  {
    "id": "f7fa34b97dff",
    "title": "Klarna Expands European Shopping Tools and Visa Payments",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4wQ2E2bDBnSG0xZEJKUmZPdnBwQXNxWmRibmZhelE0bzV0a0dYekNTckV3OUVJcnFHOFJwSWY0YUJBeExkUkNJOTZxbklHV3BlMHNqUGZ5U1ozWWxFa2lrM2dIYm1OaUlwc1llRw?oc=5",
@@ -40,6 +89,27 @@
    "sections": [
     "lending"
    ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "21fa28a523f5",
+   "title": "Klarna Group plc (KLAR) stock price, news, quote and history",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kOC1lb05TRTF3eHNwWDVTM3I4dU9IOUE0ekhKTUZsUEdiY3lwNll3bEgxajZvdDFOalpHX3NwWGFiVGRnSDZNVHRPQUVua3UzeUE?oc=5",
+   "source": "Yahoo Finance Singapore",
+   "source_type": "gnews",
+   "published": "2026-11-26T14:32:36Z",
+   "relevance": 1,
+   "why": "A quote page for Klarna Group shows its share price, news feed and price history.",
+   "summary_ai": "A quote page for Klarna Group shows its share price, news feed and price history.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
    "breaking": false,
    "data_points": [],
    "also": []
@@ -1208,32 +1278,6 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
-  },
-  {
-   "id": "f7229f90830a",
-   "title": "Apple prepares to launch a new device leasing program in collaboration with Klarna by the end of July",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNGlGX0UtdllzQUIyLWNCLWtBTTQxLVI3RkFkY1N5Q3V4ZFJtdjlCWWtkQ1MxSGN5S0Z6Wi1Vbm00cWZPS0pGZWdlUUJNQnJfOEtFXzQ4azRjVlpJajhRclNGT1ozeVhyaXY1Tk02c04yX09qeUN6d25WWUdpdHhna1paejhZVldOaEtwVEV3ZHc1eFNwUDRidmVJSnA5Vy12ZkJ0VFBGSFVucW96dHh4eVd4MFVpaU9OOUxQb1Q2UFp3eDduQ290RDQyLVV0cHliV01ZVm1zaVltcGdPbDhIYVRkYWpjZTA?oc=5",
-   "source": "آي-فون إسلام",
-   "source_type": "gnews",
-   "published": "2026-11-19T08:24:36Z",
-   "relevance": 4,
-   "why": "BNPL moving into premium hardware financing is a model card issuers could pitch for high-ticket device and lifestyle purchases.",
-   "summary_ai": "Apple reportedly plans to launch a device leasing program with Klarna by the end of July.",
-   "take": "BNPL moving into premium hardware financing is a model card issuers could pitch for high-ticket device and lifestyle purchases.",
-   "take_kind": "take",
-   "partner": "Klarna",
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "Reported plan, unconfirmed by Apple or Klarna",
-   "sections": [
-    "lending",
-    "partnerships"
-   ],
-   "breaking": false,
-   "data_points": [
-    "By end of July"
-   ],
    "also": []
   },
   {

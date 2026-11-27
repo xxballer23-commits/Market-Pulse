@@ -1,0 +1,29 @@
+{
+ "name": "Sveriges Riksbank",
+ "slug": "sveriges-riksbank",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d065c616cdf5",
+   "title": "Sweden to join Eurosystem's T2 RTGS system",
+   "url": "https://www.finextra.com/newsarticle/48829/sweden-to-join-eurosystems-t2-rtgs-system?utm_medium=rssfinextra&utm_source=finextrafeed",
+   "source": "Finextra",
+   "source_type": "rss",
+   "published": "2026-11-27T14:29:00Z",
+   "relevance": 1,
+   "why": "Sweden will join the Eurosystem's T2 settlement system under a deal between the ECB and Sveriges Riksbank.",
+   "summary_ai": "Sweden will join the Eurosystem's T2 settlement system under a deal between the ECB and Sveriges Riksbank.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}
