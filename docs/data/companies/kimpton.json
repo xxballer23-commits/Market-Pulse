@@ -1,0 +1,32 @@
+{
+ "name": "Kimpton",
+ "slug": "kimpton",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "5a099e8aa756",
+   "title": "New Kimpton “secret” password: “This calls for something”",
+   "url": "https://frequentmiler.com/new-secret-kimpton-password/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-28T00:45:50Z",
+   "relevance": 2,
+   "why": "Kimpton has changed its check-in password, which earns guests a small treat, to a new phrase for winter 2026/27.",
+   "summary_ai": "Kimpton has changed its check-in password, which earns guests a small treat, to a new phrase for winter 2026/27.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

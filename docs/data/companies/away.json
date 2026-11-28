@@ -1,0 +1,34 @@
+{
+ "name": "Away",
+ "slug": "away",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "2690d6fb015f",
+   "title": "[Expired] Away’s Black Friday Sale Is Here: Save 25% on Luggage, Bags, and More",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpS0RYY2xxQl9Sblcwa0VTZmdTdEl2Y2RZYmEwT3FyLWxPZTMyUDZQTXl6TFU2Nk5IY05WMTlwcXdhYllkN1luT2MzQzN1cFVlbF83clZud29JeVJid0ZEbXRxc2lGTC1rQlU4UA?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-26T11:33:50Z",
+   "relevance": 1,
+   "why": "An expired Black Friday promotion offered 25% off Away luggage and bags.",
+   "summary_ai": "An expired Black Friday promotion offered 25% off Away luggage and bags.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "25% off",
+    "Expired"
+   ],
+   "also": []
+  }
+ ]
+}

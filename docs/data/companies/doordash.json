@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "1c37ce4accf6",
+   "title": "DoorDash Promo Codes: Lowe’s, $30 Off $90+ With Promo Code LOWESBF30",
+   "url": "https://www.doctorofcredit.com/doordash-promo-codes-25-off-with-25off4u-20-maximum-savings/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T20:01:26Z",
+   "relevance": 1,
+   "why": "Doctor of Credit lists rolling DoorDash promo codes for retailers including Lowe's and Best Buy through late November.",
+   "summary_ai": "Doctor of Credit lists rolling DoorDash promo codes for retailers including Lowe's and Best Buy through late November.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$30 off $90+ at Lowe's",
+    "Through 11/30"
+   ],
+   "also": []
+  },
+  {
    "id": "e8793a6f26a2",
    "title": "DoorDash DashPass Members: 20% Off DoorDash Giftcard",
    "url": "https://www.doctorofcredit.com/doordash-save-15-off-many-egiftcard-brands-starbucks-zift-amazon-lowes-doordash-walgreens-outback-and-many-more/",
@@ -52,32 +78,6 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
-  },
-  {
-   "id": "1c37ce4accf6",
-   "title": "DoorDash Promo Codes: 30% Off Wegman’s With Promo Code 30WEGMANS",
-   "url": "https://www.doctorofcredit.com/doordash-promo-codes-25-off-with-25off4u-20-maximum-savings/",
-   "source": "Doctor of Credit",
-   "source_type": "rss",
-   "published": "2026-11-20T21:20:26Z",
-   "relevance": 2,
-   "why": "Doctor of Credit lists a DoorDash promo code that takes 30% off Wegmans orders.",
-   "summary_ai": "Doctor of Credit lists a DoorDash promo code that takes 30% off Wegmans orders.",
-   "take": null,
-   "take_kind": null,
-   "partner": null,
-   "benefit_move": false,
-   "benefit_type": null,
-   "low_confidence": "Promo code, forum source, end date unknown",
-   "sections": [
-    "community"
-   ],
-   "breaking": false,
-   "data_points": [
-    "30% off",
-    "Code 30WEGMANS"
-   ],
    "also": []
   }
  ]

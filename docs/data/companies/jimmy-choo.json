@@ -1,0 +1,31 @@
+{
+ "name": "Jimmy Choo",
+ "slug": "jimmy-choo",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "24982abef6ab",
+   "title": "Jimmy Choo Transformed This British Country-House Hotel Into a Stylish Winter Wonderland",
+   "url": "https://robbreport.com/travel/hotels/jimmy-choo-beaverbrook-1238858393/",
+   "source": "Robb Report",
+   "source_type": "rss",
+   "published": "2026-11-27T20:00:00Z",
+   "relevance": 2,
+   "why": "Jimmy Choo has styled a British country-house hotel with festive decor, extending to its ice rink.",
+   "summary_ai": "Jimmy Choo has styled a British country-house hotel with festive decor, extending to its ice rink.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

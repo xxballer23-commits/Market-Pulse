@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "30ef0f2e3b6e",
+   "title": "Kalshi Promotes Prediction Market as Hedging Solution for Small Businesses",
+   "url": "https://www.pymnts.com/economy/markets/2026/kalshi-promotes-prediction-market-as-hedging-solution-for-small-businesses/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-27T21:57:33Z",
+   "relevance": 1,
+   "why": "Kalshi is marketing its prediction markets to small businesses as a hedging tool, citing about 500 business users.",
+   "summary_ai": "Kalshi is marketing its prediction markets to small businesses as a hedging tool, citing about 500 business users.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "About 500 businesses"
+   ],
+   "also": []
+  },
+  {
    "id": "092caf82715c",
    "title": "Prediction markets push OpenAI IPO expectations later into 2027",
    "url": "https://www.cnbc.com/2026/11/25/openai-ipo-odds-2027-prediction-markets.html",

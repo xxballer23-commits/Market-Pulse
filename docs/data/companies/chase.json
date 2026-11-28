@@ -5,6 +5,29 @@
  "vets": [],
  "items": [
   {
+   "id": "7e21def3fc77",
+   "title": "Guide to TSA wait times at George Bush Intercontinental Airport (IAH)",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmc0eGl2bFBBeVRFQWpBbkhzUTZZNDN1cVVsNDN0SjNmdTFaVW53OWV1UUNDZGIyRFhjemx6U2FMSXIweHlDcUhaXzlvUEpEMlR2T01hd3Fwdm10c2YxUGMwMEppWjg2djZXdWRxX1pqTF8zNVlXYW9DY1piMXVCZGpWUDJLdGcwcGtBeWZKTWhYbDFYckE?oc=5",
+   "source": "Chase Bank",
+   "source_type": "gnews",
+   "published": "2026-11-27T21:19:05Z",
+   "relevance": 2,
+   "why": "Chase published a guide to TSA wait times at Houston's George Bush Intercontinental Airport.",
+   "summary_ai": "Chase published a guide to TSA wait times at Houston's George Bush Intercontinental Airport.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "ec631649826c",
    "title": "Chase Ink Business Unlimited Bonus: 75K Points Welcome Offer",
    "url": "https://onemileatatime.com/reviews/credit-cards/chase/chase-ink-unlimited-card-bonus/",
@@ -83,6 +106,32 @@
     "$50 a year",
     "$150 lifetime",
     "Black Friday pricing"
+   ],
+   "also": []
+  },
+  {
+   "id": "fef6e8abc656",
+   "title": "Chase Ink Business Cash card offers $750 bonus, 0% intro APR, and strong cash back for new small businesses.",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWVJRd0k4Y3lGR2ZxY09EMkNQMl9OTE1OZlhpTUlOazh2T3ExTHZINFIxUDNLbWRoMmlsN3dBOWtFQ3A2b2FWel9JNENxOXRmdkZEZm83bnp2UDZGaEpqNFl4SmpwZVRYVTBxaHp1LTdzWTR5bVBrS0pnWXlQVUQ2T29mR1VLMC1SbGZ3RE1mUkFnanhiLXpVWnpEbmk2QU5OMHBZVE9n?oc=5",
+   "source": "Pluang",
+   "source_type": "gnews",
+   "published": "2026-11-27T12:59:15Z",
+   "relevance": 2,
+   "why": "A $750 bonus sets a welcome-offer benchmark for small-business card acquisition.",
+   "summary_ai": "Chase's Ink Business Cash card is offering a $750 bonus and a 0% intro APR to new small businesses.",
+   "take": "A $750 bonus sets a welcome-offer benchmark for small-business card acquisition.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$750 bonus",
+    "0% intro APR"
    ],
    "also": []
   },
@@ -210,6 +259,32 @@
    ],
    "breaking": false,
    "data_points": [],
+   "also": []
+  },
+  {
+   "id": "f9fe3b2fb586",
+   "title": "[Expired] New Chase Offer for 10% Cash-Back at U.S. Marriott Hotels [Targeted]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Zbk90MEV5N1BHVGxUVlotQXVjYjd5R1B1S0syMm9kYUZOcm5rM2Q5YjByb19SaWpqSnJJSjEwUFVfc3VZYXhnQkJlMDd1dUFlSHRNb0ZTaWhJdG56dFhnOFI5Njc?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-26T11:21:24Z",
+   "relevance": 2,
+   "why": "Chase's targeted 10% cash-back offer at U.S. Marriott hotels has expired.",
+   "summary_ai": "Chase's targeted 10% cash-back offer at U.S. Marriott hotels has expired.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Marriott",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, expired",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10% cash back",
+    "Expired"
+   ],
    "also": []
   },
   {

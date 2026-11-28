@@ -31,6 +31,29 @@
    "also": []
   },
   {
+   "id": "874a5d10f2ea",
+   "title": "Marriott Raises 2026 Outlook on Strong Q3 Results",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZjh3bUFLVFZZR3d2NXpfZnpBWGNYNjRKQmV0RFVjU3ZtbW5uVnZMMzY0VlZ3aUpRZ1Z3a09Qb2xLYW1oeXNmMS1fWTJjUlZ2VTViMWVZOXdQWS1LTW9jUEVqUF8tSmtEejI3UUdLSEhUOF9NQ2lwOHFZeWpFU09xWDd5UQ?oc=5",
+   "source": "Wisevoter",
+   "source_type": "gnews",
+   "published": "2026-11-27T16:15:24Z",
+   "relevance": 3,
+   "why": "Solid hotel demand supports the economics of Marriott co-brand card spend and Bonvoy partnership value.",
+   "summary_ai": "Marriott raised its 2026 outlook after a strong third quarter.",
+   "take": "Solid hotel demand supports the economics of Marriott co-brand card spend and Bonvoy partnership value.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "17876c39c8ff",
    "title": "Get a $50 Marriott Gift Card With This Targeted Chase Offer",
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zTDVPZGtlOXhldXBuUnE5QWZvYWtIbC1WbGZDMTFQN0hBQUV6SjlFV0ZBaFZtckd4SUJ6ZEt0dlBiLWUzWFlJNE5ELTl2cUJ6V3c3d2UxM0RHUXdFaXZMTDR2MWh3T2FLZTRZaDAzc0Q?oc=5",
@@ -129,6 +152,32 @@
    "breaking": false,
    "data_points": [
     "413 rooms"
+   ],
+   "also": []
+  },
+  {
+   "id": "f9fe3b2fb586",
+   "title": "[Expired] New Chase Offer for 10% Cash-Back at U.S. Marriott Hotels [Targeted]",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Zbk90MEV5N1BHVGxUVlotQXVjYjd5R1B1S0syMm9kYUZOcm5rM2Q5YjByb19SaWpqSnJJSjEwUFVfc3VZYXhnQkJlMDd1dUFlSHRNb0ZTaWhJdG56dFhnOFI5Njc?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-26T11:21:24Z",
+   "relevance": 2,
+   "why": "Chase's targeted 10% cash-back offer at U.S. Marriott hotels has expired.",
+   "summary_ai": "Chase's targeted 10% cash-back offer at U.S. Marriott hotels has expired.",
+   "take": null,
+   "take_kind": null,
+   "partner": "Marriott",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, expired",
+   "sections": [
+    "premium_cards"
+   ],
+   "breaking": false,
+   "data_points": [
+    "10% cash back",
+    "Expired"
    ],
    "also": []
   },

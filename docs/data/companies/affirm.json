@@ -25,7 +25,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "TradingView",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMkNMS0pkQ0xGRHdDWno5TGk2S1p0UVQ0LWY1b0dDVmk5SGJsSTNHemswLVR3b2hvZ3NMUktUbS1tU3pjb0xBdl9YQl83WVhvNnR1b0RnQ1NUa3NmelZNcUY3TWNhTnNSZlZhT01tUWZTWUs2ZWxOQ0hXVk5vT0RYdURWOUxnX2tmYmF1ME5LbnNXeTJPS3dBOXloVzV5RnpEQmZmOTk2VFlvVmFBbDdDV1JQNEtrRGxVQzlhaVI2MXh1QQ?oc=5"
+    }
+   ]
   },
   {
    "id": "2427ef8dc4a7",

@@ -1,0 +1,31 @@
+{
+ "name": "Spice Market",
+ "slug": "spice-market",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "6de6cf10d109",
+   "title": "Spice Market now open, bringing Indian and Thai flavors to Eagle",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQS1BbkwzZDFOMmd2a0lYdTFkenRsbGMwYkFNZkptRERtQVpud1ZYWDRHRUU2RldSMzlCMWZNbF9xdmppR1dnY1RuQXhnZFZZWFBCMDFmcE5Zd0Z0ZmQyblV5T3plS2Q2Sl9Eb2tlN2YyVlVzNkZVQXJGcG5iZEVmdWk3U1hhcnVpMUhVYnRMdmh4OFI5bmFUUjl3OA?oc=5",
+   "source": "VailDaily.com",
+   "source_type": "gnews",
+   "published": "2026-11-27T20:42:49Z",
+   "relevance": 2,
+   "why": "Not an NYC opening; only a light signal on upscale dining expansion in resort markets.",
+   "summary_ai": "Spice Market has opened in Eagle, Colorado, serving Indian and Thai dishes.",
+   "take": "Not an NYC opening; only a light signal on upscale dining expansion in resort markets.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

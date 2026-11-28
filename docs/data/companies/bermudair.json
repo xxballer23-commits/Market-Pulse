@@ -5,6 +5,33 @@
  "vets": [],
  "items": [
   {
+   "id": "ca444d3ecbdb",
+   "title": "BermudAir adds 18 routes, 10 new cities in massive expansion",
+   "url": "https://thepointsguy.com/news/bermudair-new-us-caribbean-routes/",
+   "source": "The Points Guy",
+   "source_type": "rss",
+   "published": "2026-11-27T21:00:13Z",
+   "relevance": 2,
+   "why": "BermudAir is adding 18 routes and 10 new cities for its summer 2027 schedule in the North America-Caribbean leisure market.",
+   "summary_ai": "BermudAir is adding 18 routes and 10 new cities for its summer 2027 schedule in the North America-Caribbean leisure market.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "18 routes",
+    "10 new cities",
+    "Summer 2027"
+   ],
+   "also": []
+  },
+  {
    "id": "9f8f452eabdc",
    "title": "BermudAir Adding Flights All Over The Place: I Don’t Know What’s Going On",
    "url": "https://onemileatatime.com/news/bermudair-adding-flights-all-over-place/",

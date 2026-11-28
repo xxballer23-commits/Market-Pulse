@@ -5,6 +5,57 @@
  "vets": [],
  "items": [
   {
+   "id": "74e484eed1f5",
+   "title": "Hilton promo: Earn 2K bonus points per stay when booking by 12/1 (stack with other promos)",
+   "url": "https://frequentmiler.com/hilton-promo-earn-2k-bonus-points-per-stay-when-booking-by-12-1-stack-with-other-promos/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-27T20:45:31Z",
+   "relevance": 3,
+   "why": "Stacked hotel bonus-point promos set the benchmark cardholders expect when we negotiate co-brand hotel earn rates.",
+   "summary_ai": "Hilton is offering 2,000 bonus points per paid stay for bookings made by December 1, stackable with other promotions.",
+   "take": "Stacked hotel bonus-point promos set the benchmark cardholders expect when we negotiate co-brand hotel earn rates.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "partnerships"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2,000 bonus points per stay",
+    "Book by Dec 1"
+   ],
+   "also": []
+  },
+  {
+   "id": "09768056540d",
+   "title": "Hilton 2027 openings: Waldorf Astoria London leads the new hotels",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aa3dqUFFlVTAtUC00dWw1STgzWE1qVjZEV2puOVNzN0lTTUVlUGNKVEhuOHJQb1ZBM2k0ci1vN0Z0bnFqTl9CMHFkSDRkV2h4aHJhMXlnMWp4M1U4OGFRNXlFRmh4d3IyLTdvVWNCcw?oc=5",
+   "source": "Travelling for Business",
+   "source_type": "gnews",
+   "published": "2026-11-27T11:00:50Z",
+   "relevance": 3,
+   "why": "Hilton's luxury pipeline is worth tracking for future hotel credit and Honors partnership conversations.",
+   "summary_ai": "Hilton's 2027 opening pipeline is led by a new Waldorf Astoria London hotel.",
+   "take": "Hilton's luxury pipeline is worth tracking for future hotel credit and Honors partnership conversations.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2027"
+   ],
+   "also": []
+  },
+  {
    "id": "774afa95a9c3",
    "title": "The Waldorf Astoria Sydney, Australia’s first, will open by the Opera House between July and September 2027",
    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE11TkxqYUgxOVRGaU5TNGtQaUNFR1FFT1NkYzh0ZUwzc1NVS1NMWmVrU2RjUHdKUXlLZy1oaFZSZG1ReDZIWTFTZEk2MlppTzhScktlempOOUNXSlI5RXZucndST1VYMWxJOFUzcDFWbklITk92Q0p0WGdKY0xzdw?oc=5",
@@ -53,6 +104,31 @@
    "data_points": [
     "150K points",
     "Summer 2027"
+   ],
+   "also": []
+  },
+  {
+   "id": "83f09d37eeb0",
+   "title": "The first LXR is coming to Italy, and the Hortus Monti will open in 2028. Hilton’s expansion in Italy continues",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2x3X2tkeXVJRjJSMDQ3cTlNTU9STVZJUi0xTHFuUXEyQTd1bDlvTU83Mk84UndtTU9XSE5nemdhTzA3bEozN242djlVUkhtZ0RHWTh6SjhVdGZGX1lpVkJpWVdWeDFLRXhpT2R3ck1iZklRTkhxWTNpRXJZaF9OWTdtblo3blhl?oc=5",
+   "source": "The Flight Club",
+   "source_type": "gnews",
+   "published": "2026-11-26T08:00:02Z",
+   "relevance": 2,
+   "why": "Hilton will open its first LXR hotel in Italy, with Hortus Monti set to open in 2028.",
+   "summary_ai": "Hilton will open its first LXR hotel in Italy, with Hortus Monti set to open in 2028.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "2028 opening"
    ],
    "also": []
   },

@@ -5,6 +5,50 @@
  "vets": [],
  "items": [
   {
+   "id": "90b1b86a7acc",
+   "title": "Wells Fargo (WFC) Is Back In The Spotlight, What Is Driving Attention Now?",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSm90NVVIOFgyRVl3OERfNTRfODlvazJNekV6bHJQTFp3R04zMnNXaWx0WDd3MU5kS3RvVERtWDdacmdPMUtxMmRDTEEtcUZwOGg3MWJBOUZ3eU5hM0FCa0hvU1FmQmh1R3R6S1pLOG9LN3B5VUZneHg2SjBfdk1ZMERQLW5jbGFWb2ZCa0FzLWltc0R4ZkNiWVN1aw?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-28T02:08:00Z",
+   "relevance": 2,
+   "why": "Wells Fargo shares are drawing investor attention, though the headline does not name a specific driver.",
+   "summary_ai": "Wells Fargo shares are drawing investor attention, though the headline does not name a specific driver.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
+   "id": "3228106cbe63",
+   "title": "Wells Fargo (WFC) Beats Stock Market Upswing: What Investors Need to Know",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRXkxOGxrUFFBYVBpUnVOdV81UXBCdmxtUXd2ZnJkdnh4bjFzcWt4YU1od3R3WXlTclREQjdYN2RxUGxRT0ZKN1ROVmhxV092bGk0ZlBpMWp4SjlwWkpqeVFQOWw4aGtCb1JObEVKR3FLcmF6bFkya2tJbDVNWl9zcVFMV3JidWRhNXNHOFhUOVh3TE5hdk00?oc=5",
+   "source": "Yahoo Finance",
+   "source_type": "gnews",
+   "published": "2026-11-27T21:45:03Z",
+   "relevance": 1,
+   "why": "A Yahoo Finance stock piece says Wells Fargo shares outpaced a broader market rally.",
+   "summary_ai": "A Yahoo Finance stock piece says Wells Fargo shares outpaced a broader market rally.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  },
+  {
    "id": "c509983bc6b9",
    "title": "Wells Fargo donates $45,000 to Alcorn State",
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9YM0xUR3VfaDFXdEVPeG9UZTFXbHFneEdoZUJOZHQtUDlQalUxOHpxcXV3WDY5S3ZsSjdIMmMxMzg5WnFGYmsxdjRMdFVMSFpudEZZRm5Mcnc0WW1TTEN4cEhZaGhZMWhUOTI0ZUpnLXBFTGstZFlJ?oc=5",
@@ -26,6 +70,31 @@
    "breaking": false,
    "data_points": [
     "$45,000 donation"
+   ],
+   "also": []
+  },
+  {
+   "id": "88ce81fdbfa9",
+   "title": "Wells Fargo (WFC) Q3 2026 Earnings Call Transcript",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwaGpHaEZGSWhHemN3UXNDSng4Vm80WlVVZmVCVnFWUGNvSno3SGpUSTVLREItM1VQX2d5WXFTbjJlLU52Y2dEMDVOb3g1cEt4OFhQZVhLMjdiOUdsVXp2WllvWnZWVjFP?oc=5",
+   "source": "Fortune",
+   "source_type": "gnews",
+   "published": "2026-11-27T07:23:19Z",
+   "relevance": 3,
+   "why": "Scan the call for card, personal loan and consumer partnership commentary that could shape the pipeline.",
+   "summary_ai": "Wells Fargo published the transcript of its Q3 2026 earnings call with management commentary on the bank's results.",
+   "take": "Scan the call for card, personal loan and consumer partnership commentary that could shape the pipeline.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "wells"
+   ],
+   "breaking": false,
+   "data_points": [
+    "Q3 2026"
    ],
    "also": []
   },

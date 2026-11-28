@@ -1,0 +1,31 @@
+{
+ "name": "Le Seymour",
+ "slug": "le-seymour",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "51ef08385d6f",
+   "title": "Le Seymour, a new five-star hotel with a swimming pool and restaurant, opens near the Champs-Élysées in Paris",
+   "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbGpRUGFuNTZwU283R0RfbVRwWlRkRndFLUZSRmd1Y3dkTGY0NTJtNjZmWVJpQjhPRDN4VW9COHBVWE1mbExUaDhZNWQybGJuSXJzZWdiTlJWXzF6Z0x3Z2xkSzZGWmllNVh3SDJjeHF0S0FjSzZUX2gyTkNIbjNIODNDM0ktZTlGMVZ3b24yanZHakxWeEVMSWZQSE51b09fNzZPT2lDRlV0MWd3OGt1Q0oyZm1Za3UwZE95NUhyN0NwekVKVFRlQ3VyVW5ScDlSeXNrR0ktT29melZvWnZoNVdjeEZ6TWVyRkthMzNKTjNMQVNKS2t4Rno4ZGFpT1RQNktFLTZ3?oc=5",
+   "source": "Sortir à Paris",
+   "source_type": "gnews",
+   "published": "2026-11-26T22:16:58Z",
+   "relevance": 3,
+   "why": "Check whether Le Seymour has a brand affiliation before adding it to hotel credit or concierge partner lists.",
+   "summary_ai": "Le Seymour, a new five-star hotel with a pool and restaurant, has opened near the Champs-Élysées in Paris.",
+   "take": "Check whether Le Seymour has a brand affiliation before adding it to hotel credit or concierge partner lists.",
+   "take_kind": "take",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

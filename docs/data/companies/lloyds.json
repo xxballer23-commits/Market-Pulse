@@ -5,6 +5,30 @@
  "vets": [],
  "items": [
   {
+   "id": "4d90d72def4e",
+   "title": "Hackers Hit US Air Force and FIFA While Lloyds and UK Agency Report Outages",
+   "url": "https://www.pymnts.com/cybersecurity/2026/hackers-hit-us-air-force-and-fifa-while-lloyds-and-uk-agency-report-outages/",
+   "source": "PYMNTS",
+   "source_type": "rss",
+   "published": "2026-11-27T21:05:59Z",
+   "relevance": 1,
+   "why": "Cyberattacks reportedly hit the US Air Force and FIFA, while Lloyds and a UK agency reported outages.",
+   "summary_ai": "Cyberattacks reportedly hit the US Air Force and FIFA, while Lloyds and a UK agency reported outages.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [
+    "Nov. 26",
+    "Nov. 27"
+   ],
+   "also": []
+  },
+  {
    "id": "261301af1f71",
    "title": "UK reappoints Starling and Lloyds execs as AI champions",
    "url": "https://www.finextra.com/newsarticle/48815/uk-reappoints-starling-and-lloyds-execs-as-ai-champions?utm_medium=rssfinextra&utm_source=finextrafeed",

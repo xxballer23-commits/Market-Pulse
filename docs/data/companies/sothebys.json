@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "988befa4531a",
+   "title": "Aivazovsky painting sells for £1.08 million at Sotheby’s in London",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVGt1WWQwR3lINXZwaWo0dzdYOFltSGh3QVl2bTBua05NV2lrR3lsN3hNbnNXTzJNTW1FeGNGMVQ2eGFWcG9KZlFyYlNVMG1RSmRYY3ZBbjZTdzhPVVd0YnBHb0N0SWtIN1A1Q1ZZS3JsZnJHa2RpaEdnRHJleUJFaVRrb3djTG1KOWM3cUtSSE1WVkU?oc=5",
+   "source": "Georgia Today",
+   "source_type": "gnews",
+   "published": "2026-11-27T07:44:12Z",
+   "relevance": 2,
+   "why": "An Aivazovsky painting sold for £1.08 million at a Sotheby's auction in London.",
+   "summary_ai": "An Aivazovsky painting sold for £1.08 million at a Sotheby's auction in London.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "luxury",
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "£1.08 million sale"
+   ],
+   "also": []
+  },
+  {
    "id": "64a8788e9f5f",
    "title": "Claude and François-Xavier Lalanne Given Dedicated Sale At Sotheby’s",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOEFneGJ3SmRIZmNaODBxem9lZENHRzh2NHFsWnBXLXkyOVNkT1pGcHBnRlBHMmNGNTNFc1hSU0ttVXlnNU9kdVdvbzljd0Y5dVRnckNQT2Z0RnRIeXRKRDlBZklNSmQ0SkE4RS1zbjNmUXk5Snh3cUNPbWxQXy1KMmtCNkYySFk1dFhJMnB0WmhiQQ?oc=5",
@@ -100,6 +126,33 @@
    "breaking": false,
    "data_points": [
     "€12.1m total"
+   ],
+   "also": []
+  },
+  {
+   "id": "d94a5975566c",
+   "title": "Mark Rothko painting bought for $115,000 in 1983 sells for $17.7 million at Sotheby's New York auction, g",
+   "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOdHk4eUVNdHlOQWRVVnNPZk9Ndm1RUF9JNjlTclNPcFZTRkZKQk9pVkJfUDNYb1JRdFhabnh0VXRTVG15aTZfanV5NDc2dXZWY1kzVnA1R0tsWFlHUTNaenFWeXZuUWxLYXRseUMzU1JRc0xtZC12UHkyUkhPczFFcE85bVROWXQtek5KZ29NRXZEWTJqenZjUG5KY0ZfNnJNdFpDbVljUXhtWFpxX3EyOHlBaDF2VUdVeU9nUGN6UE9kZHpyOGZVblRvb0tJNnFjOU0yYTJEcm5xTF94Z1NjQ0ZGVE5DSklUQTY1dXN4NkZYQW04VjlfNnJsZmRtQ3p2dml2Slp2MzNWX3Y1Y1VFdWVJSjNJM2xKOW12MmcwWWlnOXV6RjVSZ2l3UmFpTk5xaVZGS05UV3dZU19oZkMwdF9lSGhrMDJJN21PZGUtWl9iQ1VaWnU4aFpwSzFSVXPSAeQCQVVfeXFMTzFNVGtOS2dyd3BkZzVEXzgwRVhoWXdTMlNfRm9MVDlUWmNvMWs0M3hNVEhYZHlfRkNDa1NnQUdlc3dfME1DcGozZ1pvNVFYdFNQcm9rQjFoemJQMk1WbWkxY1RKMVNmamtNTnd1dU9HTUprNjdVVjlXMXc5QzA3SWpDRWZyLXByMlpnRDVZa2NEMGFILVhoQmlwYzBmM3E5b1M0NW10ZDRWV3hLLUxVclhvc2NyNHhhY2ttcFYyd0w2a2tMT3B1ME1tRkNCdjJZU1VRYnN5VlFSTVJyNC01cU1QQlowa0dpOW91ZWlQdjY0Rk9BX2hmS0sxenY4SlgtWUY3cTYwTnBpTEJMeWZzd29jLWoxbXczdUZiQlBkcFR3UFRWSDZFdThZeVFYQUhEZGY5SGxrM2dxRWtpRXg2ZVFVOHJOc09Vdm9kRlVXYnFJamJBMkVjX216bTJnbzUxRDQweHo?oc=5",
+   "source": "The Times of India",
+   "source_type": "gnews",
+   "published": "2026-11-26T10:20:00Z",
+   "relevance": 3,
+   "why": "Top-end art auction prices show strong wealth-driven demand, a useful signal for UHNW spend trends.",
+   "summary_ai": "A Mark Rothko bought for $115,000 in 1983 sold for $17.7 million at Sotheby's New York.",
+   "take": "Top-end art auction prices show strong wealth-driven demand, a useful signal for UHNW spend trends.",
+   "take_kind": "read",
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data",
+    "luxury"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$115,000 purchase in 1983",
+    "$17.7 million sale"
    ],
    "also": []
   },

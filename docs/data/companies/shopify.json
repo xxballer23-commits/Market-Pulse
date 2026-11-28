@@ -5,6 +5,33 @@
  "vets": [],
  "items": [
   {
+   "id": "570a4049081a",
+   "title": "[YMMV?] Shop App: Spend $400+ & Get $100 Shop Cash (11/27 Only)",
+   "url": "https://www.doctorofcredit.com/ymmv-shop-app-spend-400-get-100-shop-cash-11-27-only/",
+   "source": "Doctor of Credit",
+   "source_type": "rss",
+   "published": "2026-11-27T19:43:24Z",
+   "relevance": 2,
+   "why": "A one-day Shop App promotion gives $100 in Shop Cash for a single-store purchase of $400 or more.",
+   "summary_ai": "A one-day Shop App promotion gives $100 in Shop Cash for a single-store purchase of $400 or more.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$400 minimum spend",
+    "$100 Shop Cash",
+    "11/27 only"
+   ],
+   "also": []
+  },
+  {
    "id": "e8abce0991e0",
    "title": "Shopify Gives Merchants Proof to Fight Agentic Order Chargebacks",
    "url": "https://www.pymnts.com/commerce/ecommerce/2026/shopify-gives-merchants-proof-to-fight-agentic-order-chargebacks/",

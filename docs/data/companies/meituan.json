@@ -1,0 +1,29 @@
+{
+ "name": "Meituan",
+ "slug": "meituan",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "d5fff23f01b2",
+   "title": "Meituan Posts Earnings Beat as Price War Cools",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcnVBRVJVc1Nza053bTRzeU5ZUlVjUWIxMVdZa1Jobl9tOEoyeFlwWXg1aWpKVXgydkZUbkJ6SmNpLUdxWDdjNHJmQ3ZCNlp0X3JpN19pN2VkNGdwR2tFYU1TZnBLOXc5ZG1MampnNmFGd3BCMUl3SkQwcUl0U05uTTFpM3pwUTFRSklYMHlYRUtGT2FtX2xhTQ?oc=5",
+   "source": "WSJ",
+   "source_type": "gnews",
+   "published": "2026-11-27T09:13:23Z",
+   "relevance": 1,
+   "why": "Meituan reported quarterly earnings above expectations as price competition in China's delivery market eased.",
+   "summary_ai": "Meituan reported quarterly earnings above expectations as price competition in China's delivery market eased.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [],
+   "breaking": false,
+   "data_points": [],
+   "also": []
+  }
+ ]
+}

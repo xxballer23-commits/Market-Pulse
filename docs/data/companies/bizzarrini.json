@@ -1,0 +1,33 @@
+{
+ "name": "Bizzarrini",
+ "slug": "bizzarrini",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "70d54ca8f2f3",
+   "title": "A Dusty Barn-Find Bizzarrini Sold for $687,000—Still Covered in Michigan Garage Dirt",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdGtQMXFEU185aE1JT2V4UmdpN2QtY1RKdUtRMUo2UzNubERXbVE1WkpTZ1VDc3Q2emdfV01OR0RpUFFZTWJxendpNGhwamphUmFyNTNZcnJEV1NDVmJRR3R6MF9fNVdiMklDQ1E2V3hTak9acHZ2d2x2c3pTTXVkdElGb1N5ZVRhNi1SR2VoX0t1aUJQT0RyRDhvSXU4Y3FuZXQ3RU1oTFphU0Z2c2c5NzZB?oc=5",
+   "source": "MotorBiscuit",
+   "source_type": "gnews",
+   "published": "2026-11-26T12:31:10Z",
+   "relevance": 2,
+   "why": "A dusty barn-find Bizzarrini sold for $687,000 with Michigan garage dirt still on it.",
+   "summary_ai": "A dusty barn-find Bizzarrini sold for $687,000 with Michigan garage dirt still on it.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": null,
+   "sections": [
+    "spending_data"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$687,000"
+   ],
+   "also": []
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+{
+ "name": "Korean Air",
+ "slug": "korean-air",
+ "watch": null,
+ "vets": [],
+ "items": [
+  {
+   "id": "10322595b560",
+   "title": "Korean Air Amex Offer: Get $250 back when spending $2K+ (via Amex Travel™ only)",
+   "url": "https://frequentmiler.com/korean-air-amex-offer-get-250-back-when-spending-2k-via-amex-travel-only/",
+   "source": "Frequent Miler",
+   "source_type": "rss",
+   "published": "2026-11-27T22:45:39Z",
+   "relevance": 3,
+   "why": "Requiring booking through Amex Travel keeps the airline sale in-channel; benchmark this against airline co-brand offer design.",
+   "summary_ai": "Targeted American Express cardholders can get a $250 statement credit on $2,000 of Korean Air spend, booked only through Amex Travel.",
+   "take": "Requiring booking through Amex Travel keeps the airline sale in-channel; benchmark this against airline co-brand offer design.",
+   "take_kind": "take",
+   "partner": "Korean Air",
+   "benefit_move": true,
+   "benefit_type": "offer",
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "premium_cards",
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$250 statement credit",
+    "$2,000+ spend"
+   ],
+   "also": []
+  }
+ ]
+}

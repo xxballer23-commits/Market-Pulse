@@ -5,6 +5,32 @@
  "vets": [],
  "items": [
   {
+   "id": "66a158f5e8c6",
+   "title": "Stack Capital One Shopping Offers at Walmart: $25 off $50, Plus 20% Back [Targeted]",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpVW1fTlBwaHlvYWF6NDNDSTVyQUlQRkl2amlnMEdMeC1PVk9mVW9LXzVwUG4xUTBpUGpJMlRySDlTYkRwUXdKSGhTbi1iR1l6UnJNV1FxVDg5NjBFajAzZjNsWEhhZ0xDbkMtWU5LMV9zRjNBVnBZ?oc=5",
+   "source": "Upgraded Points",
+   "source_type": "gnews",
+   "published": "2026-11-27T21:20:09Z",
+   "relevance": 2,
+   "why": "A targeted Capital One Shopping offer gives cashback on Walmart purchases, with eligibility not specified.",
+   "summary_ai": "A targeted Capital One Shopping offer gives cashback on Walmart purchases, with eligibility not specified.",
+   "take": null,
+   "take_kind": null,
+   "partner": null,
+   "benefit_move": false,
+   "benefit_type": null,
+   "low_confidence": "Targeted offer, eligibility unknown",
+   "sections": [
+    "community"
+   ],
+   "breaking": false,
+   "data_points": [
+    "$25 off $50",
+    "20% back"
+   ],
+   "also": []
+  },
+  {
    "id": "3e99cf1d444f",
    "title": "Capital One Shopping/Offers: Get 18-20% Back at Walmart",
    "url": "https://www.doctorofcredit.com/capital-one-shopping-offers-get-18-20-back-at-walmart/",

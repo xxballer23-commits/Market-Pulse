@@ -25,7 +25,12 @@
    ],
    "breaking": false,
    "data_points": [],
-   "also": []
+   "also": [
+    {
+     "source": "Rus Tourism News",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1VqN1B5c242STFvMlc4bHBjT3VYY1lvMEIxWVk4d2hFOVFPUmJWYU1QSll2MkpzX0VyVEJxV2J4LTg4STNnMjZnRS1wbDQ0cTBQS3Fad1o1ZWptTG5VcUxQUHZGSjR5dkRWNE54Uk1ESy11ZzRycjVPa3NJeHBqQXF2Rm1SRFZURUhfU0hTM2VtazE5eDBLR29SZVcyRXczOTREVDA0SVlTSmhzbWVTQS1LOGxCM1pYTUE3Ty1GLVBTSHhybXlhVA?oc=5"
+    }
+   ]
   }
  ]
 }
