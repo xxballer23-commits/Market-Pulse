@@ -252,10 +252,10 @@
    }
   },
   "2026-11-27": {
-   "input_tokens": 155605,
-   "output_tokens": 200304,
+   "input_tokens": 214679,
+   "output_tokens": 203538,
    "web_searches": 0,
-   "calls": 48,
+   "calls": 49,
    "by_task": {
     "enrich": {
      "calls": 46,
@@ -275,6 +275,13 @@
      "calls": 1,
      "input_tokens": 3971,
      "output_tokens": 14,
+     "web_searches": 0,
+     "model": "claude-sonnet-5-5"
+    },
+    "digest_friday": {
+     "calls": 1,
+     "input_tokens": 59074,
+     "output_tokens": 3234,
      "web_searches": 0,
      "model": "claude-sonnet-5-5"
     }
